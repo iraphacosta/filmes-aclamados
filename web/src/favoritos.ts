@@ -1,20 +1,23 @@
-import { onAuthStateChanged } from "firebase/auth";
-import { doc, onSnapshot, setDoc } from "firebase/firestore";
 import { useCallback, useEffect, useRef, useState } from "react";
-import { auth, db, entrarComGoogle, sairDoGoogle, type User } from "./firebase";
+import type { User } from "./firebase";
 
 /**
- * Dados pessoais por filme: "quero ver", "assistido" e nota (0–10).
+ * Dados pessoais por filme: "quero ver", "assistido" e nota (0–10 = estrelas×2).
  *
  * Regras de coerência:
  *  - Dar uma nota marca como assistido (e tira de "quero ver").
  *  - Marcar "assistido" tira de "quero ver"; desmarcar limpa a nota.
  *  - Marcar "quero ver" tira de "assistido" e limpa a nota.
- *  - "avaliados" (tem nota) é sempre um subconjunto de "assistidos".
  *
- * Persistência: localStorage (deslogado) ou Firestore `favoritos/{uid}` (logado),
- * sincronizado em tempo real entre aparelhos. Migra dados locais no 1º login.
+ * Persistência: localStorage (deslogado) ou Firestore `favoritos/{uid}` (logado).
+ * O SDK do Firebase é carregado SOB DEMANDA (import dinâmico) para não pesar no
+ * carregamento inicial — o feed aparece na hora, e o login/sync hidratam depois.
  */
+
+type ModuloFirebase = typeof import("./firebase");
+let firebasePromise: Promise<ModuloFirebase> | null = null;
+const carregarFirebase = (): Promise<ModuloFirebase> =>
+  (firebasePromise ??= import("./firebase"));
 
 const CHAVE = "filmes-aclamados:dados-pessoais:v1";
 
@@ -30,7 +33,7 @@ interface FormatoBruto {
   assistidos?: number[];
   queroVer?: number[];
   notas?: Record<number, number>;
-  /** legado (v1 antiga): "favoritos" vira "quero ver". */
+  /** legado: "favoritos" vira "quero ver". */
   favoritos?: number[];
 }
 
@@ -75,7 +78,6 @@ export interface ApiPessoal {
   notaDe: (tmdbId: number) => number | null;
   definirNota: (tmdbId: number, nota: number | null) => void;
   totais: { assistidos: number; queroVer: number; avaliados: number };
-  // autenticação
   usuario: User | null;
   carregandoAuth: boolean;
   sincronizando: boolean;
@@ -92,43 +94,68 @@ export function useDadosPessoais(): ApiPessoal {
   const estadoRef = useRef(estado);
   estadoRef.current = estado;
 
-  useEffect(() => onAuthStateChanged(auth, (u) => {
-    setUsuario(u);
-    setCarregandoAuth(false);
-  }), []);
+  // Observa login/logout (Firebase carregado sob demanda).
+  useEffect(() => {
+    let vivo = true;
+    let unsub: (() => void) | undefined;
+    carregarFirebase()
+      .then((fb) => {
+        if (!vivo) return;
+        unsub = fb.observarAuth((u) => {
+          setUsuario(u);
+          setCarregandoAuth(false);
+        });
+      })
+      .catch((e) => {
+        console.error("Firebase (auth):", e);
+        setCarregandoAuth(false);
+      });
+    return () => {
+      vivo = false;
+      unsub?.();
+    };
+  }, []);
 
+  // Fonte de dados conforme o login.
   useEffect(() => {
     if (!usuario) {
       setEstado(lerLocal());
       return;
     }
     setSincronizando(true);
-    const ref = doc(db, "favoritos", usuario.uid);
+    let vivo = true;
+    let unsub: (() => void) | undefined;
     let primeiro = true;
-    const unsub = onSnapshot(
-      ref,
-      (snap) => {
-        if (primeiro) {
-          primeiro = false;
-          if (!snap.exists()) {
-            const local = lerLocal();
-            const inicial = temAlgo(local) ? local : VAZIO;
-            void setDoc(ref, inicial);
-            setEstado(inicial);
+    carregarFirebase().then((fb) => {
+      if (!vivo) return;
+      unsub = fb.observarFavoritos(
+        usuario.uid,
+        (dados, existe) => {
+          if (primeiro) {
+            primeiro = false;
+            if (!existe) {
+              const local = lerLocal();
+              const inicial = temAlgo(local) ? local : VAZIO;
+              void fb.gravarFavoritos(usuario.uid, inicial as unknown as Record<string, unknown>);
+              setEstado(inicial);
+            } else {
+              setEstado(normalizar(dados as FormatoBruto));
+            }
+            setSincronizando(false);
           } else {
-            setEstado(normalizar(snap.data() as FormatoBruto));
+            setEstado(normalizar(dados as FormatoBruto));
           }
+        },
+        (erro) => {
+          console.error("Firestore (favoritos):", erro);
           setSincronizando(false);
-        } else {
-          setEstado(normalizar(snap.data() as FormatoBruto));
-        }
-      },
-      (erro) => {
-        console.error("Firestore (dados pessoais):", erro);
-        setSincronizando(false);
-      },
-    );
-    return () => unsub();
+        },
+      );
+    });
+    return () => {
+      vivo = false;
+      unsub?.();
+    };
   }, [usuario]);
 
   const salvar = useCallback(
@@ -136,9 +163,9 @@ export function useDadosPessoais(): ApiPessoal {
       setEstado(novo);
       estadoRef.current = novo;
       if (usuario) {
-        void setDoc(doc(db, "favoritos", usuario.uid), novo).catch((e) =>
-          console.error("Firestore (gravar):", e),
-        );
+        void carregarFirebase()
+          .then((fb) => fb.gravarFavoritos(usuario.uid, novo as unknown as Record<string, unknown>))
+          .catch((e) => console.error("Firestore (gravar):", e));
       } else {
         gravarLocal(novo);
       }
@@ -150,7 +177,6 @@ export function useDadosPessoais(): ApiPessoal {
     (id: number) => {
       const e = estadoRef.current;
       if (e.assistidos.includes(id)) {
-        // desmarca assistido -> limpa a nota também
         const notas = { ...e.notas };
         delete notas[id];
         salvar({ ...e, assistidos: sem(e.assistidos, id), notas });
@@ -184,7 +210,6 @@ export function useDadosPessoais(): ApiPessoal {
         salvar({ ...e, notas });
       } else {
         notas[id] = nota;
-        // dar nota marca como assistido e tira de "quero ver"
         salvar({ ...e, notas, assistidos: com(e.assistidos, id), queroVer: sem(e.queroVer, id) });
       }
     },
@@ -214,10 +239,10 @@ export function useDadosPessoais(): ApiPessoal {
     carregandoAuth,
     sincronizando,
     entrar: () => {
-      entrarComGoogle().catch((e) => console.error("Login:", e));
+      carregarFirebase().then((fb) => fb.entrarComGoogle()).catch((e) => console.error("Login:", e));
     },
     sair: () => {
-      sairDoGoogle().catch((e) => console.error("Logout:", e));
+      carregarFirebase().then((fb) => fb.sairDoGoogle()).catch((e) => console.error("Logout:", e));
     },
   };
 }

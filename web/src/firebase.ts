@@ -1,6 +1,13 @@
 import { initializeApp } from "firebase/app";
-import { GoogleAuthProvider, getAuth, signInWithPopup, signOut, type User } from "firebase/auth";
-import { getFirestore } from "firebase/firestore";
+import {
+  GoogleAuthProvider,
+  getAuth,
+  onAuthStateChanged,
+  signInWithPopup,
+  signOut,
+  type User,
+} from "firebase/auth";
+import { doc, getFirestore, onSnapshot, setDoc } from "firebase/firestore";
 
 // A config do Firebase no front é PÚBLICA por natureza — não é segredo.
 // A proteção dos dados vem das regras de segurança do Firestore (por usuário).
@@ -14,9 +21,8 @@ const firebaseConfig = {
 };
 
 const app = initializeApp(firebaseConfig);
-export const auth = getAuth(app);
-export const db = getFirestore(app);
-
+const auth = getAuth(app);
+const db = getFirestore(app);
 const provider = new GoogleAuthProvider();
 
 export function entrarComGoogle(): Promise<unknown> {
@@ -25,6 +31,26 @@ export function entrarComGoogle(): Promise<unknown> {
 
 export function sairDoGoogle(): Promise<void> {
   return signOut(auth);
+}
+
+export function observarAuth(cb: (u: User | null) => void): () => void {
+  return onAuthStateChanged(auth, cb);
+}
+
+export function observarFavoritos(
+  uid: string,
+  aoReceber: (dados: Record<string, unknown> | undefined, existe: boolean) => void,
+  aoErro: (e: unknown) => void,
+): () => void {
+  return onSnapshot(
+    doc(db, "favoritos", uid),
+    (snap) => aoReceber(snap.data(), snap.exists()),
+    aoErro,
+  );
+}
+
+export function gravarFavoritos(uid: string, dados: Record<string, unknown>): Promise<void> {
+  return setDoc(doc(db, "favoritos", uid), dados);
 }
 
 export type { User };
