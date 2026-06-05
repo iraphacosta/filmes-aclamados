@@ -1,0 +1,66 @@
+name: Publicar no GitHub Pages
+
+# Publica o front-end (que apenas lê o catalogo.json). Roda quando:
+#  - você empurra mudanças de código/dados para a main;
+#  - a "Coleta diária" termina (para o site refletir os novos dados);
+#  - você dispara manualmente.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "web/**"
+      - "dados/**"
+      - "compartilhado/**"
+      - ".github/workflows/deploy-pages.yml"
+  workflow_run:
+    workflows: ["Coleta diária"]
+    types: [completed]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  publicar:
+    # Não republica se a coleta falhou.
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Preparar o Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: Instalar dependências do front
+        run: npm ci
+        working-directory: web
+
+      - name: Construir o site
+        run: npm run build
+        working-directory: web
+
+      - name: Configurar o Pages
+        uses: actions/configure-pages@v5
+
+      - name: Enviar o artefato
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist
+
+      - name: Publicar
+        id: deploy
+        uses: actions/deploy-pages@v4

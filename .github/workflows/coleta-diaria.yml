@@ -1,0 +1,52 @@
+name: Coleta diária
+
+# Roda o robô uma vez por dia (e sob demanda). O commit diário dos dados
+# também mantém o GitHub Actions ativo (evita a desativação por inatividade).
+on:
+  schedule:
+    - cron: "30 9 * * *" # 09:30 UTC ≈ 06:30 no horário de Brasília
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: coleta
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Preparar o Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: robo/package-lock.json
+
+      - name: Instalar dependências do robô
+        run: npm ci
+        working-directory: robo
+
+      - name: Rodar a coleta (TMDb + OMDb)
+        run: npm start
+        working-directory: robo
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
+
+      - name: Commitar os dados (se houver mudança)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dados/
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança nos dados hoje."
+          else
+            git commit -m "Coleta diária: $(date -u +%Y-%m-%d)"
+            git push
+          fi

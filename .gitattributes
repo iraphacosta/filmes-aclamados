@@ -1,0 +1,10 @@
+# Normaliza fim de linha para LF no repositório (CI roda no Linux).
+* text=auto eol=lf
+
+# Binários (não normalizar)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary

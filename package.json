@@ -1,0 +1,16 @@
+{
+  "name": "filmes-aclamados",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Feed diário de filmes de 2025+ bem avaliados pela crítica (Metacritic >= 65 OU Rotten Tomatoes >= 65%).",
+  "type": "module",
+  "scripts": {
+    "robo": "npm --prefix robo run start",
+    "web:dev": "npm --prefix web run dev",
+    "web:build": "npm --prefix web run build",
+    "instalar": "npm install --prefix robo && npm install --prefix web"
+  },
+  "engines": {
+    "node": ">=20.6.0"
+  }
+}

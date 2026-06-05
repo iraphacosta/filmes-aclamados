@@ -1,0 +1,27 @@
+{
+  "name": "filmes-aclamados-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Interface (GitHub Pages) que lê o catalogo.json. Não chama APIs externas.",
+  "scripts": {
+    "predev": "node scripts/copiar-catalogo.mjs",
+    "dev": "vite",
+    "prebuild": "node scripts/copiar-catalogo.mjs",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.5"
+  }
+}

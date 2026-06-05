@@ -1,0 +1,5454 @@
+{
+  "versao": 1,
+  "gerado_em": "2026-06-05T15:30:21.755Z",
+  "filmes": [
+    {
+      "tmdb_id": 1083381,
+      "imdb_id": "tt26657236",
+      "titulo_original": "Backrooms",
+      "titulo_ingles": "Backrooms",
+      "ano": 2026,
+      "data_lancamento": "2026-05-27",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Em 1990, o vendedor de móveis Clark descobre em sua loja um portal para os \"Backrooms\", um labirinto infinito de escritórios surreais. Fascinado, ele convence sua funcionária Kat e o namorado dela a mapearem as anomalias do local. Após o desaparecimento de Clark, sua terapeuta, a Dra. Mary Kline, mergulha na dimensão impossível para resgatá-lo, sendo forçada a confrontar seus próprios traumas enquanto busca uma saída.",
+      "elenco": [
+        "Chiwetel Ejiofor",
+        "Renate Reinsve",
+        "Mark Duplass",
+        "Finn Bennett",
+        "Lukita Maxwell",
+        "Avan Jogia",
+        "Robert Bobroczkyi",
+        "Ember Ambrose"
+      ],
+      "diretor": "Kane Parsons",
+      "generos": [
+        "Terror",
+        "Mistério",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/a1pgQeEge47xrS4jGlDwIHiieVK.jpg",
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 77,
+      "imdb_publico": 7.1,
+      "criterio_qualificacao": "metacritic",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": null,
+          "metacritic": 77
+        }
+      ],
+      "pico_rt": null,
+      "pico_metacritic": 77,
+      "atual_rt": null,
+      "atual_metacritic": 77,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt26657236/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Backrooms",
+        "metacritic": "https://www.metacritic.com/search/Backrooms/"
+      }
+    },
+    {
+      "tmdb_id": 1227877,
+      "imdb_id": "tt30827810",
+      "titulo_original": "I Love Boosters",
+      "titulo_ingles": "I Love Boosters",
+      "ano": 2026,
+      "data_lancamento": "2026-05-21",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Um grupo destemido de jovens mulheres criativas transforma o furto em lojas em um ato radical de desafio e rebeldia.",
+      "elenco": [
+        "Keke Palmer",
+        "Naomi Ackie",
+        "Taylour Paige",
+        "Poppy Liu",
+        "Eiza González",
+        "Demi Moore",
+        "LaKeith Stanfield",
+        "Will Poulter"
+      ],
+      "diretor": "Boots Riley",
+      "generos": [
+        "Comédia",
+        "Ficção científica",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 72,
+      "imdb_publico": 5.4,
+      "criterio_qualificacao": "metacritic",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": null,
+          "metacritic": 72
+        }
+      ],
+      "pico_rt": null,
+      "pico_metacritic": 72,
+      "atual_rt": null,
+      "atual_metacritic": 72,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt30827810/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=I%20Love%20Boosters",
+        "metacritic": "https://www.metacritic.com/search/I%20Love%20Boosters/"
+      }
+    },
+    {
+      "tmdb_id": 1340206,
+      "imdb_id": "tt33296751",
+      "titulo_original": "Tuner",
+      "titulo_ingles": "Tuner",
+      "ano": 2026,
+      "data_lancamento": "2026-05-21",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Niki é um afinador de pianos talentoso treinado por Harry. Sua audição excepcional chama a atenção de criminosos. Essa habilidade rara não só o ajuda a trabalhar com instrumentos de alto padrão, como pianos Steinway, mas também a abrir cofres com precisão. Ao longo do caminho, Niki conhece Ruthie, uma estudante de composição, e os dois criam uma conexão inesperada. Porém, sua vida dupla como arrombador começa a ameaçar o relacionamento, enquanto ele se envolve em situações cada vez mais perigosas.",
+      "elenco": [
+        "Leo Woodall",
+        "Havana Rose Liu",
+        "ליאור רז",
+        "Tovah Feldshuh",
+        "Jean Reno",
+        "Dustin Hoffman",
+        "Jonnie Park",
+        "Jean Yoon"
+      ],
+      "diretor": "Daniel Roher",
+      "generos": [
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bq21NGxKqV6DgHfm5j48mscM7Ai.jpg",
+      "rt_critica": 94,
+      "rt_publico": null,
+      "metacritic": 68,
+      "imdb_publico": 7.3,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 94,
+          "metacritic": 68
+        }
+      ],
+      "pico_rt": 94,
+      "pico_metacritic": 68,
+      "atual_rt": 94,
+      "atual_metacritic": 68,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33296751/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Tuner",
+        "metacritic": "https://www.metacritic.com/search/Tuner/"
+      }
+    },
+    {
+      "tmdb_id": 1380316,
+      "imdb_id": "tt34379307",
+      "titulo_original": "Is God Is",
+      "titulo_ingles": "Is God Is",
+      "ano": 2026,
+      "data_lancamento": "2026-05-14",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "",
+      "elenco": [
+        "Kara Young",
+        "Mallori Johnson",
+        "Vivica A. Fox",
+        "Sterling K. Brown",
+        "Janelle Monáe",
+        "Mykelti Williamson",
+        "Erika Alexander",
+        "Xavier Mills"
+      ],
+      "diretor": "Aleshea Harris",
+      "generos": [
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/c3nN8XnbYfj2ZEBcNqqlTbtLiQy.jpg",
+      "rt_critica": 98,
+      "rt_publico": null,
+      "metacritic": 84,
+      "imdb_publico": 7.3,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 98,
+          "metacritic": 84
+        }
+      ],
+      "pico_rt": 98,
+      "pico_metacritic": 84,
+      "atual_rt": 98,
+      "atual_metacritic": 84,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34379307/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Is%20God%20Is",
+        "metacritic": "https://www.metacritic.com/search/Is%20God%20Is/"
+      }
+    },
+    {
+      "tmdb_id": 1339713,
+      "imdb_id": "tt37287335",
+      "titulo_original": "Obsession",
+      "titulo_ingles": "Obsession",
+      "ano": 2026,
+      "data_lancamento": "2026-05-13",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Sem grandes pretensões, um romântico incurável compra um brinquedo que promete realizar desejos únicos. Ele quebra o artefato misterioso enquanto pede para conquistar a crush e consegue exatamente o que desejava, mas descobre que a consequência é sinistra.",
+      "elenco": [
+        "Michael Johnston",
+        "Inde Navarrette",
+        "Cooper Tomlinson",
+        "Megan Lawless",
+        "Andy Richter",
+        "Haley Fitzgerald",
+        "Darin Toonder",
+        "Anthony Pavone"
+      ],
+      "diretor": "Curry Barker",
+      "generos": [
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg",
+      "rt_critica": 95,
+      "rt_publico": null,
+      "metacritic": 77,
+      "imdb_publico": 8.2,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 95,
+          "metacritic": 77
+        }
+      ],
+      "pico_rt": 95,
+      "pico_metacritic": 77,
+      "atual_rt": 95,
+      "atual_metacritic": 77,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37287335/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Obsession",
+        "metacritic": "https://www.metacritic.com/search/Obsession/"
+      }
+    },
+    {
+      "tmdb_id": 1301421,
+      "imdb_id": "tt32565993",
+      "titulo_original": "The Sheep Detectives",
+      "titulo_ingles": "The Sheep Detectives",
+      "ano": 2026,
+      "data_lancamento": "2026-04-30",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "George é um pastor que lê romances policiais para suas queridas ovelhas todas as noites, acreditando que elas não conseguem entender. Mas, quando um incidente misterioso interrompe a vida na fazenda, as ovelhas percebem que precisam se tornar as detetives. Ao seguir as pistas e investigar suspeitos humanos, elas provam que até mesmo ovelhas podem ser brilhantes solucionadoras de crimes.",
+      "elenco": [
+        "Hugh Jackman",
+        "Julia Louis-Dreyfus",
+        "Emma Thompson",
+        "Nicholas Braun",
+        "Nicholas Galitzine",
+        "Molly Gordon",
+        "Bryan Cranston",
+        "Chris O'Dowd"
+      ],
+      "diretor": "Kyle Balda",
+      "generos": [
+        "Comédia",
+        "Família",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/lzsV1hXINuwWGzUlvMsSEBKx9g.jpg",
+      "rt_critica": 94,
+      "rt_publico": null,
+      "metacritic": 72,
+      "imdb_publico": 7.7,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 94,
+          "metacritic": 72
+        }
+      ],
+      "pico_rt": 94,
+      "pico_metacritic": 72,
+      "atual_rt": 94,
+      "atual_metacritic": 72,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32565993/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Sheep%20Detectives",
+        "metacritic": "https://www.metacritic.com/search/The%20Sheep%20Detectives/"
+      }
+    },
+    {
+      "tmdb_id": 1430077,
+      "imdb_id": "tt35672862",
+      "titulo_original": "Hokum",
+      "titulo_ingles": "Hokum",
+      "ano": 2026,
+      "data_lancamento": "2026-04-29",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "O escritor solitário Ohm Bauman refugia-se em um hotel isolado para cumprir o último desejo de seus pais. A despedida silenciosa transforma-se em pesadelo quando histórias sobre uma antiga bruxa que assombra a suíte de lua de mel passam a invadir seus sonhos e sua mente. Entre visões perturbadoras e um desaparecimento chocante, Ohm é levado a um confronto aterrorizante com as forças que cercam o local e com os cantos mais sombrios de seu próprio passado.",
+      "elenco": [
+        "Adam Scott",
+        "Peter Coonan",
+        "David Wilmot",
+        "Florence Ordesh",
+        "Will O'Connell",
+        "Michael Patric",
+        "Brendan Conroy",
+        "Austin Amelio"
+      ],
+      "diretor": "Damian McCarthy",
+      "generos": [
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/l8tUMXgpEtSHuHjipX3rrOtCfe1.jpg",
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 76,
+      "imdb_publico": 7.3,
+      "criterio_qualificacao": "metacritic",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": null,
+          "metacritic": 76
+        }
+      ],
+      "pico_rt": null,
+      "pico_metacritic": 76,
+      "atual_rt": null,
+      "atual_metacritic": 76,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35672862/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Hokum",
+        "metacritic": "https://www.metacritic.com/search/Hokum/"
+      }
+    },
+    {
+      "tmdb_id": 1177767,
+      "imdb_id": "tt33301434",
+      "titulo_original": "Mile End Kicks",
+      "titulo_ingles": "Mile End Kicks",
+      "ano": 2026,
+      "data_lancamento": "2026-04-17",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Grace Pine, uma crítica musical de 22 anos, muda-se para Montreal para escrever um livro sobre o álbum Jagged Little Pill de Alanis Morissette, mas seus planos se complicam quando ela se envolve romanticamente com dois membros de uma banda indie sobre a qual está escrevendo e decide se tornar a relações-públicas deles.",
+      "elenco": [
+        "Barbie Ferreira",
+        "Devon Bostick",
+        "Stanley Simons",
+        "Juliette Gariépy",
+        "Jay Baruchel",
+        "Robert Naylor",
+        "Isaiah Lehtinen",
+        "Aurora Browne"
+      ],
+      "diretor": "Chandler Levack",
+      "generos": [
+        "Comédia",
+        "Romance",
+        "Música",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qq3Q1tsxAxMqP38YTZKl8m5zmA4.jpg",
+      "rt_critica": 88,
+      "rt_publico": null,
+      "metacritic": 73,
+      "imdb_publico": 6.8,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 88,
+          "metacritic": 73
+        }
+      ],
+      "pico_rt": 88,
+      "pico_metacritic": 73,
+      "atual_rt": 88,
+      "atual_metacritic": 73,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33301434/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mile%20End%20Kicks",
+        "metacritic": "https://www.metacritic.com/search/Mile%20End%20Kicks/"
+      }
+    },
+    {
+      "tmdb_id": 1242332,
+      "imdb_id": "tt31195136",
+      "titulo_original": "Normal",
+      "titulo_ingles": "Normal",
+      "ano": 2026,
+      "data_lancamento": "2026-04-16",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "O xerife interino Ulysses, chamado à cidade isolada pela neve de Normal, Minnesota, descobre uma conspiração criminosa internacional no coração da aparentemente pitoresca cidadezinha quando ajuda um casal de assaltantes de banco envolvido em uma situação mortal.",
+      "elenco": [
+        "Bob Odenkirk",
+        "Henry Winkler",
+        "Lena Headey",
+        "Billy MacLellan",
+        "Ryan Allen",
+        "Reena Jolly",
+        "Brendan Fletcher",
+        "Peter Shinkoda"
+      ],
+      "diretor": "Ben Wheatley",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg",
+      "rt_critica": 77,
+      "rt_publico": null,
+      "metacritic": 61,
+      "imdb_publico": 6.9,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 77,
+          "metacritic": 61
+        }
+      ],
+      "pico_rt": 77,
+      "pico_metacritic": 61,
+      "atual_rt": 77,
+      "atual_metacritic": 61,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt31195136/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Normal",
+        "metacritic": "https://www.metacritic.com/search/Normal/"
+      }
+    },
+    {
+      "tmdb_id": 1400357,
+      "imdb_id": "tt34966562",
+      "titulo_original": "The Christophers",
+      "titulo_ingles": "The Christophers",
+      "ano": 2026,
+      "data_lancamento": "2026-03-30",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "",
+      "elenco": [
+        "Michaela Coel",
+        "Ian McKellen",
+        "Jessica Gunning",
+        "James Corden",
+        "Ferdy Roberts",
+        "Tilly Botsford",
+        "Lucy McCormick",
+        "Le Fil"
+      ],
+      "diretor": "Steven Soderbergh",
+      "generos": [
+        "Crime",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/s6oUrGMNl8hVh7fn0O8oF2rHwrM.jpg",
+      "rt_critica": 95,
+      "rt_publico": null,
+      "metacritic": 78,
+      "imdb_publico": 6.8,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 95,
+          "metacritic": 78
+        }
+      ],
+      "pico_rt": 95,
+      "pico_metacritic": 78,
+      "atual_rt": 95,
+      "atual_metacritic": 78,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34966562/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Christophers",
+        "metacritic": "https://www.metacritic.com/search/The%20Christophers/"
+      }
+    },
+    {
+      "tmdb_id": 1242265,
+      "imdb_id": "tt31189814",
+      "titulo_original": "Fuze",
+      "titulo_ingles": "Fuze",
+      "ano": 2026,
+      "data_lancamento": "2026-03-23",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "O centro de Londres entra em pânico com a descoberta de uma bomba da Segunda Guerra Mundial não detonada em um canteiro de obras. Em meio ao caos de uma evacuação em massa, uma quadrilha de criminosos inicia um assalto audacioso.",
+      "elenco": [
+        "Aaron Taylor-Johnson",
+        "Theo James",
+        "Gugu Mbatha-Raw",
+        "Elham Ehsas",
+        "Sam Worthington",
+        "Shaun Mason",
+        "Nabil Elouahabi",
+        "Honor Swinton Byrne"
+      ],
+      "diretor": "David Mackenzie",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/9ZxbfDA3OCcwAFwIgOGC4Rauogn.jpg",
+      "rt_critica": 72,
+      "rt_publico": null,
+      "metacritic": 58,
+      "imdb_publico": 6.4,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 72,
+          "metacritic": 58
+        }
+      ],
+      "pico_rt": 72,
+      "pico_metacritic": 58,
+      "atual_rt": 72,
+      "atual_metacritic": 58,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt31189814/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Fuze",
+        "metacritic": "https://www.metacritic.com/search/Fuze/"
+      }
+    },
+    {
+      "tmdb_id": 687163,
+      "imdb_id": "tt12042730",
+      "titulo_original": "Project Hail Mary",
+      "titulo_ingles": "Project Hail Mary",
+      "ano": 2026,
+      "data_lancamento": "2026-03-15",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Professor de ciências do ensino fundamental acorda em espaçonave a anos-luz da Terra sem memória de como foi parar ali. Aos poucos, lembra que foi recrutado para uma missão na qual precisa investigar o motivo pelo qual o Sol está morrendo.",
+      "elenco": [
+        "Ryan Gosling",
+        "Sandra Hüller",
+        "James Ortiz",
+        "Lionel Boyce",
+        "Milana Vayntrub",
+        "Ken Leung",
+        "Priya Kansara",
+        "Mia Soteriou"
+      ],
+      "diretor": "Phil Lord, Christopher Miller",
+      "generos": [
+        "Ficção científica",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/7pIgFNoX07z7alHt73TSsKRtYye.jpg",
+      "rt_critica": 94,
+      "rt_publico": null,
+      "metacritic": 77,
+      "imdb_publico": 8.3,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 94,
+          "metacritic": 77
+        }
+      ],
+      "pico_rt": 94,
+      "pico_metacritic": 77,
+      "atual_rt": 94,
+      "atual_metacritic": 77,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt12042730/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Project%20Hail%20Mary",
+        "metacritic": "https://www.metacritic.com/search/Project%20Hail%20Mary/"
+      }
+    },
+    {
+      "tmdb_id": 1115544,
+      "imdb_id": "tt27552099",
+      "titulo_original": "Mike & Nick & Nick & Alice",
+      "titulo_ingles": "Mike & Nick & Nick & Alice",
+      "ano": 2026,
+      "data_lancamento": "2026-03-14",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Uma comédia de ação hilária e estilizada, para maiores de 18 anos, sobre dois gângsteres e a mulher que eles amam, tentando sobreviver à noite mais perigosa de suas vidas. Como se isso não bastasse, tem um ingrediente inusitado na mistura: uma máquina do tempo.",
+      "elenco": [
+        "James Marsden",
+        "Vince Vaughn",
+        "Eiza González",
+        "Keith David",
+        "Jimmy Tatro",
+        "Stephen Root",
+        "Lewis Tan",
+        "Dolph Lundgren"
+      ],
+      "diretor": "BenDavid Grabinski",
+      "generos": [
+        "Comédia",
+        "Ficção científica",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 70,
+      "imdb_publico": 6.2,
+      "criterio_qualificacao": "metacritic",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": null,
+          "metacritic": 70
+        }
+      ],
+      "pico_rt": null,
+      "pico_metacritic": 70,
+      "atual_rt": null,
+      "atual_metacritic": 70,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1115544-mike-nick-nick-alice/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt27552099/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mike%20%26%20Nick%20%26%20Nick%20%26%20Alice",
+        "metacritic": "https://www.metacritic.com/search/Mike%20%26%20Nick%20%26%20Nick%20%26%20Alice/"
+      }
+    },
+    {
+      "tmdb_id": 1297446,
+      "imdb_id": "tt32490110",
+      "titulo_original": "Slanted",
+      "titulo_ingles": "Slanted",
+      "ano": 2026,
+      "data_lancamento": "2026-03-13",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "\"Slanted\" é um filme de ficção científica, terror e comédia que explora a vida de uma jovem que descobre que seu olhar distorcido pode alterar a realidade. Com uma combinação de humor e suspense, o filme segue a jornada de sua heroína enquanto ela navega por um mundo onde a percepção é tudo.",
+      "elenco": [
+        "Shirley Chen",
+        "Mckenna Grace",
+        "Amelie Zilber",
+        "邬君梅",
+        "Maitreyi Ramakrishnan",
+        "Fang Du",
+        "Nicholas Myers",
+        "R. Keith Harris"
+      ],
+      "diretor": "Amy Wang",
+      "generos": [
+        "Comédia",
+        "Terror",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cr2SfN854IlEoZQBtIfpyC0zXR5.jpg",
+      "rt_critica": 68,
+      "rt_publico": null,
+      "metacritic": 55,
+      "imdb_publico": 5.9,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 68,
+          "metacritic": 55
+        }
+      ],
+      "pico_rt": 68,
+      "pico_metacritic": 55,
+      "atual_rt": 68,
+      "atual_metacritic": 55,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32490110/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Slanted",
+        "metacritic": "https://www.metacritic.com/search/Slanted/"
+      }
+    },
+    {
+      "tmdb_id": 1480387,
+      "imdb_id": "tt35892608",
+      "titulo_original": "undertone",
+      "titulo_ingles": "undertone",
+      "ano": 2026,
+      "data_lancamento": "2026-03-12",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "A apresentadora de um popular podcast paranormal passa a ser assombrada por gravações aterrorizantes misteriosamente enviadas a ela.",
+      "elenco": [
+        "Nina Kiri",
+        "Adam DiMarco",
+        "Michèle Duquet",
+        "Keana Bastidas",
+        "Jeff Yung",
+        "Ryan Turner",
+        "Ari Millen",
+        "Marisol D’Andrea"
+      ],
+      "diretor": "Ian Tuason",
+      "generos": [
+        "Terror",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
+      "rt_critica": 74,
+      "rt_publico": null,
+      "metacritic": 65,
+      "imdb_publico": 6.1,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 74,
+          "metacritic": 65
+        }
+      ],
+      "pico_rt": 74,
+      "pico_metacritic": 65,
+      "atual_rt": 74,
+      "atual_metacritic": 65,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35892608/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=undertone",
+        "metacritic": "https://www.metacritic.com/search/undertone/"
+      }
+    },
+    {
+      "tmdb_id": 1510745,
+      "imdb_id": "tt37538172",
+      "titulo_original": "Bodycam",
+      "titulo_ingles": "Bodycam",
+      "ano": 2026,
+      "data_lancamento": "2026-03-12",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "O que começou como uma chamada de rotina vira um pesadelo quando dois policiais se envolvem em um acidente fatal. Bryce, desesperado para proteger seu emprego e sua família, convence seu parceiro a destruir todos os registros para esconder a verdade. Mas conforme a madrugada avança, eles percebem que as câmeras não eram as únicas testemunhas e que algo sobrenatural acompanhava cada movimento deles naquela noite.",
+      "elenco": [
+        "Jaime M. Callica",
+        "Sean Rogerson",
+        "Catherine Lough Haggquist",
+        "Angel Prater",
+        "Keegan Connor Tracy",
+        "Chris Casson",
+        "Elizabeth Longshaw",
+        "Colette Nwachi"
+      ],
+      "diretor": "Brandon Christensen",
+      "generos": [
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/fC4GSEiDu2ONAOjT3VhKdAOR2UI.jpg",
+      "rt_critica": 88,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 88,
+          "metacritic": null
+        }
+      ],
+      "pico_rt": 88,
+      "pico_metacritic": null,
+      "atual_rt": 88,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1510745-bodycam/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37538172/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Bodycam",
+        "metacritic": "https://www.metacritic.com/search/Bodycam/"
+      }
+    },
+    {
+      "tmdb_id": 1381027,
+      "imdb_id": "tt34381258",
+      "titulo_original": "Good Boy",
+      "titulo_ingles": "Good Boy",
+      "ano": 2026,
+      "data_lancamento": "2026-03-06",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Um criminoso de 19 anos, Tommy, é sequestrado e forçado a se reabilitar por um casal disfuncional, Chris e Kathryn, que tentam transformá-lo em um \"bom garoto\". Tommy deve encontrar uma maneira de escapar.",
+      "elenco": [
+        "Stephen Graham",
+        "Andrea Riseborough",
+        "Anson Boon",
+        "Kit Rakusen",
+        "Monika Frajczyk",
+        "Savannah Steyn",
+        "Mila Jankowska",
+        "Callum Booth-Ford"
+      ],
+      "diretor": "Jan Komasa",
+      "generos": [
+        "Thriller",
+        "Drama",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/nXWewAZxRAr9jYNe2uypLlyPehl.jpg",
+      "rt_critica": 90,
+      "rt_publico": null,
+      "metacritic": 63,
+      "imdb_publico": 6.8,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 90,
+          "metacritic": 63
+        }
+      ],
+      "pico_rt": 90,
+      "pico_metacritic": 63,
+      "atual_rt": 90,
+      "atual_metacritic": 63,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34381258/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Good%20Boy",
+        "metacritic": "https://www.metacritic.com/search/Good%20Boy/"
+      }
+    },
+    {
+      "tmdb_id": 1327819,
+      "imdb_id": "tt26443616",
+      "titulo_original": "Hoppers",
+      "titulo_ingles": "Hoppers",
+      "ano": 2026,
+      "data_lancamento": "2026-03-04",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Mabel é uma jovem amante da natureza que tenta impedir o prefeito Jerry de construir uma rodovia que destruirá suas florestas locais. Graças a um experimento secreto de troca de cérebros, Mabel consegue transferir sua mente para um castor robô e segue para um lago, onde refugiados da industrialização invasora desembarcaram. Lá, ela tenta convencer os animais, liderados pelo castor majestoso Rei George, a se juntarem a ela e impedirem a construção da rodovia.",
+      "elenco": [
+        "Piper Curda",
+        "Bobby Moynihan",
+        "Jon Hamm",
+        "Kathy Najimy",
+        "Dave Franco",
+        "Eduardo Franco",
+        "Aparna Nancherla",
+        "Tom Law"
+      ],
+      "diretor": "Daniel Chong",
+      "generos": [
+        "Aventura",
+        "Animação",
+        "Comédia",
+        "Família",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/ftPFJBGbldoWiiPrmesW96zBzdH.jpg",
+      "rt_critica": 94,
+      "rt_publico": null,
+      "metacritic": 73,
+      "imdb_publico": 7.4,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 94,
+          "metacritic": 73
+        }
+      ],
+      "pico_rt": 94,
+      "pico_metacritic": 73,
+      "atual_rt": 94,
+      "atual_metacritic": 73,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt26443616/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Hoppers",
+        "metacritic": "https://www.metacritic.com/search/Hoppers/"
+      }
+    },
+    {
+      "tmdb_id": 1451867,
+      "imdb_id": "tt35237771",
+      "titulo_original": "Ghost Elephants",
+      "titulo_ingles": "Ghost Elephants",
+      "ano": 2026,
+      "data_lancamento": "2026-02-27",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Reza a lenda que as terras altas de Angola escondem \"elefantes-fantasma\" que nunca foram vistos por humanos. O aclamado diretor Werner Herzog acompanha o explorador da National Geographic e biólogo conservacionista Dr. Steve Boyes em uma busca épica para encontrar essas criaturas majestosas e esquivas.",
+      "elenco": [
+        "Werner Herzog",
+        "Steve Boyes",
+        "Kerllen Costa",
+        "Qui",
+        "Qui-Dawid",
+        "Kobus",
+        "Gary Trower",
+        "Jordana Meyer"
+      ],
+      "diretor": "Werner Herzog",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/fGcDjA9vBy3W2WIDFWG05E4X6Y6.jpg",
+      "rt_critica": 100,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 100,
+          "metacritic": null
+        }
+      ],
+      "pico_rt": 100,
+      "pico_metacritic": null,
+      "atual_rt": 100,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1451867-ghost-elephants/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35237771/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ghost%20Elephants",
+        "metacritic": "https://www.metacritic.com/search/Ghost%20Elephants/"
+      }
+    },
+    {
+      "tmdb_id": 1307373,
+      "imdb_id": "tt29028515",
+      "titulo_original": "Wasteman",
+      "titulo_ingles": "Wasteman",
+      "ano": 2026,
+      "data_lancamento": "2026-02-20",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "As esperanças de Taylor por um recomeço após a liberdade condicional são ameaçadas pela chegada de seu companheiro de cela, Dee. À medida que Dee o acolhe sob sua proteção, um ataque brutal coloca à prova o vínculo entre eles, forçando Taylor a escolher entre proteger Dee e suas próprias chances de liberdade.",
+      "elenco": [
+        "David Jonsson",
+        "Tom Blyth",
+        "Alex Hassell",
+        "Neil Linpow",
+        "Paul Hilton",
+        "Corin Silva",
+        "Layton Blake",
+        "Jack Barker"
+      ],
+      "diretor": "Cal McMau",
+      "generos": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/lKK9ImwpoTCwDZKgYpjIIJCnlf0.jpg",
+      "rt_critica": 100,
+      "rt_publico": null,
+      "metacritic": 75,
+      "imdb_publico": 7.3,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 100,
+          "metacritic": 75
+        }
+      ],
+      "pico_rt": 100,
+      "pico_metacritic": 75,
+      "atual_rt": 100,
+      "atual_metacritic": 75,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt29028515/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Wasteman",
+        "metacritic": "https://www.metacritic.com/search/Wasteman/"
+      }
+    },
+    {
+      "tmdb_id": 1260643,
+      "imdb_id": "tt26931594",
+      "titulo_original": "Man on the Run",
+      "titulo_ingles": "Man on the Run",
+      "ano": 2026,
+      "data_lancamento": "2026-02-19",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Homem em Fuga é um retrato íntimo da jornada de Paul McCartney após os Beatles, quando ele e a esposa, Linda, formam os Wings. Dirigido por Morgan Neville, vencedor do Oscar, o filme explora a reinvenção de McCartney com filmagens raras que registram as lutas e vitórias de se redefinir numa nova era musical.",
+      "elenco": [
+        "Paul McCartney",
+        "Linda McCartney",
+        "Denny Laine",
+        "Denny Seiwell",
+        "Henry McCullough",
+        "Jimmy McCulloch",
+        "John Lennon",
+        "George Harrison"
+      ],
+      "diretor": "Morgan Neville",
+      "generos": [
+        "Documentário",
+        "Música"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/knvjDPSFRhsGpQR6QvJE8l14zpy.jpg",
+      "rt_critica": 100,
+      "rt_publico": null,
+      "metacritic": 79,
+      "imdb_publico": 8,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 100,
+          "metacritic": 79
+        }
+      ],
+      "pico_rt": 100,
+      "pico_metacritic": 79,
+      "atual_rt": 100,
+      "atual_metacritic": 79,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1260643-man-on-the-run/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt26931594/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Man%20on%20the%20Run",
+        "metacritic": "https://www.metacritic.com/search/Man%20on%20the%20Run/"
+      }
+    },
+    {
+      "tmdb_id": 1445363,
+      "imdb_id": "tt35003538",
+      "titulo_original": "EPiC: Elvis Presley in Concert",
+      "titulo_ingles": "EPiC: Elvis Presley in Concert",
+      "ano": 2026,
+      "data_lancamento": "2026-02-18",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Elvis canta e conta a sua história como nunca se viu antes.",
+      "elenco": [
+        "Elvis Presley",
+        "James Burton",
+        "John Wilkinson",
+        "Charlie Hodge",
+        "Jerry Scheff",
+        "Glen D. Hardin",
+        "Ronnie Tutt",
+        "Bono"
+      ],
+      "diretor": "Baz Luhrmann",
+      "generos": [
+        "Música",
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/u3bvHXu9hldOehUNKir7avnN8cc.jpg",
+      "rt_critica": 97,
+      "rt_publico": null,
+      "metacritic": 86,
+      "imdb_publico": 8.2,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 97,
+          "metacritic": 86
+        }
+      ],
+      "pico_rt": 97,
+      "pico_metacritic": 86,
+      "atual_rt": 97,
+      "atual_metacritic": 86,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1445363-epic-elvis-presley-in-concert/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35003538/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=EPiC%3A%20Elvis%20Presley%20in%20Concert",
+        "metacritic": "https://www.metacritic.com/search/EPiC%3A%20Elvis%20Presley%20in%20Concert/"
+      }
+    },
+    {
+      "tmdb_id": 1119449,
+      "imdb_id": "tt1341338",
+      "titulo_original": "Good Luck, Have Fun, Don't Die",
+      "titulo_ingles": "Good Luck, Have Fun, Don't Die",
+      "ano": 2026,
+      "data_lancamento": "2026-02-13",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Um homem vindo do futuro chega a uma lanchonete em Los Angeles, onde precisa recrutar a combinação exata de clientes insatisfeitos para acompanhá-lo em uma missão de uma noite e seis quarteirões para salvar o mundo da ameaça terminal de uma inteligência artificial descontrolada.",
+      "elenco": [
+        "Sam Rockwell",
+        "Juno Temple",
+        "Haley Lu Richardson",
+        "Michael Peña",
+        "Zazie Beetz",
+        "Asim Chaudhry",
+        "Tom Taylor",
+        "Georgia Goodman"
+      ],
+      "diretor": "Gore Verbinski",
+      "generos": [
+        "Ficção científica",
+        "Ação",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uy9KPHgJpxXHCzn4vPzuGkApzC8.jpg",
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 66,
+      "imdb_publico": 7,
+      "criterio_qualificacao": "metacritic",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": null,
+          "metacritic": 66
+        }
+      ],
+      "pico_rt": null,
+      "pico_metacritic": 66,
+      "atual_rt": null,
+      "atual_metacritic": 66,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt1341338/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Good%20Luck%2C%20Have%20Fun%2C%20Don't%20Die",
+        "metacritic": "https://www.metacritic.com/search/Good%20Luck%2C%20Have%20Fun%2C%20Don't%20Die/"
+      }
+    },
+    {
+      "tmdb_id": 1171145,
+      "imdb_id": "tt32430579",
+      "titulo_original": "Crime 101",
+      "titulo_ingles": "Crime 101",
+      "ano": 2026,
+      "data_lancamento": "2026-02-11",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Um ladrão enigmático realiza assaltos de alto risco ao longo da icônica rodovia 101. Quando ele mira o golpe de sua vida — na esperança de que este seja seu último trabalho —, seu caminho cruza com o de uma corretora de seguros desiludida, forçando os dois a colaborar. Determinado a desvendar o caso, um detetive implacável se aproxima da operação.",
+      "elenco": [
+        "Chris Hemsworth",
+        "Mark Ruffalo",
+        "Halle Berry",
+        "Barry Keoghan",
+        "Monica Barbaro",
+        "Nick Nolte",
+        "Corey Hawkins",
+        "Jennifer Jason Leigh"
+      ],
+      "diretor": "Bart Layton",
+      "generos": [
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/3u8Pr8WF9hqMptlnuYL52YXSs8F.jpg",
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 68,
+      "imdb_publico": 6.8,
+      "criterio_qualificacao": "metacritic",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": null,
+          "metacritic": 68
+        }
+      ],
+      "pico_rt": null,
+      "pico_metacritic": 68,
+      "atual_rt": null,
+      "atual_metacritic": 68,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1171145-crime-101/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32430579/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Crime%20101",
+        "metacritic": "https://www.metacritic.com/search/Crime%20101/"
+      }
+    },
+    {
+      "tmdb_id": 1297842,
+      "imdb_id": "tt27613895",
+      "titulo_original": "GOAT",
+      "titulo_ingles": "GOAT",
+      "ano": 2026,
+      "data_lancamento": "2026-02-11",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Uma pequena cabra com grandes sonhos recebe uma oportunidade única na vida de se juntar aos profissionais e jogar berrobol, um esporte de alta intensidade, misto e de contato total, dominado pelos animais mais rápidos e ferozes do mundo.",
+      "elenco": [
+        "Caleb McLaughlin",
+        "Gabrielle Union",
+        "Stephen Curry",
+        "Aaron Pierre",
+        "Nicola Coughlan",
+        "David Harbour",
+        "Nick Kroll",
+        "Jenifer Lewis"
+      ],
+      "diretor": "Tyree Dillihay",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Família"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/x0SRTrltSJi1iQiIAUpyvkxnr41.jpg",
+      "rt_critica": 84,
+      "rt_publico": null,
+      "metacritic": 60,
+      "imdb_publico": 6.7,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 84,
+          "metacritic": 60
+        }
+      ],
+      "pico_rt": 84,
+      "pico_metacritic": 60,
+      "atual_rt": 84,
+      "atual_metacritic": 60,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "HBO Max",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          },
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "HBO Max Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1297842-goat/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt27613895/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=GOAT",
+        "metacritic": "https://www.metacritic.com/search/GOAT/"
+      }
+    },
+    {
+      "tmdb_id": 1168190,
+      "imdb_id": "tt33046197",
+      "titulo_original": "The Wrecking Crew",
+      "titulo_ingles": "The Wrecking Crew",
+      "ano": 2026,
+      "data_lancamento": "2026-01-28",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Dois meios-irmãos que não se falavam há muito, Jonny e James, se reencontram após a morte misteriosa do pai deles. Ao buscarem a verdade, desvendam segredos de uma conspiração que pode destruir a família.",
+      "elenco": [
+        "Dave Bautista",
+        "Jason Momoa",
+        "Temuera Morrison",
+        "Morena Baccarin",
+        "Roimata Fox",
+        "Frankie Adams",
+        "Claes Bang",
+        "Jacob Batalon"
+      ],
+      "diretor": "Ángel Manuel Soto",
+      "generos": [
+        "Ação",
+        "Comédia",
+        "Crime",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jYpk5Zun4VTWrplO3m9BHANi4S5.jpg",
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 67,
+      "imdb_publico": 6.4,
+      "criterio_qualificacao": "metacritic",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": null,
+          "metacritic": 67
+        }
+      ],
+      "pico_rt": null,
+      "pico_metacritic": 67,
+      "atual_rt": null,
+      "atual_metacritic": 67,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1168190-the-wrecking-crew/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33046197/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Wrecking%20Crew",
+        "metacritic": "https://www.metacritic.com/search/The%20Wrecking%20Crew/"
+      }
+    },
+    {
+      "tmdb_id": 696393,
+      "imdb_id": "tt8879928",
+      "titulo_original": "Cold Storage",
+      "titulo_ingles": "Cold Storage",
+      "ano": 2026,
+      "data_lancamento": "2026-01-22",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Quando um fungo altamente perigoso escapa de um laboratório secreto, Robert Quinn, um ex-agente de bioterrorismo que só queria curtir a aposentadoria em paz, é chamado de volta à ação. Ao lado de Travis e Naomi, dois jovens funcionários que definitivamente não ganham o suficiente para isso, ele precisa enfrentar uma ameaça invisível e fora de controle. Em uma corrida contra o tempo, o trio descobre que salvar o mundo dá muito mais trabalho do que parece.",
+      "elenco": [
+        "Georgina Campbell",
+        "Joe Keery",
+        "Sosie Bacon",
+        "Vanessa Redgrave",
+        "Lesley Manville",
+        "Liam Neeson",
+        "Richard Brake",
+        "Aaron Heffernan"
+      ],
+      "diretor": "Jonny Campbell",
+      "generos": [
+        "Terror",
+        "Ficção científica",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/3Ap6J9pYqgrxQaYWYdX2fyBYBWF.jpg",
+      "rt_critica": 81,
+      "rt_publico": null,
+      "metacritic": 64,
+      "imdb_publico": 6.1,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 81,
+          "metacritic": 64
+        }
+      ],
+      "pico_rt": 81,
+      "pico_metacritic": 64,
+      "atual_rt": 81,
+      "atual_metacritic": 64,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/696393-cold-storage/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt8879928/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Cold%20Storage",
+        "metacritic": "https://www.metacritic.com/search/Cold%20Storage/"
+      }
+    },
+    {
+      "tmdb_id": 1198994,
+      "imdb_id": "tt8036976",
+      "titulo_original": "Send Help",
+      "titulo_ingles": "Send Help",
+      "ano": 2026,
+      "data_lancamento": "2026-01-22",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Após um acidente aéreo, um chefe e uma funcionária que se odeiam são os únicos sobreviventes. Isolados numa ilha deserta, eles precisam decidir se cooperam ou competem para escapar, mas é difícil deixar para trás os conflitos do escritório.",
+      "elenco": [
+        "Rachel McAdams",
+        "Dylan O'Brien",
+        "Edyll Ismail",
+        "Dennis Haysbert",
+        "Xavier Samuel",
+        "Chris Pang",
+        "ธเนศ วรากุลนุเคราะห์",
+        "Emma Raimi"
+      ],
+      "diretor": "Sam Raimi",
+      "generos": [
+        "Terror",
+        "Thriller",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/rpU5DGrTVdqcygZBB9npt1WMFch.jpg",
+      "rt_critica": 92,
+      "rt_publico": null,
+      "metacritic": 75,
+      "imdb_publico": 6.9,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 92,
+          "metacritic": 75
+        }
+      ],
+      "pico_rt": 92,
+      "pico_metacritic": 75,
+      "atual_rt": 92,
+      "atual_metacritic": 75,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1198994-send-help/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt8036976/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Send%20Help",
+        "metacritic": "https://www.metacritic.com/search/Send%20Help/"
+      }
+    },
+    {
+      "tmdb_id": 1272837,
+      "imdb_id": "tt32141377",
+      "titulo_original": "28 Years Later: The Bone Temple",
+      "titulo_ingles": "28 Years Later: The Bone Temple",
+      "ano": 2026,
+      "data_lancamento": "2026-01-14",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Dr. Kelson se vê envolvido num novo relacionamento chocante – com consequências que podem mudar o mundo como eles o conhecem – e o encontro de Spike com Jimmy Crystal se torna um pesadelo do qual ele não consegue escapar.",
+      "elenco": [
+        "Ralph Fiennes",
+        "Jack O'Connell",
+        "Alfie Williams",
+        "Erin Kellyman",
+        "Chi Lewis-Parry",
+        "Emma Laird",
+        "Maura Bird",
+        "Sam Locke"
+      ],
+      "diretor": "Nia DaCosta",
+      "generos": [
+        "Terror",
+        "Thriller",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/tbECC1mMbytgaynCnBhgVPzCZcd.jpg",
+      "rt_critica": 92,
+      "rt_publico": null,
+      "metacritic": 81,
+      "imdb_publico": 7.3,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 92,
+          "metacritic": 81
+        }
+      ],
+      "pico_rt": 92,
+      "pico_metacritic": 81,
+      "atual_rt": 92,
+      "atual_metacritic": 81,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "HBO Max",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          },
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "HBO Max Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1272837-28-years-later-the-bone-temple/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32141377/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=28%20Years%20Later%3A%20The%20Bone%20Temple",
+        "metacritic": "https://www.metacritic.com/search/28%20Years%20Later%3A%20The%20Bone%20Temple/"
+      }
+    },
+    {
+      "tmdb_id": 1306368,
+      "imdb_id": "tt32642706",
+      "titulo_original": "The Rip",
+      "titulo_ingles": "The Rip",
+      "ano": 2026,
+      "data_lancamento": "2026-01-13",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Quando uma equipe de policiais de Miami encontra milhões de dólares em um muquifo usado como esconderijo, a confiança fica abalada e todos viram suspeitos.",
+      "elenco": [
+        "Matt Damon",
+        "Ben Affleck",
+        "Teyana Taylor",
+        "Steven Yeun",
+        "Catalina Sandino Moreno",
+        "Sasha Calle",
+        "Kyle Chandler",
+        "Scott Adkins"
+      ],
+      "diretor": "Joe Carnahan",
+      "generos": [
+        "Ação",
+        "Thriller",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bm04TGkE5ySrHbHlO6YloYZvs4P.jpg",
+      "rt_critica": 78,
+      "rt_publico": null,
+      "metacritic": 63,
+      "imdb_publico": 6.8,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 78,
+          "metacritic": 63
+        }
+      ],
+      "pico_rt": 78,
+      "pico_metacritic": 63,
+      "atual_rt": 78,
+      "atual_metacritic": 63,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1306368-the-rip/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32642706/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Rip",
+        "metacritic": "https://www.metacritic.com/search/The%20Rip/"
+      }
+    },
+    {
+      "tmdb_id": 1198984,
+      "imdb_id": "tt29713093",
+      "titulo_original": "We Bury the Dead",
+      "titulo_ingles": "We Bury the Dead",
+      "ano": 2026,
+      "data_lancamento": "2026-01-01",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Um desastre militar catastrófico não apenas trouxe os mortos de volta à vida, como os transformaram em caçadores. Após a declaração do exército de que as criaturas eram lentas e inofensivas, Ava entra numa zona de quarentena a procura de seu marido mas acaba descobrindo a terrível verdade: os mortos-vivos estão se tornando cada vez mais perigos e violentos ao passar de cada segundo.",
+      "elenco": [
+        "Daisy Ridley",
+        "Brenton Thwaites",
+        "Mark Coles Smith",
+        "Matt Whelan",
+        "Chloe Hurst",
+        "Kym Jackson",
+        "Holly Hargreaves",
+        "Deanna Cooney"
+      ],
+      "diretor": "Zak Hilditch",
+      "generos": [
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/x6H4DtBRIfwTcOIK64R8pSXNpvN.jpg",
+      "rt_critica": 88,
+      "rt_publico": null,
+      "metacritic": 61,
+      "imdb_publico": 5.6,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 88,
+          "metacritic": 61
+        }
+      ],
+      "pico_rt": 88,
+      "pico_metacritic": 61,
+      "atual_rt": 88,
+      "atual_metacritic": 61,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          },
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1198984-we-bury-the-dead/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt29713093/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=We%20Bury%20the%20Dead",
+        "metacritic": "https://www.metacritic.com/search/We%20Bury%20the%20Dead/"
+      }
+    },
+    {
+      "tmdb_id": 1317288,
+      "imdb_id": "tt32916440",
+      "titulo_original": "Marty Supreme",
+      "titulo_ingles": "Marty Supreme",
+      "ano": 2025,
+      "data_lancamento": "2025-12-19",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Marty Mauser é um jovem prodígio do tênis de mesa que tem sonhos grandiosos e estilo de jogo arrojado, mas é desacreditado pelas outras pessoas. Buscando provar sua capacidade, ele faz de tudo para alcançar o reconhecimento que julga merecer.",
+      "elenco": [
+        "Timothée Chalamet",
+        "Gwyneth Paltrow",
+        "Odessa A'zion",
+        "Kevin O'Leary",
+        "Tyler, The Creator",
+        "Fran Drescher",
+        "Abel Ferrara",
+        "Emory Cohen"
+      ],
+      "diretor": "Josh Safdie",
+      "generos": [
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/oLWBW1Sg9V8KGgbR3Y8jeEWF2Gi.jpg",
+      "rt_critica": 93,
+      "rt_publico": null,
+      "metacritic": 89,
+      "imdb_publico": 7.7,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 93,
+          "metacritic": 89
+        }
+      ],
+      "pico_rt": 93,
+      "pico_metacritic": 89,
+      "atual_rt": 93,
+      "atual_metacritic": 89,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1317288-marty-supreme/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32916440/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Marty%20Supreme",
+        "metacritic": "https://www.metacritic.com/search/Marty%20Supreme/"
+      }
+    },
+    {
+      "tmdb_id": 1368166,
+      "imdb_id": "tt27543632",
+      "titulo_original": "The Housemaid",
+      "titulo_ingles": "The Housemaid",
+      "ano": 2025,
+      "data_lancamento": "2025-12-18",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Millie é uma mulher passando por dificuldades que se sente aliviada com a chance de um novo começo como empregada doméstica de Nina e Andrew, um casal rico. Logo, ela descobre que os segredos da família são muito mais perigosos do que os seus.",
+      "elenco": [
+        "Sydney Sweeney",
+        "Amanda Seyfried",
+        "Brandon Sklenar",
+        "Michele Morrone",
+        "Elizabeth Perkins",
+        "Indiana Elle",
+        "Amanda Joy Erickson",
+        "Sarah Cooper"
+      ],
+      "diretor": "Paul Feig",
+      "generos": [
+        "Mistério",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qaqAdyuk8Fcgfsj19Cj3OpJ8hN.jpg",
+      "rt_critica": 73,
+      "rt_publico": null,
+      "metacritic": 65,
+      "imdb_publico": 6.8,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 73,
+          "metacritic": 65
+        }
+      ],
+      "pico_rt": 73,
+      "pico_metacritic": 65,
+      "atual_rt": 73,
+      "atual_metacritic": 65,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "Telecine Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/9kcTsX2laYclN4bFiMH3RuhZel2.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1368166-the-housemaid/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt27543632/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Housemaid",
+        "metacritic": "https://www.metacritic.com/search/The%20Housemaid/"
+      }
+    },
+    {
+      "tmdb_id": 83533,
+      "imdb_id": "tt1757678",
+      "titulo_original": "Avatar: Fire and Ash",
+      "titulo_ingles": "Avatar: Fire and Ash",
+      "ano": 2025,
+      "data_lancamento": "2025-12-17",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Após a devastadora guerra contra a RDA e a perda de seu filho mais velho, Jake Sully e Neytiri enfrentam uma nova ameaça em Pandora: o Povo das Cinzas, uma tribo Na'vi violenta e sedenta por poder, liderada pela implacável Varang. A família de Jake deve lutar por sua sobrevivência e pelo futuro de Pandora em um conflito que os leva aos seus limites emocionais e físicos.",
+      "elenco": [
+        "Sam Worthington",
+        "Zoe Saldaña",
+        "Sigourney Weaver",
+        "Stephen Lang",
+        "Oona Chaplin",
+        "Jack Champion",
+        "Kate Winslet",
+        "Cliff Curtis"
+      ],
+      "diretor": "James Cameron",
+      "generos": [
+        "Ficção científica",
+        "Aventura",
+        "Fantasia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/3almrQT8GnrDjnQeWotdExjJhZm.jpg",
+      "rt_critica": 66,
+      "rt_publico": null,
+      "metacritic": 61,
+      "imdb_publico": 7.3,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 66,
+          "metacritic": 61
+        }
+      ],
+      "pico_rt": 66,
+      "pico_metacritic": 61,
+      "atual_rt": 66,
+      "atual_metacritic": 61,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt1757678/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Avatar%3A%20Fire%20and%20Ash",
+        "metacritic": "https://www.metacritic.com/search/Avatar%3A%20Fire%20and%20Ash/"
+      }
+    },
+    {
+      "tmdb_id": 991494,
+      "imdb_id": "tt23572848",
+      "titulo_original": "The SpongeBob Movie: Search for SquarePants",
+      "titulo_ingles": "The SpongeBob Movie: Search for SquarePants",
+      "ano": 2025,
+      "data_lancamento": "2025-12-16",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Bob Esponja e seus amigos da Fenda do Bikini embarcam na maior aventura de suas vidas. Ao tentar provar que é grandão, ele acaba invocando o temido pirata fantasma Holandês Voador, que arrasta Bob Esponja e Patrick para uma jornada caótica no submundo. Enfrentando desafios enormes e com uma equipe de resgate em seu encalço, Bob Esponja descobre que a verdadeira coragem aparece quando os amigos encaram o desconhecido juntos.",
+      "elenco": [
+        "Tom Kenny",
+        "Clancy Brown",
+        "Rodger Bumpass",
+        "Bill Fagerbakke",
+        "Carolyn Lawrence",
+        "Mr. Lawrence",
+        "George López",
+        "Ice Spice"
+      ],
+      "diretor": "Derek Drymon",
+      "generos": [
+        "Aventura",
+        "Animação",
+        "Comédia",
+        "Família",
+        "Fantasia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/obDYToEfPFNMKW6x0eamCrjTMzK.jpg",
+      "rt_critica": 78,
+      "rt_publico": null,
+      "metacritic": 65,
+      "imdb_publico": 5.7,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 78,
+          "metacritic": 65
+        }
+      ],
+      "pico_rt": 78,
+      "pico_metacritic": 65,
+      "atual_rt": 78,
+      "atual_metacritic": 65,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Paramount Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/h5DcR0J2EESLitnhR8xLG1QymTE.jpg"
+          },
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "Paramount+ Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/hExO4PtimLIYn3kBOrzsejNv7cT.jpg"
+          },
+          {
+            "nome": "Paramount Plus Premium",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/fts6X10Jn4QT0X6ac3udKEn2tJA.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/991494-the-spongebob-movie-search-for-squarepants/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt23572848/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20SpongeBob%20Movie%3A%20Search%20for%20SquarePants",
+        "metacritic": "https://www.metacritic.com/search/The%20SpongeBob%20Movie%3A%20Search%20for%20SquarePants/"
+      }
+    },
+    {
+      "tmdb_id": 1167307,
+      "imdb_id": "tt15678738",
+      "titulo_original": "David",
+      "titulo_ingles": "David",
+      "ano": 2025,
+      "data_lancamento": "2025-12-14",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Em um reino tomado pelo medo e pela opressão, um jovem pastor de ovelhas decide enfrentar um gigante guerreiro e a escuridão que o acompanha. Com nada além de fé, coragem, uma funda e algumas pedras nas mãos, ele desafia um império e desperta o coração de uma nação.",
+      "elenco": [
+        "Brandon Engman",
+        "Brian Stivale",
+        "Shahar Taboch",
+        "Aaron Tavaler",
+        "Hector",
+        "Miri Mesika",
+        "Jack Wagman",
+        "Jonathan Shaboo"
+      ],
+      "diretor": "Phil Cunningham, Brent Dawes",
+      "generos": [
+        "Animação",
+        "Drama",
+        "Família",
+        "História"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/kr5Owq7ixs2gsOMZm1MferN8qZX.jpg",
+      "rt_critica": 80,
+      "rt_publico": null,
+      "metacritic": 55,
+      "imdb_publico": 6.9,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 80,
+          "metacritic": 55
+        }
+      ],
+      "pico_rt": 80,
+      "pico_metacritic": 55,
+      "atual_rt": 80,
+      "atual_metacritic": 55,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1167307-david/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt15678738/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=David",
+        "metacritic": "https://www.metacritic.com/search/David/"
+      }
+    },
+    {
+      "tmdb_id": 858024,
+      "imdb_id": "tt14905854",
+      "titulo_original": "Hamnet",
+      "titulo_ingles": "Hamnet",
+      "ano": 2025,
+      "data_lancamento": "2025-11-26",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Um dos mais importantes escritores do cânone ocidental, William Shakespeare vive uma tragédia ao lado de sua esposa Agnes quando o casal perde o filho de 11 anos para uma das várias pragas que assolaram o século XVI. Hamnet era o nome do menino. Explorando os temas da perda e da morte, o filme acompanha a rotina e o dia a dia de uma família, as alegrias e as tristezas de viver numa pequena vila na Inglaterra do passado e a história de amor poderosa que inspirou a criação da peça Hamlet.",
+      "elenco": [
+        "Jessie Buckley",
+        "Paul Mescal",
+        "Emily Watson",
+        "Joe Alwyn",
+        "Jacobi Jupe",
+        "Noah Jupe",
+        "Olivia Lynes",
+        "Justine Mitchell"
+      ],
+      "diretor": "Chloé Zhao",
+      "generos": [
+        "Drama",
+        "Romance",
+        "História"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/njatIGrIlZCxB88UUBC2xgmfCNE.jpg",
+      "rt_critica": 87,
+      "rt_publico": null,
+      "metacritic": 84,
+      "imdb_publico": 7.8,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 87,
+          "metacritic": 84
+        }
+      ],
+      "pico_rt": 87,
+      "pico_metacritic": 84,
+      "atual_rt": 87,
+      "atual_metacritic": 84,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/858024-hamnet/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt14905854/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Hamnet",
+        "metacritic": "https://www.metacritic.com/search/Hamnet/"
+      }
+    },
+    {
+      "tmdb_id": 812583,
+      "imdb_id": "tt14364480",
+      "titulo_original": "Wake Up Dead Man: A Knives Out Mystery",
+      "titulo_ingles": "Wake Up Dead Man: A Knives Out Mystery",
+      "ano": 2025,
+      "data_lancamento": "2025-11-26",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "O detetive Benoit Blanc conta com a ajuda de um jovem padre para investigar um crime perfeitamente impossível na igreja de uma cidadezinha que tem uma história sombria.",
+      "elenco": [
+        "Daniel Craig",
+        "Josh O'Connor",
+        "Glenn Close",
+        "Josh Brolin",
+        "Mila Kunis",
+        "Jeremy Renner",
+        "Kerry Washington",
+        "Andrew Scott"
+      ],
+      "diretor": "Rian Johnson",
+      "generos": [
+        "Thriller",
+        "Mistério",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/rdxMmkArDAfu1UxdOq6H22GtPdV.jpg",
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 80,
+      "imdb_publico": 7.3,
+      "criterio_qualificacao": "metacritic",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": null,
+          "metacritic": 80
+        }
+      ],
+      "pico_rt": null,
+      "pico_metacritic": 80,
+      "atual_rt": null,
+      "atual_metacritic": 80,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/812583-wake-up-dead-man-a-knives-out-mystery/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt14364480/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Wake%20Up%20Dead%20Man%3A%20A%20Knives%20Out%20Mystery",
+        "metacritic": "https://www.metacritic.com/search/Wake%20Up%20Dead%20Man%3A%20A%20Knives%20Out%20Mystery/"
+      }
+    },
+    {
+      "tmdb_id": 1084242,
+      "imdb_id": "tt26443597",
+      "titulo_original": "Zootopia 2",
+      "titulo_ingles": "Zootopia 2",
+      "ano": 2025,
+      "data_lancamento": "2025-11-26",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Os detetives Judy Hopps e Nick Wilde se encontram na trilha sinuosa de um réptil misterioso que chega a Zootopia e vira a metrópole dos mamíferos de cabeça para baixo.",
+      "elenco": [
+        "Ginnifer Goodwin",
+        "Jason Bateman",
+        "Ke Huy Quan",
+        "Fortune Feimster",
+        "Andy Samberg",
+        "David Strathairn",
+        "Idris Elba",
+        "Shakira"
+      ],
+      "diretor": "Jared Bush, Byron Howard",
+      "generos": [
+        "Aventura",
+        "Animação",
+        "Comédia",
+        "Família",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/sOgzzmyHJ3uWjEU509AwrcXoE71.jpg",
+      "rt_critica": 91,
+      "rt_publico": null,
+      "metacritic": 73,
+      "imdb_publico": 7.4,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 91,
+          "metacritic": 73
+        }
+      ],
+      "pico_rt": 91,
+      "pico_metacritic": 73,
+      "atual_rt": 91,
+      "atual_metacritic": 73,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1084242-zootopia-2/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt26443597/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Zootopia%202",
+        "metacritic": "https://www.metacritic.com/search/Zootopia%202/"
+      }
+    },
+    {
+      "tmdb_id": 1214931,
+      "imdb_id": "tt29567915",
+      "titulo_original": "Nuremberg",
+      "titulo_ingles": "Nuremberg",
+      "ano": 2025,
+      "data_lancamento": "2025-11-06",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Um psiquiatra dos Estados Unidos é designado para examinar 22 oficiais nazistas que aguardam julgamento por crimes de guerra. À medida que ele se aproxima de um de seus pacientes e tenta desvendar a essência do mal, ele se vê envolvido em uma jornada sem volta.",
+      "elenco": [
+        "Rami Malek",
+        "Russell Crowe",
+        "Michael Shannon",
+        "Leo Woodall",
+        "John Slattery",
+        "Richard E. Grant",
+        "Mark O'Brien",
+        "Colin Hanks"
+      ],
+      "diretor": "James Vanderbilt",
+      "generos": [
+        "História",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/saPapyxafNZxIPqYa2xm4QkaxpE.jpg",
+      "rt_critica": 71,
+      "rt_publico": null,
+      "metacritic": 61,
+      "imdb_publico": 7.4,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 71,
+          "metacritic": 61
+        }
+      ],
+      "pico_rt": 71,
+      "pico_metacritic": 61,
+      "atual_rt": 71,
+      "atual_metacritic": 61,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1214931-nuremberg/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt29567915/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Nuremberg",
+        "metacritic": "https://www.metacritic.com/search/Nuremberg/"
+      }
+    },
+    {
+      "tmdb_id": 1242898,
+      "imdb_id": "tt31227572",
+      "titulo_original": "Predator: Badlands",
+      "titulo_ingles": "Predator: Badlands",
+      "ano": 2025,
+      "data_lancamento": "2025-11-05",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "No futuro, em um planeta remoto, um jovem Predador, rejeitado por seu clã, encontra em Thia uma aliada improvável e embarca em uma jornada traiçoeira em busca do adversário supremo.",
+      "elenco": [
+        "Elle Fanning",
+        "Dimitrius Schuster-Koloamatangi",
+        "Ravi Narayan",
+        "Michael Homick",
+        "Stefan Grube",
+        "Reuben De Jong",
+        "Cameron Brown",
+        "Alison Wright"
+      ],
+      "diretor": "Dan Trachtenberg",
+      "generos": [
+        "Ação",
+        "Ficção científica",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/f3yLlUrJDdDL8d4nxywyotN45SL.jpg",
+      "rt_critica": 86,
+      "rt_publico": null,
+      "metacritic": 71,
+      "imdb_publico": 7.2,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 86,
+          "metacritic": 71
+        }
+      ],
+      "pico_rt": 86,
+      "pico_metacritic": 71,
+      "atual_rt": 86,
+      "atual_metacritic": 71,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1242898-predator-badlands/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt31227572/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Predator%3A%20Badlands",
+        "metacritic": "https://www.metacritic.com/search/Predator%3A%20Badlands/"
+      }
+    },
+    {
+      "tmdb_id": 1511417,
+      "imdb_id": "tt37893389",
+      "titulo_original": "Bāhubali: The Epic",
+      "titulo_ingles": "Bāhubali: The Epic",
+      "ano": 2025,
+      "data_lancamento": "2025-10-29",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Um guerreiro lendário surge de origens humildes para desafiar forças poderosas que ameaçam sua terra natal, à medida que antigas profecias e laços familiares moldam sua jornada.",
+      "elenco": [
+        "Prabhas",
+        "Rana Daggubati",
+        "Anushka Shetty",
+        "Ramya Krishnan",
+        "Sathyaraj",
+        "Nassar",
+        "Subbaraju",
+        "Tamannaah Bhatia"
+      ],
+      "diretor": "S. S. Rajamouli",
+      "generos": [
+        "Ação",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4sLSorDKKDN944kWngxgQlpdDeg.jpg",
+      "rt_critica": 100,
+      "rt_publico": null,
+      "metacritic": 79,
+      "imdb_publico": 8.5,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 100,
+          "metacritic": 79
+        }
+      ],
+      "pico_rt": 100,
+      "pico_metacritic": 79,
+      "atual_rt": 100,
+      "atual_metacritic": 79,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37893389/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=B%C4%81hubali%3A%20The%20Epic",
+        "metacritic": "https://www.metacritic.com/search/B%C4%81hubali%3A%20The%20Epic/"
+      }
+    },
+    {
+      "tmdb_id": 701387,
+      "imdb_id": "tt12300742",
+      "titulo_original": "Bugonia",
+      "titulo_ingles": "Bugonia",
+      "ano": 2025,
+      "data_lancamento": "2025-10-23",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Dois jovens obcecados por teorias da conspiração sequestram a poderosa CEO de uma grande empresa, convencidos de que ela é uma alienígena com a intenção de destruir o planeta Terra.",
+      "elenco": [
+        "Emma Stone",
+        "Jesse Plemons",
+        "Aidan Delbis",
+        "Stavros Halkias",
+        "Alicia Silverstone",
+        "J. Carmen Galindez Barrera",
+        "Marc T. Lewis",
+        "Vanessa Eng"
+      ],
+      "diretor": "Γιώργος Λάνθιμος",
+      "generos": [
+        "Ficção científica",
+        "Thriller",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/6OeJbx1QGDwrlL8SPZeLKjLhhA7.jpg",
+      "rt_critica": 87,
+      "rt_publico": null,
+      "metacritic": 72,
+      "imdb_publico": 7.4,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 87,
+          "metacritic": 72
+        }
+      ],
+      "pico_rt": 87,
+      "pico_metacritic": 72,
+      "atual_rt": 87,
+      "atual_metacritic": 72,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/701387-bugonia/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt12300742/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Bugonia",
+        "metacritic": "https://www.metacritic.com/search/Bugonia/"
+      }
+    },
+    {
+      "tmdb_id": 1223601,
+      "imdb_id": "tt31844586",
+      "titulo_original": "Sisu 2",
+      "titulo_ingles": "Sisu: Road to Revenge",
+      "ano": 2025,
+      "data_lancamento": "2025-10-21",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Um explosivo evento de ação sequência de SISU. Um sobrevivente de guerra retorna à casa onde sua família foi brutalmente assassinada. Ele a desmonta, carrega em um caminhão e decide reconstruí-la em um local seguro em sua homenagem. Quando o comandante do Exército Vermelho que matou sua família retorna determinado a terminar o trabalho, uma perseguição implacável e de tirar o fôlego acontece.",
+      "elenco": [
+        "Jorma Tommila",
+        "Stephen Lang",
+        "Richard Brake",
+        "Tommi Korpela",
+        "Kaspar Velberg",
+        "Pääru Oja",
+        "Erki Laur",
+        "Maksim Demidov"
+      ],
+      "diretor": "Jalmari Helander",
+      "generos": [
+        "Ação",
+        "Guerra",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/z8LpUN4UOsYcUSLw1STPZsQ5w8B.jpg",
+      "rt_critica": 93,
+      "rt_publico": null,
+      "metacritic": 76,
+      "imdb_publico": 6.8,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 93,
+          "metacritic": 76
+        }
+      ],
+      "pico_rt": 93,
+      "pico_metacritic": 76,
+      "atual_rt": 93,
+      "atual_metacritic": 76,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "HBO Max",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          },
+          {
+            "nome": "HBO Max Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1223601-sisu-2/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt31844586/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Sisu%3A%20Road%20to%20Revenge",
+        "metacritic": "https://www.metacritic.com/search/Sisu%3A%20Road%20to%20Revenge/"
+      }
+    },
+    {
+      "tmdb_id": 1062722,
+      "imdb_id": "tt1312221",
+      "titulo_original": "Frankenstein",
+      "titulo_ingles": "Frankenstein",
+      "ano": 2025,
+      "data_lancamento": "2025-10-17",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Dr. Victor Frankenstein, um cientista brilhante, mas egoísta, dá vida a uma criatura em um experimento monstruoso que acaba levando à ruína tanto do criador quanto de sua trágica criação.",
+      "elenco": [
+        "Oscar Isaac",
+        "Jacob Elordi",
+        "Christoph Waltz",
+        "Mia Goth",
+        "Felix Kammerer",
+        "Charles Dance",
+        "David Bradley",
+        "Lars Mikkelsen"
+      ],
+      "diretor": "Guillermo del Toro",
+      "generos": [
+        "Drama",
+        "Fantasia",
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/rB0tZwNImTT8febX5qVycZ5YVeF.jpg",
+      "rt_critica": 85,
+      "rt_publico": null,
+      "metacritic": 78,
+      "imdb_publico": 7.4,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 85,
+          "metacritic": 78
+        }
+      ],
+      "pico_rt": 85,
+      "pico_metacritic": 78,
+      "atual_rt": 85,
+      "atual_metacritic": 78,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1062722-frankenstein/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt1312221/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Frankenstein",
+        "metacritic": "https://www.metacritic.com/search/Frankenstein/"
+      }
+    },
+    {
+      "tmdb_id": 1197137,
+      "imdb_id": "tt29644189",
+      "titulo_original": "Black Phone 2",
+      "titulo_ingles": "Black Phone 2",
+      "ano": 2025,
+      "data_lancamento": "2025-10-15",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Quatro anos após escapar de The Grabber, Finney Blake luta com sua vida após o cativeiro. Quando sua irmã Gwen começa a receber ligações em sonhos do telefone preto e a ter visões perturbadoras de três garotos sendo perseguidos em um acampamento de inverno conhecido como Alpine Lake, os irmãos se determinam a desvendar o mistério e confrontar um assassino que se tornou mais poderoso na morte e mais significativo para eles do que qualquer um poderia imaginar.",
+      "elenco": [
+        "Ethan Hawke",
+        "Mason Thames",
+        "Madeleine McGraw",
+        "Demián Bichir",
+        "Miguel Mora",
+        "Jeremy Davies",
+        "Arianna Rivas",
+        "Maev Beaty"
+      ],
+      "diretor": "Scott Derrickson",
+      "generos": [
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/p3epSUdF9qSWWHTBlA3mJ0w2i2Y.jpg",
+      "rt_critica": 72,
+      "rt_publico": null,
+      "metacritic": 61,
+      "imdb_publico": 6.1,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 72,
+          "metacritic": 61
+        }
+      ],
+      "pico_rt": 72,
+      "pico_metacritic": 61,
+      "atual_rt": 72,
+      "atual_metacritic": 61,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1197137-black-phone-2/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt29644189/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Black%20Phone%202",
+        "metacritic": "https://www.metacritic.com/search/Black%20Phone%202/"
+      }
+    },
+    {
+      "tmdb_id": 1242419,
+      "imdb_id": "tt4627382",
+      "titulo_original": "Roofman",
+      "titulo_ingles": "Roofman",
+      "ano": 2025,
+      "data_lancamento": "2025-10-06",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Um criminoso carismático durante sua fuga da polícia, assume uma nova identidade e começa a trabalhar em uma loja de brinquedos. Lá, se envolve com uma funcionária e inicia um romance inesperado. Mas quando seu passado ameaça vir à tona, os dois se veem diante de escolhas que podem mudar o destino de suas vidas para sempre.",
+      "elenco": [
+        "Channing Tatum",
+        "Kirsten Dunst",
+        "Ben Mendelsohn",
+        "LaKeith Stanfield",
+        "Juno Temple",
+        "Melonie Díaz",
+        "Uzo Aduba",
+        "Lily Collias"
+      ],
+      "diretor": "Derek Cianfrance",
+      "generos": [
+        "Crime",
+        "Comédia",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/yA9T1l9nGhVdCPv0CfDLus1IwsO.jpg",
+      "rt_critica": 87,
+      "rt_publico": null,
+      "metacritic": 66,
+      "imdb_publico": 6.9,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 87,
+          "metacritic": 66
+        }
+      ],
+      "pico_rt": 87,
+      "pico_metacritic": 66,
+      "atual_rt": 87,
+      "atual_metacritic": 66,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1242419-roofman/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt4627382/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Roofman",
+        "metacritic": "https://www.metacritic.com/search/Roofman/"
+      }
+    },
+    {
+      "tmdb_id": 639988,
+      "imdb_id": "tt1527793",
+      "titulo_original": "어쩔수가없다",
+      "titulo_ingles": "No Other Choice",
+      "ano": 2025,
+      "data_lancamento": "2025-09-24",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Um homem é demitido da empresa de papel onde trabalhou por 25 anos. Algum tempo depois, ainda desempregado, encontra uma solução: eliminar literalmente sua concorrência.",
+      "elenco": [
+        "Lee Byung-hun",
+        "손예진",
+        "박희순",
+        "이성민",
+        "염혜란",
+        "차승원",
+        "오달수",
+        "김우승"
+      ],
+      "diretor": "Park Chan-wook",
+      "generos": [
+        "Comédia",
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/aPO8utrHrnkSrObmL2ezmjuZFVD.jpg",
+      "rt_critica": 97,
+      "rt_publico": null,
+      "metacritic": 86,
+      "imdb_publico": 7.5,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 97,
+          "metacritic": 86
+        }
+      ],
+      "pico_rt": 97,
+      "pico_metacritic": 86,
+      "atual_rt": 97,
+      "atual_metacritic": 86,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "MUBI",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/x570VpH2C9EKDf1riP83rYc5dnL.jpg"
+          },
+          {
+            "nome": "MUBI Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/a4IDLKjvP5gvq7tNlg2Xw5YyEkI.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/639988/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt1527793/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=No%20Other%20Choice",
+        "metacritic": "https://www.metacritic.com/search/No%20Other%20Choice/"
+      }
+    },
+    {
+      "tmdb_id": 1054867,
+      "imdb_id": "tt30144839",
+      "titulo_original": "One Battle After Another",
+      "titulo_ingles": "One Battle After Another",
+      "ano": 2025,
+      "data_lancamento": "2025-09-23",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Bob, um revolucionário fracassado, vive chapado e em um estado de paranoia, sobrevivendo isolado com Willa, sua filha espirituosa e independente. Quando seu perverso arqui-inimigo ressurge após 16 anos e ela desaparece, o ex-radical corre para encontrá-la, pai e filha tendo que enfrentar as consequências do passado dele.",
+      "elenco": [
+        "Leonardo DiCaprio",
+        "Sean Penn",
+        "Chase Infiniti",
+        "Benicio del Toro",
+        "Regina Hall",
+        "Teyana Taylor",
+        "Wood Harris",
+        "Tony Goldwyn"
+      ],
+      "diretor": "Paul Thomas Anderson",
+      "generos": [
+        "Thriller",
+        "Crime",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/2peYXW6CoruehDnKJGMjl2NuaNB.jpg",
+      "rt_critica": 94,
+      "rt_publico": null,
+      "metacritic": 95,
+      "imdb_publico": 7.7,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 94,
+          "metacritic": 95
+        }
+      ],
+      "pico_rt": 94,
+      "pico_metacritic": 95,
+      "atual_rt": 94,
+      "atual_metacritic": 95,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "HBO Max",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          },
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "HBO Max Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1054867-one-battle-after-another/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt30144839/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Battle%20After%20Another",
+        "metacritic": "https://www.metacritic.com/search/One%20Battle%20After%20Another/"
+      }
+    },
+    {
+      "tmdb_id": 1317149,
+      "imdb_id": "tt31514146",
+      "titulo_original": "I Swear",
+      "titulo_ingles": "I Swear",
+      "ano": 2025,
+      "data_lancamento": "2025-09-22",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "John Davidson: diagnosticado com Tourette aos 15 anos, descrito como insano por seus colegas, ele lutou contra uma condição que poucos haviam testemunhado. O filme retrata os desafios de crescer em uma família operária, o bullying na escola e a violência física que sofreu devido aos seus tiques. Quando adulto, ele fez campanha pela síndrome de Tourette, culminando com o recebimento de um MBE (Ordem do Império Britânico) da Rainha em 2019.",
+      "elenco": [
+        "Robert Aramayo",
+        "Maxine Peake",
+        "Peter Mullan",
+        "Shirley Henderson",
+        "Scott Ellis Watson",
+        "David Carlyle",
+        "Francesco Piacentini-Smith",
+        "Somerled Campbell"
+      ],
+      "diretor": "Kirk Jones",
+      "generos": [
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/oxUXflvmPc1dK9oIMK4qXiCIyD4.jpg",
+      "rt_critica": 97,
+      "rt_publico": null,
+      "metacritic": 73,
+      "imdb_publico": 8.4,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 97,
+          "metacritic": 73
+        }
+      ],
+      "pico_rt": 97,
+      "pico_metacritic": 73,
+      "atual_rt": 97,
+      "atual_metacritic": 73,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt31514146/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=I%20Swear",
+        "metacritic": "https://www.metacritic.com/search/I%20Swear/"
+      }
+    },
+    {
+      "tmdb_id": 1218925,
+      "imdb_id": "tt30472557",
+      "titulo_original": "劇場版 チェンソーマン レゼ篇",
+      "titulo_ingles": "Chainsaw Man - The Movie: Reze Arc",
+      "ano": 2025,
+      "data_lancamento": "2025-09-19",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Denji trabalhava como Caçador de Demônios para a yakuza, tentando pagar a dívida que herdou de seus pais, até que um dia, ele é traído e morre. Em seus últimos momentos de consciência, ele forma um pacto com Pochita e essa fusão cria o Homem-Motosserra. Agora, em uma guerra brutal contra demônios, caçadores e inimigos secretos, uma garota misteriosa chamada Reze entrou em seu universo e Denji precisa enfrentar sua batalha mais perigosa até hoje, movido pelo amor em um mundo onde a sobrevivência não conhece regras.",
+      "elenco": [
+        "Kikunosuke Toya",
+        "Tomori Kusunoki",
+        "Reina Ueda",
+        "Shogo Sakata",
+        "高橋花林",
+        "Fairouz Ai",
+        "Natsuki Hanae",
+        "Maaya Uchida"
+      ],
+      "diretor": "吉原達矢",
+      "generos": [
+        "Animação",
+        "Ação",
+        "Romance",
+        "Fantasia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/tj1XhCQ2Rw2sT2o7lIdqPIYvjsx.jpg",
+      "rt_critica": 96,
+      "rt_publico": null,
+      "metacritic": 71,
+      "imdb_publico": 8.4,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 96,
+          "metacritic": 71
+        }
+      ],
+      "pico_rt": 96,
+      "pico_metacritic": 71,
+      "atual_rt": 96,
+      "atual_metacritic": 71,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Crunchyroll",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
+          },
+          {
+            "nome": "Crunchyroll Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pgjz7bzfBq4nFDu8JJDLBoUVAX8.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1218925/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt30472557/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Chainsaw%20Man%20-%20The%20Movie%3A%20Reze%20Arc",
+        "metacritic": "https://www.metacritic.com/search/Chainsaw%20Man%20-%20The%20Movie%3A%20Reze%20Arc/"
+      }
+    },
+    {
+      "tmdb_id": 604079,
+      "imdb_id": "tt10374610",
+      "titulo_original": "The Long Walk",
+      "titulo_ingles": "The Long Walk",
+      "ano": 2025,
+      "data_lancamento": "2025-09-10",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Um grupo de adolescentes compete em uma competição anual conhecida como \"A Longa Marcha\", onde eles devem manter uma certa velocidade de caminhada ou levar um tiro.",
+      "elenco": [
+        "Cooper Hoffman",
+        "David Jonsson",
+        "Ben Wang",
+        "Tut Nyuot",
+        "Charlie Plummer",
+        "Garrett Wareing",
+        "Jordan Gonzalez",
+        "Joshua Odjick"
+      ],
+      "diretor": "Francis Lawrence",
+      "generos": [
+        "Ficção científica",
+        "Thriller",
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qE0XKOHZvXtiM4aBLlTPUVZiIc5.jpg",
+      "rt_critica": 88,
+      "rt_publico": null,
+      "metacritic": 71,
+      "imdb_publico": 6.7,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 88,
+          "metacritic": 71
+        }
+      ],
+      "pico_rt": 88,
+      "pico_metacritic": 71,
+      "atual_rt": 88,
+      "atual_metacritic": 71,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Telecine Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/9kcTsX2laYclN4bFiMH3RuhZel2.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/604079-the-long-walk/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt10374610/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Long%20Walk",
+        "metacritic": "https://www.metacritic.com/search/The%20Long%20Walk/"
+      }
+    },
+    {
+      "tmdb_id": 1408208,
+      "imdb_id": "tt35222590",
+      "titulo_original": "８番出口",
+      "titulo_ingles": "Exit 8",
+      "ano": 2025,
+      "data_lancamento": "2025-08-28",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Um homem fica preso em uma passagem infinita de metrô e precisa encontrar a Saída 8 para escapar. Para avançar, ele deve observar tudo com atenção: se notar qualquer anomalia, deve voltar imediatamente; se não houver nada estranho, deve continuar. Porém, qualquer erro o faz retornar ao início da jornada. Será que ele alcançará seu objetivo e escapará deste corredor infinito?",
+      "elenco": [
+        "Kazunari Ninomiya",
+        "河内大和",
+        "小松菜奈",
+        "浅沼成",
+        "花瀬琴音",
+        "大塚ヒロタ",
+        "中島多羅",
+        "曽田怜央"
+      ],
+      "diretor": "川村元気",
+      "generos": [
+        "Terror",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/naszJRWpzgbrR9vdifVoQ9IpNqW.jpg",
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 69,
+      "imdb_publico": 6.4,
+      "criterio_qualificacao": "metacritic",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": null,
+          "metacritic": 69
+        }
+      ],
+      "pico_rt": null,
+      "pico_metacritic": 69,
+      "atual_rt": null,
+      "atual_metacritic": 69,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35222590/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Exit%208",
+        "metacritic": "https://www.metacritic.com/search/Exit%208/"
+      }
+    },
+    {
+      "tmdb_id": 1419406,
+      "imdb_id": "tt34610311",
+      "titulo_original": "捕风追影",
+      "titulo_ingles": "The Shadow's Edge",
+      "ano": 2025,
+      "data_lancamento": "2025-08-16",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Um policial aposentado, especialista em rastreamento, é convocado de volta à ativa em Macau para desmantelar uma gangue de ladrões de alta tecnologia, colocando suas táticas tradicionais contra a tecnologia avançada, num jogo de gato e rato com uma equipe de jovens detetives de elite.",
+      "elenco": [
+        "Jackie Chan",
+        "张子枫",
+        "梁家輝",
+        "此沙",
+        "文俊辉",
+        "周政杰",
+        "王杍逸",
+        "郎月婷"
+      ],
+      "diretor": "杨子",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/wqdHjQ1UpfQgS9jN9So5PLNTwoX.jpg",
+      "rt_critica": 83,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": 7.1,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 83,
+          "metacritic": null
+        }
+      ],
+      "pico_rt": 83,
+      "pico_metacritic": null,
+      "atual_rt": 83,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34610311/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Shadow's%20Edge",
+        "metacritic": "https://www.metacritic.com/search/The%20Shadow's%20Edge/"
+      }
+    },
+    {
+      "tmdb_id": 1007734,
+      "imdb_id": "tt28996126",
+      "titulo_original": "Nobody 2",
+      "titulo_ingles": "Nobody 2",
+      "ano": 2025,
+      "data_lancamento": "2025-08-13",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "O pai suburbano Hutch Mansell, ex-assassino letal, é levado de volta ao seu passado violento depois de impedir uma invasão domiciliar, desencadeando uma cadeia de eventos que revela segredos sobre o passado de sua esposa Becca.",
+      "elenco": [
+        "Bob Odenkirk",
+        "Connie Nielsen",
+        "John Ortiz",
+        "Colin Hanks",
+        "RZA",
+        "Colin Salmon",
+        "Christopher Lloyd",
+        "Sharon Stone"
+      ],
+      "diretor": "Timo Tjahjanto",
+      "generos": [
+        "Ação",
+        "Thriller",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/6ObRyIQHJAY2X575hLVgKsnNlar.jpg",
+      "rt_critica": 76,
+      "rt_publico": null,
+      "metacritic": 59,
+      "imdb_publico": 6.3,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 76,
+          "metacritic": 59
+        }
+      ],
+      "pico_rt": 76,
+      "pico_metacritic": 59,
+      "atual_rt": 76,
+      "atual_metacritic": 59,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1007734-nobody-2/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt28996126/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Nobody%202",
+        "metacritic": "https://www.metacritic.com/search/Nobody%202/"
+      }
+    },
+    {
+      "tmdb_id": 1125257,
+      "imdb_id": "tt31956415",
+      "titulo_original": "Freakier Friday",
+      "titulo_ingles": "Freakier Friday",
+      "ano": 2025,
+      "data_lancamento": "2025-08-06",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "A história continua anos depois de Tess e Anna passarem por uma crise de identidade. Agora, Anna é mãe e tem uma futura enteada, enfrentando os desafios de unir duas famílias. No entanto, Tess e Anna logo descobrem que, sim, um raio pode cair duas vezes no mesmo lugar.",
+      "elenco": [
+        "Lindsay Lohan",
+        "Jamie Lee Curtis",
+        "Julia Butters",
+        "Sophia Hammons",
+        "Manny Jacinto",
+        "Mark Harmon",
+        "Chad Michael Murray",
+        "Vanessa Bayer"
+      ],
+      "diretor": "Nisha Ganatra",
+      "generos": [
+        "Comédia",
+        "Fantasia",
+        "Família"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/zAeOSpIY5FfaF4RhuZgUWyWF0VH.jpg",
+      "rt_critica": 73,
+      "rt_publico": null,
+      "metacritic": 60,
+      "imdb_publico": 6.2,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 73,
+          "metacritic": 60
+        }
+      ],
+      "pico_rt": 73,
+      "pico_metacritic": 60,
+      "atual_rt": 73,
+      "atual_metacritic": 60,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1125257-freakier-friday/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt31956415/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Freakier%20Friday",
+        "metacritic": "https://www.metacritic.com/search/Freakier%20Friday/"
+      }
+    },
+    {
+      "tmdb_id": 1078605,
+      "imdb_id": "tt26581740",
+      "titulo_original": "Weapons",
+      "titulo_ingles": "Weapons",
+      "ano": 2025,
+      "data_lancamento": "2025-08-04",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Quando todas as crianças de uma mesma classe, exceto uma, somem misteriosamente, na mesma noite e exatamente ao mesmo tempo, todos da cidade começam a se questionar quem ou o que está por trás deste estranho desaparecimento.",
+      "elenco": [
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
+      ],
+      "diretor": "Zach Cregger",
+      "generos": [
+        "Terror",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/psEJSjQr6I9GSJTdW28CKC4Kffs.jpg",
+      "rt_critica": 93,
+      "rt_publico": null,
+      "metacritic": 81,
+      "imdb_publico": 7.4,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 93,
+          "metacritic": 81
+        }
+      ],
+      "pico_rt": 93,
+      "pico_metacritic": 81,
+      "atual_rt": 93,
+      "atual_metacritic": 81,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "HBO Max",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          },
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "HBO Max Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1078605-weapons/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt26581740/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Weapons",
+        "metacritic": "https://www.metacritic.com/search/Weapons/"
+      }
+    },
+    {
+      "tmdb_id": 1035259,
+      "imdb_id": "tt3402138",
+      "titulo_original": "The Naked Gun",
+      "titulo_ingles": "The Naked Gun",
+      "ano": 2025,
+      "data_lancamento": "2025-07-30",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Apenas um homem tem as habilidades necessárias para liderar o Esquadrão Policial e salvar o mundo.",
+      "elenco": [
+        "Liam Neeson",
+        "Pamela Anderson",
+        "Paul Walter Hauser",
+        "Danny Huston",
+        "CCH Pounder",
+        "Kevin Durand",
+        "Liza Koshy",
+        "Eddie Yu"
+      ],
+      "diretor": "Akiva Schaffer",
+      "generos": [
+        "Ação",
+        "Comédia",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vDN8VDEQjh8QBEeT7C6Ml5Uqln8.jpg",
+      "rt_critica": 87,
+      "rt_publico": null,
+      "metacritic": 75,
+      "imdb_publico": 6.3,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 87,
+          "metacritic": 75
+        }
+      ],
+      "pico_rt": 87,
+      "pico_metacritic": 75,
+      "atual_rt": 87,
+      "atual_metacritic": 75,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1035259-the-naked-gun/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt3402138/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Naked%20Gun",
+        "metacritic": "https://www.metacritic.com/search/The%20Naked%20Gun/"
+      }
+    },
+    {
+      "tmdb_id": 1175942,
+      "imdb_id": "tt30017619",
+      "titulo_original": "The Bad Guys 2",
+      "titulo_ingles": "The Bad Guys 2",
+      "ano": 2025,
+      "data_lancamento": "2025-07-24",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Os agora reformados Bad Guys estão tentando (muito, muito mesmo) ser bons, mas em vez disso se veem sequestrados para um assalto de alto risco e alcance mundial, arquitetado por uma nova equipe de criminosos que eles nunca imaginaram: as Bad Girls.",
+      "elenco": [
+        "Sam Rockwell",
+        "Marc Maron",
+        "Awkwafina",
+        "Craig Robinson",
+        "Anthony Ramos",
+        "Zazie Beetz",
+        "Danielle Brooks",
+        "Natasha Lyonne"
+      ],
+      "diretor": "Pierre Perifel",
+      "generos": [
+        "Família",
+        "Comédia",
+        "Crime",
+        "Aventura",
+        "Animação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/dbpNAldCtWjotI4vEiphPrz8DJh.jpg",
+      "rt_critica": 87,
+      "rt_publico": null,
+      "metacritic": 64,
+      "imdb_publico": 7,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 87,
+          "metacritic": 64
+        }
+      ],
+      "pico_rt": 87,
+      "pico_metacritic": 64,
+      "atual_rt": 87,
+      "atual_metacritic": 64,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1175942-the-bad-guys-2/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt30017619/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Bad%20Guys%202",
+        "metacritic": "https://www.metacritic.com/search/The%20Bad%20Guys%202/"
+      }
+    },
+    {
+      "tmdb_id": 617126,
+      "imdb_id": "tt10676052",
+      "titulo_original": "The Fantastic 4: First Steps",
+      "titulo_ingles": "The Fantastic 4: First Steps",
+      "ano": 2025,
+      "data_lancamento": "2025-07-23",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "No vibrante cenário de um mundo retrofuturista inspirado nos anos 1960, a Primeira Família da Marvel é forçada a equilibrar seus papéis como heróis com a força de seus laços familiares, enquanto defendem a Terra de um deus espacial voraz chamado Galactus e sua enigmática arauta, a Surfista Prateada.",
+      "elenco": [
+        "Pedro Pascal",
+        "Vanessa Kirby",
+        "Ebon Moss-Bachrach",
+        "Joseph Quinn",
+        "Ralph Ineson",
+        "Julia Garner",
+        "Paul Walter Hauser",
+        "Natasha Lyonne"
+      ],
+      "diretor": "Matt Shakman",
+      "generos": [
+        "Ficção científica",
+        "Aventura",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/8F2vIxWycANHW763lnx2hJVtjDC.jpg",
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 65,
+      "imdb_publico": 6.8,
+      "criterio_qualificacao": "metacritic",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": null,
+          "metacritic": 65
+        }
+      ],
+      "pico_rt": null,
+      "pico_metacritic": 65,
+      "atual_rt": null,
+      "atual_metacritic": 65,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/617126-the-fantastic-4-first-steps/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt10676052/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Fantastic%204%3A%20First%20Steps",
+        "metacritic": "https://www.metacritic.com/search/The%20Fantastic%204%3A%20First%20Steps/"
+      }
+    },
+    {
+      "tmdb_id": 1311031,
+      "imdb_id": "tt32820897",
+      "titulo_original": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "titulo_ingles": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "ano": 2025,
+      "data_lancamento": "2025-07-18",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Enquanto os membros dos caçadores e os Hashira participavam de um rigoroso programa de fortalecimento coletivo, conhecido como Treinamento dos Hashira, em preparação para a batalha final contra os demônios, Muzan Kibutsuji aparece na Mansão Ubuyashiki. Com a vida do líder da organização em risco, Tanjiro e os Hashira correm até o quartel-general, mas acabam sendo lançados, pelas mãos de Muzan, em uma queda profunda rumo a um espaço misterioso para um confronto final, o Castelo Infinito.",
+      "elenco": [
+        "Natsuki Hanae",
+        "Takahiro Sakurai",
+        "Akira Ishida",
+        "Hiro Shimono",
+        "Yoshimasa Hosoya",
+        "Saori Hayami",
+        "Mamoru Miyano",
+        "Reina Ueda"
+      ],
+      "diretor": "外崎春雄",
+      "generos": [
+        "Animação",
+        "Ação",
+        "Fantasia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/c55sXCaQBj3vuHqZe62tv90xCQS.jpg",
+      "rt_critica": 98,
+      "rt_publico": null,
+      "metacritic": 67,
+      "imdb_publico": 8.4,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 98,
+          "metacritic": 67
+        }
+      ],
+      "pico_rt": 98,
+      "pico_metacritic": 67,
+      "atual_rt": 98,
+      "atual_metacritic": 67,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32820897/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Demon%20Slayer%3A%20Kimetsu%20no%20Yaiba%20Infinity%20Castle",
+        "metacritic": "https://www.metacritic.com/search/Demon%20Slayer%3A%20Kimetsu%20no%20Yaiba%20Infinity%20Castle/"
+      }
+    },
+    {
+      "tmdb_id": 1242011,
+      "imdb_id": "tt31184028",
+      "titulo_original": "Together",
+      "titulo_ingles": "Together",
+      "ano": 2025,
+      "data_lancamento": "2025-07-14",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "O que poderia ser uma oportunidade para recomeçar logo se transforma em um verdadeiro pesadelo, quando uma força sobrenatural começa a corromper sua relação, suas mentes e seus corpos. À medida que se afastam de tudo o que conheciam, o casal descobre que, para permanecerem juntos, terão que enfrentar um horror muito maior do que o que os separava.",
+      "elenco": [
+        "Dave Franco",
+        "Alison Brie",
+        "Damon Herriman",
+        "Mia Morrissey",
+        "Karl Richmond",
+        "Jack Kenny",
+        "Francesca Waters",
+        "Aljin Abella"
+      ],
+      "diretor": "Michael Shanks",
+      "generos": [
+        "Terror",
+        "Romance"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/m9jfOWLuyYejyJX17wRFUQGtUji.jpg",
+      "rt_critica": 90,
+      "rt_publico": null,
+      "metacritic": 75,
+      "imdb_publico": 6.7,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 90,
+          "metacritic": 75
+        }
+      ],
+      "pico_rt": 90,
+      "pico_metacritic": 75,
+      "atual_rt": 90,
+      "atual_metacritic": 75,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1242011-together/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt31184028/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Together",
+        "metacritic": "https://www.metacritic.com/search/Together/"
+      }
+    },
+    {
+      "tmdb_id": 1061474,
+      "imdb_id": "tt5950044",
+      "titulo_original": "Superman",
+      "titulo_ingles": "Superman",
+      "ano": 2025,
+      "data_lancamento": "2025-07-09",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Superman, um jovem repórter de Metrópolis, embarca em uma jornada para reconciliar sua herança kryptoniana com sua criação humana como Clark Kent.",
+      "elenco": [
+        "David Corenswet",
+        "Rachel Brosnahan",
+        "Nicholas Hoult",
+        "Edi Gathegi",
+        "Nathan Fillion",
+        "Isabela Merced",
+        "María Gabriela de Faría",
+        "Skyler Gisondo"
+      ],
+      "diretor": "James Gunn",
+      "generos": [
+        "Ficção científica",
+        "Aventura",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/xeZ8oG6W60fEPf9yCjERUXiHRBF.jpg",
+      "rt_critica": 83,
+      "rt_publico": null,
+      "metacritic": 68,
+      "imdb_publico": 7,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 83,
+          "metacritic": 68
+        }
+      ],
+      "pico_rt": 83,
+      "pico_metacritic": 68,
+      "atual_rt": 83,
+      "atual_metacritic": 68,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "HBO Max",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          },
+          {
+            "nome": "HBO Max Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1061474-superman/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt5950044/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Superman",
+        "metacritic": "https://www.metacritic.com/search/Superman/"
+      }
+    },
+    {
+      "tmdb_id": 911430,
+      "imdb_id": "tt16311594",
+      "titulo_original": "F1",
+      "titulo_ingles": "F1",
+      "ano": 2025,
+      "data_lancamento": "2025-06-25",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Sonny Hayes, a lenda do automobilismo, é persuadido a deixar a aposentadoria para liderar uma equipe de Fórmula 1 em dificuldades—e ser mentor de um jovem piloto famoso—enquanto busca mais uma oportunidade de glória.",
+      "elenco": [
+        "Brad Pitt",
+        "Damson Idris",
+        "Javier Bardem",
+        "Kerry Condon",
+        "Tobias Menzies",
+        "Kim Bodnia",
+        "Sarah Niles",
+        "Will Merrick"
+      ],
+      "diretor": "Joseph Kosinski",
+      "generos": [
+        "Ação",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/fMcY5hpVZQ0cLKHvFM1mo6GrAr0.jpg",
+      "rt_critica": 82,
+      "rt_publico": null,
+      "metacritic": 68,
+      "imdb_publico": 7.6,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 82,
+          "metacritic": 68
+        }
+      ],
+      "pico_rt": 82,
+      "pico_metacritic": 68,
+      "atual_rt": 82,
+      "atual_metacritic": 68,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Apple TV",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/mcbz1LgtErU9p4UdbZ0rG6RTWHX.jpg"
+          },
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "Apple TV Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/mHrYMgnZIp6lgW2aXg7ix9zGOnA.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/911430-f1/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt16311594/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=F1",
+        "metacritic": "https://www.metacritic.com/search/F1/"
+      }
+    },
+    {
+      "tmdb_id": 803796,
+      "imdb_id": "tt14205554",
+      "titulo_original": "KPop Demon Hunters",
+      "titulo_ingles": "KPop Demon Hunters",
+      "ano": 2025,
+      "data_lancamento": "2025-06-20",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Quando não estão lotando estádios, as estrelas do K-pop Rumi, Mira e Zoey usam seus poderes secretos para proteger os fãs contra ameaças sobrenaturais.",
+      "elenco": [
+        "Arden Cho",
+        "May Hong",
+        "Ji-young Yoo",
+        "Ahn Hyo-seop",
+        "김윤진",
+        "Ken Jeong",
+        "Lee Byung-hun",
+        "Daniel Dae Kim"
+      ],
+      "diretor": "Chris Appelhans, Maggie Kang",
+      "generos": [
+        "Fantasia",
+        "Música",
+        "Comédia",
+        "Animação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/gbdMa7woiuF7IiEB5Spwv5od4oo.jpg",
+      "rt_critica": 91,
+      "rt_publico": null,
+      "metacritic": 77,
+      "imdb_publico": 7.4,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 91,
+          "metacritic": 77
+        }
+      ],
+      "pico_rt": 91,
+      "pico_metacritic": 77,
+      "atual_rt": 91,
+      "atual_metacritic": 77,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/803796-kpop-demon-hunters/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt14205554/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=KPop%20Demon%20Hunters",
+        "metacritic": "https://www.metacritic.com/search/KPop%20Demon%20Hunters/"
+      }
+    },
+    {
+      "tmdb_id": 1022787,
+      "imdb_id": "tt4900148",
+      "titulo_original": "Elio",
+      "titulo_ingles": "Elio",
+      "ano": 2025,
+      "data_lancamento": "2025-06-18",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Elio, um garoto oprimido com uma imaginação fértil, acaba sendo transportado acidentalmente para o Comuniverso. Identificado por engano como o embaixador da Terra para o resto do universo, Elio precisará formar novos laços com excêntricas formas de vida alienígenas, sobreviver a uma série de tribulações terríveis e, de alguma forma, descobrir quem ele realmente está destinado a ser.",
+      "elenco": [
+        "Yonas Kibreab",
+        "Remy Edgerly",
+        "Zoe Saldaña",
+        "Brad Garrett",
+        "Brandon Moon",
+        "Jameela Jamil",
+        "Young Dylan",
+        "Jake T. Getman"
+      ],
+      "diretor": "Domee Shi, Madeline Sharafian, Adrian Molina",
+      "generos": [
+        "Aventura",
+        "Animação",
+        "Comédia",
+        "Família",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/2H8k54MWPQtsxWkQhR2HVfT34ty.jpg",
+      "rt_critica": 83,
+      "rt_publico": null,
+      "metacritic": 66,
+      "imdb_publico": 6.6,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 83,
+          "metacritic": 66
+        }
+      ],
+      "pico_rt": 83,
+      "pico_metacritic": 66,
+      "atual_rt": 83,
+      "atual_metacritic": 66,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1022787-elio/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt4900148/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Elio",
+        "metacritic": "https://www.metacritic.com/search/Elio/"
+      }
+    },
+    {
+      "tmdb_id": 1100988,
+      "imdb_id": "tt10548174",
+      "titulo_original": "28 Years Later",
+      "titulo_ingles": "28 Years Later",
+      "ano": 2025,
+      "data_lancamento": "2025-06-18",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Já se passaram quase três décadas desde que o vírus da raiva escapou de um laboratório de armas biológicas. Agora, sob uma quarentena rigidamente imposta, alguns conseguiram encontrar maneiras de sobreviver em meio aos infectados. Um desses grupos vive em uma pequena ilha, ligada ao continente por uma única passagem fortemente protegida. Quando um dos membros parte em uma missão rumo ao sombrio coração do continente, ele descobre segredos, maravilhas e horrores que transformaram não apenas os infectados, mas também outros sobreviventes.",
+      "elenco": [
+        "Jodie Comer",
+        "Aaron Taylor-Johnson",
+        "Alfie Williams",
+        "Ralph Fiennes",
+        "Jack O'Connell",
+        "Chi Lewis-Parry",
+        "Edvin Ryding",
+        "Christopher Fulford"
+      ],
+      "diretor": "Danny Boyle",
+      "generos": [
+        "Terror",
+        "Thriller",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/2K5LCXOqlbzRu7mWHbDnLdDQj6I.jpg",
+      "rt_critica": 88,
+      "rt_publico": null,
+      "metacritic": 77,
+      "imdb_publico": 6.6,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 88,
+          "metacritic": 77
+        }
+      ],
+      "pico_rt": 88,
+      "pico_metacritic": 77,
+      "atual_rt": 88,
+      "atual_metacritic": 77,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "HBO Max",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          },
+          {
+            "nome": "HBO Max Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1100988-28-years-later/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt10548174/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=28%20Years%20Later",
+        "metacritic": "https://www.metacritic.com/search/28%20Years%20Later/"
+      }
+    },
+    {
+      "tmdb_id": 1087192,
+      "imdb_id": "tt26743210",
+      "titulo_original": "How to Train Your Dragon",
+      "titulo_ingles": "How to Train Your Dragon",
+      "ano": 2025,
+      "data_lancamento": "2025-06-06",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Na montanhosa Ilha de Berk, vikings e dragões são inimigos implacáveis há gerações, mas Soluço é diferente. Filho do Chefe Stoico, o Imenso, o criativo e subestimado Soluço desafia séculos de tradição ao fazer amizade com Banguela, um temido dragão Fúria da Noite. Essa relação improvável revela a verdadeira natureza dos dragões, abalando as bases da sociedade viking.",
+      "elenco": [
+        "Mason Thames",
+        "Nico Parker",
+        "Gerard Butler",
+        "Nick Frost",
+        "Gabriel Howell",
+        "Julian Dennison",
+        "Bronwyn James",
+        "Harry Trevaldwyn"
+      ],
+      "diretor": "Dean DeBlois",
+      "generos": [
+        "Fantasia",
+        "Família",
+        "Ação",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vdvEClt3J8sFWxyMo0Jm7JpouEo.jpg",
+      "rt_critica": 77,
+      "rt_publico": null,
+      "metacritic": 61,
+      "imdb_publico": 7.7,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 77,
+          "metacritic": 61
+        }
+      ],
+      "pico_rt": 77,
+      "pico_metacritic": 61,
+      "atual_rt": 77,
+      "atual_metacritic": 61,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          },
+          {
+            "nome": "Claro video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/21M5CpiOYGOhHj2sVPXqwt6yeTO.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1087192-how-to-train-your-dragon/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt26743210/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=How%20to%20Train%20Your%20Dragon",
+        "metacritic": "https://www.metacritic.com/search/How%20to%20Train%20Your%20Dragon/"
+      }
+    },
+    {
+      "tmdb_id": 1151031,
+      "imdb_id": "tt32246771",
+      "titulo_original": "Bring Her Back",
+      "titulo_ingles": "Bring Her Back",
+      "ano": 2025,
+      "data_lancamento": "2025-05-19",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Dois meios-irmãos, Andy e Piper, têm suas vidas viradas de cabeça para baixo após encontrarem o pai morto no banheiro, o que os leva a um lar adotivo. Eles são alocados para a casa de Laura, uma conselheira pedagógica excêntrica que se torna sua nova guardiã, e que também adota um jovem mudo chamado Oliver. Longe da cidade grande, o imóvel onde os irmãos passam a viver esconde segredos sinistros. A descoberta de um ritual aterrorizante nesse local ameaça destruir para sempre o vínculo entre Andy e Piper, transformando a relação fraterna em uma dor profunda.",
+      "elenco": [
+        "Billy Barratt",
+        "Sally Hawkins",
+        "Mischa Heywood",
+        "Jonah Wren Phillips",
+        "Stephen Phillips",
+        "Sally-Anne Upton",
+        "Sora Wong",
+        "Kathryn Adams"
+      ],
+      "diretor": "Michael Philippou, Danny Philippou",
+      "generos": [
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/xfmnUz6C5WRboIMQZD0j3SNDT7v.jpg",
+      "rt_critica": 89,
+      "rt_publico": null,
+      "metacritic": 75,
+      "imdb_publico": 7.1,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 89,
+          "metacritic": 75
+        }
+      ],
+      "pico_rt": 89,
+      "pico_metacritic": 75,
+      "atual_rt": 89,
+      "atual_metacritic": 75,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "HBO Max",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          },
+          {
+            "nome": "HBO Max Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+          },
+          {
+            "nome": "Claro video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/21M5CpiOYGOhHj2sVPXqwt6yeTO.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1151031-bring-her-back/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32246771/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Bring%20Her%20Back",
+        "metacritic": "https://www.metacritic.com/search/Bring%20Her%20Back/"
+      }
+    },
+    {
+      "tmdb_id": 552524,
+      "imdb_id": "tt11655566",
+      "titulo_original": "Lilo & Stitch",
+      "titulo_ingles": "Lilo & Stitch",
+      "ano": 2025,
+      "data_lancamento": "2025-05-17",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Stitch, um alienígena, chega ao planeta Terra após fugir de sua prisão e tenta se passar por um cachorro para se camuflar. As coisas mudam quando Lilo, uma travessa menina, o adota de um abrigo de animais. Juntos, eles aprendem os valores da amizade e família.",
+      "elenco": [
+        "Maia Kealoha",
+        "Sydney Agudong",
+        "Chris Sanders",
+        "Zach Galifianakis",
+        "Billy Magnussen",
+        "Courtney B. Vance",
+        "Amy Hill",
+        "Tia Carrere"
+      ],
+      "diretor": "Dean Fleischer Camp",
+      "generos": [
+        "Família",
+        "Ficção científica",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/m58Oxr3OZZbP2kTX2tj8TiAMLSv.jpg",
+      "rt_critica": 73,
+      "rt_publico": null,
+      "metacritic": 53,
+      "imdb_publico": 6.7,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 73,
+          "metacritic": 53
+        }
+      ],
+      "pico_rt": 73,
+      "pico_metacritic": 53,
+      "atual_rt": 73,
+      "atual_metacritic": 53,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/552524-lilo-stitch/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt11655566/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Lilo%20%26%20Stitch",
+        "metacritic": "https://www.metacritic.com/search/Lilo%20%26%20Stitch/"
+      }
+    },
+    {
+      "tmdb_id": 575265,
+      "imdb_id": "tt9603208",
+      "titulo_original": "Mission: Impossible - The Final Reckoning",
+      "titulo_ingles": "Mission: Impossible - The Final Reckoning",
+      "ano": 2025,
+      "data_lancamento": "2025-05-17",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Depois de escapar de um acidente de trem calamitoso, Ethan percebe que a Entidade está escondida a bordo de um antigo submarino russo, mas um inimigo do seu passado chamado Gabriel também está no encalço.",
+      "elenco": [
+        "Tom Cruise",
+        "Hayley Atwell",
+        "Ving Rhames",
+        "Simon Pegg",
+        "Esai Morales",
+        "Pom Klementieff",
+        "Henry Czerny",
+        "Holt McCallany"
+      ],
+      "diretor": "Christopher McQuarrie",
+      "generos": [
+        "Ação",
+        "Thriller",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/yKQjrwgEkPOGel3JKT2neJzu0jh.jpg",
+      "rt_critica": 80,
+      "rt_publico": null,
+      "metacritic": 67,
+      "imdb_publico": 7.1,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 80,
+          "metacritic": 67
+        }
+      ],
+      "pico_rt": 80,
+      "pico_metacritic": 67,
+      "atual_rt": 80,
+      "atual_metacritic": 67,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          },
+          {
+            "nome": "Claro video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/21M5CpiOYGOhHj2sVPXqwt6yeTO.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt9603208/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mission%3A%20Impossible%20-%20The%20Final%20Reckoning",
+        "metacritic": "https://www.metacritic.com/search/Mission%3A%20Impossible%20-%20The%20Final%20Reckoning/"
+      }
+    },
+    {
+      "tmdb_id": 574475,
+      "imdb_id": "tt9619824",
+      "titulo_original": "Final Destination Bloodlines",
+      "titulo_ingles": "Final Destination Bloodlines",
+      "ano": 2025,
+      "data_lancamento": "2025-05-14",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Atormentada por um pesadelo violento recorrente, a estudante universitária Stefanie volta para casa para encontrar a única pessoa que pode quebrar o ciclo e salvar sua família do destino horrível que inevitavelmente os aguarda.",
+      "elenco": [
+        "Kaitlyn Santa Juana",
+        "Teo Briones",
+        "Rya Kihlstedt",
+        "Richard Harmon",
+        "Owen Patrick Joyner",
+        "Anna Lore",
+        "Alex Zahara",
+        "April Telek"
+      ],
+      "diretor": "Adam B. Stein, Zach Lipovsky",
+      "generos": [
+        "Terror",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/x3J781PsdMrjenzQKM5eJXqK5Nd.jpg",
+      "rt_critica": 92,
+      "rt_publico": null,
+      "metacritic": 73,
+      "imdb_publico": 6.7,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 92,
+          "metacritic": 73
+        }
+      ],
+      "pico_rt": 92,
+      "pico_metacritic": 73,
+      "atual_rt": 92,
+      "atual_metacritic": 73,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "HBO Max",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          },
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "HBO Max Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/574475-final-destination-bloodlines/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt9619824/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Final%20Destination%20Bloodlines",
+        "metacritic": "https://www.metacritic.com/search/Final%20Destination%20Bloodlines/"
+      }
+    },
+    {
+      "tmdb_id": 986056,
+      "imdb_id": "tt20969586",
+      "titulo_original": "Thunderbolts*",
+      "titulo_ingles": "Thunderbolts*",
+      "ano": 2025,
+      "data_lancamento": "2025-04-30",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Depois de se verem presos em uma armadilha mortal, uma equipe não convencional de sete anti-heróis deve embarcar em uma missão perigosa que os forçará a confrontar os cantos mais sombrios de seus passados.",
+      "elenco": [
+        "Florence Pugh",
+        "Sebastian Stan",
+        "Julia Louis-Dreyfus",
+        "Lewis Pullman",
+        "David Harbour",
+        "Wyatt Russell",
+        "Hannah John-Kamen",
+        "Olga Kurylenko"
+      ],
+      "diretor": "Jake Schreier",
+      "generos": [
+        "Ação",
+        "Ficção científica",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/3cME244QKWg5mAvcsmthmtx7VR1.jpg",
+      "rt_critica": 88,
+      "rt_publico": null,
+      "metacritic": 68,
+      "imdb_publico": 7.1,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 88,
+          "metacritic": 68
+        }
+      ],
+      "pico_rt": 88,
+      "pico_metacritic": 68,
+      "atual_rt": 88,
+      "atual_metacritic": 68,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/986056-thunderbolts/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt20969586/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Thunderbolts*",
+        "metacritic": "https://www.metacritic.com/search/Thunderbolts*/"
+      }
+    },
+    {
+      "tmdb_id": 870028,
+      "imdb_id": "tt7068946",
+      "titulo_original": "The Accountant²",
+      "titulo_ingles": "The Accountant²",
+      "ano": 2025,
+      "data_lancamento": "2025-04-23",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Quando um conhecido é assassinado, deixando para trás uma mensagem enigmática, Christian Wolff se sente compelido a resolver o caso. Percebendo que medidas extremas são necessárias, Wolff recruta seu irmão distante e altamente letal, Brax, e os dois descobrem uma conspiração mortal, tornando-se alvos de uma rede de assassinos.",
+      "elenco": [
+        "Ben Affleck",
+        "Jon Bernthal",
+        "Cynthia Addai-Robinson",
+        "J.K. Simmons",
+        "Allison Robertson",
+        "Alison Wright",
+        "Daniella Pineda",
+        "Robert Morgan"
+      ],
+      "diretor": "Gavin O'Connor",
+      "generos": [
+        "Mistério",
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qVpB7Y2tX9pbMzQW016qSWQ7OD5.jpg",
+      "rt_critica": 75,
+      "rt_publico": null,
+      "metacritic": 58,
+      "imdb_publico": 6.6,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 75,
+          "metacritic": 58
+        }
+      ],
+      "pico_rt": 75,
+      "pico_metacritic": 58,
+      "atual_rt": 75,
+      "atual_metacritic": 58,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/870028-the-accountant/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt7068946/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Accountant%C2%B2",
+        "metacritic": "https://www.metacritic.com/search/The%20Accountant%C2%B2/"
+      }
+    },
+    {
+      "tmdb_id": 1233413,
+      "imdb_id": "tt31193180",
+      "titulo_original": "Sinners",
+      "titulo_ingles": "Sinners",
+      "ano": 2025,
+      "data_lancamento": "2025-04-16",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Dispostos a deixar suas vidas conturbadas para trás, irmãos gêmeos retornam à sua cidade natal para recomeçar suas vidas do zero, quando descobrem que um mal ainda maior está à espera deles para recebê-los de volta.",
+      "elenco": [
+        "Michael B. Jordan",
+        "Hailee Steinfeld",
+        "Miles Caton",
+        "Jack O'Connell",
+        "Wunmi Mosaku",
+        "Jayme Lawson",
+        "Omar Benson Miller",
+        "Delroy Lindo"
+      ],
+      "diretor": "Ryan Coogler",
+      "generos": [
+        "Terror",
+        "Ação",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/v0Ljeti537c6cNKweuEN0iaU3x4.jpg",
+      "rt_critica": 97,
+      "rt_publico": null,
+      "metacritic": 84,
+      "imdb_publico": 7.5,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 97,
+          "metacritic": 84
+        }
+      ],
+      "pico_rt": 97,
+      "pico_metacritic": 84,
+      "atual_rt": 97,
+      "atual_metacritic": 84,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "HBO Max",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          },
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "HBO Max Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1233413-sinners/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt31193180/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Sinners",
+        "metacritic": "https://www.metacritic.com/search/Sinners/"
+      }
+    },
+    {
+      "tmdb_id": 1284120,
+      "imdb_id": "tt29344903",
+      "titulo_original": "Den stygge stesøsteren",
+      "titulo_ingles": "The Ugly Stepsister",
+      "ano": 2025,
+      "data_lancamento": "2025-03-07",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Elvira, meia-irmã de Cinderela, vive com a família em um poderoso reino onde poucas coisas são tão importantes quanto a beleza. Ela recorre a medidas extremas para cativar o príncipe, em meio a uma competição implacável pela perfeição física.",
+      "elenco": [
+        "Lea Mathilde Skar-Myren",
+        "Ane Dahl Torp",
+        "Thea Sofie Loch Næss",
+        "Flo Fagerli",
+        "Isac Calmroth",
+        "Malte Gårdinger",
+        "Ralph Carlsson",
+        "Cecilia Forss"
+      ],
+      "diretor": "Emilie Blichfeldt",
+      "generos": [
+        "Terror",
+        "Comédia",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/2dEoQ2eWk3evQQBNUxPnZsPDq1N.jpg",
+      "rt_critica": 96,
+      "rt_publico": null,
+      "metacritic": 70,
+      "imdb_publico": 7,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 96,
+          "metacritic": 70
+        }
+      ],
+      "pico_rt": 96,
+      "pico_metacritic": 70,
+      "atual_rt": 96,
+      "atual_metacritic": 70,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "MUBI",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/x570VpH2C9EKDf1riP83rYc5dnL.jpg"
+          },
+          {
+            "nome": "MUBI Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/a4IDLKjvP5gvq7tNlg2Xw5YyEkI.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1284120-den-stygge-stesosteren/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt29344903/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Ugly%20Stepsister",
+        "metacritic": "https://www.metacritic.com/search/The%20Ugly%20Stepsister/"
+      }
+    },
+    {
+      "tmdb_id": 696506,
+      "imdb_id": "tt12299608",
+      "titulo_original": "Mickey 17",
+      "titulo_ingles": "Mickey 17",
+      "ano": 2025,
+      "data_lancamento": "2025-02-28",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Mickey faz parte de um programa espacial de colonização e sempre é enviado para missões perigosas, quase suicidas. Se morrer, ele é clonado e boa parte de suas memórias são recuperadas. Mas, após seis mortes, ele começa a entender o porquê de seu cargo nunca ter sido ocupado antes.",
+      "elenco": [
+        "Robert Pattinson",
+        "Naomi Ackie",
+        "Steven Yeun",
+        "Mark Ruffalo",
+        "Toni Collette",
+        "Anamaria Vartolomei",
+        "Daniel Henshall",
+        "Patsy Ferran"
+      ],
+      "diretor": "Bong Joon-Ho",
+      "generos": [
+        "Ficção científica",
+        "Comédia",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/is1U9n0e9ofg50U1T7p2WZuIwiO.jpg",
+      "rt_critica": 78,
+      "rt_publico": null,
+      "metacritic": 72,
+      "imdb_publico": 6.7,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 78,
+          "metacritic": 72
+        }
+      ],
+      "pico_rt": 78,
+      "pico_metacritic": 72,
+      "atual_rt": 78,
+      "atual_metacritic": 72,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "HBO Max",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          },
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "HBO Max Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/696506-mickey-17/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt12299608/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mickey%2017",
+        "metacritic": "https://www.metacritic.com/search/Mickey%2017/"
+      }
+    },
+    {
+      "tmdb_id": 980477,
+      "imdb_id": "tt34956443",
+      "titulo_original": "哪吒之魔童闹海",
+      "titulo_ingles": "Ne Zha 2",
+      "ano": 2025,
+      "data_lancamento": "2025-01-29",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Após uma grande catástrofe, as almas de Ne Zha e Ao Bing são salvas, mas seus corpos enfrentam a ruína. Para lhes dar uma nova vida, Taiyi Zhenren recorre à mística lótus de sete cores em uma ousada tentativa de reconstruí-los e mudar seus destinos.",
+      "elenco": [
+        "吕艳婷",
+        "囧森瑟夫",
+        "瀚墨",
+        "陈浩",
+        "绿绮",
+        "张珈铭",
+        "Yang Wei",
+        "王德顺"
+      ],
+      "diretor": "饺子",
+      "generos": [
+        "Animação",
+        "Ação",
+        "Fantasia",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/wJnb4ikygiVuYLuvj4b4Jpvudn1.jpg",
+      "rt_critica": 91,
+      "rt_publico": null,
+      "metacritic": 68,
+      "imdb_publico": 7.9,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 91,
+          "metacritic": 68
+        }
+      ],
+      "pico_rt": 91,
+      "pico_metacritic": 68,
+      "atual_rt": 91,
+      "atual_metacritic": 68,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/980477/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34956443/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ne%20Zha%202",
+        "metacritic": "https://www.metacritic.com/search/Ne%20Zha%202/"
+      }
+    },
+    {
+      "tmdb_id": 1084199,
+      "imdb_id": "tt26584495",
+      "titulo_original": "Companion",
+      "titulo_ingles": "Companion",
+      "ano": 2025,
+      "data_lancamento": "2025-01-22",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Josh e Iris parecem ser o casal ideal, até que um incidente mortal em uma viagem com amigos revela um segredo sombrio: Iris é uma androide criada para satisfazer Josh. E o que era para ser perfeito logo se torna incontrolável.",
+      "elenco": [
+        "Sophie Thatcher",
+        "Jack Quaid",
+        "Lukas Gage",
+        "Megan Suri",
+        "Harvey Guillén",
+        "Rupert Friend",
+        "Jaboukie Young-White",
+        "Matthew J. McCarthy"
+      ],
+      "diretor": "Drew Hancock",
+      "generos": [
+        "Terror",
+        "Ficção científica",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/7LbrEQvturE05hljvTCWST7rLQL.jpg",
+      "rt_critica": 93,
+      "rt_publico": null,
+      "metacritic": 70,
+      "imdb_publico": 6.9,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 93,
+          "metacritic": 70
+        }
+      ],
+      "pico_rt": 93,
+      "pico_metacritic": 70,
+      "atual_rt": 93,
+      "atual_metacritic": 70,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "HBO Max",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jbe4gVSfRlbPTdESXhEKpornsfu.jpg"
+          },
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
+            "nome": "HBO Max Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/embS4GPK7c8pjbuY2O2irV5rYch.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Google Play Movies",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Google Play Movies",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1084199-companion/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt26584495/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Companion",
+        "metacritic": "https://www.metacritic.com/search/Companion/"
+      }
+    }
+  ]
+}

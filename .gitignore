@@ -1,0 +1,22 @@
+# Dependências
+node_modules/
+
+# Build do front
+web/dist/
+
+# Cópia local do catálogo dentro do front (o canônico mora em /dados)
+web/public/catalogo.json
+
+# Segredos — NUNCA versionar chaves de API
+.env
+.env.local
+*.local
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
