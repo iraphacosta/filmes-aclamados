@@ -1,12 +1,16 @@
+import { IconeCheck, IconeMarcador } from "./icones";
+
+export type Lista = "todos" | "queroVer" | "assistidos" | "avaliados";
+
 interface Props {
   busca: string;
   onBusca: (v: string) => void;
   generos: string[];
   generoAtivo: string;
   onGenero: (g: string) => void;
-  soFavoritos: boolean;
-  onToggleFavoritos: () => void;
-  totalFavoritos: number;
+  lista: Lista;
+  onLista: (l: Lista) => void;
+  totais: { queroVer: number; assistidos: number; avaliados: number };
 }
 
 export function BarraTopo({
@@ -15,10 +19,12 @@ export function BarraTopo({
   generos,
   generoAtivo,
   onGenero,
-  soFavoritos,
-  onToggleFavoritos,
-  totalFavoritos,
+  lista,
+  onLista,
+  totais,
 }: Props) {
+  const alternar = (l: Lista) => onLista(lista === l ? "todos" : l);
+
   return (
     <div className="barra">
       <label className="busca">
@@ -46,22 +52,34 @@ export function BarraTopo({
           </select>
         </label>
 
-        <button
-          className={`toggle-fav ${soFavoritos ? "toggle-fav--ativo" : ""}`}
-          onClick={onToggleFavoritos}
-          aria-pressed={soFavoritos}
-        >
-          <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden>
-            <path
-              d="M12 21s-7.5-4.6-10-9.3C.4 8.4 2 5 5.3 5c2 0 3.4 1.1 4.2 2.3C10.3 6.1 11.7 5 13.7 5 17 5 18.6 8.4 17 11.7 14.5 16.4 12 21 12 21z"
-              fill={soFavoritos ? "currentColor" : "none"}
-              stroke="currentColor"
-              strokeWidth="1.6"
-            />
-          </svg>
-          Favoritos
-          {totalFavoritos > 0 && <span className="toggle-fav__contador">{totalFavoritos}</span>}
-        </button>
+        <div className="listas" role="group" aria-label="Minhas listas">
+          <button
+            className={`chip-lista chip-lista--quero ${lista === "queroVer" ? "ativo" : ""}`}
+            onClick={() => alternar("queroVer")}
+            aria-pressed={lista === "queroVer"}
+          >
+            <IconeMarcador size={15} preenchido={lista === "queroVer"} />
+            Quero ver
+            {totais.queroVer > 0 && <span className="chip-lista__n">{totais.queroVer}</span>}
+          </button>
+          <button
+            className={`chip-lista chip-lista--assistido ${lista === "assistidos" ? "ativo" : ""}`}
+            onClick={() => alternar("assistidos")}
+            aria-pressed={lista === "assistidos"}
+          >
+            <IconeCheck size={15} preenchido={lista === "assistidos"} />
+            Assistidos
+            {totais.assistidos > 0 && <span className="chip-lista__n">{totais.assistidos}</span>}
+          </button>
+          <button
+            className={`chip-lista chip-lista--avaliado ${lista === "avaliados" ? "ativo" : ""}`}
+            onClick={() => alternar("avaliados")}
+            aria-pressed={lista === "avaliados"}
+          >
+            ★ Avaliados
+            {totais.avaliados > 0 && <span className="chip-lista__n">{totais.avaliados}</span>}
+          </button>
+        </div>
       </div>
     </div>
   );

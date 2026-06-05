@@ -1,10 +1,12 @@
 import { useEffect, useMemo, useState } from "react";
 import { AuthControl } from "./componentes/AuthControl";
-import { BarraTopo } from "./componentes/BarraTopo";
+import { BarraTopo, type Lista } from "./componentes/BarraTopo";
 import { CardFilme } from "./componentes/CardFilme";
 import { Detalhe } from "./componentes/Detalhe";
+import { NotificacaoCentral } from "./componentes/NotificacaoCentral";
 import { carregarCatalogo, type Filme } from "./dados";
 import { useDadosPessoais } from "./favoritos";
+import { useNovidades } from "./novidades";
 
 function Masthead({ total, geradoEm }: { total: number; geradoEm: string | null }) {
   const data = geradoEm ? new Date(geradoEm).toLocaleDateString("pt-BR") : null;
@@ -25,6 +27,13 @@ function Masthead({ total, geradoEm }: { total: number; geradoEm: string | null 
   );
 }
 
+const VAZIO_MSG: Record<Lista, string> = {
+  todos: "Nenhum filme encontrado com esses filtros.",
+  queroVer: "Sua lista de “quero ver” está vazia. Marque filmes com o 🔖 na capa.",
+  assistidos: "Você ainda não marcou nenhum filme como assistido.",
+  avaliados: "Você ainda não avaliou nenhum filme. Abra um filme e dê sua nota.",
+};
+
 export function App() {
   const [filmes, setFilmes] = useState<Filme[]>([]);
   const [geradoEm, setGeradoEm] = useState<string | null>(null);
@@ -33,10 +42,11 @@ export function App() {
 
   const [busca, setBusca] = useState("");
   const [genero, setGenero] = useState("");
-  const [soFavoritos, setSoFavoritos] = useState(false);
+  const [lista, setLista] = useState<Lista>("todos");
   const [abertoId, setAbertoId] = useState<number | null>(null);
 
   const pessoal = useDadosPessoais();
+  const novidades = useNovidades(filmes);
 
   useEffect(() => {
     carregarCatalogo()
@@ -57,7 +67,9 @@ export function App() {
   const filtrados = useMemo(() => {
     const termo = busca.trim().toLowerCase();
     return filmes.filter((f) => {
-      if (soFavoritos && !pessoal.ehFavorito(f.tmdb_id)) return false;
+      if (lista === "queroVer" && !pessoal.querVer(f.tmdb_id)) return false;
+      if (lista === "assistidos" && !pessoal.ehAssistido(f.tmdb_id)) return false;
+      if (lista === "avaliados" && pessoal.notaDe(f.tmdb_id) == null) return false;
       if (genero && !f.generos.includes(genero)) return false;
       if (termo) {
         const alvo = `${f.titulo_original} ${f.titulo_ingles}`.toLowerCase();
@@ -65,7 +77,7 @@ export function App() {
       }
       return true;
     });
-  }, [filmes, busca, genero, soFavoritos, pessoal]);
+  }, [filmes, busca, genero, lista, pessoal]);
 
   const aberto = abertoId != null ? filmes.find((f) => f.tmdb_id === abertoId) ?? null : null;
 
@@ -75,13 +87,20 @@ export function App() {
       <div className="vinheta" aria-hidden />
 
       <div className="container">
-        <AuthControl
-          usuario={pessoal.usuario}
-          carregando={pessoal.carregandoAuth}
-          sincronizando={pessoal.sincronizando}
-          onEntrar={pessoal.entrar}
-          onSair={pessoal.sair}
-        />
+        <div className="topo-conta">
+          <NotificacaoCentral
+            novos={novidades.novos}
+            onAbrir={(id) => setAbertoId(id)}
+            marcarVistos={novidades.marcarVistos}
+          />
+          <AuthControl
+            usuario={pessoal.usuario}
+            carregando={pessoal.carregandoAuth}
+            sincronizando={pessoal.sincronizando}
+            onEntrar={pessoal.entrar}
+            onSair={pessoal.sair}
+          />
+        </div>
         <Masthead total={filmes.length} geradoEm={geradoEm} />
 
         <BarraTopo
@@ -90,20 +109,16 @@ export function App() {
           generos={generos}
           generoAtivo={genero}
           onGenero={setGenero}
-          soFavoritos={soFavoritos}
-          onToggleFavoritos={() => setSoFavoritos((v) => !v)}
-          totalFavoritos={pessoal.totalFavoritos}
+          lista={lista}
+          onLista={setLista}
+          totais={pessoal.totais}
         />
 
         {carregando && <p className="estado-vazio">Carregando o feed…</p>}
         {erro && <p className="estado-vazio estado-erro">{erro}</p>}
 
         {!carregando && !erro && filtrados.length === 0 && (
-          <p className="estado-vazio">
-            {soFavoritos
-              ? "Você ainda não favoritou nenhum filme."
-              : "Nenhum filme encontrado com esses filtros."}
-          </p>
+          <p className="estado-vazio">{VAZIO_MSG[lista]}</p>
         )}
 
         <main className="feed">
@@ -112,9 +127,11 @@ export function App() {
               key={filme.tmdb_id}
               filme={filme}
               indice={i}
-              ehFavorito={pessoal.ehFavorito(filme.tmdb_id)}
+              ehAssistido={pessoal.ehAssistido(filme.tmdb_id)}
+              querVer={pessoal.querVer(filme.tmdb_id)}
               onAbrir={() => setAbertoId(filme.tmdb_id)}
-              onAlternarFavorito={() => pessoal.alternarFavorito(filme.tmdb_id)}
+              onAlternarAssistido={() => pessoal.alternarAssistido(filme.tmdb_id)}
+              onAlternarQueroVer={() => pessoal.alternarQueroVer(filme.tmdb_id)}
             />
           ))}
         </main>
@@ -129,10 +146,12 @@ export function App() {
       {aberto && (
         <Detalhe
           filme={aberto}
-          ehFavorito={pessoal.ehFavorito(aberto.tmdb_id)}
+          ehAssistido={pessoal.ehAssistido(aberto.tmdb_id)}
+          querVer={pessoal.querVer(aberto.tmdb_id)}
           nota={pessoal.notaDe(aberto.tmdb_id)}
           onFechar={() => setAbertoId(null)}
-          onAlternarFavorito={() => pessoal.alternarFavorito(aberto.tmdb_id)}
+          onAlternarAssistido={() => pessoal.alternarAssistido(aberto.tmdb_id)}
+          onAlternarQueroVer={() => pessoal.alternarQueroVer(aberto.tmdb_id)}
           onDefinirNota={(n) => pessoal.definirNota(aberto.tmdb_id, n)}
         />
       )}

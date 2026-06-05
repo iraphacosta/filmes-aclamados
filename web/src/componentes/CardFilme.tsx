@@ -1,13 +1,16 @@
 import type { Filme } from "../dados";
 import { dataLonga } from "../formato";
+import { IconeCheck, IconeMarcador } from "./icones";
 import { NotaChip, SeloCriterio, SeloDisponibilidade } from "./Selos";
 
 interface Props {
   filme: Filme;
-  ehFavorito: boolean;
   indice: number;
+  ehAssistido: boolean;
+  querVer: boolean;
   onAbrir: () => void;
-  onAlternarFavorito: () => void;
+  onAlternarAssistido: () => void;
+  onAlternarQueroVer: () => void;
 }
 
 function PosterFallback({ filme }: { filme: Filme }) {
@@ -23,7 +26,15 @@ function PosterFallback({ filme }: { filme: Filme }) {
   );
 }
 
-export function CardFilme({ filme, ehFavorito, indice, onAbrir, onAlternarFavorito }: Props) {
+export function CardFilme({
+  filme,
+  indice,
+  ehAssistido,
+  querVer,
+  onAbrir,
+  onAlternarAssistido,
+  onAlternarQueroVer,
+}: Props) {
   return (
     <article className="card" style={{ animationDelay: `${Math.min(indice, 12) * 60}ms` }}>
       <button className="card__poster-btn" onClick={onAbrir} aria-label={`Abrir ${filme.titulo_original}`}>
@@ -37,21 +48,26 @@ export function CardFilme({ filme, ehFavorito, indice, onAbrir, onAlternarFavori
         </span>
       </button>
 
-      <button
-        className={`favorito ${ehFavorito ? "favorito--ativo" : ""}`}
-        onClick={onAlternarFavorito}
-        aria-pressed={ehFavorito}
-        aria-label={ehFavorito ? "Remover dos favoritos" : "Adicionar aos favoritos"}
-      >
-        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden>
-          <path
-            d="M12 21s-7.5-4.6-10-9.3C.4 8.4 2 5 5.3 5c2 0 3.4 1.1 4.2 2.3C10.3 6.1 11.7 5 13.7 5 17 5 18.6 8.4 17 11.7 14.5 16.4 12 21 12 21z"
-            fill={ehFavorito ? "currentColor" : "none"}
-            stroke="currentColor"
-            strokeWidth="1.6"
-          />
-        </svg>
-      </button>
+      <div className="marcadores">
+        <button
+          className={`marcador marcador--quero ${querVer ? "marcador--ativo" : ""}`}
+          onClick={onAlternarQueroVer}
+          aria-pressed={querVer}
+          aria-label={querVer ? "Remover de Quero ver" : "Quero ver"}
+          title="Quero ver"
+        >
+          <IconeMarcador preenchido={querVer} size={17} />
+        </button>
+        <button
+          className={`marcador marcador--assistido ${ehAssistido ? "marcador--ativo" : ""}`}
+          onClick={onAlternarAssistido}
+          aria-pressed={ehAssistido}
+          aria-label={ehAssistido ? "Marcar como não assistido" : "Marcar como assistido"}
+          title="Já assisti"
+        >
+          <IconeCheck preenchido={ehAssistido} size={18} />
+        </button>
+      </div>
 
       <div className="card__corpo" onClick={onAbrir}>
         <SeloCriterio criterio={filme.criterio_qualificacao} />

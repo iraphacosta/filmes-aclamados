@@ -4,28 +4,49 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { auth, db, entrarComGoogle, sairDoGoogle, type User } from "./firebase";
 
 /**
- * Favoritos + nota pessoal (0–10) por filme.
+ * Dados pessoais por filme: "quero ver", "assistido" e nota (0–10).
  *
- * - Deslogado: persistido no localStorage do navegador (funciona offline).
- * - Logado (Google): sincronizado no Firestore em `favoritos/{uid}`, em tempo
- *   real entre aparelhos. No primeiro login, os dados locais são migrados.
+ * Regras de coerência:
+ *  - Dar uma nota marca como assistido (e tira de "quero ver").
+ *  - Marcar "assistido" tira de "quero ver"; desmarcar limpa a nota.
+ *  - Marcar "quero ver" tira de "assistido" e limpa a nota.
+ *  - "avaliados" (tem nota) é sempre um subconjunto de "assistidos".
+ *
+ * Persistência: localStorage (deslogado) ou Firestore `favoritos/{uid}` (logado),
+ * sincronizado em tempo real entre aparelhos. Migra dados locais no 1º login.
  */
 
 const CHAVE = "filmes-aclamados:dados-pessoais:v1";
 
 export interface DadosPessoais {
-  favoritos: number[];
+  assistidos: number[];
+  queroVer: number[];
   notas: Record<number, number>;
 }
 
-const VAZIO: DadosPessoais = { favoritos: [], notas: {} };
+const VAZIO: DadosPessoais = { assistidos: [], queroVer: [], notas: {} };
+
+interface FormatoBruto {
+  assistidos?: number[];
+  queroVer?: number[];
+  notas?: Record<number, number>;
+  /** legado (v1 antiga): "favoritos" vira "quero ver". */
+  favoritos?: number[];
+}
+
+function normalizar(d: FormatoBruto | undefined | null): DadosPessoais {
+  if (!d) return VAZIO;
+  const temNovo = Array.isArray(d.assistidos) || Array.isArray(d.queroVer);
+  if (!temNovo && Array.isArray(d.favoritos)) {
+    return { assistidos: [], queroVer: d.favoritos, notas: d.notas ?? {} };
+  }
+  return { assistidos: d.assistidos ?? [], queroVer: d.queroVer ?? [], notas: d.notas ?? {} };
+}
 
 function lerLocal(): DadosPessoais {
   try {
     const bruto = localStorage.getItem(CHAVE);
-    if (!bruto) return VAZIO;
-    const dados = JSON.parse(bruto) as Partial<DadosPessoais>;
-    return { favoritos: dados.favoritos ?? [], notas: dados.notas ?? {} };
+    return bruto ? normalizar(JSON.parse(bruto) as FormatoBruto) : VAZIO;
   } catch {
     return VAZIO;
   }
@@ -35,24 +56,25 @@ function gravarLocal(dados: DadosPessoais): void {
   try {
     localStorage.setItem(CHAVE, JSON.stringify(dados));
   } catch {
-    /* armazenamento indisponível — ignora */
+    /* indisponível — ignora */
   }
 }
 
 function temAlgo(d: DadosPessoais): boolean {
-  return d.favoritos.length > 0 || Object.keys(d.notas).length > 0;
+  return d.assistidos.length > 0 || d.queroVer.length > 0 || Object.keys(d.notas).length > 0;
 }
 
-function normalizar(d: Partial<DadosPessoais> | undefined): DadosPessoais {
-  return { favoritos: d?.favoritos ?? [], notas: d?.notas ?? {} };
-}
+const sem = (lista: number[], id: number) => lista.filter((x) => x !== id);
+const com = (lista: number[], id: number) => (lista.includes(id) ? lista : [...lista, id]);
 
 export interface ApiPessoal {
-  ehFavorito: (tmdbId: number) => boolean;
-  alternarFavorito: (tmdbId: number) => void;
+  ehAssistido: (tmdbId: number) => boolean;
+  alternarAssistido: (tmdbId: number) => void;
+  querVer: (tmdbId: number) => boolean;
+  alternarQueroVer: (tmdbId: number) => void;
   notaDe: (tmdbId: number) => number | null;
   definirNota: (tmdbId: number, nota: number | null) => void;
-  totalFavoritos: number;
+  totais: { assistidos: number; queroVer: number; avaliados: number };
   // autenticação
   usuario: User | null;
   carregandoAuth: boolean;
@@ -67,17 +89,14 @@ export function useDadosPessoais(): ApiPessoal {
   const [estado, setEstado] = useState<DadosPessoais>(() => lerLocal());
   const [sincronizando, setSincronizando] = useState(false);
 
-  // Mantém a referência mais recente do estado para os mutadores (evita stale).
   const estadoRef = useRef(estado);
   estadoRef.current = estado;
 
-  // Observa o login/logout.
   useEffect(() => onAuthStateChanged(auth, (u) => {
     setUsuario(u);
     setCarregandoAuth(false);
   }), []);
 
-  // Fonte de dados conforme o login.
   useEffect(() => {
     if (!usuario) {
       setEstado(lerLocal());
@@ -92,22 +111,20 @@ export function useDadosPessoais(): ApiPessoal {
         if (primeiro) {
           primeiro = false;
           if (!snap.exists()) {
-            // Primeiro login: migra o que houver no localStorage.
             const local = lerLocal();
             const inicial = temAlgo(local) ? local : VAZIO;
             void setDoc(ref, inicial);
             setEstado(inicial);
           } else {
-            setEstado(normalizar(snap.data() as Partial<DadosPessoais>));
+            setEstado(normalizar(snap.data() as FormatoBruto));
           }
           setSincronizando(false);
         } else {
-          // Atualizações vindas de outro aparelho/aba.
-          setEstado(normalizar(snap.data() as Partial<DadosPessoais>));
+          setEstado(normalizar(snap.data() as FormatoBruto));
         }
       },
       (erro) => {
-        console.error("Firestore (favoritos):", erro);
+        console.error("Firestore (dados pessoais):", erro);
         setSincronizando(false);
       },
     );
@@ -129,45 +146,70 @@ export function useDadosPessoais(): ApiPessoal {
     [usuario],
   );
 
-  const alternarFavorito = useCallback(
-    (tmdbId: number) => {
+  const alternarAssistido = useCallback(
+    (id: number) => {
       const e = estadoRef.current;
-      const jaTem = e.favoritos.includes(tmdbId);
-      salvar({
-        ...e,
-        favoritos: jaTem ? e.favoritos.filter((id) => id !== tmdbId) : [...e.favoritos, tmdbId],
-      });
+      if (e.assistidos.includes(id)) {
+        // desmarca assistido -> limpa a nota também
+        const notas = { ...e.notas };
+        delete notas[id];
+        salvar({ ...e, assistidos: sem(e.assistidos, id), notas });
+      } else {
+        salvar({ ...e, assistidos: com(e.assistidos, id), queroVer: sem(e.queroVer, id) });
+      }
+    },
+    [salvar],
+  );
+
+  const alternarQueroVer = useCallback(
+    (id: number) => {
+      const e = estadoRef.current;
+      if (e.queroVer.includes(id)) {
+        salvar({ ...e, queroVer: sem(e.queroVer, id) });
+      } else {
+        const notas = { ...e.notas };
+        delete notas[id];
+        salvar({ ...e, queroVer: com(e.queroVer, id), assistidos: sem(e.assistidos, id), notas });
+      }
     },
     [salvar],
   );
 
   const definirNota = useCallback(
-    (tmdbId: number, nota: number | null) => {
+    (id: number, nota: number | null) => {
       const e = estadoRef.current;
       const notas = { ...e.notas };
-      if (nota == null) delete notas[tmdbId];
-      else notas[tmdbId] = nota;
-      salvar({ ...e, notas });
+      if (nota == null) {
+        delete notas[id];
+        salvar({ ...e, notas });
+      } else {
+        notas[id] = nota;
+        // dar nota marca como assistido e tira de "quero ver"
+        salvar({ ...e, notas, assistidos: com(e.assistidos, id), queroVer: sem(e.queroVer, id) });
+      }
     },
     [salvar],
   );
 
-  const ehFavorito = useCallback(
-    (tmdbId: number) => estado.favoritos.includes(tmdbId),
-    [estado.favoritos],
-  );
-
+  const ehAssistido = useCallback((id: number) => estado.assistidos.includes(id), [estado.assistidos]);
+  const querVer = useCallback((id: number) => estado.queroVer.includes(id), [estado.queroVer]);
   const notaDe = useCallback(
-    (tmdbId: number) => (tmdbId in estado.notas ? estado.notas[tmdbId]! : null),
+    (id: number) => (id in estado.notas ? estado.notas[id]! : null),
     [estado.notas],
   );
 
   return {
-    ehFavorito,
-    alternarFavorito,
+    ehAssistido,
+    alternarAssistido,
+    querVer,
+    alternarQueroVer,
     notaDe,
     definirNota,
-    totalFavoritos: estado.favoritos.length,
+    totais: {
+      assistidos: estado.assistidos.length,
+      queroVer: estado.queroVer.length,
+      avaliados: Object.keys(estado.notas).length,
+    },
     usuario,
     carregandoAuth,
     sincronizando,

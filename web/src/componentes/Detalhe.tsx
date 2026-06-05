@@ -1,15 +1,18 @@
 import { useEffect } from "react";
 import type { Filme } from "../dados";
 import { ROTULO_DISPONIBILIDADE, dataLonga } from "../formato";
+import { IconeCheck, IconeMarcador } from "./icones";
 import { NotaChip, SeloCriterio } from "./Selos";
 import { Sparkline } from "./Sparkline";
 
 interface Props {
   filme: Filme;
-  ehFavorito: boolean;
+  ehAssistido: boolean;
+  querVer: boolean;
   nota: number | null;
   onFechar: () => void;
-  onAlternarFavorito: () => void;
+  onAlternarAssistido: () => void;
+  onAlternarQueroVer: () => void;
   onDefinirNota: (nota: number | null) => void;
 }
 
@@ -77,7 +80,16 @@ function NotaPessoal({ nota, onDefinirNota }: { nota: number | null; onDefinirNo
   );
 }
 
-export function Detalhe({ filme, ehFavorito, nota, onFechar, onAlternarFavorito, onDefinirNota }: Props) {
+export function Detalhe({
+  filme,
+  ehAssistido,
+  querVer,
+  nota,
+  onFechar,
+  onAlternarAssistido,
+  onAlternarQueroVer,
+  onDefinirNota,
+}: Props) {
   useEffect(() => {
     const aoTeclar = (e: KeyboardEvent) => {
       if (e.key === "Escape") onFechar();
@@ -109,21 +121,24 @@ export function Detalhe({ filme, ehFavorito, nota, onFechar, onAlternarFavorito,
                 <span className="poster__inicial">{filme.titulo_original.charAt(0)}</span>
               </div>
             )}
-            <button
-              className={`favorito favorito--barra ${ehFavorito ? "favorito--ativo" : ""}`}
-              onClick={onAlternarFavorito}
-              aria-pressed={ehFavorito}
-            >
-              <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden>
-                <path
-                  d="M12 21s-7.5-4.6-10-9.3C.4 8.4 2 5 5.3 5c2 0 3.4 1.1 4.2 2.3C10.3 6.1 11.7 5 13.7 5 17 5 18.6 8.4 17 11.7 14.5 16.4 12 21 12 21z"
-                  fill={ehFavorito ? "currentColor" : "none"}
-                  stroke="currentColor"
-                  strokeWidth="1.6"
-                />
-              </svg>
-              {ehFavorito ? "Favorito" : "Favoritar"}
-            </button>
+            <div className="detalhe__marcadores">
+              <button
+                className={`btn-marcar ${querVer ? "btn-marcar--quero ativo" : ""}`}
+                onClick={onAlternarQueroVer}
+                aria-pressed={querVer}
+              >
+                <IconeMarcador preenchido={querVer} size={16} />
+                {querVer ? "Na lista" : "Quero ver"}
+              </button>
+              <button
+                className={`btn-marcar ${ehAssistido ? "btn-marcar--assistido ativo" : ""}`}
+                onClick={onAlternarAssistido}
+                aria-pressed={ehAssistido}
+              >
+                <IconeCheck preenchido={ehAssistido} size={16} />
+                {ehAssistido ? "Assistido" : "Marcar assistido"}
+              </button>
+            </div>
             <NotaPessoal nota={nota} onDefinirNota={onDefinirNota} />
           </aside>
 
