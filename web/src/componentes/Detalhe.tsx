@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import type { Filme } from "../dados";
 import { ROTULO_DISPONIBILIDADE, dataLonga } from "../formato";
+import { Estrelas } from "./Estrelas";
 import { IconeCheck, IconeMarcador } from "./icones";
 import { NotaChip, SeloCriterio } from "./Selos";
 import { Sparkline } from "./Sparkline";
@@ -64,17 +65,25 @@ function NotaPessoal({ nota, onDefinirNota }: { nota: number | null; onDefinirNo
           </button>
         )}
       </div>
-      <div className="nota-pessoal__escala" role="group" aria-label="Nota pessoal de 0 a 10">
-        {Array.from({ length: 11 }, (_, n) => (
-          <button
-            key={n}
-            className={`nota-pessoal__btn ${nota === n ? "ativo" : ""}`}
-            aria-pressed={nota === n}
-            onClick={() => onDefinirNota(n)}
-          >
-            {n}
-          </button>
-        ))}
+      <Estrelas nota={nota} onDefinir={onDefinirNota} />
+    </div>
+  );
+}
+
+function NotasCriticos({ filme }: { filme: Filme }) {
+  return (
+    <div className="detalhe__criticos">
+      <span className="detalhe__criticos-rotulo">A crítica</span>
+      <div className="detalhe__notas-atuais">
+        <NotaChip tipo="rt" valor={filme.atual_rt ?? filme.rt_critica} />
+        {filme.rt_publico != null && (
+          <span className="nota-chip nota-rt nota-chip--publico" title="Rotten Tomatoes (público)">
+            <span className="nota-chip__rotulo">RT público</span>
+            <span className="nota-chip__valor">{filme.rt_publico}%</span>
+          </span>
+        )}
+        <NotaChip tipo="mc" valor={filme.atual_metacritic ?? filme.metacritic} />
+        <NotaChip tipo="imdb" valor={filme.imdb_publico} />
       </div>
     </div>
   );
@@ -139,6 +148,7 @@ export function Detalhe({
                 {ehAssistido ? "Assistido" : "Marcar assistido"}
               </button>
             </div>
+            <NotasCriticos filme={filme} />
             <NotaPessoal nota={nota} onDefinirNota={onDefinirNota} />
           </aside>
 
@@ -170,18 +180,6 @@ export function Detalhe({
                 <div><dt>Elenco</dt><dd>{filme.elenco.join(", ")}</dd></div>
               )}
             </dl>
-
-            <div className="detalhe__notas-atuais">
-              <NotaChip tipo="rt" valor={filme.atual_rt ?? filme.rt_critica} />
-              {filme.rt_publico != null && (
-                <span className="nota-chip nota-rt nota-chip--publico" title="Rotten Tomatoes (público)">
-                  <span className="nota-chip__rotulo">RT público</span>
-                  <span className="nota-chip__valor">{filme.rt_publico}%</span>
-                </span>
-              )}
-              <NotaChip tipo="mc" valor={filme.atual_metacritic ?? filme.metacritic} />
-              <NotaChip tipo="imdb" valor={filme.imdb_publico} />
-            </div>
 
             <section className="detalhe__evolucao">
               <h4 className="detalhe__sub">A crítica ao longo do tempo</h4>

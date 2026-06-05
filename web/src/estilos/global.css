@@ -27,8 +27,61 @@
   --sombra: 0 18px 50px -20px rgba(0, 0, 0, 0.85);
   --sombra-card: 0 12px 30px -16px rgba(0, 0, 0, 0.8);
 
+  --inset: rgba(0, 0, 0, 0.25);
+  --inset-forte: rgba(0, 0, 0, 0.4);
+
   --fonte-display: "Bodoni Moda", Georgia, serif;
   --fonte-ui: "Hanken Grotesk", system-ui, sans-serif;
+}
+
+/* ---------------- Tema claro ---------------- */
+:root[data-tema="claro"] {
+  --bg: #f3ede2;
+  --bg-elev: #efe7d9;
+  --surface: #fbf8f1;
+  --surface-2: #f1e9db;
+  --linha: rgba(45, 30, 15, 0.12);
+  --linha-forte: rgba(45, 30, 15, 0.2);
+  --tinta: #271c12;
+  --tinta-2: #5a4e40;
+  --tinta-3: #897b69;
+  --ambar: #b9761a;
+  --ambar-2: #9a5f0f;
+  --rt: #d2452a;
+  --mc: #1c8f68;
+  --imdb: #a9810a;
+  --cinema: #a8780f;
+  --sombra: 0 18px 50px -22px rgba(60, 40, 20, 0.35);
+  --sombra-card: 0 12px 30px -18px rgba(60, 40, 20, 0.28);
+  --inset: rgba(45, 30, 15, 0.05);
+  --inset-forte: rgba(45, 30, 15, 0.1);
+}
+
+:root[data-tema="claro"] body {
+  background:
+    radial-gradient(1200px 620px at 50% -12%, rgba(185, 118, 26, 0.12), transparent 60%),
+    radial-gradient(1000px 520px at 102% 2%, rgba(210, 69, 42, 0.06), transparent 55%),
+    var(--bg);
+}
+
+:root[data-tema="claro"] .grao {
+  opacity: 0.04;
+  mix-blend-mode: multiply;
+}
+
+:root[data-tema="claro"] .vinheta {
+  background: radial-gradient(125% 100% at 50% -5%, transparent 62%, rgba(60, 40, 20, 0.12));
+}
+
+:root[data-tema="claro"] .masthead__nome {
+  background: linear-gradient(180deg, #2c2014, #715a3b);
+  -webkit-background-clip: text;
+  background-clip: text;
+  text-shadow: none;
+}
+
+:root[data-tema="claro"] .barra {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.82), rgba(251, 248, 241, 0.82));
 }
 
 * {
@@ -168,7 +221,7 @@ a {
   flex: 1 1 240px;
   padding: 0.55rem 0.9rem;
   border-radius: 999px;
-  background: rgba(0, 0, 0, 0.28);
+  background: var(--inset);
   border: 1px solid var(--linha);
   color: var(--tinta-3);
 }
@@ -200,7 +253,7 @@ a {
   padding: 0.45rem 0.7rem 0.45rem 0.9rem;
   border: 1px solid var(--linha);
   border-radius: 999px;
-  background: rgba(0, 0, 0, 0.22);
+  background: var(--inset);
 }
 
 .seletor-genero__rotulo {
@@ -232,7 +285,7 @@ a {
   padding: 0.55rem 1rem;
   border-radius: 999px;
   border: 1px solid var(--linha-forte);
-  background: rgba(0, 0, 0, 0.22);
+  background: var(--inset);
   color: var(--tinta-2);
   font-size: 0.9rem;
   transition: all 0.18s ease;
@@ -265,7 +318,7 @@ a {
 /* ---------------- Feed ---------------- */
 .feed {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(192px, 1fr));
+  grid-template-columns: repeat(var(--colunas, 3), 1fr);
   gap: clamp(1rem, 2.4vw, 1.8rem);
 }
 
@@ -299,6 +352,27 @@ a {
   to {
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+/* ---------------- Mobile ---------------- */
+@media (max-width: 640px) {
+  /* uma capa por vez */
+  .feed {
+    grid-template-columns: 1fr;
+  }
+
+  /* o seletor de colunas não faz sentido no mobile (sempre 1) */
+  .vista-colunas {
+    display: none;
+  }
+
+  /* ao rolar, a barra fixa mostra só a busca */
+  .barra--condensada {
+    padding: 0.55rem;
+  }
+  .barra--condensada .filtros {
+    display: none;
   }
 }
 

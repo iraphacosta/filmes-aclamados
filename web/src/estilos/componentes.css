@@ -155,7 +155,7 @@
   padding: 0.22rem 0.5rem;
   border-radius: 7px;
   border: 1px solid var(--linha);
-  background: rgba(0, 0, 0, 0.25);
+  background: var(--inset);
   font-size: 0.78rem;
 }
 
@@ -197,7 +197,7 @@
   padding: 0.3rem 0.6rem;
   border-radius: 6px;
   border: 1px dashed currentColor;
-  background: rgba(0, 0, 0, 0.25);
+  background: var(--inset);
   font-size: 0.62rem;
   font-weight: 700;
   letter-spacing: 0.14em;
@@ -286,7 +286,7 @@
   height: 40px;
   border-radius: 999px;
   border: 1px solid var(--linha);
-  background: rgba(0, 0, 0, 0.4);
+  background: var(--inset-forte);
   color: var(--tinta-2);
   font-size: 1rem;
   transition: all 0.18s ease;
@@ -350,7 +350,7 @@
   padding: 0.85rem;
   border: 1px solid var(--linha);
   border-radius: 12px;
-  background: rgba(0, 0, 0, 0.2);
+  background: var(--inset);
 }
 
 .nota-pessoal__topo {
@@ -385,7 +385,7 @@
   aspect-ratio: 1;
   border: 1px solid var(--linha);
   border-radius: 7px;
-  background: rgba(0, 0, 0, 0.25);
+  background: var(--inset);
   color: var(--tinta-2);
   font-size: 0.82rem;
   font-variant-numeric: tabular-nums;
@@ -532,7 +532,7 @@
   border: 1px solid var(--linha);
   border-radius: 12px;
   padding: 0.9rem 1rem;
-  background: rgba(0, 0, 0, 0.2);
+  background: var(--inset);
 }
 
 .veredito__rotulo {
@@ -668,7 +668,7 @@
   padding: 0.3rem 0.7rem;
   border: 1px solid var(--linha);
   border-radius: 8px;
-  background: rgba(0, 0, 0, 0.2);
+  background: var(--inset);
 }
 
 .disp-tipo {
@@ -757,7 +757,7 @@
   padding: 0.28rem 0.5rem;
   border: 1px solid var(--linha);
   border-radius: 999px;
-  background: rgba(0, 0, 0, 0.25);
+  background: var(--inset);
   font-size: 0.85rem;
   color: var(--tinta-2);
 }
@@ -807,6 +807,7 @@
 /* ===================== Topo: conta + notificações ===================== */
 .topo-conta {
   display: flex;
+  flex-wrap: wrap;
   justify-content: flex-end;
   align-items: center;
   gap: 0.6rem;
@@ -830,7 +831,7 @@
   place-items: center;
   border-radius: 999px;
   border: 1px solid var(--linha);
-  background: rgba(0, 0, 0, 0.25);
+  background: var(--inset);
   color: var(--tinta-2);
   transition: all 0.18s ease;
 }
@@ -1030,7 +1031,7 @@
   padding: 0.5rem 0.8rem;
   border-radius: 999px;
   border: 1px solid var(--linha-forte);
-  background: rgba(0, 0, 0, 0.22);
+  background: var(--inset);
   color: var(--tinta-2);
   font-size: 0.84rem;
   transition: all 0.16s ease;
@@ -1072,7 +1073,7 @@
 }
 
 .chip-lista.ativo .chip-lista__n {
-  background: rgba(0, 0, 0, 0.3);
+  background: var(--inset);
 }
 
 /* ===================== Botões de marcar no detalhe ===================== */
@@ -1091,7 +1092,7 @@
   padding: 0.6rem 0.5rem;
   border-radius: 10px;
   border: 1px solid var(--linha-forte);
-  background: rgba(0, 0, 0, 0.22);
+  background: var(--inset);
   color: var(--tinta-2);
   font-size: 0.82rem;
   transition: all 0.16s ease;
@@ -1111,4 +1112,157 @@
   color: #bdf0db;
   border-color: var(--mc);
   background: rgba(88, 199, 159, 0.16);
+}
+
+/* ===================== Tema toggle + seletor de colunas ===================== */
+.tema-toggle,
+.vista-colunas {
+  display: inline-flex;
+  gap: 2px;
+  padding: 3px;
+  border: 1px solid var(--linha);
+  border-radius: 999px;
+  background: var(--inset);
+}
+
+.vista-colunas {
+  border-radius: 9px;
+}
+
+.tema-opt,
+.vista-opt {
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  border: none;
+  border-radius: 999px;
+  background: none;
+  color: var(--tinta-3);
+  transition: all 0.15s ease;
+}
+
+.vista-opt {
+  height: 28px;
+  border-radius: 6px;
+}
+
+.tema-opt:hover,
+.vista-opt:hover {
+  color: var(--tinta);
+}
+
+.tema-opt.ativo,
+.vista-opt.ativo {
+  background: var(--surface);
+  color: var(--ambar);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.18);
+}
+
+/* ===================== Estrelas (nota pessoal) ===================== */
+.estrelas {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  margin-top: 0.5rem;
+}
+
+.estrelas__linha {
+  display: inline-flex;
+  gap: 0.1rem;
+}
+
+.estrela {
+  position: relative;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  color: var(--tinta-3);
+}
+
+.estrela-svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.estrela__hit {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 50%;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.estrela__hit--e {
+  left: 0;
+}
+
+.estrela__hit--d {
+  right: 0;
+}
+
+.estrelas__valor {
+  font-family: var(--fonte-display);
+  font-size: 1.15rem;
+  color: var(--ambar-2);
+  font-variant-numeric: tabular-nums;
+}
+
+.estrelas__valor small {
+  color: var(--tinta-3);
+  font-size: 0.72rem;
+}
+
+/* ===================== Crítica (no detalhe, acima das estrelas) ===================== */
+.detalhe__criticos {
+  margin-top: 0.9rem;
+}
+
+.detalhe__criticos-rotulo {
+  display: block;
+  margin-bottom: 0.4rem;
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--tinta-3);
+}
+
+.detalhe__criticos .detalhe__notas-atuais {
+  margin: 0;
+}
+
+/* ===================== Botão "voltar ao topo" ===================== */
+.scroll-topo {
+  position: fixed;
+  right: 1.1rem;
+  bottom: 1.1rem;
+  z-index: 30;
+  width: 44px;
+  height: 44px;
+  display: grid;
+  place-items: center;
+  border-radius: 999px;
+  border: 1px solid var(--linha-forte);
+  background: var(--surface-2);
+  color: var(--tinta-2);
+  box-shadow: var(--sombra-card);
+  opacity: 0;
+  transform: translateY(12px) scale(0.9);
+  pointer-events: none;
+  transition: all 0.25s ease;
+}
+
+.scroll-topo--visivel {
+  opacity: 1;
+  transform: none;
+  pointer-events: auto;
+}
+
+.scroll-topo:hover {
+  color: var(--ambar);
+  border-color: var(--ambar);
 }

@@ -1,12 +1,22 @@
-import { useEffect, useMemo, useState } from "react";
+import { type CSSProperties, useEffect, useMemo, useState } from "react";
 import { AuthControl } from "./componentes/AuthControl";
 import { BarraTopo, type Lista } from "./componentes/BarraTopo";
 import { CardFilme } from "./componentes/CardFilme";
 import { Detalhe } from "./componentes/Detalhe";
 import { NotificacaoCentral } from "./componentes/NotificacaoCentral";
+import { ScrollTopo } from "./componentes/ScrollTopo";
+import { TemaToggle } from "./componentes/TemaToggle";
 import { carregarCatalogo, type Filme } from "./dados";
 import { useDadosPessoais } from "./favoritos";
 import { useNovidades } from "./novidades";
+import { useTema } from "./tema";
+
+const CHAVE_COLUNAS = "filmes-aclamados:colunas";
+
+function lerColunas(): number {
+  const v = Number(localStorage.getItem(CHAVE_COLUNAS));
+  return v === 2 || v === 3 || v === 4 ? v : 3;
+}
 
 function Masthead({ total, geradoEm }: { total: number; geradoEm: string | null }) {
   const data = geradoEm ? new Date(geradoEm).toLocaleDateString("pt-BR") : null;
@@ -44,9 +54,12 @@ export function App() {
   const [genero, setGenero] = useState("");
   const [lista, setLista] = useState<Lista>("todos");
   const [abertoId, setAbertoId] = useState<number | null>(null);
+  const [colunas, setColunas] = useState<number>(() => lerColunas());
+  const [rolou, setRolou] = useState(false);
 
   const pessoal = useDadosPessoais();
   const novidades = useNovidades(filmes);
+  const { tema, setTema } = useTema();
 
   useEffect(() => {
     carregarCatalogo()
@@ -56,6 +69,21 @@ export function App() {
       })
       .catch((e: unknown) => setErro(e instanceof Error ? e.message : String(e)))
       .finally(() => setCarregando(false));
+  }, []);
+
+  useEffect(() => {
+    try {
+      localStorage.setItem(CHAVE_COLUNAS, String(colunas));
+    } catch {
+      /* ignora */
+    }
+  }, [colunas]);
+
+  useEffect(() => {
+    const aoRolar = () => setRolou(window.scrollY > 320);
+    window.addEventListener("scroll", aoRolar, { passive: true });
+    aoRolar();
+    return () => window.removeEventListener("scroll", aoRolar);
   }, []);
 
   const generos = useMemo(() => {
@@ -88,6 +116,7 @@ export function App() {
 
       <div className="container">
         <div className="topo-conta">
+          <TemaToggle tema={tema} onTema={setTema} />
           <NotificacaoCentral
             novos={novidades.novos}
             onAbrir={(id) => setAbertoId(id)}
@@ -112,6 +141,9 @@ export function App() {
           lista={lista}
           onLista={setLista}
           totais={pessoal.totais}
+          colunas={colunas}
+          onColunas={setColunas}
+          condensada={rolou}
         />
 
         {carregando && <p className="estado-vazio">Carregando o feed…</p>}
@@ -121,7 +153,7 @@ export function App() {
           <p className="estado-vazio">{VAZIO_MSG[lista]}</p>
         )}
 
-        <main className="feed">
+        <main className="feed" style={{ "--colunas": colunas } as CSSProperties}>
           {filtrados.map((filme, i) => (
             <CardFilme
               key={filme.tmdb_id}
@@ -142,6 +174,8 @@ export function App() {
           </p>
         </footer>
       </div>
+
+      <ScrollTopo visivel={rolou} />
 
       {aberto && (
         <Detalhe

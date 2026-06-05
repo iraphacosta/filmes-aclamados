@@ -9,6 +9,20 @@
     />
     <meta name="theme-color" content="#100c0b" />
     <title>Aclamados — filmes bem avaliados desde 2025</title>
+    <script>
+      // Aplica o tema salvo antes da primeira pintura (evita flash de cor errada).
+      (function () {
+        try {
+          var t = localStorage.getItem("filmes-aclamados:tema") || "sistema";
+          var ef = t === "sistema"
+            ? (window.matchMedia("(prefers-color-scheme: dark)").matches ? "escuro" : "claro")
+            : t;
+          document.documentElement.dataset.tema = ef;
+        } catch (e) {
+          document.documentElement.dataset.tema = "escuro";
+        }
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>
