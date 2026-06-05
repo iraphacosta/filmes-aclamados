@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
+import { AuthControl } from "./componentes/AuthControl";
 import { BarraTopo } from "./componentes/BarraTopo";
 import { CardFilme } from "./componentes/CardFilme";
 import { Detalhe } from "./componentes/Detalhe";
@@ -74,6 +75,13 @@ export function App() {
       <div className="vinheta" aria-hidden />
 
       <div className="container">
+        <AuthControl
+          usuario={pessoal.usuario}
+          carregando={pessoal.carregandoAuth}
+          sincronizando={pessoal.sincronizando}
+          onEntrar={pessoal.entrar}
+          onSair={pessoal.sair}
+        />
         <Masthead total={filmes.length} geradoEm={geradoEm} />
 
         <BarraTopo
