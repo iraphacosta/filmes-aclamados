@@ -35,6 +35,21 @@ export function IconeMarcador({ size = 18, preenchido = false }: IconeProps) {
   );
 }
 
+/** Funil — filtros. */
+export function IconeFiltro({ size = 16 }: IconeProps) {
+  return (
+    <svg viewBox="0 0 24 24" width={size} height={size} aria-hidden>
+      <path
+        d="M3.5 5.5h17l-6.5 7.5V19l-4 2v-8L3.5 5.5z"
+        fill="none"
+        stroke="currentColor"
+        strokeWidth="1.7"
+        strokeLinejoin="round"
+      />
+    </svg>
+  );
+}
+
 /** Sino — central de notificações. */
 export function IconeSino({ size = 20 }: IconeProps) {
   return (

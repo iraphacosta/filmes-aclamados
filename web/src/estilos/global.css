@@ -29,6 +29,7 @@
 
   --inset: rgba(0, 0, 0, 0.25);
   --inset-forte: rgba(0, 0, 0, 0.4);
+  --vidro: rgba(16, 12, 11, 0.62);
 
   --fonte-display: "Bodoni Moda", Georgia, serif;
   --fonte-ui: "Hanken Grotesk", system-ui, sans-serif;
@@ -55,6 +56,7 @@
   --sombra-card: 0 12px 30px -18px rgba(60, 40, 20, 0.28);
   --inset: rgba(45, 30, 15, 0.05);
   --inset-forte: rgba(45, 30, 15, 0.1);
+  --vidro: rgba(251, 248, 241, 0.86);
 }
 
 :root[data-tema="claro"] body {
@@ -201,10 +203,8 @@ a {
   top: 0;
   z-index: 6;
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
   gap: 0.8rem;
-  align-items: center;
-  justify-content: space-between;
   padding: 0.9rem;
   margin: 0.5rem 0 2rem;
   border: 1px solid var(--linha);
@@ -212,6 +212,12 @@ a {
   background: linear-gradient(180deg, rgba(35, 28, 23, 0.85), rgba(22, 17, 15, 0.85));
   backdrop-filter: blur(12px);
   box-shadow: var(--sombra-card);
+}
+
+.barra-linha {
+  display: flex;
+  gap: 0.8rem;
+  align-items: center;
 }
 
 .busca {
@@ -352,27 +358,6 @@ a {
   to {
     opacity: 1;
     transform: translateY(0);
-  }
-}
-
-/* ---------------- Mobile ---------------- */
-@media (max-width: 640px) {
-  /* uma capa por vez */
-  .feed {
-    grid-template-columns: 1fr;
-  }
-
-  /* o seletor de colunas não faz sentido no mobile (sempre 1) */
-  .vista-colunas {
-    display: none;
-  }
-
-  /* ao rolar, a barra fixa mostra só a busca */
-  .barra--condensada {
-    padding: 0.55rem;
-  }
-  .barra--condensada .filtros {
-    display: none;
   }
 }
 

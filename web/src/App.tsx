@@ -1,6 +1,6 @@
 import { type CSSProperties, useEffect, useMemo, useState } from "react";
 import { AuthControl } from "./componentes/AuthControl";
-import { BarraTopo, type Lista } from "./componentes/BarraTopo";
+import { BarraTopo, type Fonte, type Lista, type Ordenar } from "./componentes/BarraTopo";
 import { CardFilme } from "./componentes/CardFilme";
 import { Detalhe } from "./componentes/Detalhe";
 import { NotificacaoCentral } from "./componentes/NotificacaoCentral";
@@ -15,7 +15,23 @@ const CHAVE_COLUNAS = "filmes-aclamados:colunas";
 
 function lerColunas(): number {
   const v = Number(localStorage.getItem(CHAVE_COLUNAS));
-  return v === 2 || v === 3 || v === 4 ? v : 3;
+  if (v === 1 || v === 2 || v === 3) return v;
+  return typeof window !== "undefined" && window.innerWidth < 640 ? 1 : 3;
+}
+
+const scoreRt = (f: Filme) => f.atual_rt ?? f.rt_critica;
+const scoreMc = (f: Filme) => f.atual_metacritic ?? f.metacritic;
+
+/** Comparador decrescente que joga valores nulos para o fim. */
+function porNotaDesc(get: (f: Filme) => number | null) {
+  return (a: Filme, b: Filme) => {
+    const va = get(a);
+    const vb = get(b);
+    if (va == null && vb == null) return 0;
+    if (va == null) return 1;
+    if (vb == null) return -1;
+    return vb - va;
+  };
 }
 
 function Masthead({ total, geradoEm }: { total: number; geradoEm: string | null }) {
@@ -53,6 +69,8 @@ export function App() {
   const [busca, setBusca] = useState("");
   const [genero, setGenero] = useState("");
   const [lista, setLista] = useState<Lista>("todos");
+  const [ordenar, setOrdenar] = useState<Ordenar>("recentes");
+  const [fontes, setFontes] = useState<Fonte[]>([]);
   const [abertoId, setAbertoId] = useState<number | null>(null);
   const [colunas, setColunas] = useState<number>(() => lerColunas());
   const [rolou, setRolou] = useState(false);
@@ -86,6 +104,9 @@ export function App() {
     return () => window.removeEventListener("scroll", aoRolar);
   }, []);
 
+  const alternarFonte = (f: Fonte) =>
+    setFontes((fs) => (fs.includes(f) ? fs.filter((x) => x !== f) : [...fs, f]));
+
   const generos = useMemo(() => {
     const set = new Set<string>();
     for (const f of filmes) for (const g of f.generos) set.add(g);
@@ -98,6 +119,9 @@ export function App() {
       if (lista === "queroVer" && !pessoal.querVer(f.tmdb_id)) return false;
       if (lista === "assistidos" && !pessoal.ehAssistido(f.tmdb_id)) return false;
       if (lista === "avaliados" && pessoal.notaDe(f.tmdb_id) == null) return false;
+      if (fontes.includes("rt") && scoreRt(f) == null) return false;
+      if (fontes.includes("mc") && scoreMc(f) == null) return false;
+      if (fontes.includes("imdb") && f.imdb_publico == null) return false;
       if (genero && !f.generos.includes(genero)) return false;
       if (termo) {
         const alvo = `${f.titulo_original} ${f.titulo_ingles}`.toLowerCase();
@@ -105,7 +129,17 @@ export function App() {
       }
       return true;
     });
-  }, [filmes, busca, genero, lista, pessoal]);
+  }, [filmes, busca, genero, lista, fontes, pessoal]);
+
+  const ordenado = useMemo(() => {
+    const arr = filtrados.slice();
+    if (ordenar === "rt") arr.sort(porNotaDesc(scoreRt));
+    else if (ordenar === "mc") arr.sort(porNotaDesc(scoreMc));
+    else if (ordenar === "imdb") arr.sort(porNotaDesc((f) => f.imdb_publico));
+    else if (ordenar === "minha") arr.sort(porNotaDesc((f) => pessoal.notaDe(f.tmdb_id)));
+    // "recentes": mantém a ordem do catálogo (data de qualificação desc)
+    return arr;
+  }, [filtrados, ordenar, pessoal]);
 
   const aberto = abertoId != null ? filmes.find((f) => f.tmdb_id === abertoId) ?? null : null;
 
@@ -143,18 +177,21 @@ export function App() {
           totais={pessoal.totais}
           colunas={colunas}
           onColunas={setColunas}
-          condensada={rolou}
+          ordenar={ordenar}
+          onOrdenar={setOrdenar}
+          fontes={fontes}
+          onAlternarFonte={alternarFonte}
         />
 
         {carregando && <p className="estado-vazio">Carregando o feed…</p>}
         {erro && <p className="estado-vazio estado-erro">{erro}</p>}
 
-        {!carregando && !erro && filtrados.length === 0 && (
+        {!carregando && !erro && ordenado.length === 0 && (
           <p className="estado-vazio">{VAZIO_MSG[lista]}</p>
         )}
 
         <main className="feed" style={{ "--colunas": colunas } as CSSProperties}>
-          {filtrados.map((filme, i) => (
+          {ordenado.map((filme, i) => (
             <CardFilme
               key={filme.tmdb_id}
               filme={filme}

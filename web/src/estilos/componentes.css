@@ -34,7 +34,7 @@
   place-items: center;
   text-align: center;
   padding: 1rem;
-  color: var(--tinta);
+  color: #f4ece1;
 }
 
 .poster__inicial {
@@ -230,7 +230,7 @@
   padding: 0.26rem 0.55rem;
   border-radius: 999px;
   border: 1px solid var(--linha);
-  background: rgba(16, 12, 11, 0.72);
+  background: var(--vidro);
   backdrop-filter: blur(6px);
   font-size: 0.7rem;
   color: var(--tinta);
@@ -994,7 +994,7 @@
   place-items: center;
   border-radius: 9px;
   border: 1px solid var(--linha-forte);
-  background: rgba(16, 12, 11, 0.6);
+  background: var(--vidro);
   backdrop-filter: blur(6px);
   color: var(--tinta-2);
   transition: all 0.16s ease;
@@ -1265,4 +1265,154 @@
 .scroll-topo:hover {
   color: var(--ambar);
   border-color: var(--ambar);
+}
+
+/* ===================== Filtros recolhíveis ===================== */
+.filtros-botao {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.55rem 1rem;
+  border-radius: 999px;
+  border: 1px solid var(--linha-forte);
+  background: var(--inset);
+  color: var(--tinta-2);
+  font-size: 0.88rem;
+  white-space: nowrap;
+  transition: all 0.16s ease;
+}
+
+.filtros-botao:hover,
+.filtros-botao.ativo {
+  color: var(--tinta);
+  border-color: var(--ambar);
+}
+
+.filtros-botao__ponto {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--ambar);
+  box-shadow: 0 0 6px var(--ambar);
+}
+
+.filtros-painel {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--linha);
+  animation: surgir 0.25s ease;
+}
+
+.grupo-filtro {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.grupo-filtro--linha {
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.grupo-filtro__rotulo {
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--tinta-3);
+}
+
+.grupo-filtro__itens {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.filtros-limpar {
+  margin-left: auto;
+  background: none;
+  border: none;
+  color: var(--ambar-2);
+  font-size: 0.8rem;
+  text-decoration: underline;
+}
+
+/* chips genéricos (listas, ordenar, fontes) */
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.45rem 0.75rem;
+  border-radius: 999px;
+  border: 1px solid var(--linha-forte);
+  background: var(--inset);
+  color: var(--tinta-2);
+  font-size: 0.82rem;
+  transition: all 0.16s ease;
+}
+
+.chip:hover {
+  color: var(--tinta);
+  border-color: var(--tinta-3);
+}
+
+.chip.ativo {
+  color: var(--tinta);
+  border-color: var(--ambar);
+  background: rgba(240, 169, 59, 0.14);
+}
+
+.chip__n {
+  min-width: 1.2rem;
+  height: 1.2rem;
+  padding: 0 0.3rem;
+  display: inline-grid;
+  place-items: center;
+  border-radius: 999px;
+  background: var(--inset-forte);
+  font-size: 0.7rem;
+  font-weight: 700;
+}
+
+.chip.chip-lista--quero.ativo {
+  color: #ffdf9e;
+  border-color: var(--ambar);
+  background: rgba(240, 169, 59, 0.16);
+}
+
+.chip.chip-lista--assistido.ativo,
+.chip.fonte--mc.ativo {
+  color: #bdf0db;
+  border-color: var(--mc);
+  background: rgba(88, 199, 159, 0.16);
+}
+
+.chip.chip-lista--avaliado.ativo,
+.chip.fonte--imdb.ativo {
+  color: #ffe7a0;
+  border-color: var(--imdb);
+  background: rgba(245, 197, 24, 0.14);
+}
+
+.chip.fonte--rt.ativo {
+  color: #ffc9bb;
+  border-color: var(--rt);
+  background: rgba(255, 106, 69, 0.16);
+}
+
+/* ===================== Mobile ===================== */
+@media (max-width: 640px) {
+  /* central de notificações em largura quase cheia (não corta na lateral) */
+  .notif__painel {
+    position: fixed;
+    top: 64px;
+    left: 0.6rem;
+    right: 0.6rem;
+    width: auto;
+    max-height: 72vh;
+  }
 }
