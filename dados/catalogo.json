@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-06-05T16:22:16.419Z",
+  "gerado_em": "2026-06-06T11:02:26.071Z",
   "filmes": [
     {
       "tmdb_id": 1083381,
@@ -38,6 +38,11 @@
           "data": "2026-06-05",
           "rt": null,
           "metacritic": 77
+        },
+        {
+          "data": "2026-06-06",
+          "rt": null,
+          "metacritic": 77
         }
       ],
       "pico_rt": null,
@@ -51,56 +56,6 @@
         "imdb": "https://www.imdb.com/title/tt26657236/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Backrooms",
         "metacritic": "https://www.metacritic.com/search/Backrooms/"
-      }
-    },
-    {
-      "tmdb_id": 1340206,
-      "imdb_id": "tt33296751",
-      "titulo_original": "Tuner",
-      "titulo_ingles": "Tuner",
-      "ano": 2026,
-      "data_lancamento": "2026-05-21",
-      "data_qualificacao": "2026-06-05",
-      "sinopse_pt": "Niki é um afinador de pianos talentoso treinado por Harry. Sua audição excepcional chama a atenção de criminosos. Essa habilidade rara não só o ajuda a trabalhar com instrumentos de alto padrão, como pianos Steinway, mas também a abrir cofres com precisão. Ao longo do caminho, Niki conhece Ruthie, uma estudante de composição, e os dois criam uma conexão inesperada. Porém, sua vida dupla como arrombador começa a ameaçar o relacionamento, enquanto ele se envolve em situações cada vez mais perigosas.",
-      "elenco": [
-        "Leo Woodall",
-        "Havana Rose Liu",
-        "ליאור רז",
-        "Tovah Feldshuh",
-        "Jean Reno",
-        "Dustin Hoffman",
-        "Jonnie Park",
-        "Jean Yoon"
-      ],
-      "diretor": "Daniel Roher",
-      "generos": [
-        "Crime",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bq21NGxKqV6DgHfm5j48mscM7Ai.jpg",
-      "rt_critica": 94,
-      "rt_publico": null,
-      "metacritic": 68,
-      "imdb_publico": 7.3,
-      "criterio_qualificacao": "ambos",
-      "historico": [
-        {
-          "data": "2026-06-05",
-          "rt": 94,
-          "metacritic": 68
-        }
-      ],
-      "pico_rt": 94,
-      "pico_metacritic": 68,
-      "atual_rt": 94,
-      "atual_metacritic": 68,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33296751/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Tuner",
-        "metacritic": "https://www.metacritic.com/search/Tuner/"
       }
     },
     {
@@ -139,6 +94,11 @@
           "data": "2026-06-05",
           "rt": null,
           "metacritic": 72
+        },
+        {
+          "data": "2026-06-06",
+          "rt": null,
+          "metacritic": 72
         }
       ],
       "pico_rt": null,
@@ -152,6 +112,61 @@
         "imdb": "https://www.imdb.com/title/tt30827810/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=I%20Love%20Boosters",
         "metacritic": "https://www.metacritic.com/search/I%20Love%20Boosters/"
+      }
+    },
+    {
+      "tmdb_id": 1340206,
+      "imdb_id": "tt33296751",
+      "titulo_original": "Tuner",
+      "titulo_ingles": "Tuner",
+      "ano": 2026,
+      "data_lancamento": "2026-05-21",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Niki é um afinador de pianos talentoso treinado por Harry. Sua audição excepcional chama a atenção de criminosos. Essa habilidade rara não só o ajuda a trabalhar com instrumentos de alto padrão, como pianos Steinway, mas também a abrir cofres com precisão. Ao longo do caminho, Niki conhece Ruthie, uma estudante de composição, e os dois criam uma conexão inesperada. Porém, sua vida dupla como arrombador começa a ameaçar o relacionamento, enquanto ele se envolve em situações cada vez mais perigosas.",
+      "elenco": [
+        "Leo Woodall",
+        "Havana Rose Liu",
+        "ליאור רז",
+        "Tovah Feldshuh",
+        "Jean Reno",
+        "Dustin Hoffman",
+        "Jonnie Park",
+        "Jean Yoon"
+      ],
+      "diretor": "Daniel Roher",
+      "generos": [
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bq21NGxKqV6DgHfm5j48mscM7Ai.jpg",
+      "rt_critica": 94,
+      "rt_publico": null,
+      "metacritic": 68,
+      "imdb_publico": 7.3,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 94,
+          "metacritic": 68
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 94,
+          "metacritic": 68
+        }
+      ],
+      "pico_rt": 94,
+      "pico_metacritic": 68,
+      "atual_rt": 94,
+      "atual_metacritic": 68,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33296751/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Tuner",
+        "metacritic": "https://www.metacritic.com/search/Tuner/"
       }
     },
     {
@@ -187,6 +202,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 98,
+          "metacritic": 84
+        },
+        {
+          "data": "2026-06-06",
           "rt": 98,
           "metacritic": 84
         }
@@ -236,6 +256,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 95,
+          "metacritic": 77
+        },
+        {
+          "data": "2026-06-06",
           "rt": 95,
           "metacritic": 77
         }
@@ -289,6 +314,11 @@
           "data": "2026-06-05",
           "rt": 94,
           "metacritic": 72
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 94,
+          "metacritic": 72
         }
       ],
       "pico_rt": 94,
@@ -336,6 +366,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": null,
+          "metacritic": 76
+        },
+        {
+          "data": "2026-06-06",
           "rt": null,
           "metacritic": 76
         }
@@ -390,6 +425,11 @@
           "data": "2026-06-05",
           "rt": 88,
           "metacritic": 73
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 88,
+          "metacritic": 73
         }
       ],
       "pico_rt": 88,
@@ -441,6 +481,11 @@
           "data": "2026-06-05",
           "rt": 77,
           "metacritic": 61
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 77,
+          "metacritic": 61
         }
       ],
       "pico_rt": 77,
@@ -489,6 +534,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 95,
+          "metacritic": 78
+        },
+        {
+          "data": "2026-06-06",
           "rt": 95,
           "metacritic": 78
         }
@@ -543,6 +593,11 @@
           "data": "2026-06-05",
           "rt": 72,
           "metacritic": 58
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 72,
+          "metacritic": 58
         }
       ],
       "pico_rt": 72,
@@ -591,6 +646,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 94,
+          "metacritic": 77
+        },
+        {
+          "data": "2026-06-06",
           "rt": 94,
           "metacritic": 77
         }
@@ -672,6 +732,11 @@
           "data": "2026-06-05",
           "rt": null,
           "metacritic": 70
+        },
+        {
+          "data": "2026-06-06",
+          "rt": null,
+          "metacritic": 70
         }
       ],
       "pico_rt": null,
@@ -731,6 +796,11 @@
           "data": "2026-06-05",
           "rt": 68,
           "metacritic": 55
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 68,
+          "metacritic": 55
         }
       ],
       "pico_rt": 68,
@@ -744,6 +814,61 @@
         "imdb": "https://www.imdb.com/title/tt32490110/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Slanted",
         "metacritic": "https://www.metacritic.com/search/Slanted/"
+      }
+    },
+    {
+      "tmdb_id": 1480387,
+      "imdb_id": "tt35892608",
+      "titulo_original": "undertone",
+      "titulo_ingles": "undertone",
+      "ano": 2026,
+      "data_lancamento": "2026-03-12",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "A apresentadora de um popular podcast paranormal passa a ser assombrada por gravações aterrorizantes misteriosamente enviadas a ela.",
+      "elenco": [
+        "Nina Kiri",
+        "Adam DiMarco",
+        "Michèle Duquet",
+        "Keana Bastidas",
+        "Jeff Yung",
+        "Ryan Turner",
+        "Ari Millen",
+        "Marisol D’Andrea"
+      ],
+      "diretor": "Ian Tuason",
+      "generos": [
+        "Terror",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
+      "rt_critica": 74,
+      "rt_publico": null,
+      "metacritic": 65,
+      "imdb_publico": 6.1,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 74,
+          "metacritic": 65
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 74,
+          "metacritic": 65
+        }
+      ],
+      "pico_rt": 74,
+      "pico_metacritic": 65,
+      "atual_rt": 74,
+      "atual_metacritic": 65,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35892608/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=undertone",
+        "metacritic": "https://www.metacritic.com/search/undertone/"
       }
     },
     {
@@ -778,6 +903,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 88,
+          "metacritic": null
+        },
+        {
+          "data": "2026-06-06",
           "rt": 88,
           "metacritic": null
         }
@@ -824,56 +954,6 @@
       }
     },
     {
-      "tmdb_id": 1480387,
-      "imdb_id": "tt35892608",
-      "titulo_original": "undertone",
-      "titulo_ingles": "undertone",
-      "ano": 2026,
-      "data_lancamento": "2026-03-12",
-      "data_qualificacao": "2026-06-05",
-      "sinopse_pt": "A apresentadora de um popular podcast paranormal passa a ser assombrada por gravações aterrorizantes misteriosamente enviadas a ela.",
-      "elenco": [
-        "Nina Kiri",
-        "Adam DiMarco",
-        "Michèle Duquet",
-        "Keana Bastidas",
-        "Jeff Yung",
-        "Ryan Turner",
-        "Ari Millen",
-        "Marisol D’Andrea"
-      ],
-      "diretor": "Ian Tuason",
-      "generos": [
-        "Terror",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
-      "rt_critica": 74,
-      "rt_publico": null,
-      "metacritic": 65,
-      "imdb_publico": 6.1,
-      "criterio_qualificacao": "ambos",
-      "historico": [
-        {
-          "data": "2026-06-05",
-          "rt": 74,
-          "metacritic": 65
-        }
-      ],
-      "pico_rt": 74,
-      "pico_metacritic": 65,
-      "atual_rt": 74,
-      "atual_metacritic": 65,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35892608/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=undertone",
-        "metacritic": "https://www.metacritic.com/search/undertone/"
-      }
-    },
-    {
       "tmdb_id": 1381027,
       "imdb_id": "tt34381258",
       "titulo_original": "Good Boy",
@@ -907,6 +987,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 90,
+          "metacritic": 63
+        },
+        {
+          "data": "2026-06-06",
           "rt": 90,
           "metacritic": 63
         }
@@ -962,6 +1047,11 @@
           "data": "2026-06-05",
           "rt": 94,
           "metacritic": 73
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 94,
+          "metacritic": 73
         }
       ],
       "pico_rt": 94,
@@ -1009,6 +1099,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 100,
+          "metacritic": null
+        },
+        {
+          "data": "2026-06-06",
           "rt": 100,
           "metacritic": null
         }
@@ -1070,6 +1165,11 @@
           "data": "2026-06-05",
           "rt": 100,
           "metacritic": 75
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 100,
+          "metacritic": 75
         }
       ],
       "pico_rt": 100,
@@ -1118,6 +1218,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 100,
+          "metacritic": 79
+        },
+        {
+          "data": "2026-06-06",
           "rt": 100,
           "metacritic": 79
         }
@@ -1181,6 +1286,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 97,
+          "metacritic": 86
+        },
+        {
+          "data": "2026-06-06",
           "rt": 97,
           "metacritic": 86
         }
@@ -1262,6 +1372,11 @@
           "data": "2026-06-05",
           "rt": null,
           "metacritic": 66
+        },
+        {
+          "data": "2026-06-06",
+          "rt": null,
+          "metacritic": 66
         }
       ],
       "pico_rt": null,
@@ -1275,6 +1390,74 @@
         "imdb": "https://www.imdb.com/title/tt1341338/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Good%20Luck%2C%20Have%20Fun%2C%20Don't%20Die",
         "metacritic": "https://www.metacritic.com/search/Good%20Luck%2C%20Have%20Fun%2C%20Don't%20Die/"
+      }
+    },
+    {
+      "tmdb_id": 1171145,
+      "imdb_id": "tt32430579",
+      "titulo_original": "Crime 101",
+      "titulo_ingles": "Crime 101",
+      "ano": 2026,
+      "data_lancamento": "2026-02-11",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Um ladrão enigmático realiza assaltos de alto risco ao longo da icônica rodovia 101. Quando ele mira o golpe de sua vida — na esperança de que este seja seu último trabalho —, seu caminho cruza com o de uma corretora de seguros desiludida, forçando os dois a colaborar. Determinado a desvendar o caso, um detetive implacável se aproxima da operação.",
+      "elenco": [
+        "Chris Hemsworth",
+        "Mark Ruffalo",
+        "Halle Berry",
+        "Barry Keoghan",
+        "Monica Barbaro",
+        "Nick Nolte",
+        "Corey Hawkins",
+        "Jennifer Jason Leigh"
+      ],
+      "diretor": "Bart Layton",
+      "generos": [
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/3u8Pr8WF9hqMptlnuYL52YXSs8F.jpg",
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 68,
+      "imdb_publico": 6.8,
+      "criterio_qualificacao": "metacritic",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": null,
+          "metacritic": 68
+        },
+        {
+          "data": "2026-06-06",
+          "rt": null,
+          "metacritic": 68
+        }
+      ],
+      "pico_rt": null,
+      "pico_metacritic": 68,
+      "atual_rt": null,
+      "atual_metacritic": 68,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1171145-crime-101/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32430579/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Crime%20101",
+        "metacritic": "https://www.metacritic.com/search/Crime%20101/"
       }
     },
     {
@@ -1311,6 +1494,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 84,
+          "metacritic": 60
+        },
+        {
+          "data": "2026-06-06",
           "rt": 84,
           "metacritic": 60
         }
@@ -1357,69 +1545,6 @@
       }
     },
     {
-      "tmdb_id": 1171145,
-      "imdb_id": "tt32430579",
-      "titulo_original": "Crime 101",
-      "titulo_ingles": "Crime 101",
-      "ano": 2026,
-      "data_lancamento": "2026-02-11",
-      "data_qualificacao": "2026-06-05",
-      "sinopse_pt": "Um ladrão enigmático realiza assaltos de alto risco ao longo da icônica rodovia 101. Quando ele mira o golpe de sua vida — na esperança de que este seja seu último trabalho —, seu caminho cruza com o de uma corretora de seguros desiludida, forçando os dois a colaborar. Determinado a desvendar o caso, um detetive implacável se aproxima da operação.",
-      "elenco": [
-        "Chris Hemsworth",
-        "Mark Ruffalo",
-        "Halle Berry",
-        "Barry Keoghan",
-        "Monica Barbaro",
-        "Nick Nolte",
-        "Corey Hawkins",
-        "Jennifer Jason Leigh"
-      ],
-      "diretor": "Bart Layton",
-      "generos": [
-        "Crime",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/3u8Pr8WF9hqMptlnuYL52YXSs8F.jpg",
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 68,
-      "imdb_publico": 6.8,
-      "criterio_qualificacao": "metacritic",
-      "historico": [
-        {
-          "data": "2026-06-05",
-          "rt": null,
-          "metacritic": 68
-        }
-      ],
-      "pico_rt": null,
-      "pico_metacritic": 68,
-      "atual_rt": null,
-      "atual_metacritic": 68,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1171145-crime-101/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32430579/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Crime%20101",
-        "metacritic": "https://www.metacritic.com/search/Crime%20101/"
-      }
-    },
-    {
       "tmdb_id": 1168190,
       "imdb_id": "tt33046197",
       "titulo_original": "The Wrecking Crew",
@@ -1454,6 +1579,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": null,
+          "metacritic": 67
+        },
+        {
+          "data": "2026-06-06",
           "rt": null,
           "metacritic": 67
         }
@@ -1495,65 +1625,6 @@
       }
     },
     {
-      "tmdb_id": 1198994,
-      "imdb_id": "tt8036976",
-      "titulo_original": "Send Help",
-      "titulo_ingles": "Send Help",
-      "ano": 2026,
-      "data_lancamento": "2026-01-22",
-      "data_qualificacao": "2026-06-05",
-      "sinopse_pt": "Após um acidente aéreo, um chefe e uma funcionária que se odeiam são os únicos sobreviventes. Isolados numa ilha deserta, eles precisam decidir se cooperam ou competem para escapar, mas é difícil deixar para trás os conflitos do escritório.",
-      "elenco": [
-        "Rachel McAdams",
-        "Dylan O'Brien",
-        "Edyll Ismail",
-        "Dennis Haysbert",
-        "Xavier Samuel",
-        "Chris Pang",
-        "ธเนศ วรากุลนุเคราะห์",
-        "Emma Raimi"
-      ],
-      "diretor": "Sam Raimi",
-      "generos": [
-        "Terror",
-        "Thriller",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/rpU5DGrTVdqcygZBB9npt1WMFch.jpg",
-      "rt_critica": 92,
-      "rt_publico": null,
-      "metacritic": 75,
-      "imdb_publico": 6.9,
-      "criterio_qualificacao": "ambos",
-      "historico": [
-        {
-          "data": "2026-06-05",
-          "rt": 92,
-          "metacritic": 75
-        }
-      ],
-      "pico_rt": 92,
-      "pico_metacritic": 75,
-      "atual_rt": 92,
-      "atual_metacritic": 75,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1198994-send-help/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt8036976/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Send%20Help",
-        "metacritic": "https://www.metacritic.com/search/Send%20Help/"
-      }
-    },
-    {
       "tmdb_id": 696393,
       "imdb_id": "tt8879928",
       "titulo_original": "Cold Storage",
@@ -1587,6 +1658,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 81,
+          "metacritic": 64
+        },
+        {
+          "data": "2026-06-06",
           "rt": 81,
           "metacritic": 64
         }
@@ -1633,6 +1709,70 @@
       }
     },
     {
+      "tmdb_id": 1198994,
+      "imdb_id": "tt8036976",
+      "titulo_original": "Send Help",
+      "titulo_ingles": "Send Help",
+      "ano": 2026,
+      "data_lancamento": "2026-01-22",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Após um acidente aéreo, um chefe e uma funcionária que se odeiam são os únicos sobreviventes. Isolados numa ilha deserta, eles precisam decidir se cooperam ou competem para escapar, mas é difícil deixar para trás os conflitos do escritório.",
+      "elenco": [
+        "Rachel McAdams",
+        "Dylan O'Brien",
+        "Edyll Ismail",
+        "Dennis Haysbert",
+        "Xavier Samuel",
+        "Chris Pang",
+        "ธเนศ วรากุลนุเคราะห์",
+        "Emma Raimi"
+      ],
+      "diretor": "Sam Raimi",
+      "generos": [
+        "Terror",
+        "Thriller",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/rpU5DGrTVdqcygZBB9npt1WMFch.jpg",
+      "rt_critica": 92,
+      "rt_publico": null,
+      "metacritic": 75,
+      "imdb_publico": 6.9,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 92,
+          "metacritic": 75
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 92,
+          "metacritic": 75
+        }
+      ],
+      "pico_rt": 92,
+      "pico_metacritic": 75,
+      "atual_rt": 92,
+      "atual_metacritic": 75,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1198994-send-help/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt8036976/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Send%20Help",
+        "metacritic": "https://www.metacritic.com/search/Send%20Help/"
+      }
+    },
+    {
       "tmdb_id": 1272837,
       "imdb_id": "tt32141377",
       "titulo_original": "28 Years Later: The Bone Temple",
@@ -1666,6 +1806,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 92,
+          "metacritic": 81
+        },
+        {
+          "data": "2026-06-06",
           "rt": 92,
           "metacritic": 81
         }
@@ -1747,6 +1892,11 @@
           "data": "2026-06-05",
           "rt": 78,
           "metacritic": 63
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 78,
+          "metacritic": 63
         }
       ],
       "pico_rt": 78,
@@ -1808,6 +1958,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 88,
+          "metacritic": 61
+        },
+        {
+          "data": "2026-06-06",
           "rt": 88,
           "metacritic": 61
         }
@@ -1893,6 +2048,11 @@
           "data": "2026-06-05",
           "rt": 93,
           "metacritic": 89
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 93,
+          "metacritic": 89
         }
       ],
       "pico_rt": 93,
@@ -1969,6 +2129,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 73,
+          "metacritic": 65
+        },
+        {
+          "data": "2026-06-06",
           "rt": 73,
           "metacritic": 65
         }
@@ -2050,6 +2215,11 @@
           "data": "2026-06-05",
           "rt": 66,
           "metacritic": 61
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 66,
+          "metacritic": 61
         }
       ],
       "pico_rt": 66,
@@ -2109,6 +2279,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 78,
+          "metacritic": 65
+        },
+        {
+          "data": "2026-06-06",
           "rt": 78,
           "metacritic": 65
         }
@@ -2206,6 +2381,11 @@
           "data": "2026-06-05",
           "rt": 80,
           "metacritic": 55
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 80,
+          "metacritic": 55
         }
       ],
       "pico_rt": 80,
@@ -2255,131 +2435,6 @@
       }
     },
     {
-      "tmdb_id": 1084242,
-      "imdb_id": "tt26443597",
-      "titulo_original": "Zootopia 2",
-      "titulo_ingles": "Zootopia 2",
-      "ano": 2025,
-      "data_lancamento": "2025-11-26",
-      "data_qualificacao": "2026-06-05",
-      "sinopse_pt": "Os detetives Judy Hopps e Nick Wilde se encontram na trilha sinuosa de um réptil misterioso que chega a Zootopia e vira a metrópole dos mamíferos de cabeça para baixo.",
-      "elenco": [
-        "Ginnifer Goodwin",
-        "Jason Bateman",
-        "Ke Huy Quan",
-        "Fortune Feimster",
-        "Andy Samberg",
-        "David Strathairn",
-        "Idris Elba",
-        "Shakira"
-      ],
-      "diretor": "Jared Bush, Byron Howard",
-      "generos": [
-        "Aventura",
-        "Animação",
-        "Comédia",
-        "Família",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/sOgzzmyHJ3uWjEU509AwrcXoE71.jpg",
-      "rt_critica": 91,
-      "rt_publico": null,
-      "metacritic": 73,
-      "imdb_publico": 7.4,
-      "criterio_qualificacao": "ambos",
-      "historico": [
-        {
-          "data": "2026-06-05",
-          "rt": 91,
-          "metacritic": 73
-        }
-      ],
-      "pico_rt": 91,
-      "pico_metacritic": 73,
-      "atual_rt": 91,
-      "atual_metacritic": 73,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1084242-zootopia-2/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt26443597/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Zootopia%202",
-        "metacritic": "https://www.metacritic.com/search/Zootopia%202/"
-      }
-    },
-    {
-      "tmdb_id": 812583,
-      "imdb_id": "tt14364480",
-      "titulo_original": "Wake Up Dead Man: A Knives Out Mystery",
-      "titulo_ingles": "Wake Up Dead Man: A Knives Out Mystery",
-      "ano": 2025,
-      "data_lancamento": "2025-11-26",
-      "data_qualificacao": "2026-06-05",
-      "sinopse_pt": "O detetive Benoit Blanc conta com a ajuda de um jovem padre para investigar um crime perfeitamente impossível na igreja de uma cidadezinha que tem uma história sombria.",
-      "elenco": [
-        "Daniel Craig",
-        "Josh O'Connor",
-        "Glenn Close",
-        "Josh Brolin",
-        "Mila Kunis",
-        "Jeremy Renner",
-        "Kerry Washington",
-        "Andrew Scott"
-      ],
-      "diretor": "Rian Johnson",
-      "generos": [
-        "Thriller",
-        "Mistério",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/rdxMmkArDAfu1UxdOq6H22GtPdV.jpg",
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 80,
-      "imdb_publico": 7.3,
-      "criterio_qualificacao": "metacritic",
-      "historico": [
-        {
-          "data": "2026-06-05",
-          "rt": null,
-          "metacritic": 80
-        }
-      ],
-      "pico_rt": null,
-      "pico_metacritic": 80,
-      "atual_rt": null,
-      "atual_metacritic": 80,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/812583-wake-up-dead-man-a-knives-out-mystery/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt14364480/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Wake%20Up%20Dead%20Man%3A%20A%20Knives%20Out%20Mystery",
-        "metacritic": "https://www.metacritic.com/search/Wake%20Up%20Dead%20Man%3A%20A%20Knives%20Out%20Mystery/"
-      }
-    },
-    {
       "tmdb_id": 858024,
       "imdb_id": "tt14905854",
       "titulo_original": "Hamnet",
@@ -2413,6 +2468,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 87,
+          "metacritic": 84
+        },
+        {
+          "data": "2026-06-06",
           "rt": 87,
           "metacritic": 84
         }
@@ -2459,6 +2519,141 @@
       }
     },
     {
+      "tmdb_id": 812583,
+      "imdb_id": "tt14364480",
+      "titulo_original": "Wake Up Dead Man: A Knives Out Mystery",
+      "titulo_ingles": "Wake Up Dead Man: A Knives Out Mystery",
+      "ano": 2025,
+      "data_lancamento": "2025-11-26",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "O detetive Benoit Blanc conta com a ajuda de um jovem padre para investigar um crime perfeitamente impossível na igreja de uma cidadezinha que tem uma história sombria.",
+      "elenco": [
+        "Daniel Craig",
+        "Josh O'Connor",
+        "Glenn Close",
+        "Josh Brolin",
+        "Mila Kunis",
+        "Jeremy Renner",
+        "Kerry Washington",
+        "Andrew Scott"
+      ],
+      "diretor": "Rian Johnson",
+      "generos": [
+        "Thriller",
+        "Mistério",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/rdxMmkArDAfu1UxdOq6H22GtPdV.jpg",
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 80,
+      "imdb_publico": 7.3,
+      "criterio_qualificacao": "metacritic",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": null,
+          "metacritic": 80
+        },
+        {
+          "data": "2026-06-06",
+          "rt": null,
+          "metacritic": 80
+        }
+      ],
+      "pico_rt": null,
+      "pico_metacritic": 80,
+      "atual_rt": null,
+      "atual_metacritic": 80,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/812583-wake-up-dead-man-a-knives-out-mystery/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt14364480/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Wake%20Up%20Dead%20Man%3A%20A%20Knives%20Out%20Mystery",
+        "metacritic": "https://www.metacritic.com/search/Wake%20Up%20Dead%20Man%3A%20A%20Knives%20Out%20Mystery/"
+      }
+    },
+    {
+      "tmdb_id": 1084242,
+      "imdb_id": "tt26443597",
+      "titulo_original": "Zootopia 2",
+      "titulo_ingles": "Zootopia 2",
+      "ano": 2025,
+      "data_lancamento": "2025-11-26",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Os detetives Judy Hopps e Nick Wilde se encontram na trilha sinuosa de um réptil misterioso que chega a Zootopia e vira a metrópole dos mamíferos de cabeça para baixo.",
+      "elenco": [
+        "Ginnifer Goodwin",
+        "Jason Bateman",
+        "Ke Huy Quan",
+        "Fortune Feimster",
+        "Andy Samberg",
+        "David Strathairn",
+        "Idris Elba",
+        "Shakira"
+      ],
+      "diretor": "Jared Bush, Byron Howard",
+      "generos": [
+        "Aventura",
+        "Animação",
+        "Comédia",
+        "Família",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/sOgzzmyHJ3uWjEU509AwrcXoE71.jpg",
+      "rt_critica": 91,
+      "rt_publico": null,
+      "metacritic": 73,
+      "imdb_publico": 7.4,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 91,
+          "metacritic": 73
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 91,
+          "metacritic": 73
+        }
+      ],
+      "pico_rt": 91,
+      "pico_metacritic": 73,
+      "atual_rt": 91,
+      "atual_metacritic": 73,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1084242-zootopia-2/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt26443597/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Zootopia%202",
+        "metacritic": "https://www.metacritic.com/search/Zootopia%202/"
+      }
+    },
+    {
       "tmdb_id": 1214931,
       "imdb_id": "tt29567915",
       "titulo_original": "Nuremberg",
@@ -2491,6 +2686,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 71,
+          "metacritic": 61
+        },
+        {
+          "data": "2026-06-06",
           "rt": 71,
           "metacritic": 61
         }
@@ -2572,6 +2772,11 @@
           "data": "2026-06-05",
           "rt": 86,
           "metacritic": 71
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 86,
+          "metacritic": 71
         }
       ],
       "pico_rt": 86,
@@ -2630,6 +2835,11 @@
           "data": "2026-06-05",
           "rt": 100,
           "metacritic": 79
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 100,
+          "metacritic": 79
         }
       ],
       "pico_rt": 100,
@@ -2679,6 +2889,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 87,
+          "metacritic": 72
+        },
+        {
+          "data": "2026-06-06",
           "rt": 87,
           "metacritic": 72
         }
@@ -2765,6 +2980,11 @@
           "data": "2026-06-05",
           "rt": 93,
           "metacritic": 76
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 93,
+          "metacritic": 76
         }
       ],
       "pico_rt": 93,
@@ -2839,6 +3059,11 @@
           "data": "2026-06-05",
           "rt": 85,
           "metacritic": 78
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 85,
+          "metacritic": 78
         }
       ],
       "pico_rt": 85,
@@ -2900,6 +3125,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 72,
+          "metacritic": 61
+        },
+        {
+          "data": "2026-06-06",
           "rt": 72,
           "metacritic": 61
         }
@@ -2986,6 +3216,11 @@
           "data": "2026-06-05",
           "rt": 87,
           "metacritic": 66
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 87,
+          "metacritic": 66
         }
       ],
       "pico_rt": 87,
@@ -3070,6 +3305,11 @@
           "data": "2026-06-05",
           "rt": 97,
           "metacritic": 86
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 97,
+          "metacritic": 86
         }
       ],
       "pico_rt": 97,
@@ -3152,6 +3392,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 94,
+          "metacritic": 95
+        },
+        {
+          "data": "2026-06-06",
           "rt": 94,
           "metacritic": 95
         }
@@ -3241,6 +3486,11 @@
           "data": "2026-06-05",
           "rt": 97,
           "metacritic": 73
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 97,
+          "metacritic": 73
         }
       ],
       "pico_rt": 97,
@@ -3291,6 +3541,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 96,
+          "metacritic": 71
+        },
+        {
+          "data": "2026-06-06",
           "rt": 96,
           "metacritic": 71
         }
@@ -3365,6 +3620,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 88,
+          "metacritic": 71
+        },
+        {
+          "data": "2026-06-06",
           "rt": 88,
           "metacritic": 71
         }
@@ -3445,6 +3705,11 @@
           "data": "2026-06-05",
           "rt": null,
           "metacritic": 69
+        },
+        {
+          "data": "2026-06-06",
+          "rt": null,
+          "metacritic": 69
         }
       ],
       "pico_rt": null,
@@ -3497,6 +3762,11 @@
           "data": "2026-06-05",
           "rt": 83,
           "metacritic": null
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 83,
+          "metacritic": null
         }
       ],
       "pico_rt": 83,
@@ -3546,6 +3816,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 76,
+          "metacritic": 59
+        },
+        {
+          "data": "2026-06-06",
           "rt": 76,
           "metacritic": 59
         }
@@ -3632,6 +3907,11 @@
           "data": "2026-06-05",
           "rt": 73,
           "metacritic": 60
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 73,
+          "metacritic": 60
         }
       ],
       "pico_rt": 73,
@@ -3688,6 +3968,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 93,
+          "metacritic": 81
+        },
+        {
+          "data": "2026-06-06",
           "rt": 93,
           "metacritic": 81
         }
@@ -3779,6 +4064,11 @@
           "data": "2026-06-05",
           "rt": 87,
           "metacritic": 75
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 87,
+          "metacritic": 75
         }
       ],
       "pico_rt": 87,
@@ -3865,6 +4155,11 @@
           "data": "2026-06-05",
           "rt": 87,
           "metacritic": 64
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 87,
+          "metacritic": 64
         }
       ],
       "pico_rt": 87,
@@ -3949,6 +4244,11 @@
           "data": "2026-06-05",
           "rt": null,
           "metacritic": 65
+        },
+        {
+          "data": "2026-06-06",
+          "rt": null,
+          "metacritic": 65
         }
       ],
       "pico_rt": null,
@@ -4008,6 +4308,11 @@
           "data": "2026-06-05",
           "rt": 98,
           "metacritic": 67
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 98,
+          "metacritic": 67
         }
       ],
       "pico_rt": 98,
@@ -4056,6 +4361,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 90,
+          "metacritic": 75
+        },
+        {
+          "data": "2026-06-06",
           "rt": 90,
           "metacritic": 75
         }
@@ -4142,6 +4452,11 @@
           "data": "2026-06-05",
           "rt": 83,
           "metacritic": 68
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 83,
+          "metacritic": 68
         }
       ],
       "pico_rt": 83,
@@ -4225,6 +4540,11 @@
           "data": "2026-06-05",
           "rt": 82,
           "metacritic": 68
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 82,
+          "metacritic": 68
         }
       ],
       "pico_rt": 82,
@@ -4305,6 +4625,11 @@
           "data": "2026-06-05",
           "rt": 91,
           "metacritic": 77
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 91,
+          "metacritic": 77
         }
       ],
       "pico_rt": 91,
@@ -4331,6 +4656,72 @@
         "imdb": "https://www.imdb.com/title/tt14205554/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=KPop%20Demon%20Hunters",
         "metacritic": "https://www.metacritic.com/search/KPop%20Demon%20Hunters/"
+      }
+    },
+    {
+      "tmdb_id": 1022787,
+      "imdb_id": "tt4900148",
+      "titulo_original": "Elio",
+      "titulo_ingles": "Elio",
+      "ano": 2025,
+      "data_lancamento": "2025-06-18",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Elio, um garoto oprimido com uma imaginação fértil, acaba sendo transportado acidentalmente para o Comuniverso. Identificado por engano como o embaixador da Terra para o resto do universo, Elio precisará formar novos laços com excêntricas formas de vida alienígenas, sobreviver a uma série de tribulações terríveis e, de alguma forma, descobrir quem ele realmente está destinado a ser.",
+      "elenco": [
+        "Yonas Kibreab",
+        "Remy Edgerly",
+        "Zoe Saldaña",
+        "Brad Garrett",
+        "Brandon Moon",
+        "Jameela Jamil",
+        "Young Dylan",
+        "Jake T. Getman"
+      ],
+      "diretor": "Domee Shi, Madeline Sharafian, Adrian Molina",
+      "generos": [
+        "Aventura",
+        "Animação",
+        "Comédia",
+        "Família",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/2H8k54MWPQtsxWkQhR2HVfT34ty.jpg",
+      "rt_critica": 83,
+      "rt_publico": null,
+      "metacritic": 66,
+      "imdb_publico": 6.6,
+      "criterio_qualificacao": "ambos",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 83,
+          "metacritic": 66
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 83,
+          "metacritic": 66
+        }
+      ],
+      "pico_rt": 83,
+      "pico_metacritic": 66,
+      "atual_rt": 83,
+      "atual_metacritic": 66,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1022787-elio/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt4900148/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Elio",
+        "metacritic": "https://www.metacritic.com/search/Elio/"
       }
     },
     {
@@ -4367,6 +4758,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 88,
+          "metacritic": 77
+        },
+        {
+          "data": "2026-06-06",
           "rt": 88,
           "metacritic": 77
         }
@@ -4408,67 +4804,6 @@
       }
     },
     {
-      "tmdb_id": 1022787,
-      "imdb_id": "tt4900148",
-      "titulo_original": "Elio",
-      "titulo_ingles": "Elio",
-      "ano": 2025,
-      "data_lancamento": "2025-06-18",
-      "data_qualificacao": "2026-06-05",
-      "sinopse_pt": "Elio, um garoto oprimido com uma imaginação fértil, acaba sendo transportado acidentalmente para o Comuniverso. Identificado por engano como o embaixador da Terra para o resto do universo, Elio precisará formar novos laços com excêntricas formas de vida alienígenas, sobreviver a uma série de tribulações terríveis e, de alguma forma, descobrir quem ele realmente está destinado a ser.",
-      "elenco": [
-        "Yonas Kibreab",
-        "Remy Edgerly",
-        "Zoe Saldaña",
-        "Brad Garrett",
-        "Brandon Moon",
-        "Jameela Jamil",
-        "Young Dylan",
-        "Jake T. Getman"
-      ],
-      "diretor": "Domee Shi, Madeline Sharafian, Adrian Molina",
-      "generos": [
-        "Aventura",
-        "Animação",
-        "Comédia",
-        "Família",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/2H8k54MWPQtsxWkQhR2HVfT34ty.jpg",
-      "rt_critica": 83,
-      "rt_publico": null,
-      "metacritic": 66,
-      "imdb_publico": 6.6,
-      "criterio_qualificacao": "ambos",
-      "historico": [
-        {
-          "data": "2026-06-05",
-          "rt": 83,
-          "metacritic": 66
-        }
-      ],
-      "pico_rt": 83,
-      "pico_metacritic": 66,
-      "atual_rt": 83,
-      "atual_metacritic": 66,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1022787-elio/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt4900148/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Elio",
-        "metacritic": "https://www.metacritic.com/search/Elio/"
-      }
-    },
-    {
       "tmdb_id": 1087192,
       "imdb_id": "tt26743210",
       "titulo_original": "How to Train Your Dragon",
@@ -4503,6 +4838,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 77,
+          "metacritic": 61
+        },
+        {
+          "data": "2026-06-06",
           "rt": 77,
           "metacritic": 61
         }
@@ -4592,6 +4932,11 @@
           "data": "2026-06-05",
           "rt": 89,
           "metacritic": 75
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 89,
+          "metacritic": 75
         }
       ],
       "pico_rt": 89,
@@ -4636,6 +4981,70 @@
       }
     },
     {
+      "tmdb_id": 552524,
+      "imdb_id": "tt11655566",
+      "titulo_original": "Lilo & Stitch",
+      "titulo_ingles": "Lilo & Stitch",
+      "ano": 2025,
+      "data_lancamento": "2025-05-17",
+      "data_qualificacao": "2026-06-05",
+      "sinopse_pt": "Stitch, um alienígena, chega ao planeta Terra após fugir de sua prisão e tenta se passar por um cachorro para se camuflar. As coisas mudam quando Lilo, uma travessa menina, o adota de um abrigo de animais. Juntos, eles aprendem os valores da amizade e família.",
+      "elenco": [
+        "Maia Kealoha",
+        "Sydney Agudong",
+        "Chris Sanders",
+        "Zach Galifianakis",
+        "Billy Magnussen",
+        "Courtney B. Vance",
+        "Amy Hill",
+        "Tia Carrere"
+      ],
+      "diretor": "Dean Fleischer Camp",
+      "generos": [
+        "Família",
+        "Ficção científica",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/m58Oxr3OZZbP2kTX2tj8TiAMLSv.jpg",
+      "rt_critica": 73,
+      "rt_publico": null,
+      "metacritic": 53,
+      "imdb_publico": 6.7,
+      "criterio_qualificacao": "rt",
+      "historico": [
+        {
+          "data": "2026-06-05",
+          "rt": 73,
+          "metacritic": 53
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 73,
+          "metacritic": 53
+        }
+      ],
+      "pico_rt": 73,
+      "pico_metacritic": 53,
+      "atual_rt": 73,
+      "atual_metacritic": 53,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/552524-lilo-stitch/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt11655566/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Lilo%20%26%20Stitch",
+        "metacritic": "https://www.metacritic.com/search/Lilo%20%26%20Stitch/"
+      }
+    },
+    {
       "tmdb_id": 575265,
       "imdb_id": "tt9603208",
       "titulo_original": "Mission: Impossible - The Final Reckoning",
@@ -4669,6 +5078,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 80,
+          "metacritic": 67
+        },
+        {
+          "data": "2026-06-06",
           "rt": 80,
           "metacritic": 67
         }
@@ -4725,65 +5139,6 @@
       }
     },
     {
-      "tmdb_id": 552524,
-      "imdb_id": "tt11655566",
-      "titulo_original": "Lilo & Stitch",
-      "titulo_ingles": "Lilo & Stitch",
-      "ano": 2025,
-      "data_lancamento": "2025-05-17",
-      "data_qualificacao": "2026-06-05",
-      "sinopse_pt": "Stitch, um alienígena, chega ao planeta Terra após fugir de sua prisão e tenta se passar por um cachorro para se camuflar. As coisas mudam quando Lilo, uma travessa menina, o adota de um abrigo de animais. Juntos, eles aprendem os valores da amizade e família.",
-      "elenco": [
-        "Maia Kealoha",
-        "Sydney Agudong",
-        "Chris Sanders",
-        "Zach Galifianakis",
-        "Billy Magnussen",
-        "Courtney B. Vance",
-        "Amy Hill",
-        "Tia Carrere"
-      ],
-      "diretor": "Dean Fleischer Camp",
-      "generos": [
-        "Família",
-        "Ficção científica",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/m58Oxr3OZZbP2kTX2tj8TiAMLSv.jpg",
-      "rt_critica": 73,
-      "rt_publico": null,
-      "metacritic": 53,
-      "imdb_publico": 6.7,
-      "criterio_qualificacao": "rt",
-      "historico": [
-        {
-          "data": "2026-06-05",
-          "rt": 73,
-          "metacritic": 53
-        }
-      ],
-      "pico_rt": 73,
-      "pico_metacritic": 53,
-      "atual_rt": 73,
-      "atual_metacritic": 53,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/552524-lilo-stitch/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt11655566/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Lilo%20%26%20Stitch",
-        "metacritic": "https://www.metacritic.com/search/Lilo%20%26%20Stitch/"
-      }
-    },
-    {
       "tmdb_id": 574475,
       "imdb_id": "tt9619824",
       "titulo_original": "Final Destination Bloodlines",
@@ -4816,6 +5171,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 92,
+          "metacritic": 73
+        },
+        {
+          "data": "2026-06-06",
           "rt": 92,
           "metacritic": 73
         }
@@ -4907,6 +5267,11 @@
           "data": "2026-06-05",
           "rt": 88,
           "metacritic": 68
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 88,
+          "metacritic": 68
         }
       ],
       "pico_rt": 88,
@@ -4964,6 +5329,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 75,
+          "metacritic": 58
+        },
+        {
+          "data": "2026-06-06",
           "rt": 75,
           "metacritic": 58
         }
@@ -5048,6 +5418,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 97,
+          "metacritic": 84
+        },
+        {
+          "data": "2026-06-06",
           "rt": 97,
           "metacritic": 84
         }
@@ -5139,6 +5514,11 @@
           "data": "2026-06-05",
           "rt": 96,
           "metacritic": 70
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 96,
+          "metacritic": 70
         }
       ],
       "pico_rt": 96,
@@ -5221,6 +5601,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 78,
+          "metacritic": 72
+        },
+        {
+          "data": "2026-06-06",
           "rt": 78,
           "metacritic": 72
         }
@@ -5313,6 +5698,11 @@
           "data": "2026-06-05",
           "rt": 91,
           "metacritic": 68
+        },
+        {
+          "data": "2026-06-06",
+          "rt": 91,
+          "metacritic": 68
         }
       ],
       "pico_rt": 91,
@@ -5385,6 +5775,11 @@
       "historico": [
         {
           "data": "2026-06-05",
+          "rt": 93,
+          "metacritic": 70
+        },
+        {
+          "data": "2026-06-06",
           "rt": 93,
           "metacritic": 70
         }
