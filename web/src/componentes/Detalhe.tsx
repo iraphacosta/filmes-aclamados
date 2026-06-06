@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import type { Filme } from "../dados";
-import { ROTULO_DISPONIBILIDADE, dataLonga } from "../formato";
+import { ROTULO_DISPONIBILIDADE, dataLonga, linksVeiculos } from "../formato";
 import { Estrelas } from "./Estrelas";
 import { IconeCheck, IconeMarcador } from "./icones";
 import { NotaChip, SeloCriterio } from "./Selos";
@@ -75,15 +75,15 @@ function NotasCriticos({ filme }: { filme: Filme }) {
     <div className="detalhe__criticos">
       <span className="detalhe__criticos-rotulo">A crítica</span>
       <div className="detalhe__notas-atuais">
-        <NotaChip tipo="rt" valor={filme.atual_rt ?? filme.rt_critica} />
+        <NotaChip tipo="rt" valor={filme.atual_rt ?? filme.rt_critica} href={filme.links.rotten_tomatoes} />
         {filme.rt_publico != null && (
           <span className="nota-chip nota-rt nota-chip--publico" title="Rotten Tomatoes (público)">
             <span className="nota-chip__rotulo">RT público</span>
             <span className="nota-chip__valor">{filme.rt_publico}%</span>
           </span>
         )}
-        <NotaChip tipo="mc" valor={filme.atual_metacritic ?? filme.metacritic} />
-        <NotaChip tipo="imdb" valor={filme.imdb_publico} />
+        <NotaChip tipo="mc" valor={filme.atual_metacritic ?? filme.metacritic} href={filme.links.metacritic} />
+        <NotaChip tipo="imdb" valor={filme.imdb_publico} href={filme.links.imdb} />
       </div>
     </div>
   );
@@ -212,17 +212,19 @@ export function Detalhe({
               </p>
             </section>
 
-            <div className="detalhe__links">
-              {filme.links.rotten_tomatoes && (
-                <a href={filme.links.rotten_tomatoes} target="_blank" rel="noreferrer">Rotten Tomatoes ↗</a>
-              )}
-              {filme.links.metacritic && (
-                <a href={filme.links.metacritic} target="_blank" rel="noreferrer">Metacritic ↗</a>
-              )}
-              {filme.links.imdb && (
-                <a href={filme.links.imdb} target="_blank" rel="noreferrer">IMDb ↗</a>
-              )}
-            </div>
+            <section className="detalhe__veiculos">
+              <h4 className="detalhe__sub">Crítica em outros veículos</h4>
+              <div className="detalhe__links">
+                {linksVeiculos(filme.titulo_ingles || filme.titulo_original).map((v) => (
+                  <a key={v.nome} href={v.url} target="_blank" rel="noreferrer">
+                    {v.nome} ↗
+                  </a>
+                ))}
+              </div>
+              <p className="disp-aviso">
+                Busca pelo título no site de cada veículo — a crítica pode não existir para todos.
+              </p>
+            </section>
           </div>
         </div>
       </div>

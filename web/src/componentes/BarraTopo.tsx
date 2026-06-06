@@ -102,7 +102,6 @@ export function BarraTopo({
           aria-label="Filtros"
         >
           <IconeFiltro />
-          <span className="filtros-botao__texto">Filtros</span>
           {algumFiltro && <span className="filtros-botao__ponto" aria-hidden />}
         </button>
       </div>

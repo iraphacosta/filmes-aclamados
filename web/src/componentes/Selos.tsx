@@ -1,26 +1,40 @@
 import type { CriterioQualificacao, Disponibilidade } from "../dados";
 import { ROTULO_CRITERIO, resumoDisponibilidade } from "../formato";
 
-/** Chip de nota colorido (RT crítica / Metacritic / IMDb). */
+/** Chip de nota colorido (RT crítica / Metacritic / IMDb). Vira link se receber `href`. */
 export function NotaChip({
   tipo,
   valor,
   compacto = false,
+  href = null,
 }: {
   tipo: "rt" | "mc" | "imdb";
   valor: number | null;
   compacto?: boolean;
+  href?: string | null;
 }) {
   const rotulo = tipo === "rt" ? "RT" : tipo === "mc" ? "MC" : "IMDb";
-  const sufixo = tipo === "rt" ? "%" : tipo === "imdb" ? "" : "";
+  const sufixo = tipo === "rt" ? "%" : "";
   const texto = valor == null ? "—" : `${valor}${sufixo}`;
-  return (
-    <span
-      className={`nota-chip nota-${tipo} ${compacto ? "nota-chip--compacto" : ""}`}
-      title={tipo === "rt" ? "Rotten Tomatoes (crítica)" : tipo === "mc" ? "Metacritic" : "IMDb (público)"}
-    >
+  const nome = tipo === "rt" ? "Rotten Tomatoes" : tipo === "mc" ? "Metacritic" : "IMDb";
+  const classe = `nota-chip nota-${tipo} ${compacto ? "nota-chip--compacto" : ""} ${href ? "nota-chip--link" : ""}`;
+  const conteudo = (
+    <>
       <span className="nota-chip__rotulo">{rotulo}</span>
       <span className="nota-chip__valor">{texto}</span>
+    </>
+  );
+
+  if (href) {
+    return (
+      <a className={classe} href={href} target="_blank" rel="noreferrer" title={`Ver em ${nome}`}>
+        {conteudo}
+      </a>
+    );
+  }
+  return (
+    <span className={classe} title={nome}>
+      {conteudo}
     </span>
   );
 }

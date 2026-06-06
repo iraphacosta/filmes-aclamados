@@ -1,7 +1,7 @@
 import type { Filme } from "../dados";
-import { dataLonga } from "../formato";
+import { dataMedia } from "../formato";
 import { IconeCheck, IconeMarcador } from "./icones";
-import { NotaChip, SeloCriterio, SeloDisponibilidade } from "./Selos";
+import { NotaChip } from "./Selos";
 
 interface Props {
   filme: Filme;
@@ -43,9 +43,6 @@ export function CardFilme({
         ) : (
           <PosterFallback filme={filme} />
         )}
-        <span className="card__disp">
-          <SeloDisponibilidade disp={filme.disponibilidade_br} />
-        </span>
       </button>
 
       <div className="marcadores">
@@ -70,14 +67,13 @@ export function CardFilme({
       </div>
 
       <div className="card__corpo" onClick={onAbrir}>
-        <SeloCriterio criterio={filme.criterio_qualificacao} />
         <h3 className="card__titulo">{filme.titulo_original}</h3>
         {filme.titulo_ingles && filme.titulo_ingles !== filme.titulo_original && (
           <p className="card__titulo-en">{filme.titulo_ingles}</p>
         )}
         <p className="card__lancamento">
           <span className="card__lancamento-rotulo">Estreia</span>
-          {dataLonga(filme.data_lancamento)}
+          <span className="card__lancamento-data">{dataMedia(filme.data_lancamento)}</span>
         </p>
         <div className="card__notas">
           <NotaChip tipo="rt" valor={filme.atual_rt ?? filme.rt_critica} compacto />
