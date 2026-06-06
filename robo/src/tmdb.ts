@@ -44,7 +44,7 @@ export async function descobrirCandidatos(
   dataCorte: string,
   ate: string,
   paginas: number,
-  ordem: "primary_release_date.desc" | "popularity.desc" = "primary_release_date.desc",
+  ordem: "primary_release_date.desc" | "popularity.desc" | "vote_average.desc" = "primary_release_date.desc",
   votosMin = 0,
 ): Promise<CandidatoDescoberto[]> {
   const encontrados: CandidatoDescoberto[] = [];
@@ -71,6 +71,53 @@ export async function descobrirCandidatos(
     if (pagina >= dados.total_pages) break;
   }
   return encontrados;
+}
+
+/**
+ * Varredura progressiva do catálogo (por popularidade), de `paginaInicial` por
+ * `paginas` páginas. Retorna a próxima página (com wrap ao chegar ao fim) e o
+ * total — permite caminhar pelo catálogo inteiro ao longo dos dias (cursor).
+ */
+export async function varrerCandidatos(
+  dataCorte: string,
+  ate: string,
+  paginaInicial: number,
+  paginas: number,
+  votosMin: number,
+): Promise<{ candidatos: CandidatoDescoberto[]; proximaPagina: number; totalPaginas: number }> {
+  const encontrados: CandidatoDescoberto[] = [];
+  let total = 1;
+  let pagina = Math.max(1, paginaInicial);
+  for (let i = 0; i < paginas; i++) {
+    const dados = await buscarJson<RespostaDiscover>(
+      url("/discover/movie", {
+        language: "pt-BR",
+        region: "BR",
+        sort_by: "popularity.desc",
+        include_adult: "false",
+        "primary_release_date.gte": dataCorte,
+        "primary_release_date.lte": ate,
+        "vote_count.gte": String(votosMin),
+        page: String(pagina),
+      }),
+    );
+    total = dados.total_pages || 1;
+    if (pagina > total) {
+      pagina = 1;
+      i--;
+      continue;
+    }
+    for (const r of dados.results) {
+      if (!r.release_date) continue;
+      encontrados.push({
+        tmdb_id: r.id,
+        titulo_original: r.original_title ?? r.title ?? "(sem título)",
+        data_lancamento: r.release_date,
+      });
+    }
+    pagina++;
+  }
+  return { candidatos: encontrados, proximaPagina: pagina > total ? 1 : pagina, totalPaginas: total };
 }
 
 /** Resolve só o código IMDb de um filme (chamada leve). */

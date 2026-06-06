@@ -130,4 +130,6 @@ export interface EstadoFila {
   versao: number;
   atualizado_em: string;
   fila: FilmeNaFila[];
+  /** Cursor da varredura progressiva do catálogo (página atual de descoberta). */
+  sweep_pagina?: number;
 }

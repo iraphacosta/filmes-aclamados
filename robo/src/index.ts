@@ -30,12 +30,25 @@ import {
   buscarMetadados,
   configurarTmdb,
   descobrirCandidatos,
+  varrerCandidatos,
   type CandidatoDescoberto,
   type MetadadosTmdb,
 } from "./tmdb";
-import { anoDe, carregarEnv, emLotes, envObrigatoria, hoje } from "./util";
+import { anoDe, carregarEnv, diasEntre, emLotes, envObrigatoria, hoje } from "./util";
 
 const CONCORRENCIA = 5;
+
+const NOTAS_VAZIAS: NotasOmdb = { encontrado: false, rt: null, metacritic: null, imdb: null };
+
+/** Consulta a OMDb sem derrubar a coleta: falha vira "sem nota hoje" (tenta amanhã). */
+async function notasSeguras(imdbId: string): Promise<NotasOmdb> {
+  try {
+    return await buscarNotas(imdbId);
+  } catch (e) {
+    console.warn(`  (aviso) OMDb falhou (${imdbId}): ${String(e)}`);
+    return NOTAS_VAZIAS;
+  }
+}
 
 function montarLinks(imdbId: string, titulo: string): LinksExternos {
   const busca = encodeURIComponent(titulo);
@@ -98,7 +111,7 @@ async function main(): Promise<void> {
   configurarOmdb(envObrigatoria("OMDB_API_KEY"));
 
   const dia = hoje();
-  const paginas = Number(process.env.PAGINAS_DESCOBERTA ?? "3") || 3;
+  const paginas = Number(process.env.PAGINAS_DESCOBERTA ?? "5") || 5;
 
   console.log(`\n=== Coleta de ${dia} ===`);
 
@@ -110,20 +123,35 @@ async function main(): Promise<void> {
     ...estado.fila.map((f) => f.tmdb_id),
   ]);
 
-  // 1. Descoberta -> novos entram na fila.
-  // Duas varreduras: por DATA (novidades) e por RELEVÂNCIA (alcança o catálogo
-  // aclamado que já tem notas). Piso de votos evita lotar a fila de obscuros.
-  console.log(`Descobrindo candidatos (${paginas} página(s) x2: data + relevância)...`);
-  const VOTOS_MIN = 15;
-  const [porData, porRelevancia] = await Promise.all([
-    descobrirCandidatos(DATA_CORTE, dia, paginas, "primary_release_date.desc", VOTOS_MIN),
-    descobrirCandidatos(DATA_CORTE, dia, paginas, "popularity.desc", VOTOS_MIN),
-  ]);
-  const vistos = new Map<number, CandidatoDescoberto>();
-  for (const c of [...porRelevancia, ...porData]) {
-    if (!vistos.has(c.tmdb_id)) vistos.set(c.tmdb_id, c);
+  // 1. Descoberta -> novos entram na fila. TRÊS varreduras:
+  //   - por DATA (primary_release_date.desc): novidades recém-lançadas;
+  //   - por POPULARIDADE (popularity.desc): o mainstream;
+  //   - por NOTA do TMDb (vote_average.desc): alcança o cinema autoral/festival
+  //     aclamado mas pouco popular (que ficava de fora). É a varredura de maior valor.
+  console.log("Descobrindo candidatos (data + popularidade + nota)...");
+  const VOTOS_MIN = 15; // piso para data/popularidade/varredura
+  const VOTOS_MIN_NOTA = 80; // piso maior p/ "melhor nota" (evita 10/10 de pouquíssimos votos)
+  const paginasNota = paginas * 3; // varre mais fundo a lista por nota
+  const paginasSweep = paginas * 2; // varredura progressiva do catálogo
+  const sweepInicio = estado.sweep_pagina && estado.sweep_pagina > 0 ? estado.sweep_pagina : 1;
+  let candidatos: CandidatoDescoberto[] = [];
+  try {
+    const [porData, porPop, porNota, sweep] = await Promise.all([
+      descobrirCandidatos(DATA_CORTE, dia, paginas, "primary_release_date.desc", VOTOS_MIN),
+      descobrirCandidatos(DATA_CORTE, dia, paginas, "popularity.desc", VOTOS_MIN),
+      descobrirCandidatos(DATA_CORTE, dia, paginasNota, "vote_average.desc", VOTOS_MIN_NOTA),
+      varrerCandidatos(DATA_CORTE, dia, sweepInicio, paginasSweep, VOTOS_MIN),
+    ]);
+    estado.sweep_pagina = sweep.proximaPagina;
+    const vistos = new Map<number, CandidatoDescoberto>();
+    for (const c of [...porNota, ...porPop, ...porData, ...sweep.candidatos]) {
+      if (!vistos.has(c.tmdb_id)) vistos.set(c.tmdb_id, c);
+    }
+    candidatos = [...vistos.values()];
+    console.log(`  Varredura: páginas ${sweepInicio}→${sweep.proximaPagina} de ${sweep.totalPaginas}.`);
+  } catch (e) {
+    console.warn(`  (aviso) descoberta falhou: ${String(e)} — sigo com a fila atual.`);
   }
-  const candidatos = [...vistos.values()];
   let novos = 0;
   for (const c of candidatos) {
     if (idsConhecidos.has(c.tmdb_id)) continue;
@@ -142,46 +170,71 @@ async function main(): Promise<void> {
   }
   console.log(`  ${candidatos.length} candidatos vistos, ${novos} novos na fila (total fila: ${estado.fila.length}).`);
 
-  // 2–4. Processa a fila: consulta notas; quem cruzar 65 entra no feed; resto continua na fila.
-  console.log(`Avaliando a fila de espera (${estado.fila.length})...`);
+  // 2–4. Processa a fila com ORÇAMENTO diário de consultas à OMDb: prioriza os
+  // nunca consultados e os mais antigos; o excedente fica para os próximos dias.
+  // Assim a fila pode crescer (varredura) sem estourar o limite gratuito da OMDb.
+  const orcamento = Math.max(150, 850 - catalogo.filmes.length);
+  const porPrioridade = estado.fila
+    .slice()
+    .sort((a, b) => ((a.ultima_consulta ?? "") < (b.ultima_consulta ?? "") ? -1 : 1));
+  const aChecar = porPrioridade.slice(0, orcamento);
+  const adiados = porPrioridade.slice(orcamento);
+  console.log(`Avaliando a fila (${aChecar.length} de ${estado.fila.length}; ${adiados.length} adiados p/ depois)...`);
   const aindaNaFila: FilmeNaFila[] = [];
   let promovidos = 0;
 
-  const avaliacoes = await emLotes(estado.fila, CONCORRENCIA, async (item) => {
-    let imdbId = item.imdb_id;
-    if (!imdbId) imdbId = await buscarImdbId(item.tmdb_id);
-    if (!imdbId) return { item, imdbId: null as string | null, notas: null as NotasOmdb | null };
-    const notas = await buscarNotas(imdbId);
-    return { item, imdbId, notas };
+  const avaliacoes = await emLotes(aChecar, CONCORRENCIA, async (item) => {
+    try {
+      let imdbId = item.imdb_id;
+      if (!imdbId) imdbId = await buscarImdbId(item.tmdb_id);
+      if (!imdbId) return { item, imdbId: null as string | null, notas: null as NotasOmdb | null };
+      const notas = await notasSeguras(imdbId);
+      return { item, imdbId, notas };
+    } catch (e) {
+      console.warn(`  (aviso) avaliação falhou (${item.titulo_original}): ${String(e)}`);
+      return { item, imdbId: item.imdb_id, notas: null as NotasOmdb | null };
+    }
   });
 
   for (const { item, imdbId, notas } of avaliacoes) {
     item.imdb_id = imdbId;
     if (!imdbId || !notas || !qualifica(notas.rt, notas.metacritic)) {
-      // Permanece na fila (N/A ou ainda abaixo do critério). Não é erro.
+      // Permanece na fila (N/A, falha da OMDb, ou ainda abaixo do critério). Não é erro.
       item.ultima_consulta = dia;
       item.ultimo_rt = notas?.rt ?? null;
       item.ultimo_metacritic = notas?.metacritic ?? null;
       aindaNaFila.push(item);
       continue;
     }
-    // Cruzou o critério: promove para o feed.
-    const meta = await buscarMetadados(item.tmdb_id, dia);
-    catalogo.filmes.push(montarFilme(meta, imdbId, notas, dia));
-    promovidos++;
+    // Cruzou o critério: promove para o feed (se os metadados vierem).
+    try {
+      const meta = await buscarMetadados(item.tmdb_id, dia);
+      catalogo.filmes.push(montarFilme(meta, imdbId, notas, dia));
+      promovidos++;
+    } catch (e) {
+      console.warn(`  (aviso) não promovi ${item.titulo_original} hoje (metadados falharam): ${String(e)}`);
+      item.ultima_consulta = dia;
+      item.ultimo_rt = notas.rt;
+      item.ultimo_metacritic = notas.metacritic;
+      aindaNaFila.push(item);
+    }
   }
-  estado.fila = aindaNaFila;
+  estado.fila = [...aindaNaFila, ...adiados];
   console.log(`  ${promovidos} promovido(s) para o feed. Restam ${estado.fila.length} na fila.`);
 
   // 5–7. Atualiza quem já está no feed: histórico do dia + ficha (disponibilidade, IMDb).
   console.log(`Atualizando o feed (${catalogo.filmes.length})...`);
   await emLotes(catalogo.filmes, CONCORRENCIA, async (filme) => {
-    const notas = await buscarNotas(filme.imdb_id);
-    anexarHistorico(filme, notas, dia);
-    Object.assign(filme, derivarNotas(filme.historico));
-    filme.rt_critica = notas.rt;
-    filme.metacritic = notas.metacritic;
-    if (notas.imdb != null) filme.imdb_publico = notas.imdb;
+    const notas = await notasSeguras(filme.imdb_id);
+    // Só registra o ponto do dia se a OMDb respondeu — assim um dia de falha/limite
+    // não vira um buraco no histórico nem zera as notas atuais.
+    if (notas.encontrado) {
+      anexarHistorico(filme, notas, dia);
+      Object.assign(filme, derivarNotas(filme.historico));
+      filme.rt_critica = notas.rt;
+      filme.metacritic = notas.metacritic;
+      if (notas.imdb != null) filme.imdb_publico = notas.imdb;
+    }
     try {
       const meta = await buscarMetadados(filme.tmdb_id, dia);
       filme.disponibilidade_br = meta.disponibilidade_br;
@@ -190,6 +243,18 @@ async function main(): Promise<void> {
       console.warn(`  (aviso) não atualizei a ficha de ${filme.titulo_original}: ${String(e)}`);
     }
   });
+
+  // Poda: descarta candidatos antigos que nunca tiveram nota na OMDb (obscuros sem
+  // cobertura) — evita a fila inchar e estourar o limite diário da OMDb com o tempo.
+  const PRUNE_DIAS = 45;
+  const antesPoda = estado.fila.length;
+  estado.fila = estado.fila.filter((item) => {
+    const semNota = item.ultimo_rt == null && item.ultimo_metacritic == null;
+    const velho = item.ultima_consulta != null && diasEntre(item.descoberto_em, dia) > PRUNE_DIAS;
+    return !(semNota && velho);
+  });
+  const podados = antesPoda - estado.fila.length;
+  if (podados > 0) console.log(`  Podados ${podados} candidato(s) antigos sem nota.`);
 
   // 8. Grava
   await salvarCatalogo(catalogo);

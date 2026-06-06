@@ -16,6 +16,12 @@ export function dorme(ms: number): Promise<void> {
   return new Promise((r) => setTimeout(r, ms));
 }
 
+/** Diferença em dias inteiros entre duas datas YYYY-MM-DD (b - a). */
+export function diasEntre(a: string, b: string): number {
+  const ms = Date.parse(b) - Date.parse(a);
+  return Number.isFinite(ms) ? Math.floor(ms / 86_400_000) : 0;
+}
+
 /**
  * Carrega variáveis de ambiente de um arquivo .env, se existir (uso local).
  * No GitHub Actions as variáveis vêm dos Secrets, então o arquivo não existe — tudo bem.

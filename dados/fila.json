@@ -1,7 +1,917 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-06-06T11:02:26.073Z",
+  "atualizado_em": "2026-06-06T15:40:48.946Z",
   "fila": [
+    {
+      "tmdb_id": 1591834,
+      "imdb_id": "tt38046984",
+      "titulo_original": "Familia a la deriva",
+      "data_lancamento": "2026-01-22",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1302151,
+      "imdb_id": "tt32322832",
+      "titulo_original": "Mesa de regalos",
+      "data_lancamento": "2025-01-16",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1338799,
+      "imdb_id": "tt36956670",
+      "titulo_original": "劇場版総集編 呪術廻戦 懐玉・玉折",
+      "data_lancamento": "2025-08-14",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1412113,
+      "imdb_id": "tt37546146",
+      "titulo_original": "오징어 게임: 시즌2 제작 이야기",
+      "data_lancamento": "2025-01-03",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1119090,
+      "imdb_id": "tt36639986",
+      "titulo_original": "Soy Frankelda",
+      "data_lancamento": "2025-10-23",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1575337,
+      "imdb_id": "tt38872297",
+      "titulo_original": "超かぐや姫！",
+      "data_lancamento": "2026-01-22",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1355666,
+      "imdb_id": "tt33549683",
+      "titulo_original": "고백의 역사",
+      "data_lancamento": "2025-08-29",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1181107,
+      "imdb_id": "tt7967302",
+      "titulo_original": "The King of Kings",
+      "data_lancamento": "2025-04-17",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": 61,
+      "ultimo_metacritic": 42
+    },
+    {
+      "tmdb_id": 1466115,
+      "imdb_id": "tt39049192",
+      "titulo_original": "오늘 밤, 세계에서 이 사랑이 사라진다 해도",
+      "data_lancamento": "2026-02-03",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1356039,
+      "imdb_id": "tt23648788",
+      "titulo_original": "Contraataque",
+      "data_lancamento": "2025-02-28",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1212121,
+      "imdb_id": "tt35301431",
+      "titulo_original": "Homem com H",
+      "data_lancamento": "2025-05-01",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1500536,
+      "imdb_id": "tt36598036",
+      "titulo_original": "南京照相馆",
+      "data_lancamento": "2025-07-19",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1326106,
+      "imdb_id": "tt35636950",
+      "titulo_original": "怪獣８号 第1期総集編／同時上映「保科の休日」",
+      "data_lancamento": "2025-04-10",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1600028,
+      "imdb_id": "tt39742477",
+      "titulo_original": "La celda de los milagros",
+      "data_lancamento": "2026-02-13",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1469239,
+      "imdb_id": "tt36617085",
+      "titulo_original": "Karol G: Mañana fue muy bonito",
+      "data_lancamento": "2025-05-08",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1325678,
+      "imdb_id": "tt31727267",
+      "titulo_original": "Sarah's Oil",
+      "data_lancamento": "2026-04-15",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1277988,
+      "imdb_id": "tt32549601",
+      "titulo_original": "Caramelo",
+      "data_lancamento": "2025-10-08",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1426776,
+      "imdb_id": "tt32550101",
+      "titulo_original": "STRAW",
+      "data_lancamento": "2025-06-06",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": 53,
+      "ultimo_metacritic": 56
+    },
+    {
+      "tmdb_id": 765897,
+      "imdb_id": "tt5181260",
+      "titulo_original": "The Unbreakable Boy",
+      "data_lancamento": "2025-05-08",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": 43,
+      "ultimo_metacritic": 35
+    },
+    {
+      "tmdb_id": 987400,
+      "imdb_id": "tt21110654",
+      "titulo_original": "Batman Azteca: Choque de imperios",
+      "data_lancamento": "2025-09-19",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 926670,
+      "imdb_id": "tt7787524",
+      "titulo_original": "Henry Danger: The Movie",
+      "data_lancamento": "2025-01-17",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1400032,
+      "imdb_id": "tt34762360",
+      "titulo_original": "10DANCE",
+      "data_lancamento": "2025-12-18",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1371189,
+      "imdb_id": "tt32306048",
+      "titulo_original": "Ruth & Boaz",
+      "data_lancamento": "2025-09-26",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 666154,
+      "imdb_id": "tt11846550",
+      "titulo_original": "Kayara",
+      "data_lancamento": "2025-02-20",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1589891,
+      "imdb_id": "tt37961727",
+      "titulo_original": "La hora de los valientes",
+      "data_lancamento": "2025-12-19",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 760497,
+      "imdb_id": "tt13498824",
+      "titulo_original": "승부",
+      "data_lancamento": "2025-05-07",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1610413,
+      "imdb_id": "tt39307872",
+      "titulo_original": "One Last Adventure: The Making of Stranger Things 5",
+      "data_lancamento": "2026-01-12",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1300607,
+      "imdb_id": "tt28657879",
+      "titulo_original": "Los dos hemisferios de Lucca",
+      "data_lancamento": "2025-01-31",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 658224,
+      "imdb_id": "tt24218194",
+      "titulo_original": "Волшебник Изумрудного города. Дорога из жёлтого кирпича",
+      "data_lancamento": "2025-01-30",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1303356,
+      "imdb_id": "tt37051267",
+      "titulo_original": "L'Épreuve du feu",
+      "data_lancamento": "2025-08-13",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1313013,
+      "imdb_id": "tt32888451",
+      "titulo_original": "Attitudini: Nessuna",
+      "data_lancamento": "2025-12-04",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1595481,
+      "imdb_id": "tt39140662",
+      "titulo_original": "Kidnapped: Elizabeth Smart",
+      "data_lancamento": "2026-01-21",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1421309,
+      "imdb_id": "tt30064085",
+      "titulo_original": "La vita da grandi",
+      "data_lancamento": "2025-04-03",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1548113,
+      "imdb_id": "tt37969426",
+      "titulo_original": "The Muppet Show",
+      "data_lancamento": "2026-02-04",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1096642,
+      "imdb_id": "tt33030403",
+      "titulo_original": "L'Attachement",
+      "data_lancamento": "2025-02-19",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1291335,
+      "imdb_id": "tt32306991",
+      "titulo_original": "Solo Mio",
+      "data_lancamento": "2026-02-05",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": 48
+    },
+    {
+      "tmdb_id": 1321412,
+      "imdb_id": "tt33298226",
+      "titulo_original": "À bicyclette !",
+      "data_lancamento": "2025-02-26",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1433339,
+      "imdb_id": "tt35705184",
+      "titulo_original": "Tre ciotole",
+      "data_lancamento": "2026-10-01",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1003504,
+      "imdb_id": "tt35077924",
+      "titulo_original": "On ira",
+      "data_lancamento": "2025-03-12",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1252037,
+      "imdb_id": "tt31495504",
+      "titulo_original": "Der Tiger",
+      "data_lancamento": "2026-01-01",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1185528,
+      "imdb_id": "tt28131433",
+      "titulo_original": "射雕英雄传：侠之大者",
+      "data_lancamento": "2025-01-29",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1192174,
+      "imdb_id": "tt31702278",
+      "titulo_original": "Il Nibbio",
+      "data_lancamento": "2025-03-06",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 935766,
+      "imdb_id": "tt30868610",
+      "titulo_original": "Chico Bento e a Goiabeira Maraviosa",
+      "data_lancamento": "2025-01-09",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1365683,
+      "imdb_id": "tt33586629",
+      "titulo_original": "Primavera",
+      "data_lancamento": "2026-07-09",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1443576,
+      "imdb_id": "tt35513027",
+      "titulo_original": "Los domingos",
+      "data_lancamento": "2025-10-17",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1376415,
+      "imdb_id": "tt35495035",
+      "titulo_original": "L’affaire Bojarski",
+      "data_lancamento": "2026-01-14",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1166170,
+      "imdb_id": "tt35526093",
+      "titulo_original": "L’Âme Idéale",
+      "data_lancamento": "2025-12-17",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1092936,
+      "imdb_id": "tt33382323",
+      "titulo_original": "La valle dei sorrisi",
+      "data_lancamento": "2025-09-17",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1307078,
+      "imdb_id": "tt4978342",
+      "titulo_original": "My Oxford Year",
+      "data_lancamento": "2025-08-01",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": 31,
+      "ultimo_metacritic": 39
+    },
+    {
+      "tmdb_id": 1312150,
+      "imdb_id": "tt32767869",
+      "titulo_original": "Ricky Gervais: Mortality",
+      "data_lancamento": "2025-12-30",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1327862,
+      "imdb_id": "tt33088452",
+      "titulo_original": "Regretting You",
+      "data_lancamento": "2025-10-23",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": 29,
+      "ultimo_metacritic": 33
+    },
+    {
+      "tmdb_id": 1011477,
+      "imdb_id": "tt1674782",
+      "titulo_original": "Karate Kid: Legends",
+      "data_lancamento": "2025-05-08",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": 51
+    },
+    {
+      "tmdb_id": 1107215,
+      "imdb_id": "tt29927144",
+      "titulo_original": "Ma mère, Dieu et Sylvie Vartan",
+      "data_lancamento": "2026-05-07",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1254786,
+      "imdb_id": "tt2172954",
+      "titulo_original": "The Life List",
+      "data_lancamento": "2025-03-28",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": 46,
+      "ultimo_metacritic": 49
+    },
+    {
+      "tmdb_id": 1243341,
+      "imdb_id": "tt31241595",
+      "titulo_original": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
+      "data_lancamento": "2025-07-11",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1034716,
+      "imdb_id": "tt22740896",
+      "titulo_original": "People We Meet on Vacation",
+      "data_lancamento": "2026-01-09",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1131759,
+      "imdb_id": "tt30254719",
+      "titulo_original": "전지적 독자 시점",
+      "data_lancamento": "2025-07-23",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": 25,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1405338,
+      "imdb_id": "tt35111035",
+      "titulo_original": "Demon City 鬼ゴロシ",
+      "data_lancamento": "2025-02-27",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": 55,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1519168,
+      "imdb_id": "tt37334010",
+      "titulo_original": "The Jester 2",
+      "data_lancamento": "2025-09-15",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1277882,
+      "imdb_id": "tt35455855",
+      "titulo_original": "Les enfants vont bien",
+      "data_lancamento": "2026-11-19",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1319895,
+      "imdb_id": "tt31727397",
+      "titulo_original": "Hostile Takeover",
+      "data_lancamento": "2025-11-28",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1397375,
+      "imdb_id": "tt34905624",
+      "titulo_original": "La vita va così",
+      "data_lancamento": "2025-10-23",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 926606,
+      "imdb_id": "tt17023012",
+      "titulo_original": "The Home",
+      "data_lancamento": "2025-07-24",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": 39
+    },
+    {
+      "tmdb_id": 1288328,
+      "imdb_id": "tt32448428",
+      "titulo_original": "L'abbaglio",
+      "data_lancamento": "2025-01-16",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1433680,
+      "imdb_id": "tt35657504",
+      "titulo_original": "La cena",
+      "data_lancamento": "2025-10-17",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1203329,
+      "imdb_id": "tt15495150",
+      "titulo_original": "The Witcher: Sirens of the Deep",
+      "data_lancamento": "2025-02-11",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": 58,
+      "ultimo_metacritic": 54
+    },
+    {
+      "tmdb_id": 1410082,
+      "imdb_id": "tt34910018",
+      "titulo_original": "Sniper: The Last Stand",
+      "data_lancamento": "2025-01-21",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1368519,
+      "imdb_id": "tt34960684",
+      "titulo_original": "Cinque secondi",
+      "data_lancamento": "2025-10-30",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1297763,
+      "imdb_id": "tt32508210",
+      "titulo_original": "ニンジャバットマン対ヤクザリーグ",
+      "data_lancamento": "2025-03-17",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1473635,
+      "imdb_id": "tt37096260",
+      "titulo_original": "Le cose non dette",
+      "data_lancamento": "2026-01-29",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1230368,
+      "imdb_id": "tt31923069",
+      "titulo_original": "Springsteen: Deliver Me from Nowhere",
+      "data_lancamento": "2025-10-30",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": 61,
+      "ultimo_metacritic": 59
+    },
+    {
+      "tmdb_id": 1305717,
+      "imdb_id": "tt28293853",
+      "titulo_original": "Hunting Grounds",
+      "data_lancamento": "2026-02-02",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1437446,
+      "imdb_id": "tt35882698",
+      "titulo_original": "The Twister: Caught in the Storm",
+      "data_lancamento": "2025-03-19",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1009640,
+      "imdb_id": "tt21442114",
+      "titulo_original": "Valiant One",
+      "data_lancamento": "2025-01-30",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": 29,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1233066,
+      "imdb_id": "tt30972054",
+      "titulo_original": "Das Kanu des Manitu",
+      "data_lancamento": "2025-08-14",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1439112,
+      "imdb_id": "tt32395062",
+      "titulo_original": "Muzzle: City of Wolves",
+      "data_lancamento": "2025-11-13",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1071064,
+      "imdb_id": "tt35420252",
+      "titulo_original": "L'Amour c'est surcoté",
+      "data_lancamento": "2025-04-23",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1175174,
+      "imdb_id": "tt29008225",
+      "titulo_original": "Fackham Hall",
+      "data_lancamento": "2025-12-05",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": 54
+    },
+    {
+      "tmdb_id": 1275151,
+      "imdb_id": "tt32129665",
+      "titulo_original": "Un fantasma en la batalla",
+      "data_lancamento": "2025-10-03",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 710258,
+      "imdb_id": "tt11001074",
+      "titulo_original": "Rust",
+      "data_lancamento": "2025-05-01",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": 58,
+      "ultimo_metacritic": 46
+    },
+    {
+      "tmdb_id": 1225915,
+      "imdb_id": "tt27843798",
+      "titulo_original": "ज्वेल थीफ़ - The Heist Begins",
+      "data_lancamento": "2025-04-25",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": 5,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1401778,
+      "imdb_id": "tt33009027",
+      "titulo_original": "Turbulence",
+      "data_lancamento": "2026-03-19",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1267905,
+      "imdb_id": "tt31973693",
+      "titulo_original": "The Roses",
+      "data_lancamento": "2025-08-28",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": 64,
+      "ultimo_metacritic": 58
+    },
+    {
+      "tmdb_id": 1078600,
+      "imdb_id": "tt26452781",
+      "titulo_original": "Marked Men: Rule + Shaw",
+      "data_lancamento": "2025-03-06",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1244975,
+      "imdb_id": "tt35330717",
+      "titulo_original": "Les Orphelins",
+      "data_lancamento": "2026-02-20",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1435092,
+      "imdb_id": "tt35766629",
+      "titulo_original": "Goodbye June",
+      "data_lancamento": "2025-12-24",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": 54
+    },
+    {
+      "tmdb_id": 1477453,
+      "imdb_id": "tt36856278",
+      "titulo_original": "Trainwreck: The Astroworld Tragedy",
+      "data_lancamento": "2025-06-10",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 972445,
+      "imdb_id": "tt39214430",
+      "titulo_original": "CMXXIV",
+      "data_lancamento": "2025-12-31",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1472638,
+      "imdb_id": "tt38350059",
+      "titulo_original": "Buen Camino",
+      "data_lancamento": "2025-12-25",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1233506,
+      "imdb_id": "tt32642156",
+      "titulo_original": "L'Homme qui rétrécit",
+      "data_lancamento": "2025-10-22",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1291659,
+      "imdb_id": "tt32386654",
+      "titulo_original": "Le Mage du Kremlin",
+      "data_lancamento": "2026-04-09",
+      "descoberto_em": "2026-06-06",
+      "ultima_consulta": "2026-06-06",
+      "ultimo_rt": 45,
+      "ultimo_metacritic": 54
+    },
     {
       "tmdb_id": 1433117,
       "imdb_id": "tt37458112",
@@ -2362,5 +3272,6 @@
       "ultimo_rt": null,
       "ultimo_metacritic": null
     }
-  ]
+  ],
+  "sweep_pagina": 11
 }
