@@ -25,18 +25,29 @@ export function dataCurta(iso: string): string {
   return m && d ? `${d}/${m}` : iso;
 }
 
+/** Busca no Google. */
+function buscaGoogle(consulta: string): string {
+  return `https://www.google.com/search?q=${encodeURIComponent(consulta)}`;
+}
+
 /**
- * Links de BUSCA pelo título no site de cada veículo de crítica.
+ * Links para a crítica de cada veículo, via busca no Google restrita ao site
+ * (site:dominio) — costuma cair direto na resenha quando ela existe.
  * (Não dá para saber, só com TMDb/OMDb, se a crítica existe — então são buscas.)
  */
 export function linksVeiculos(titulo: string): { nome: string; url: string }[] {
-  const q = encodeURIComponent(titulo);
   return [
-    { nome: "Folha de S.Paulo", url: `https://search.folha.uol.com.br/?q=${q}` },
-    { nome: "O Globo", url: `https://oglobo.globo.com/busca/?q=${q}` },
-    { nome: "Variety", url: `https://variety.com/?s=${q}` },
-    { nome: "Vulture", url: `https://www.vulture.com/search/?q=${q}` },
+    { nome: "Folha de S.Paulo", url: buscaGoogle(`${titulo} crítica site:folha.uol.com.br`) },
+    { nome: "O Globo", url: buscaGoogle(`${titulo} crítica site:oglobo.globo.com`) },
+    { nome: "Variety", url: buscaGoogle(`${titulo} review site:variety.com`) },
+    { nome: "Vulture", url: buscaGoogle(`${titulo} review site:vulture.com`) },
   ];
+}
+
+/** Link para o filme no agregador, via Google restrito ao site (RT/Metacritic). */
+export function linkAgregador(tipo: "rt" | "mc", titulo: string): string {
+  const site = tipo === "rt" ? "rottentomatoes.com" : "metacritic.com";
+  return buscaGoogle(`${titulo} site:${site}`);
 }
 
 export const ROTULO_CRITERIO: Record<CriterioQualificacao, string> = {

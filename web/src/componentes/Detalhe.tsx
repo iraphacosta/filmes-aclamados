@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import type { Filme } from "../dados";
-import { ROTULO_DISPONIBILIDADE, dataLonga, linksVeiculos } from "../formato";
+import { ROTULO_DISPONIBILIDADE, dataLonga, linkAgregador, linksVeiculos } from "../formato";
 import { Estrelas } from "./Estrelas";
 import { IconeCheck, IconeMarcador } from "./icones";
 import { NotaChip, SeloCriterio } from "./Selos";
@@ -71,18 +71,19 @@ function NotaPessoal({ nota, onDefinirNota }: { nota: number | null; onDefinirNo
 }
 
 function NotasCriticos({ filme }: { filme: Filme }) {
+  const titulo = filme.titulo_ingles || filme.titulo_original;
   return (
     <div className="detalhe__criticos">
       <span className="detalhe__criticos-rotulo">A crítica</span>
       <div className="detalhe__notas-atuais">
-        <NotaChip tipo="rt" valor={filme.atual_rt ?? filme.rt_critica} href={filme.links.rotten_tomatoes} />
+        <NotaChip tipo="rt" valor={filme.atual_rt ?? filme.rt_critica} href={linkAgregador("rt", titulo)} />
         {filme.rt_publico != null && (
           <span className="nota-chip nota-rt nota-chip--publico" title="Rotten Tomatoes (público)">
             <span className="nota-chip__rotulo">RT público</span>
             <span className="nota-chip__valor">{filme.rt_publico}%</span>
           </span>
         )}
-        <NotaChip tipo="mc" valor={filme.atual_metacritic ?? filme.metacritic} href={filme.links.metacritic} />
+        <NotaChip tipo="mc" valor={filme.atual_metacritic ?? filme.metacritic} href={linkAgregador("mc", titulo)} />
         <NotaChip tipo="imdb" valor={filme.imdb_publico} href={filme.links.imdb} />
       </div>
     </div>
