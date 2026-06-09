@@ -8,11 +8,13 @@ import { ScrollTopo } from "./componentes/ScrollTopo";
 import { TemaToggle } from "./componentes/TemaToggle";
 import { carregarCatalogo, type EstadoDisponibilidade, type Filme } from "./dados";
 import { nomePais } from "./formato";
+import { plataformasDisponiveis, plataformasDoFilme } from "./plataformas";
 import { useDadosPessoais } from "./favoritos";
 import { useNovidades } from "./novidades";
 import { useTema } from "./tema";
 
 const CHAVE_COLUNAS = "filmes-aclamados:colunas";
+const POR_PAGINA = 50;
 
 function lerColunas(): number {
   const v = Number(localStorage.getItem(CHAVE_COLUNAS));
@@ -70,6 +72,80 @@ const VAZIO_MSG: Record<Lista, string> = {
   avaliados: "Você ainda não avaliou nenhum filme. Abra um filme e dê sua nota.",
 };
 
+/** Sequência de páginas a exibir, com reticências entre saltos (1 … 4 5 6 … 12). */
+function janelaPaginas(atual: number, total: number): (number | "…")[] {
+  const marcadas = new Set([1, total, atual, atual - 1, atual + 1]);
+  const lista = [...marcadas].filter((p) => p >= 1 && p <= total).sort((a, b) => a - b);
+  const saida: (number | "…")[] = [];
+  let anterior = 0;
+  for (const p of lista) {
+    if (p - anterior > 1) saida.push("…");
+    saida.push(p);
+    anterior = p;
+  }
+  return saida;
+}
+
+function Paginacao({
+  atual,
+  total,
+  inicio,
+  fim,
+  totalFilmes,
+  onIr,
+}: {
+  atual: number;
+  total: number;
+  inicio: number;
+  fim: number;
+  totalFilmes: number;
+  onIr: (n: number) => void;
+}) {
+  if (total <= 1) return null;
+  return (
+    <nav className="paginacao" aria-label="Paginação">
+      <p className="paginacao__resumo">
+        {inicio}–{fim} de {totalFilmes} filmes
+      </p>
+      <div className="paginacao__controles">
+        <button
+          className="paginacao__seta"
+          onClick={() => onIr(atual - 1)}
+          disabled={atual <= 1}
+          aria-label="Página anterior"
+        >
+          ‹
+        </button>
+        {janelaPaginas(atual, total).map((it, i) =>
+          it === "…" ? (
+            <span key={`elipse-${i}`} className="paginacao__elipse" aria-hidden>
+              …
+            </span>
+          ) : (
+            <button
+              key={it}
+              className={`paginacao__num ${it === atual ? "ativo" : ""}`}
+              onClick={() => onIr(it)}
+              aria-current={it === atual ? "page" : undefined}
+              aria-label={`Página ${it}`}
+            >
+              {it}
+            </button>
+          ),
+        )}
+        <button
+          className="paginacao__seta"
+          onClick={() => onIr(atual + 1)}
+          disabled={atual >= total}
+          aria-label="Próxima página"
+        >
+          ›
+        </button>
+      </div>
+    </nav>
+  );
+}
+
 export function App() {
   const [filmes, setFilmes] = useState<Filme[]>([]);
   const [geradoEm, setGeradoEm] = useState<string | null>(null);
@@ -82,8 +158,10 @@ export function App() {
   const [ordenar, setOrdenar] = useState<Ordenar>("recentes");
   const [fontes, setFontes] = useState<Fonte[]>([]);
   const [onde, setOnde] = useState<EstadoDisponibilidade[]>([]);
+  const [plataformas, setPlataformas] = useState<string[]>([]);
   const [abertoId, setAbertoId] = useState<number | null>(null);
   const [colunas, setColunas] = useState<number>(() => lerColunas());
+  const [pagina, setPagina] = useState(1);
   const [rolou, setRolou] = useState(false);
 
   const pessoal = useDadosPessoais();
@@ -118,14 +196,22 @@ export function App() {
   const alternarFonte = (f: Fonte) =>
     setFontes((fs) => (fs.includes(f) ? fs.filter((x) => x !== f) : [...fs, f]));
 
-  const alternarOnde = (e: EstadoDisponibilidade) =>
+  const alternarOnde = (e: EstadoDisponibilidade) => {
     setOnde((arr) => (arr.includes(e) ? arr.filter((x) => x !== e) : [...arr, e]));
+    // Saiu do streaming → as plataformas deixam de fazer sentido.
+    if (e === "streaming" && onde.includes("streaming")) setPlataformas([]);
+  };
+
+  const alternarPlataforma = (id: string) =>
+    setPlataformas((arr) => (arr.includes(id) ? arr.filter((x) => x !== id) : [...arr, id]));
 
   const generos = useMemo(() => {
     const set = new Set<string>();
     for (const f of filmes) for (const g of f.generos) set.add(g);
     return [...set].sort((a, b) => a.localeCompare(b, "pt-BR"));
   }, [filmes]);
+
+  const plataformasDisp = useMemo(() => plataformasDisponiveis(filmes), [filmes]);
 
   const filtrados = useMemo(() => {
     const termo = busca.trim().toLowerCase();
@@ -137,6 +223,10 @@ export function App() {
       if (fontes.includes("mc") && scoreMc(f) == null) return false;
       if (fontes.includes("imdb") && f.imdb_publico == null) return false;
       if (onde.length > 0 && !onde.includes(f.disponibilidade_br.estado)) return false;
+      if (plataformas.length > 0) {
+        const ids = plataformasDoFilme(f);
+        if (!plataformas.some((p) => ids.includes(p))) return false;
+      }
       if (genero && !f.generos.includes(genero)) return false;
       if (termo) {
         const alvo = [
@@ -154,7 +244,7 @@ export function App() {
       }
       return true;
     });
-  }, [filmes, busca, genero, lista, fontes, onde, pessoal]);
+  }, [filmes, busca, genero, lista, fontes, onde, plataformas, pessoal]);
 
   const ordenado = useMemo(() => {
     const arr = filtrados.slice();
@@ -166,6 +256,22 @@ export function App() {
     // "recentes": mantém a ordem do catálogo (data de qualificação desc)
     return arr;
   }, [filtrados, ordenar, pessoal]);
+
+  // Sempre que filtros/ordenação mudam, volta para a primeira página.
+  useEffect(() => {
+    setPagina(1);
+  }, [busca, genero, lista, ordenar, fontes, onde, plataformas]);
+
+  const totalPaginas = Math.max(1, Math.ceil(ordenado.length / POR_PAGINA));
+  const paginaAtual = Math.min(pagina, totalPaginas);
+  const visiveis = ordenado.slice((paginaAtual - 1) * POR_PAGINA, paginaAtual * POR_PAGINA);
+  const inicio = ordenado.length === 0 ? 0 : (paginaAtual - 1) * POR_PAGINA + 1;
+  const fim = Math.min(paginaAtual * POR_PAGINA, ordenado.length);
+
+  const irParaPagina = (n: number) => {
+    setPagina(Math.min(Math.max(1, n), totalPaginas));
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
 
   const aberto = abertoId != null ? filmes.find((f) => f.tmdb_id === abertoId) ?? null : null;
 
@@ -209,6 +315,9 @@ export function App() {
           onAlternarFonte={alternarFonte}
           onde={onde}
           onAlternarOnde={alternarOnde}
+          plataformasDisp={plataformasDisp}
+          plataformasAtivas={plataformas}
+          onAlternarPlataforma={alternarPlataforma}
         />
 
         {carregando && <p className="estado-vazio">Carregando o feed…</p>}
@@ -218,8 +327,11 @@ export function App() {
           <p className="estado-vazio">{VAZIO_MSG[lista]}</p>
         )}
 
-        <main className="feed" style={{ "--colunas": colunas } as CSSProperties}>
-          {ordenado.map((filme, i) => (
+        <main
+          className={`feed ${colunas === 3 ? "feed--3col" : ""}`}
+          style={{ "--colunas": colunas } as CSSProperties}
+        >
+          {visiveis.map((filme, i) => (
             <CardFilme
               key={filme.tmdb_id}
               filme={filme}
@@ -232,6 +344,15 @@ export function App() {
             />
           ))}
         </main>
+
+        <Paginacao
+          atual={paginaAtual}
+          total={totalPaginas}
+          inicio={inicio}
+          fim={fim}
+          totalFilmes={ordenado.length}
+          onIr={irParaPagina}
+        />
 
         <footer className="rodape">
           <p>

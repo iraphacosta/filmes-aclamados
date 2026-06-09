@@ -1051,6 +1051,24 @@
   background: rgba(88, 199, 159, 0.18);
 }
 
+/* Em 3 colunas as capas ficam menores: encolhe os marcadores ~20%. */
+.feed--3col .marcadores {
+  top: 0.45rem;
+  right: 0.45rem;
+  gap: 0.3rem;
+}
+
+.feed--3col .marcador {
+  width: 27px;
+  height: 27px;
+  border-radius: 7px;
+}
+
+.feed--3col .marcador svg {
+  width: 14px;
+  height: 14px;
+}
+
 /* ===================== Chips de lista (filtros) ===================== */
 .listas {
   display: flex;
@@ -1464,6 +1482,105 @@
   color: var(--tinta);
   border-color: var(--tinta-3);
   background: var(--inset-forte);
+}
+
+/* Subfiltro: plataformas de streaming (aparece sob "Onde assistir") */
+.subfiltro {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  margin-top: 0.6rem;
+  padding-left: 0.75rem;
+  border-left: 2px solid var(--linha);
+}
+
+.subfiltro__rotulo {
+  font-size: 0.58rem;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: var(--tinta-3);
+}
+
+.chip--plat {
+  padding: 0.34rem 0.62rem;
+  font-size: 0.76rem;
+}
+
+.chip--plat.ativo {
+  color: var(--mc);
+  border-color: var(--mc);
+  background: rgba(88, 199, 159, 0.16);
+}
+
+/* ===================== Paginação ===================== */
+.paginacao {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.7rem;
+  margin-top: 2.4rem;
+}
+
+.paginacao__resumo {
+  margin: 0;
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  color: var(--tinta-3);
+  font-variant-numeric: tabular-nums;
+}
+
+.paginacao__controles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.paginacao__num,
+.paginacao__seta {
+  min-width: 38px;
+  height: 38px;
+  padding: 0 0.5rem;
+  display: grid;
+  place-items: center;
+  border-radius: 9px;
+  border: 1px solid var(--linha-forte);
+  background: var(--inset);
+  color: var(--tinta-2);
+  font-family: var(--fonte-display);
+  font-size: 0.95rem;
+  font-variant-numeric: tabular-nums;
+  transition: all 0.16s ease;
+}
+
+.paginacao__seta {
+  font-size: 1.3rem;
+  line-height: 1;
+}
+
+.paginacao__num:hover:not(.ativo),
+.paginacao__seta:hover:not(:disabled) {
+  color: var(--tinta);
+  border-color: var(--ambar);
+}
+
+.paginacao__num.ativo {
+  color: #241704;
+  background: var(--ambar);
+  border-color: var(--ambar);
+  font-weight: 700;
+}
+
+.paginacao__seta:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.paginacao__elipse {
+  padding: 0 0.2rem;
+  color: var(--tinta-3);
+  letter-spacing: 0.1em;
 }
 
 /* ===================== Mobile ===================== */

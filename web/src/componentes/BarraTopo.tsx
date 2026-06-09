@@ -1,5 +1,6 @@
 import { useState } from "react";
 import type { EstadoDisponibilidade } from "../dados";
+import type { Plataforma } from "../plataformas";
 import { IconeCheck, IconeFiltro, IconeMarcador } from "./icones";
 
 export type Lista = "todos" | "queroVer" | "assistidos" | "avaliados";
@@ -23,6 +24,9 @@ interface Props {
   onAlternarFonte: (f: Fonte) => void;
   onde: EstadoDisponibilidade[];
   onAlternarOnde: (e: EstadoDisponibilidade) => void;
+  plataformasDisp: Plataforma[];
+  plataformasAtivas: string[];
+  onAlternarPlataforma: (id: string) => void;
 }
 
 function IconeColunas({ n }: { n: number }) {
@@ -76,6 +80,9 @@ export function BarraTopo({
   onAlternarFonte,
   onde,
   onAlternarOnde,
+  plataformasDisp,
+  plataformasAtivas,
+  onAlternarPlataforma,
 }: Props) {
   const [aberto, setAberto] = useState(false);
   const alternarLista = (l: Lista) => onLista(lista === l ? "todos" : l);
@@ -85,6 +92,7 @@ export function BarraTopo({
     lista !== "todos" ||
     fontes.length > 0 ||
     onde.length > 0 ||
+    plataformasAtivas.length > 0 ||
     ordenar !== "recentes";
 
   const limpar = () => {
@@ -92,6 +100,7 @@ export function BarraTopo({
     onLista("todos");
     onOrdenar("recentes");
     for (const f of fontes) onAlternarFonte(f);
+    for (const p of plataformasAtivas) onAlternarPlataforma(p);
     for (const e of onde) onAlternarOnde(e);
   };
 
@@ -185,6 +194,24 @@ export function BarraTopo({
                 </button>
               ))}
             </div>
+
+            {onde.includes("streaming") && plataformasDisp.length > 0 && (
+              <div className="subfiltro">
+                <span className="subfiltro__rotulo">Plataformas</span>
+                <div className="grupo-filtro__itens">
+                  {plataformasDisp.map((p) => (
+                    <button
+                      key={p.id}
+                      className={`chip chip--plat ${plataformasAtivas.includes(p.id) ? "ativo" : ""}`}
+                      onClick={() => onAlternarPlataforma(p.id)}
+                      aria-pressed={plataformasAtivas.includes(p.id)}
+                    >
+                      {p.rotulo}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
 
           <div className="grupo-filtro">
