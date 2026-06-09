@@ -152,6 +152,7 @@
   flex-wrap: nowrap;
   gap: 0.3rem;
   margin-top: 0.6rem;
+  overflow: hidden;
 }
 
 /* ===================== Chips de nota ===================== */

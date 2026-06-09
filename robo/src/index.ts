@@ -40,13 +40,17 @@ const CONCORRENCIA = 5;
 
 const NOTAS_VAZIAS: NotasOmdb = { encontrado: false, rt: null, metacritic: null, imdb: null };
 
-/** Consulta a OMDb sem derrubar a coleta: falha vira "sem nota hoje" (tenta amanhã). */
-async function notasSeguras(imdbId: string): Promise<NotasOmdb> {
+/**
+ * Consulta a OMDb sem derrubar a coleta. `falhou=true` indica erro duro (ex.:
+ * limite diário/401), para o item ser re-tentado com prioridade — diferente de
+ * um "não encontrado" legítimo.
+ */
+async function notasSeguras(imdbId: string): Promise<{ notas: NotasOmdb; falhou: boolean }> {
   try {
-    return await buscarNotas(imdbId);
+    return { notas: await buscarNotas(imdbId), falhou: false };
   } catch (e) {
     console.warn(`  (aviso) OMDb falhou (${imdbId}): ${String(e)}`);
-    return NOTAS_VAZIAS;
+    return { notas: NOTAS_VAZIAS, falhou: true };
   }
 }
 
@@ -190,22 +194,25 @@ async function main(): Promise<void> {
     try {
       let imdbId = item.imdb_id;
       if (!imdbId) imdbId = await buscarImdbId(item.tmdb_id);
-      if (!imdbId) return { item, imdbId: null as string | null, notas: null as NotasOmdb | null };
-      const notas = await notasSeguras(imdbId);
-      return { item, imdbId, notas };
+      if (!imdbId) return { item, imdbId: null as string | null, notas: null as NotasOmdb | null, falhou: false };
+      const { notas, falhou } = await notasSeguras(imdbId);
+      return { item, imdbId, notas, falhou };
     } catch (e) {
       console.warn(`  (aviso) avaliação falhou (${item.titulo_original}): ${String(e)}`);
-      return { item, imdbId: item.imdb_id, notas: null as NotasOmdb | null };
+      return { item, imdbId: item.imdb_id, notas: null as NotasOmdb | null, falhou: true };
     }
   });
 
-  for (const { item, imdbId, notas } of avaliacoes) {
+  for (const { item, imdbId, notas, falhou } of avaliacoes) {
     item.imdb_id = imdbId;
     if (!imdbId || !notas || !qualifica(notas.rt, notas.metacritic)) {
-      // Permanece na fila (N/A, falha da OMDb, ou ainda abaixo do critério). Não é erro.
-      item.ultima_consulta = dia;
-      item.ultimo_rt = notas?.rt ?? null;
-      item.ultimo_metacritic = notas?.metacritic ?? null;
+      // Falha dura da OMDb (limite/401): NÃO marca como consultado, p/ re-tentar
+      // com prioridade amanhã. N/A legítimo ou abaixo do critério: marca normalmente.
+      if (!falhou) {
+        item.ultima_consulta = dia;
+        item.ultimo_rt = notas?.rt ?? null;
+        item.ultimo_metacritic = notas?.metacritic ?? null;
+      }
       aindaNaFila.push(item);
       continue;
     }
@@ -228,7 +235,7 @@ async function main(): Promise<void> {
   // 5–7. Atualiza quem já está no feed: histórico do dia + ficha (disponibilidade, IMDb).
   console.log(`Atualizando o feed (${catalogo.filmes.length})...`);
   await emLotes(catalogo.filmes, CONCORRENCIA, async (filme) => {
-    const notas = await notasSeguras(filme.imdb_id);
+    const { notas } = await notasSeguras(filme.imdb_id);
     // Só registra o ponto do dia se a OMDb respondeu — assim um dia de falha/limite
     // não vira um buraco no histórico nem zera as notas atuais.
     if (notas.encontrado) {
