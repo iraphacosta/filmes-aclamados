@@ -6,7 +6,8 @@ import { Detalhe } from "./componentes/Detalhe";
 import { NotificacaoCentral } from "./componentes/NotificacaoCentral";
 import { ScrollTopo } from "./componentes/ScrollTopo";
 import { TemaToggle } from "./componentes/TemaToggle";
-import { carregarCatalogo, type Filme } from "./dados";
+import { carregarCatalogo, type EstadoDisponibilidade, type Filme } from "./dados";
+import { nomePais } from "./formato";
 import { useDadosPessoais } from "./favoritos";
 import { useNovidades } from "./novidades";
 import { useTema } from "./tema";
@@ -31,6 +32,15 @@ function porNotaDesc(get: (f: Filme) => number | null) {
     if (va == null) return 1;
     if (vb == null) return -1;
     return vb - va;
+  };
+}
+
+/** Comparador por data (YYYY-MM-DD) decrescente. */
+function porDataDesc(get: (f: Filme) => string) {
+  return (a: Filme, b: Filme) => {
+    const va = get(a);
+    const vb = get(b);
+    return va < vb ? 1 : va > vb ? -1 : 0;
   };
 }
 
@@ -71,6 +81,7 @@ export function App() {
   const [lista, setLista] = useState<Lista>("todos");
   const [ordenar, setOrdenar] = useState<Ordenar>("recentes");
   const [fontes, setFontes] = useState<Fonte[]>([]);
+  const [onde, setOnde] = useState<EstadoDisponibilidade[]>([]);
   const [abertoId, setAbertoId] = useState<number | null>(null);
   const [colunas, setColunas] = useState<number>(() => lerColunas());
   const [rolou, setRolou] = useState(false);
@@ -107,6 +118,9 @@ export function App() {
   const alternarFonte = (f: Fonte) =>
     setFontes((fs) => (fs.includes(f) ? fs.filter((x) => x !== f) : [...fs, f]));
 
+  const alternarOnde = (e: EstadoDisponibilidade) =>
+    setOnde((arr) => (arr.includes(e) ? arr.filter((x) => x !== e) : [...arr, e]));
+
   const generos = useMemo(() => {
     const set = new Set<string>();
     for (const f of filmes) for (const g of f.generos) set.add(g);
@@ -122,14 +136,25 @@ export function App() {
       if (fontes.includes("rt") && scoreRt(f) == null) return false;
       if (fontes.includes("mc") && scoreMc(f) == null) return false;
       if (fontes.includes("imdb") && f.imdb_publico == null) return false;
+      if (onde.length > 0 && !onde.includes(f.disponibilidade_br.estado)) return false;
       if (genero && !f.generos.includes(genero)) return false;
       if (termo) {
-        const alvo = `${f.titulo_original} ${f.titulo_ingles}`.toLowerCase();
+        const alvo = [
+          f.titulo_original,
+          f.titulo_ingles,
+          f.diretor,
+          f.elenco.join(" "),
+          f.generos.join(" "),
+          String(f.ano),
+          (f.pais ?? []).map(nomePais).join(" "),
+        ]
+          .join(" ")
+          .toLowerCase();
         if (!alvo.includes(termo)) return false;
       }
       return true;
     });
-  }, [filmes, busca, genero, lista, fontes, pessoal]);
+  }, [filmes, busca, genero, lista, fontes, onde, pessoal]);
 
   const ordenado = useMemo(() => {
     const arr = filtrados.slice();
@@ -137,6 +162,7 @@ export function App() {
     else if (ordenar === "mc") arr.sort(porNotaDesc(scoreMc));
     else if (ordenar === "imdb") arr.sort(porNotaDesc((f) => f.imdb_publico));
     else if (ordenar === "minha") arr.sort(porNotaDesc((f) => pessoal.notaDe(f.tmdb_id)));
+    else if (ordenar === "lancamento") arr.sort(porDataDesc((f) => f.data_lancamento));
     // "recentes": mantém a ordem do catálogo (data de qualificação desc)
     return arr;
   }, [filtrados, ordenar, pessoal]);
@@ -181,6 +207,8 @@ export function App() {
           onOrdenar={setOrdenar}
           fontes={fontes}
           onAlternarFonte={alternarFonte}
+          onde={onde}
+          onAlternarOnde={alternarOnde}
         />
 
         {carregando && <p className="estado-vazio">Carregando o feed…</p>}

@@ -75,6 +75,14 @@ export interface Filme {
   generos: string[];
   poster_url: string | null;
 
+  // Ficha extra (opcionais — filmes antigos podem não ter até o robô reprocessar)
+  /** Códigos ISO 3166-1 dos países de produção (ex.: ["BR", "US"]). */
+  pais?: string[];
+  /** Códigos ISO 639-1 dos idiomas falados (ex.: ["pt", "en"]). */
+  idiomas?: string[];
+  /** Duração em minutos. */
+  duracao?: number | null;
+
   // Notas atuais
   rt_critica: number | null; // %
   rt_publico: number | null; // % (a OMDb normalmente não fornece -> null)

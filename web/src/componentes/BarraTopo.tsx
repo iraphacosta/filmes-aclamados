@@ -1,8 +1,9 @@
 import { useState } from "react";
+import type { EstadoDisponibilidade } from "../dados";
 import { IconeCheck, IconeFiltro, IconeMarcador } from "./icones";
 
 export type Lista = "todos" | "queroVer" | "assistidos" | "avaliados";
-export type Ordenar = "recentes" | "rt" | "mc" | "imdb" | "minha";
+export type Ordenar = "recentes" | "lancamento" | "rt" | "mc" | "imdb" | "minha";
 export type Fonte = "rt" | "mc" | "imdb";
 
 interface Props {
@@ -20,6 +21,8 @@ interface Props {
   onOrdenar: (o: Ordenar) => void;
   fontes: Fonte[];
   onAlternarFonte: (f: Fonte) => void;
+  onde: EstadoDisponibilidade[];
+  onAlternarOnde: (e: EstadoDisponibilidade) => void;
 }
 
 function IconeColunas({ n }: { n: number }) {
@@ -36,7 +39,8 @@ function IconeColunas({ n }: { n: number }) {
 }
 
 const ORDENS: { v: Ordenar; rotulo: string }[] = [
-  { v: "recentes", rotulo: "Recentes" },
+  { v: "recentes", rotulo: "Recentes no feed" },
+  { v: "lancamento", rotulo: "Lançamento" },
   { v: "rt", rotulo: "Rotten Tomatoes" },
   { v: "mc", rotulo: "Metacritic" },
   { v: "imdb", rotulo: "IMDb" },
@@ -47,6 +51,12 @@ const FONTES: { v: Fonte; rotulo: string; classe: string }[] = [
   { v: "rt", rotulo: "Rotten Tomatoes", classe: "fonte--rt" },
   { v: "mc", rotulo: "Metacritic", classe: "fonte--mc" },
   { v: "imdb", rotulo: "IMDb", classe: "fonte--imdb" },
+];
+
+const ONDE: { v: EstadoDisponibilidade; rotulo: string; classe: string }[] = [
+  { v: "streaming", rotulo: "Streaming", classe: "onde--streaming" },
+  { v: "cinema", rotulo: "No cinema", classe: "onde--cinema" },
+  { v: "nao_lancado", rotulo: "Inédito no BR", classe: "onde--inedito" },
 ];
 
 export function BarraTopo({
@@ -64,18 +74,25 @@ export function BarraTopo({
   onOrdenar,
   fontes,
   onAlternarFonte,
+  onde,
+  onAlternarOnde,
 }: Props) {
   const [aberto, setAberto] = useState(false);
   const alternarLista = (l: Lista) => onLista(lista === l ? "todos" : l);
 
   const algumFiltro =
-    generoAtivo !== "" || lista !== "todos" || fontes.length > 0 || ordenar !== "recentes";
+    generoAtivo !== "" ||
+    lista !== "todos" ||
+    fontes.length > 0 ||
+    onde.length > 0 ||
+    ordenar !== "recentes";
 
   const limpar = () => {
     onGenero("");
     onLista("todos");
     onOrdenar("recentes");
     for (const f of fontes) onAlternarFonte(f);
+    for (const e of onde) onAlternarOnde(e);
   };
 
   return (
@@ -88,10 +105,10 @@ export function BarraTopo({
           </svg>
           <input
             type="search"
-            placeholder="Buscar por título…"
+            placeholder="Buscar título, diretor, elenco, país…"
             value={busca}
             onChange={(e) => onBusca(e.target.value)}
-            aria-label="Buscar por título"
+            aria-label="Buscar"
           />
         </label>
 
@@ -147,6 +164,22 @@ export function BarraTopo({
                   className={`chip ${ordenar === o.v ? "ativo" : ""}`}
                   onClick={() => onOrdenar(o.v)}
                   aria-pressed={ordenar === o.v}
+                >
+                  {o.rotulo}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <div className="grupo-filtro">
+            <span className="grupo-filtro__rotulo">Onde assistir</span>
+            <div className="grupo-filtro__itens">
+              {ONDE.map((o) => (
+                <button
+                  key={o.v}
+                  className={`chip ${o.classe} ${onde.includes(o.v) ? "ativo" : ""}`}
+                  onClick={() => onAlternarOnde(o.v)}
+                  aria-pressed={onde.includes(o.v)}
                 >
                   {o.rotulo}
                 </button>

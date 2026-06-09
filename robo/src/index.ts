@@ -82,6 +82,9 @@ function montarFilme(
     diretor: meta.diretor,
     generos: meta.generos,
     poster_url: meta.poster_url,
+    pais: meta.pais,
+    idiomas: meta.idiomas,
+    duracao: meta.duracao,
     rt_critica: notas.rt,
     rt_publico: null, // a OMDb não fornece o público do RT de forma confiável
     metacritic: notas.metacritic,
@@ -239,6 +242,9 @@ async function main(): Promise<void> {
       const meta = await buscarMetadados(filme.tmdb_id, dia);
       filme.disponibilidade_br = meta.disponibilidade_br;
       if (meta.poster_url) filme.poster_url = meta.poster_url;
+      filme.pais = meta.pais;
+      filme.idiomas = meta.idiomas;
+      filme.duracao = meta.duracao;
     } catch (e) {
       console.warn(`  (aviso) não atualizei a ficha de ${filme.titulo_original}: ${String(e)}`);
     }

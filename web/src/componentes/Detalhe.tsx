@@ -1,6 +1,15 @@
-import { useEffect } from "react";
+import { type TouchEvent as EventoToque, useEffect, useRef, useState } from "react";
 import type { Filme } from "../dados";
-import { ROTULO_DISPONIBILIDADE, dataLonga, linkAgregador, linksVeiculos } from "../formato";
+import {
+  ROTULO_DISPONIBILIDADE,
+  dataLonga,
+  duracaoTexto,
+  linkAgregador,
+  linkLetterboxd,
+  linksVeiculos,
+  nomeIdioma,
+  nomePais,
+} from "../formato";
 import { Estrelas } from "./Estrelas";
 import { IconeCheck, IconeMarcador } from "./icones";
 import { NotaChip, SeloCriterio } from "./Selos";
@@ -86,6 +95,14 @@ function NotasCriticos({ filme }: { filme: Filme }) {
         <NotaChip tipo="mc" valor={filme.atual_metacritic ?? filme.metacritic} href={linkAgregador("mc", titulo)} />
         <NotaChip tipo="imdb" valor={filme.imdb_publico} href={filme.links.imdb} />
       </div>
+      <a
+        className="detalhe__letterboxd"
+        href={linkLetterboxd(filme.tmdb_id)}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Ver no Letterboxd ↗
+      </a>
     </div>
   );
 }
@@ -112,11 +129,44 @@ export function Detalhe({
     };
   }, [onFechar]);
 
+  // Arrastar para baixo (mobile) fecha a ficha — só quando o conteúdo está no topo.
+  const modalRef = useRef<HTMLDivElement>(null);
+  const inicioY = useRef<number | null>(null);
+  const arrastando = useRef(false);
+  const [arrastoY, setArrastoY] = useState(0);
+
+  const aoToqueInicio = (e: EventoToque<HTMLDivElement>) => {
+    inicioY.current = e.touches[0]?.clientY ?? null;
+    arrastando.current = (modalRef.current?.scrollTop ?? 0) <= 0;
+  };
+  const aoToqueMover = (e: EventoToque<HTMLDivElement>) => {
+    if (inicioY.current == null || !arrastando.current) return;
+    const dy = (e.touches[0]?.clientY ?? 0) - inicioY.current;
+    setArrastoY(dy > 0 ? dy : 0);
+  };
+  const aoToqueFim = () => {
+    if (arrastoY > 100) {
+      onFechar();
+      return;
+    }
+    setArrastoY(0);
+    inicioY.current = null;
+    arrastando.current = false;
+  };
+
   const disp = filme.disponibilidade_br;
 
   return (
-    <div className="modal" onClick={onFechar} role="dialog" aria-modal aria-label={filme.titulo_original}>
-      <div className="modal__painel" onClick={(e) => e.stopPropagation()}>
+    <div className="modal" ref={modalRef} onClick={onFechar} role="dialog" aria-modal aria-label={filme.titulo_original}>
+      <div
+        className="modal__painel"
+        onClick={(e) => e.stopPropagation()}
+        onTouchStart={aoToqueInicio}
+        onTouchMove={aoToqueMover}
+        onTouchEnd={aoToqueFim}
+        style={arrastoY ? { transform: `translateY(${arrastoY}px)`, transition: "none" } : undefined}
+      >
+        <span className="modal__alca" aria-hidden />
         <button className="modal__fechar" onClick={onFechar} aria-label="Fechar">✕</button>
 
         <div className="detalhe">
@@ -179,6 +229,15 @@ export function Detalhe({
               )}
               {filme.elenco.length > 0 && (
                 <div><dt>Elenco</dt><dd>{filme.elenco.join(", ")}</dd></div>
+              )}
+              {filme.pais && filme.pais.length > 0 && (
+                <div><dt>País</dt><dd>{filme.pais.map(nomePais).join(", ")}</dd></div>
+              )}
+              {filme.idiomas && filme.idiomas.length > 0 && (
+                <div><dt>Idiomas</dt><dd>{filme.idiomas.map(nomeIdioma).join(", ")}</dd></div>
+              )}
+              {duracaoTexto(filme.duracao) && (
+                <div><dt>Duração</dt><dd>{duracaoTexto(filme.duracao)}</dd></div>
               )}
             </dl>
 

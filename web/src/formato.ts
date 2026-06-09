@@ -40,7 +40,7 @@ export function linksVeiculos(titulo: string): { nome: string; url: string }[] {
     { nome: "Folha de S.Paulo", url: buscaGoogle(`${titulo} crítica site:folha.uol.com.br`) },
     { nome: "O Globo", url: buscaGoogle(`${titulo} crítica site:oglobo.globo.com`) },
     { nome: "Variety", url: buscaGoogle(`${titulo} review site:variety.com`) },
-    { nome: "Vulture", url: buscaGoogle(`${titulo} review site:vulture.com`) },
+    { nome: "Roger Ebert", url: buscaGoogle(`${titulo} review site:rogerebert.com`) },
   ];
 }
 
@@ -48,6 +48,41 @@ export function linksVeiculos(titulo: string): { nome: string; url: string }[] {
 export function linkAgregador(tipo: "rt" | "mc", titulo: string): string {
   const site = tipo === "rt" ? "rottentomatoes.com" : "metacritic.com";
   return buscaGoogle(`${titulo} site:${site}`);
+}
+
+/** Link direto para o perfil do filme no Letterboxd (via id do TMDb). */
+export function linkLetterboxd(tmdbId: number): string {
+  return `https://letterboxd.com/tmdb/${tmdbId}/`;
+}
+
+// Tradução de códigos ISO para nomes em pt-BR.
+const nomesPais = new Intl.DisplayNames(["pt-BR"], { type: "region" });
+const nomesIdioma = new Intl.DisplayNames(["pt-BR"], { type: "language" });
+
+export function nomePais(iso: string): string {
+  try {
+    return nomesPais.of(iso) ?? iso;
+  } catch {
+    return iso;
+  }
+}
+
+export function nomeIdioma(iso: string): string {
+  try {
+    const n = nomesIdioma.of(iso);
+    return n ? n.charAt(0).toUpperCase() + n.slice(1) : iso;
+  } catch {
+    return iso;
+  }
+}
+
+/** 142 -> "2h 22min"; 58 -> "58min". */
+export function duracaoTexto(min: number | null | undefined): string | null {
+  if (!min || min <= 0) return null;
+  const h = Math.floor(min / 60);
+  const m = min % 60;
+  if (h > 0) return m > 0 ? `${h}h ${m}min` : `${h}h`;
+  return `${m}min`;
 }
 
 export const ROTULO_CRITERIO: Record<CriterioQualificacao, string> = {

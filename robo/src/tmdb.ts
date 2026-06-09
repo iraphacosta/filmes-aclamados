@@ -136,7 +136,10 @@ interface RespostaDetalhes {
   overview: string;
   release_date: string;
   poster_path: string | null;
+  runtime: number | null;
   genres: Array<{ id: number; name: string }>;
+  production_countries?: Array<{ iso_3166_1: string; name: string }>;
+  spoken_languages?: Array<{ iso_639_1: string; name?: string }>;
   credits?: {
     cast?: Array<{ name: string; order: number }>;
     crew?: Array<{ name: string; job: string }>;
@@ -177,6 +180,9 @@ export interface MetadadosTmdb {
   diretor: string;
   generos: string[];
   poster_url: string | null;
+  pais: string[];
+  idiomas: string[];
+  duracao: number | null;
   disponibilidade_br: Disponibilidade;
 }
 
@@ -253,6 +259,9 @@ export async function buscarMetadados(
     diretor: diretores.join(", "),
     generos: (d.genres ?? []).map((g) => g.name),
     poster_url: d.poster_path ? `${IMG}/w500${d.poster_path}` : null,
+    pais: (d.production_countries ?? []).map((c) => c.iso_3166_1),
+    idiomas: (d.spoken_languages ?? []).map((l) => l.iso_639_1),
+    duracao: d.runtime ?? null,
     disponibilidade_br: calcularDisponibilidade(d, hojeISO),
   };
 }

@@ -15,10 +15,10 @@ const COR: Record<Serie, string> = {
 };
 
 const L = 0;
-const A = 200; // largura do viewBox
-const ALT = 76; // altura do viewBox
+const A = 360; // largura do viewBox
+const ALT = 80; // altura do viewBox (aspecto fixo → escala uniforme, círculos redondos)
 const PAD_T = 8;
-const PAD_B = 14;
+const PAD_B = 12;
 
 function pontos(historico: RegistroHistorico[], serie: Serie) {
   const validos = historico
@@ -46,7 +46,6 @@ export function Sparkline({ historico, limiar = 65 }: Props) {
     <svg
       className="sparkline"
       viewBox={`0 0 ${A} ${ALT}`}
-      preserveAspectRatio="none"
       role="img"
       aria-label="Evolução das notas ao longo do tempo"
     >
@@ -70,16 +69,16 @@ export function Sparkline({ historico, limiar = 65 }: Props) {
                 d={caminho(pts)}
                 fill="none"
                 stroke={COR[serie]}
-                strokeWidth={2}
+                strokeWidth={2.4}
                 strokeLinecap="round"
                 strokeLinejoin="round"
-                style={{ filter: `drop-shadow(0 0 4px ${COR[serie]})` }}
+                style={{ filter: `drop-shadow(0 0 3px ${COR[serie]})` }}
               />
             )}
             {pts.map((p, i) => (
-              <circle key={`${id}-${serie}-${i}`} cx={p.x} cy={p.y} r={i === pts.length - 1 ? 2.6 : 1.6} fill={COR[serie]} />
+              <circle key={`${id}-${serie}-${i}`} cx={p.x} cy={p.y} r={i === pts.length - 1 ? 3.2 : 2} fill={COR[serie]} />
             ))}
-            <circle cx={ultimo.x} cy={ultimo.y} r={4.5} fill="none" stroke={COR[serie]} strokeWidth={1} opacity={0.5} />
+            <circle cx={ultimo.x} cy={ultimo.y} r={5.5} fill="none" stroke={COR[serie]} strokeWidth={1.2} opacity={0.5} />
           </g>
         );
       })}
