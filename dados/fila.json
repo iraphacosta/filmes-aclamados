@@ -1,14 +1,1234 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-06-09T12:20:39.398Z",
+  "atualizado_em": "2026-06-10T12:42:07.016Z",
   "fila": [
+    {
+      "tmdb_id": 1598785,
+      "imdb_id": "tt39228706",
+      "titulo_original": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+      "data_lancamento": "2026-06-01",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1318691,
+      "imdb_id": "tt33023309",
+      "titulo_original": "Los Muértimer",
+      "data_lancamento": "2025-08-14",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1422179,
+      "imdb_id": "tt31828532",
+      "titulo_original": "På villspor",
+      "data_lancamento": "2025-02-27",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1398359,
+      "imdb_id": "tt34915705",
+      "titulo_original": "டூரிஸ்ட் ஃபாமிலி",
+      "data_lancamento": "2025-04-30",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1278983,
+      "imdb_id": "tt31614921",
+      "titulo_original": "Under the Stars",
+      "data_lancamento": "2025-11-09",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1322218,
+      "imdb_id": "tt35301440",
+      "titulo_original": "劇場版モノノ怪 第二章 火鼠",
+      "data_lancamento": "2025-08-14",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1261125,
+      "imdb_id": "tt31969600",
+      "titulo_original": "തുടരും",
+      "data_lancamento": "2025-04-23",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 881415,
+      "imdb_id": "tt21375602",
+      "titulo_original": "Love Me",
+      "data_lancamento": "2025-01-31",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": 46,
+      "ultimo_metacritic": 52
+    },
+    {
+      "tmdb_id": 1279947,
+      "imdb_id": "tt15128544",
+      "titulo_original": "Sunray: Fallen Soldier",
+      "data_lancamento": "2025-12-04",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1261501,
+      "imdb_id": "tt32138452",
+      "titulo_original": "Ad Vitam",
+      "data_lancamento": "2025-01-10",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": 43,
+      "ultimo_metacritic": 40
+    },
+    {
+      "tmdb_id": 1280684,
+      "imdb_id": "tt33366456",
+      "titulo_original": "Corina",
+      "data_lancamento": "2025-01-09",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1076897,
+      "imdb_id": "tt34624872",
+      "titulo_original": "Kaamelott : Deuxième Volet, partie 1",
+      "data_lancamento": "2025-10-22",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1508191,
+      "imdb_id": "tt35922832",
+      "titulo_original": "Ozzy: No Escape from Now",
+      "data_lancamento": "2025-10-07",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1425725,
+      "imdb_id": "tt35616060",
+      "titulo_original": "Hans Zimmer & Friends: Diamond in the Desert",
+      "data_lancamento": "2025-02-19",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1309725,
+      "imdb_id": "tt32759477",
+      "titulo_original": "La Femme la plus riche du monde",
+      "data_lancamento": "2025-10-03",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": 50,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1287814,
+      "imdb_id": "tt27368237",
+      "titulo_original": "Stone Cold Fox",
+      "data_lancamento": "2025-11-07",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1223422,
+      "imdb_id": "tt28628125",
+      "titulo_original": "Motherland",
+      "data_lancamento": "2025-09-12",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1261543,
+      "imdb_id": "tt30877614",
+      "titulo_original": "Pengantin Iblis",
+      "data_lancamento": "2025-01-29",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1244068,
+      "imdb_id": "tt30089457",
+      "titulo_original": "പൊൻMAN",
+      "data_lancamento": "2025-01-30",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1128377,
+      "imdb_id": "tt27497165",
+      "titulo_original": "In Cold Light",
+      "data_lancamento": "2026-01-23",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": 55,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1425617,
+      "imdb_id": "tt35948720",
+      "titulo_original": "Başka Bir Sen",
+      "data_lancamento": "2025-03-07",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1205648,
+      "imdb_id": "tt31024627",
+      "titulo_original": "Le Roi Soleil",
+      "data_lancamento": "2025-08-27",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1401905,
+      "imdb_id": "tt34977130",
+      "titulo_original": "Don't Die: The Man Who Wants to Live Forever",
+      "data_lancamento": "2025-01-01",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": 55
+    },
+    {
+      "tmdb_id": 1395140,
+      "imdb_id": "tt34812090",
+      "titulo_original": "LUPIN THE IIIRD THE MOVIE 不死身の血族",
+      "data_lancamento": "2025-06-27",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1393069,
+      "imdb_id": "tt34749630",
+      "titulo_original": "The Most Beautiful Girl in the World",
+      "data_lancamento": "2025-02-14",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1013052,
+      "imdb_id": "tt19783734",
+      "titulo_original": "Ти – Космос",
+      "data_lancamento": "2025-04-24",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1202235,
+      "imdb_id": "tt27957740",
+      "titulo_original": "డాకు మహారాజ్‌",
+      "data_lancamento": "2025-01-12",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1230208,
+      "imdb_id": "tt31032711",
+      "titulo_original": "Bastion 36",
+      "data_lancamento": "2025-02-28",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1530127,
+      "imdb_id": "tt33523851",
+      "titulo_original": "Lookout",
+      "data_lancamento": "2026-04-30",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1188423,
+      "imdb_id": "tt10278542",
+      "titulo_original": "Site",
+      "data_lancamento": "2025-08-08",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1094836,
+      "imdb_id": "tt17278866",
+      "titulo_original": "Uncontained",
+      "data_lancamento": "2025-03-11",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1442033,
+      "imdb_id": "tt6928892",
+      "titulo_original": "Catalyst",
+      "data_lancamento": "2025-02-11",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 957121,
+      "imdb_id": "tt12619462",
+      "titulo_original": "The Man in My Basement",
+      "data_lancamento": "2025-09-12",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": 40,
+      "ultimo_metacritic": 51
+    },
+    {
+      "tmdb_id": 1434973,
+      "imdb_id": "tt35091739",
+      "titulo_original": "La tregua",
+      "data_lancamento": "2025-10-10",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1581099,
+      "imdb_id": "tt38948229",
+      "titulo_original": "Kevin Hart: Acting My Age",
+      "data_lancamento": "2025-11-24",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1546963,
+      "imdb_id": "tt37529347",
+      "titulo_original": "Soyut Dışavurumcu Bir Dostluğun Anatomisi Veyahut Yan Yana",
+      "data_lancamento": "2025-11-14",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1406607,
+      "imdb_id": "tt35112097",
+      "titulo_original": "戏台",
+      "data_lancamento": "2025-07-12",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1313003,
+      "imdb_id": "tt32478708",
+      "titulo_original": "Muori di lei",
+      "data_lancamento": "2025-03-20",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 891644,
+      "imdb_id": "tt13598080",
+      "titulo_original": "Zero",
+      "data_lancamento": "2025-04-11",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": 53,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1397335,
+      "imdb_id": "tt27865276",
+      "titulo_original": "Hunting Jessica Brok",
+      "data_lancamento": "2025-08-22",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1000879,
+      "imdb_id": "tt15435004",
+      "titulo_original": "Grand Ciel",
+      "data_lancamento": "2026-01-21",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1328956,
+      "imdb_id": "tt31849867",
+      "titulo_original": "Alma & the Wolf",
+      "data_lancamento": "2025-06-20",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1383461,
+      "imdb_id": "tt31190632",
+      "titulo_original": "October 8",
+      "data_lancamento": "2025-03-14",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1361622,
+      "imdb_id": "tt35300972",
+      "titulo_original": "Lune de miel avec ma mère",
+      "data_lancamento": "2025-02-12",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1193824,
+      "imdb_id": "tt29567402",
+      "titulo_original": "Rabbit Trap",
+      "data_lancamento": "2025-09-12",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": 48,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1001010,
+      "imdb_id": "tt30519830",
+      "titulo_original": "Hiver à Sokcho",
+      "data_lancamento": "2025-01-08",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1339166,
+      "imdb_id": "tt28554021",
+      "titulo_original": "Shaman",
+      "data_lancamento": "2025-12-12",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1119537,
+      "imdb_id": "tt34762801",
+      "titulo_original": "Des preuves d'amour",
+      "data_lancamento": "2025-10-17",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1484640,
+      "imdb_id": "tt34682204",
+      "titulo_original": "Limpia",
+      "data_lancamento": "2025-09-25",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1242686,
+      "imdb_id": "tt31249107",
+      "titulo_original": "Salvable",
+      "data_lancamento": "2025-05-01",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": 57,
+      "ultimo_metacritic": 54
+    },
+    {
+      "tmdb_id": 1280089,
+      "imdb_id": "tt33479839",
+      "titulo_original": "Pengepungan di Bukit Duri",
+      "data_lancamento": "2025-04-17",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1310741,
+      "imdb_id": "tt32881480",
+      "titulo_original": "1 Kakak 7 Ponakan",
+      "data_lancamento": "2025-01-23",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1288998,
+      "imdb_id": "tt33304396",
+      "titulo_original": "1978",
+      "data_lancamento": "2025-06-20",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1266809,
+      "imdb_id": "tt31566788",
+      "titulo_original": "La Cache",
+      "data_lancamento": "2025-03-19",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1256408,
+      "imdb_id": "tt27911420",
+      "titulo_original": "Manas",
+      "data_lancamento": "2025-05-15",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 975225,
+      "imdb_id": "tt20222166",
+      "titulo_original": "Spinal Tap II: The End Continues",
+      "data_lancamento": "2025-09-12",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": 57
+    },
+    {
+      "tmdb_id": 1297860,
+      "imdb_id": "tt31050620",
+      "titulo_original": "Inheritance",
+      "data_lancamento": "2025-01-24",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": 55
+    },
+    {
+      "tmdb_id": 1208735,
+      "imdb_id": "tt27907811",
+      "titulo_original": "తండేల్",
+      "data_lancamento": "2025-02-07",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1091862,
+      "imdb_id": "tt21065274",
+      "titulo_original": "Black Diamond",
+      "data_lancamento": "2025-01-10",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1181161,
+      "imdb_id": "tt30831836",
+      "titulo_original": "Avec ou sans enfants ?",
+      "data_lancamento": "2025-02-19",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1274837,
+      "imdb_id": "tt32250381",
+      "titulo_original": "Le Million",
+      "data_lancamento": "2025-09-24",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1563506,
+      "imdb_id": "tt7440398",
+      "titulo_original": "Salvation",
+      "data_lancamento": "2025-08-19",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1450115,
+      "imdb_id": "tt38580081",
+      "titulo_original": "沈黙の艦隊 北極海大海戦",
+      "data_lancamento": "2025-09-26",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1174382,
+      "imdb_id": "tt29312656",
+      "titulo_original": "Gérald le Conquérant",
+      "data_lancamento": "2025-12-03",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1491034,
+      "imdb_id": "tt36893731",
+      "titulo_original": "Netflix Tudum 2025",
+      "data_lancamento": "2025-05-31",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1437701,
+      "imdb_id": "tt35856123",
+      "titulo_original": "Leaving Neverland 2: Surviving Michael Jackson",
+      "data_lancamento": "2025-03-18",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1315655,
+      "imdb_id": "tt30700695",
+      "titulo_original": "Lilies Not for Me",
+      "data_lancamento": "2026-03-19",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1236471,
+      "imdb_id": "tt14048164",
+      "titulo_original": "Everyone Is Going to Die",
+      "data_lancamento": "2025-02-21",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1407432,
+      "imdb_id": "tt15427952",
+      "titulo_original": "అనగనగా ఒక రాజు",
+      "data_lancamento": "2026-01-14",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1233620,
+      "imdb_id": "tt34723784",
+      "titulo_original": "¡Qué Huevos, Sofía!",
+      "data_lancamento": "2025-02-27",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1301632,
+      "imdb_id": "tt32058735",
+      "titulo_original": "भूल चूक माफ",
+      "data_lancamento": "2025-06-06",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": 27,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1171153,
+      "imdb_id": "tt20414360",
+      "titulo_original": "Köln 75",
+      "data_lancamento": "2025-03-13",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": 62
+    },
+    {
+      "tmdb_id": 1196207,
+      "imdb_id": "tt38895441",
+      "titulo_original": "La Navidad en sus manos 2",
+      "data_lancamento": "2025-12-05",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1376439,
+      "imdb_id": "tt35363310",
+      "titulo_original": "Jean Valjean",
+      "data_lancamento": "2025-11-19",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1204892,
+      "imdb_id": "tt29471733",
+      "titulo_original": "Picture This",
+      "data_lancamento": "2025-03-05",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": 44,
+      "ultimo_metacritic": 55
+    },
+    {
+      "tmdb_id": 1440641,
+      "imdb_id": "tt35882235",
+      "titulo_original": "The Jolly Monkey",
+      "data_lancamento": "2025-02-28",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1448353,
+      "imdb_id": "tt36386168",
+      "titulo_original": "Thám Tử Kiên: Kỳ Án Không Đầu",
+      "data_lancamento": "2025-04-25",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1280525,
+      "imdb_id": "tt35286242",
+      "titulo_original": "Die Schule der magischen Tiere 4",
+      "data_lancamento": "2025-09-25",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1285406,
+      "imdb_id": "tt34190272",
+      "titulo_original": "Enemigos",
+      "data_lancamento": "2025-08-28",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1327769,
+      "imdb_id": "tt38095263",
+      "titulo_original": "27 noches",
+      "data_lancamento": "2025-10-17",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1307520,
+      "imdb_id": "tt31227132",
+      "titulo_original": "La más fan",
+      "data_lancamento": "2025-05-01",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1437873,
+      "imdb_id": "tt29300998",
+      "titulo_original": "Rondallas",
+      "data_lancamento": "2025-12-16",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1290205,
+      "imdb_id": "tt32362494",
+      "titulo_original": "แฟลตเกิร์ล ชั้นห่างระหว่าง เ ร า",
+      "data_lancamento": "2025-02-06",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1021679,
+      "imdb_id": "tt21996220",
+      "titulo_original": "ベルサイユのばら",
+      "data_lancamento": "2025-04-30",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1217483,
+      "imdb_id": "tt34482468",
+      "titulo_original": "Le Secret de Khéops",
+      "data_lancamento": "2025-03-05",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1189735,
+      "imdb_id": "tt27828550",
+      "titulo_original": "Fréamhacha",
+      "data_lancamento": "2025-08-06",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1294706,
+      "imdb_id": "tt35489613",
+      "titulo_original": "Le Rendez-vous de l'été",
+      "data_lancamento": "2025-06-11",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1241924,
+      "imdb_id": "tt29429728",
+      "titulo_original": "水饺皇后",
+      "data_lancamento": "2025-04-30",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 937393,
+      "imdb_id": "tt23131648",
+      "titulo_original": "Bloat",
+      "data_lancamento": "2025-03-07",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": 29,
+      "ultimo_metacritic": 40
+    },
+    {
+      "tmdb_id": 1440700,
+      "imdb_id": "tt37962245",
+      "titulo_original": "లిటిల్ హార్ట్స్",
+      "data_lancamento": "2025-09-05",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1193861,
+      "imdb_id": "tt27698095",
+      "titulo_original": "La mujer de la fila",
+      "data_lancamento": "2025-09-04",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1136387,
+      "imdb_id": "tt32973202",
+      "titulo_original": "Else",
+      "data_lancamento": "2025-05-28",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1245571,
+      "imdb_id": "tt29884526",
+      "titulo_original": "ആലപ്പുഴ ജിംഖാന",
+      "data_lancamento": "2025-04-10",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1239115,
+      "imdb_id": "tt35042637",
+      "titulo_original": "Warlord",
+      "data_lancamento": "2025-05-16",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1396869,
+      "imdb_id": "tt36302733",
+      "titulo_original": "ഡീയസ് ഈറെ",
+      "data_lancamento": "2025-10-30",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1446358,
+      "imdb_id": "tt35713227",
+      "titulo_original": "عريس وعروستين",
+      "data_lancamento": "2025-11-07",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1278164,
+      "imdb_id": "tt32369229",
+      "titulo_original": "Blood Brothers: Bara Naga",
+      "data_lancamento": "2025-04-10",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1037264,
+      "imdb_id": "tt22852560",
+      "titulo_original": "La Disparition de Josef Mengele",
+      "data_lancamento": "2025-10-16",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1425641,
+      "imdb_id": "tt33949346",
+      "titulo_original": "மார்கன்",
+      "data_lancamento": "2025-06-27",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1429743,
+      "imdb_id": "tt35669015",
+      "titulo_original": "แก๊งหิมะเดือด",
+      "data_lancamento": "2025-04-10",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1426518,
+      "imdb_id": "tt35627915",
+      "titulo_original": "Being Eddie",
+      "data_lancamento": "2025-11-12",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1293858,
+      "imdb_id": "tt32318707",
+      "titulo_original": "L'Intérêt d'Adam",
+      "data_lancamento": "2025-09-17",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1026222,
+      "imdb_id": "tt9024562",
+      "titulo_original": "Saint Clare",
+      "data_lancamento": "2025-07-18",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": 32,
+      "ultimo_metacritic": 31
+    },
+    {
+      "tmdb_id": 1426486,
+      "imdb_id": "tt35628886",
+      "titulo_original": "Chaos: The Manson Murders",
+      "data_lancamento": "2025-03-07",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": 56,
+      "ultimo_metacritic": 62
+    },
+    {
+      "tmdb_id": 1318037,
+      "imdb_id": "tt33069817",
+      "titulo_original": "Le Jour J",
+      "data_lancamento": "2025-10-15",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 798580,
+      "imdb_id": "tt14096946",
+      "titulo_original": "The Creeps",
+      "data_lancamento": "2025-04-13",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1191666,
+      "imdb_id": "tt33610694",
+      "titulo_original": "Le Routard",
+      "data_lancamento": "2025-04-02",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1404864,
+      "imdb_id": "tt35076553",
+      "titulo_original": "इंस्पेक्टर ज़ेंडे",
+      "data_lancamento": "2025-09-05",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1309584,
+      "imdb_id": "tt34767962",
+      "titulo_original": "Una figlia",
+      "data_lancamento": "2025-04-24",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1437985,
+      "imdb_id": "tt36280391",
+      "titulo_original": "Chasse gardée 2",
+      "data_lancamento": "2025-12-10",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1427833,
+      "imdb_id": "tt35727399",
+      "titulo_original": "Hvis ingen går i fella",
+      "data_lancamento": "2025-11-06",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1493021,
+      "imdb_id": "tt37331792",
+      "titulo_original": "Lavoreremo da grandi",
+      "data_lancamento": "2026-02-05",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1613335,
+      "imdb_id": "tt39320452",
+      "titulo_original": "Miracle: The Boys of '80",
+      "data_lancamento": "2026-01-30",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1280330,
+      "imdb_id": "tt32515812",
+      "titulo_original": "蛟龙行动",
+      "data_lancamento": "2025-01-26",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1441563,
+      "imdb_id": "tt35219851",
+      "titulo_original": "My Secret Santa",
+      "data_lancamento": "2025-12-03",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1418305,
+      "imdb_id": "tt36689463",
+      "titulo_original": "สุสานคนเป็น",
+      "data_lancamento": "2025-04-24",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1314452,
+      "imdb_id": "tt34207924",
+      "titulo_original": "Other",
+      "data_lancamento": "2026-02-10",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1418286,
+      "imdb_id": "tt35558973",
+      "titulo_original": "The Royal We",
+      "data_lancamento": "2025-03-01",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1538718,
+      "imdb_id": "tt39308381",
+      "titulo_original": "Disneyland Handcrafted",
+      "data_lancamento": "2026-01-22",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1187436,
+      "imdb_id": "tt29383300",
+      "titulo_original": "Ett ärligt liv",
+      "data_lancamento": "2025-07-31",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1304800,
+      "imdb_id": "tt32322559",
+      "titulo_original": "The Lion King at the Hollywood Bowl",
+      "data_lancamento": "2025-02-07",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
+    {
+      "tmdb_id": 1294949,
+      "imdb_id": "tt35538004",
+      "titulo_original": "Mamá reinventada",
+      "data_lancamento": "2025-05-08",
+      "descoberto_em": "2026-06-10",
+      "ultima_consulta": "2026-06-10",
+      "ultimo_rt": null,
+      "ultimo_metacritic": null
+    },
     {
       "tmdb_id": 1438959,
       "imdb_id": "tt37660578",
       "titulo_original": "Elisa",
       "data_lancamento": "2025-09-05",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -18,7 +1238,7 @@
       "titulo_original": "இட்லி கடை",
       "data_lancamento": "2025-10-01",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -28,7 +1248,7 @@
       "titulo_original": "राजनयिक",
       "data_lancamento": "2025-03-07",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 50,
       "ultimo_metacritic": null
     },
@@ -38,7 +1258,7 @@
       "titulo_original": "Skyscraper Live",
       "data_lancamento": "2026-01-23",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -48,7 +1268,7 @@
       "titulo_original": "84제곱미터",
       "data_lancamento": "2025-07-18",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 59,
       "ultimo_metacritic": null
     },
@@ -58,7 +1278,7 @@
       "titulo_original": "The Island Between Tides",
       "data_lancamento": "2025-03-07",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -68,7 +1288,7 @@
       "titulo_original": "Stromberg - Wieder alles wie immer",
       "data_lancamento": "2025-12-04",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -78,7 +1298,7 @@
       "titulo_original": "Mikaela",
       "data_lancamento": "2025-06-06",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -88,7 +1308,7 @@
       "titulo_original": "सन्नी संस्कारी की तुलसी कुमारी",
       "data_lancamento": "2025-10-02",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 20,
       "ultimo_metacritic": null
     },
@@ -98,7 +1318,7 @@
       "titulo_original": "Свободное падение",
       "data_lancamento": "2025-05-21",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -108,7 +1328,7 @@
       "titulo_original": "Un ours dans le Jura",
       "data_lancamento": "2025-01-01",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -118,7 +1338,7 @@
       "titulo_original": "Aún es de Noche en Caracas",
       "data_lancamento": "2025-10-28",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -128,7 +1348,7 @@
       "titulo_original": "Vleesdag",
       "data_lancamento": "2025-09-24",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -138,7 +1358,7 @@
       "titulo_original": "Fear Below",
       "data_lancamento": "2025-05-30",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -148,7 +1368,7 @@
       "titulo_original": "Be Happy",
       "data_lancamento": "2025-03-14",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 50,
       "ultimo_metacritic": null
     },
@@ -158,7 +1378,7 @@
       "titulo_original": "हैप्पी पटेल: ख़तरनाक जासूस",
       "data_lancamento": "2026-01-16",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -168,7 +1388,7 @@
       "titulo_original": "iHostage",
       "data_lancamento": "2025-04-18",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -178,7 +1398,7 @@
       "titulo_original": "धूम धाम",
       "data_lancamento": "2025-02-14",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 56,
       "ultimo_metacritic": null
     },
@@ -188,7 +1408,7 @@
       "titulo_original": "Titanic: The Digital Resurrection",
       "data_lancamento": "2025-04-12",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -198,7 +1418,7 @@
       "titulo_original": "Dalloway",
       "data_lancamento": "2025-09-17",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -208,7 +1428,7 @@
       "titulo_original": "Belén",
       "data_lancamento": "2025-10-03",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -218,7 +1438,7 @@
       "titulo_original": "June and John",
       "data_lancamento": "2025-06-12",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -228,7 +1448,7 @@
       "titulo_original": "కోర్ట్: State vs. A Nobody",
       "data_lancamento": "2025-04-11",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -238,7 +1458,7 @@
       "titulo_original": "Into the Deep",
       "data_lancamento": "2025-01-23",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 27,
       "ultimo_metacritic": null
     },
@@ -248,7 +1468,7 @@
       "titulo_original": "మిరాయి",
       "data_lancamento": "2025-09-12",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -258,7 +1478,7 @@
       "titulo_original": "The Codes of War",
       "data_lancamento": "2025-03-20",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -268,7 +1488,7 @@
       "titulo_original": "악마가 이사왔다",
       "data_lancamento": "2025-08-13",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -278,7 +1498,7 @@
       "titulo_original": "Abraham's Boys: A Dracula Story",
       "data_lancamento": "2025-07-11",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": 39
     },
@@ -288,7 +1508,7 @@
       "titulo_original": "Lefter: Bir Ordinaryüs Hikayesi",
       "data_lancamento": "2025-11-14",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -298,7 +1518,7 @@
       "titulo_original": "Partir un jour",
       "data_lancamento": "2025-11-27",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 61,
       "ultimo_metacritic": 41
     },
@@ -308,7 +1528,7 @@
       "titulo_original": "Yoroï",
       "data_lancamento": "2025-10-18",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -318,7 +1538,7 @@
       "titulo_original": "機動戦士Gundam GQuuuuuuX -Beginning-",
       "data_lancamento": "2025-01-17",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -328,7 +1548,7 @@
       "titulo_original": "The Lost Princess",
       "data_lancamento": "2025-10-16",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -338,7 +1558,7 @@
       "titulo_original": "रात अकेली है - द बंसल मर्डर्स",
       "data_lancamento": "2025-12-19",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -348,7 +1568,7 @@
       "titulo_original": "பைசன் காளமாடன்",
       "data_lancamento": "2025-10-17",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -358,7 +1578,7 @@
       "titulo_original": "Rob1n",
       "data_lancamento": "2026-02-12",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -368,7 +1588,7 @@
       "titulo_original": "Shell",
       "data_lancamento": "2026-06-18",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 63,
       "ultimo_metacritic": 55
     },
@@ -378,7 +1598,7 @@
       "titulo_original": "Putin",
       "data_lancamento": "2025-01-09",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -388,7 +1608,7 @@
       "titulo_original": "笑傲江湖",
       "data_lancamento": "2025-01-23",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -398,7 +1618,7 @@
       "titulo_original": "Sebastian Fitzeks Der Heimweg",
       "data_lancamento": "2025-01-15",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -408,7 +1628,7 @@
       "titulo_original": "Il falsario",
       "data_lancamento": "2026-01-23",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -418,7 +1638,7 @@
       "titulo_original": "Oh. What. Fun.",
       "data_lancamento": "2025-12-03",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": 38
     },
@@ -428,7 +1648,7 @@
       "titulo_original": "സർവം മായ",
       "data_lancamento": "2025-12-25",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -438,7 +1658,7 @@
       "titulo_original": "Silent Zone",
       "data_lancamento": "2025-03-07",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -448,7 +1668,7 @@
       "titulo_original": "Mercato",
       "data_lancamento": "2025-02-19",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -458,7 +1678,7 @@
       "titulo_original": "O Filho de Mil Homens",
       "data_lancamento": "2025-10-30",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -468,7 +1688,7 @@
       "titulo_original": "Rumpelstiltskin",
       "data_lancamento": "2025-03-08",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -478,7 +1698,7 @@
       "titulo_original": "سيكو سيكو",
       "data_lancamento": "2025-03-30",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -488,7 +1708,7 @@
       "titulo_original": "Dom dobry",
       "data_lancamento": "2025-11-07",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -498,7 +1718,7 @@
       "titulo_original": "Fixed",
       "data_lancamento": "2025-08-13",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 56,
       "ultimo_metacritic": 56
     },
@@ -508,7 +1728,7 @@
       "titulo_original": "बारामूला",
       "data_lancamento": "2025-11-07",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -518,7 +1738,7 @@
       "titulo_original": "Cuerno Azulado",
       "data_lancamento": "2025-09-10",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -528,7 +1748,7 @@
       "titulo_original": "Barron's Cove",
       "data_lancamento": "2025-06-06",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": 58
     },
@@ -538,7 +1758,7 @@
       "titulo_original": "Madea's Destination Wedding",
       "data_lancamento": "2025-07-11",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 11,
       "ultimo_metacritic": null
     },
@@ -548,7 +1768,7 @@
       "titulo_original": "धड़क २",
       "data_lancamento": "2025-08-01",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -558,7 +1778,7 @@
       "titulo_original": "近畿地方のある場所について",
       "data_lancamento": "2025-08-08",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -568,7 +1788,7 @@
       "titulo_original": "The Huntsman",
       "data_lancamento": "2026-02-06",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -578,7 +1798,7 @@
       "titulo_original": "히트맨 2",
       "data_lancamento": "2025-01-22",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -588,7 +1808,7 @@
       "titulo_original": "Breakdown: 1975",
       "data_lancamento": "2025-12-18",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": 49
     },
@@ -598,7 +1818,7 @@
       "titulo_original": "Sore: Istri Dari Masa Depan",
       "data_lancamento": "2025-07-10",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -608,7 +1828,7 @@
       "titulo_original": "குட் பேட் அக்லி",
       "data_lancamento": "2025-04-09",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -618,7 +1838,7 @@
       "titulo_original": "Lilly",
       "data_lancamento": "2025-05-09",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 58,
       "ultimo_metacritic": null
     },
@@ -628,7 +1848,7 @@
       "titulo_original": "The Travellers",
       "data_lancamento": "2025-10-09",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -638,7 +1858,7 @@
       "titulo_original": "Hurry Up Tomorrow",
       "data_lancamento": "2025-05-15",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 14,
       "ultimo_metacritic": 29
     },
@@ -648,7 +1868,7 @@
       "titulo_original": "Mango",
       "data_lancamento": "2025-11-07",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -658,7 +1878,7 @@
       "titulo_original": "Not Without Hope",
       "data_lancamento": "2025-12-04",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -668,7 +1888,7 @@
       "titulo_original": "Homo Argentum",
       "data_lancamento": "2025-11-20",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 50,
       "ultimo_metacritic": null
     },
@@ -678,7 +1898,7 @@
       "titulo_original": "เขาชุมทอง คะนองชุมโจร",
       "data_lancamento": "2025-08-21",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -688,7 +1908,7 @@
       "titulo_original": "ది గర్ల్‌ఫ్రెండ్‌",
       "data_lancamento": "2025-11-07",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -698,7 +1918,7 @@
       "titulo_original": "Sult",
       "data_lancamento": "2025-02-26",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -708,7 +1928,7 @@
       "titulo_original": "Promis le ciel",
       "data_lancamento": "2026-09-10",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -718,7 +1938,7 @@
       "titulo_original": "વશ Level 2",
       "data_lancamento": "2025-08-27",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -728,7 +1948,7 @@
       "titulo_original": "Padre no hay más que uno 5: Nido repleto",
       "data_lancamento": "2025-06-26",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -738,7 +1958,7 @@
       "titulo_original": "Piglet",
       "data_lancamento": "2025-05-29",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -748,7 +1968,7 @@
       "titulo_original": "Sigue mi voz",
       "data_lancamento": "2026-01-02",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -758,7 +1978,7 @@
       "titulo_original": "కింగ్డమ్‌",
       "data_lancamento": "2025-07-30",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -768,7 +1988,7 @@
       "titulo_original": "Murder in Monaco",
       "data_lancamento": "2025-12-17",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -778,7 +1998,7 @@
       "titulo_original": "Momo",
       "data_lancamento": "2025-10-02",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -788,7 +2008,7 @@
       "titulo_original": "Riff Raff",
       "data_lancamento": "2025-02-27",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 55,
       "ultimo_metacritic": 47
     },
@@ -798,7 +2018,7 @@
       "titulo_original": "Før mørket",
       "data_lancamento": "2025-02-28",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -808,7 +2028,7 @@
       "titulo_original": "The Stranger in My Home",
       "data_lancamento": "2025-06-23",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -818,7 +2038,7 @@
       "titulo_original": "Hot Milk",
       "data_lancamento": "2025-07-03",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 38,
       "ultimo_metacritic": null
     },
@@ -828,7 +2048,7 @@
       "titulo_original": "El talento",
       "data_lancamento": "2025-09-05",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -838,7 +2058,7 @@
       "titulo_original": "காந்தா",
       "data_lancamento": "2025-11-13",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -848,7 +2068,7 @@
       "titulo_original": "Calle Málaga",
       "data_lancamento": "2025-10-02",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -858,7 +2078,7 @@
       "titulo_original": "விடாமுயற்சி",
       "data_lancamento": "2025-03-03",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -868,7 +2088,7 @@
       "titulo_original": "스트레이 키즈: 더 도미네이트 익스피리언스",
       "data_lancamento": "2026-02-05",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -878,7 +2098,7 @@
       "titulo_original": "All the Devils Are Here",
       "data_lancamento": "2025-09-25",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -888,7 +2108,7 @@
       "titulo_original": "Trouble Man",
       "data_lancamento": "2025-08-01",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -898,7 +2118,7 @@
       "titulo_original": "A Merry Little Ex-Mas",
       "data_lancamento": "2025-11-12",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -908,7 +2128,7 @@
       "titulo_original": "วิญญาณเลขที่ 13",
       "data_lancamento": "2025-06-13",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -918,7 +2138,7 @@
       "titulo_original": "Trust",
       "data_lancamento": "2025-08-22",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 21,
       "ultimo_metacritic": null
     },
@@ -928,7 +2148,7 @@
       "titulo_original": "Patsers",
       "data_lancamento": "2025-02-19",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -938,7 +2158,7 @@
       "titulo_original": "Forgive Us All",
       "data_lancamento": "2025-05-08",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -948,7 +2168,7 @@
       "titulo_original": "Las Locuras",
       "data_lancamento": "2025-11-20",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -958,7 +2178,7 @@
       "titulo_original": "Coka Chicas",
       "data_lancamento": "2025-05-07",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -968,7 +2188,7 @@
       "titulo_original": "Renner",
       "data_lancamento": "2025-02-07",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 41,
       "ultimo_metacritic": null
     },
@@ -978,7 +2198,7 @@
       "titulo_original": "Baby Blue",
       "data_lancamento": "2025-03-20",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -988,7 +2208,7 @@
       "titulo_original": "O'Dessa",
       "data_lancamento": "2025-03-20",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": 41
     },
@@ -998,7 +2218,7 @@
       "titulo_original": "എക്കോ",
       "data_lancamento": "2025-11-21",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1008,7 +2228,7 @@
       "titulo_original": "केसरी चैप्टर 2: जलियांवाला बाग की अनकही कहानी",
       "data_lancamento": "2025-04-17",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 35,
       "ultimo_metacritic": null
     },
@@ -1018,7 +2238,7 @@
       "titulo_original": "தக் லைஃப்",
       "data_lancamento": "2025-06-04",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 25,
       "ultimo_metacritic": null
     },
@@ -1028,7 +2248,7 @@
       "titulo_original": "Gioia mia",
       "data_lancamento": "2025-12-11",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1038,7 +2258,7 @@
       "titulo_original": "Metruk Adam",
       "data_lancamento": "2025-08-22",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1048,7 +2268,7 @@
       "titulo_original": "SNL50: The Homecoming Concert",
       "data_lancamento": "2025-02-14",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1058,7 +2278,7 @@
       "titulo_original": "Jumbo",
       "data_lancamento": "2025-03-31",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1068,7 +2288,7 @@
       "titulo_original": "The Partisan",
       "data_lancamento": "2025-10-03",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1078,7 +2298,7 @@
       "titulo_original": "遠い山なみの光",
       "data_lancamento": "2025-09-05",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 63,
       "ultimo_metacritic": null
     },
@@ -1088,7 +2308,7 @@
       "titulo_original": "The Last GunFight",
       "data_lancamento": "2025-05-27",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1098,7 +2318,7 @@
       "titulo_original": "Instintos",
       "data_lancamento": "2025-08-29",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1108,7 +2328,7 @@
       "titulo_original": "Le assaggiatrici",
       "data_lancamento": "2025-03-27",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1118,7 +2338,7 @@
       "titulo_original": "Wild London",
       "data_lancamento": "2026-01-01",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1128,7 +2348,7 @@
       "titulo_original": "Un monde merveilleux",
       "data_lancamento": "2025-04-12",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1138,7 +2358,7 @@
       "titulo_original": "LUPIN THE IIIRD 銭形と2人のルパン",
       "data_lancamento": "2025-06-20",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1148,7 +2368,7 @@
       "titulo_original": "Cheetahs Up Close with Bertie Gregory",
       "data_lancamento": "2026-01-02",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1158,7 +2378,7 @@
       "titulo_original": "ลักกันวันตาย",
       "data_lancamento": "2025-10-14",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1168,7 +2388,7 @@
       "titulo_original": "Veera Dheera Sooran: Part 2",
       "data_lancamento": "2025-03-27",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1178,7 +2398,7 @@
       "titulo_original": "A Normal Woman",
       "data_lancamento": "2025-07-24",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1188,7 +2408,7 @@
       "titulo_original": "കളങ്കാവൽ",
       "data_lancamento": "2025-12-05",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1198,7 +2418,7 @@
       "titulo_original": "2 cuori e 2 capanne",
       "data_lancamento": "2026-01-22",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1208,7 +2428,7 @@
       "titulo_original": "Rapaces",
       "data_lancamento": "2025-07-02",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1218,7 +2438,7 @@
       "titulo_original": "Shadow of God",
       "data_lancamento": "2025-03-26",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1228,7 +2448,7 @@
       "titulo_original": "तेहरान",
       "data_lancamento": "2025-08-14",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1238,7 +2458,7 @@
       "titulo_original": "പടക്കളം",
       "data_lancamento": "2025-05-08",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1248,7 +2468,7 @@
       "titulo_original": "The Dreadful",
       "data_lancamento": "2026-02-20",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1258,7 +2478,7 @@
       "titulo_original": "Midwinter Break",
       "data_lancamento": "2026-02-20",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1268,7 +2488,7 @@
       "titulo_original": "Parque Lezama",
       "data_lancamento": "2026-03-06",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1278,7 +2498,7 @@
       "titulo_original": "Cortafuego",
       "data_lancamento": "2026-02-20",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1288,7 +2508,7 @@
       "titulo_original": "I Can Only Imagine 2",
       "data_lancamento": "2026-05-11",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1298,7 +2518,7 @@
       "titulo_original": "파반느",
       "data_lancamento": "2026-02-20",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1308,7 +2528,7 @@
       "titulo_original": "Maigret et le mort amoureux",
       "data_lancamento": "2026-02-18",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1318,7 +2538,7 @@
       "titulo_original": "Coutures",
       "data_lancamento": "2026-04-16",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 59,
       "ultimo_metacritic": null
     },
@@ -1328,7 +2548,7 @@
       "titulo_original": "Le rêve américain",
       "data_lancamento": "2026-02-18",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1338,7 +2558,7 @@
       "titulo_original": "The Bluff",
       "data_lancamento": "2026-02-25",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": 61
     },
@@ -1348,7 +2568,7 @@
       "titulo_original": "飞驰人生3",
       "data_lancamento": "2026-02-17",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1358,7 +2578,7 @@
       "titulo_original": "惊蛰无声",
       "data_lancamento": "2026-02-17",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1368,7 +2588,7 @@
       "titulo_original": "The Singers",
       "data_lancamento": "2026-02-13",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1378,7 +2598,7 @@
       "titulo_original": "夜王",
       "data_lancamento": "2026-02-14",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1388,7 +2608,7 @@
       "titulo_original": "Kissing Is the Easy Part",
       "data_lancamento": "2026-02-13",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1398,7 +2618,7 @@
       "titulo_original": "Den svenska länken",
       "data_lancamento": "2026-02-19",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1408,7 +2628,7 @@
       "titulo_original": "F Valentine's Day",
       "data_lancamento": "2026-02-12",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1418,7 +2638,7 @@
       "titulo_original": "Joe's College Road Trip",
       "data_lancamento": "2026-02-13",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1428,7 +2648,7 @@
       "titulo_original": "LOL 2.0",
       "data_lancamento": "2026-02-11",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1438,7 +2658,7 @@
       "titulo_original": "Les Enfants de la Résistance",
       "data_lancamento": "2026-02-11",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1448,7 +2668,7 @@
       "titulo_original": "Salve Geral: Irmandade",
       "data_lancamento": "2026-02-11",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1458,7 +2678,7 @@
       "titulo_original": "Misdirection",
       "data_lancamento": "2026-02-10",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1468,7 +2688,7 @@
       "titulo_original": "This is I",
       "data_lancamento": "2026-02-10",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1478,7 +2698,7 @@
       "titulo_original": "Reckless",
       "data_lancamento": "2026-02-07",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1488,7 +2708,7 @@
       "titulo_original": "Yoh! Bestie",
       "data_lancamento": "2026-02-06",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1498,7 +2718,7 @@
       "titulo_original": "Fabian und die mörderische Hochzeit",
       "data_lancamento": "2026-02-06",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1508,7 +2728,7 @@
       "titulo_original": "Twisted",
       "data_lancamento": "2026-02-06",
       "descoberto_em": "2026-06-05",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1518,7 +2738,7 @@
       "titulo_original": "పెద్ది",
       "data_lancamento": "2026-06-03",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1528,7 +2748,7 @@
       "titulo_original": "గేమ్‌ ఛేంజర్‌",
       "data_lancamento": "2025-01-09",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1538,7 +2758,7 @@
       "titulo_original": "The Age of Disclosure",
       "data_lancamento": "2025-11-21",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 27,
       "ultimo_metacritic": 45
     },
@@ -1548,7 +2768,7 @@
       "titulo_original": "The Unholy Trinity",
       "data_lancamento": "2025-11-20",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 42,
       "ultimo_metacritic": 48
     },
@@ -1558,7 +2778,7 @@
       "titulo_original": "Bad Boa's",
       "data_lancamento": "2025-07-11",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1568,7 +2788,7 @@
       "titulo_original": "Golpes",
       "data_lancamento": "2025-10-22",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1578,7 +2798,7 @@
       "titulo_original": "过家家",
       "data_lancamento": "2026-01-01",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1588,7 +2808,7 @@
       "titulo_original": "Hell of a Summer",
       "data_lancamento": "2025-04-03",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 49,
       "ultimo_metacritic": 54
     },
@@ -1598,7 +2818,7 @@
       "titulo_original": "Tin Soldier",
       "data_lancamento": "2025-12-04",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 7,
       "ultimo_metacritic": null
     },
@@ -1608,7 +2828,7 @@
       "titulo_original": "Gunslingers",
       "data_lancamento": "2025-04-11",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 5,
       "ultimo_metacritic": 20
     },
@@ -1618,7 +2838,7 @@
       "titulo_original": "The Confession",
       "data_lancamento": "2026-01-08",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1628,7 +2848,7 @@
       "titulo_original": "Love Hurts",
       "data_lancamento": "2025-05-01",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 19,
       "ultimo_metacritic": 34
     },
@@ -1638,7 +2858,7 @@
       "titulo_original": "Relationship Goals",
       "data_lancamento": "2026-02-04",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": 37
     },
@@ -1648,7 +2868,7 @@
       "titulo_original": "Ya no quedan junglas",
       "data_lancamento": "2025-09-26",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1658,7 +2878,7 @@
       "titulo_original": "My Mother's Wedding",
       "data_lancamento": "2025-12-03",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 41,
       "ultimo_metacritic": 49
     },
@@ -1668,7 +2888,7 @@
       "titulo_original": "Screamboat",
       "data_lancamento": "2025-05-01",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 53,
       "ultimo_metacritic": 44
     },
@@ -1678,7 +2898,7 @@
       "titulo_original": "A Woman Scorned",
       "data_lancamento": "2025-06-09",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1688,7 +2908,7 @@
       "titulo_original": "The Other",
       "data_lancamento": "2025-04-26",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1698,7 +2918,7 @@
       "titulo_original": "좀비딸",
       "data_lancamento": "2025-07-30",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1708,7 +2928,7 @@
       "titulo_original": "El hilo rojo",
       "data_lancamento": "2025-02-13",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1718,7 +2938,7 @@
       "titulo_original": "Surat untuk Masa Mudaku",
       "data_lancamento": "2026-01-29",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1728,7 +2948,7 @@
       "titulo_original": "Night Patrol",
       "data_lancamento": "2026-01-16",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1738,7 +2958,7 @@
       "titulo_original": "Holy Ghost",
       "data_lancamento": "2025-08-11",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1748,7 +2968,7 @@
       "titulo_original": "Popeye's Revenge",
       "data_lancamento": "2025-11-25",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1758,7 +2978,7 @@
       "titulo_original": "Coartadas",
       "data_lancamento": "2025-11-28",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1768,7 +2988,7 @@
       "titulo_original": "Swiped",
       "data_lancamento": "2025-09-19",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 45,
       "ultimo_metacritic": 42
     },
@@ -1778,7 +2998,7 @@
       "titulo_original": "Ach, diese Lücke, diese entsetzliche Lücke",
       "data_lancamento": "2026-01-29",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1788,7 +3008,7 @@
       "titulo_original": "Alexander and the Terrible, Horrible, No Good, Very Bad Road Trip",
       "data_lancamento": "2025-03-28",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 58,
       "ultimo_metacritic": null
     },
@@ -1798,7 +3018,7 @@
       "titulo_original": "جرس إنذار: الحفرة",
       "data_lancamento": "2026-01-22",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1808,7 +3028,7 @@
       "titulo_original": "Risqué",
       "data_lancamento": "2025-08-01",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1818,7 +3038,7 @@
       "titulo_original": "Exit Protocol",
       "data_lancamento": "2025-11-07",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1828,7 +3048,7 @@
       "titulo_original": "Oh, Hi!",
       "data_lancamento": "2026-02-03",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 64,
       "ultimo_metacritic": 62
     },
@@ -1838,7 +3058,7 @@
       "titulo_original": "Popeye the Slayer Man",
       "data_lancamento": "2025-03-21",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1848,7 +3068,7 @@
       "titulo_original": "Tyler Perry's Finding Joy",
       "data_lancamento": "2025-11-05",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1858,7 +3078,7 @@
       "titulo_original": "Maintenance Required",
       "data_lancamento": "2025-10-08",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 38,
       "ultimo_metacritic": null
     },
@@ -1868,7 +3088,7 @@
       "titulo_original": "แม่ซื้อ",
       "data_lancamento": "2025-10-09",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1878,7 +3098,7 @@
       "titulo_original": "स्काई फ़ोर्स",
       "data_lancamento": "2025-01-24",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1888,7 +3108,7 @@
       "titulo_original": "Fear Street: Prom Queen",
       "data_lancamento": "2025-05-23",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 27,
       "ultimo_metacritic": 41
     },
@@ -1898,7 +3118,7 @@
       "titulo_original": "刺杀小说家2",
       "data_lancamento": "2025-10-01",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1908,7 +3128,7 @@
       "titulo_original": "மதராஸி",
       "data_lancamento": "2025-09-04",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1918,7 +3138,7 @@
       "titulo_original": "Nympho",
       "data_lancamento": "2025-11-07",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1928,7 +3148,7 @@
       "titulo_original": "Witchboard",
       "data_lancamento": "2025-08-14",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 61,
       "ultimo_metacritic": 56
     },
@@ -1938,7 +3158,7 @@
       "titulo_original": "Stand Your Ground",
       "data_lancamento": "2025-05-09",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1948,7 +3168,7 @@
       "titulo_original": "Sobriedad, me estás matando",
       "data_lancamento": "2026-01-29",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1958,7 +3178,7 @@
       "titulo_original": "രേഖാചിത്രം",
       "data_lancamento": "2025-01-09",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1968,7 +3188,7 @@
       "titulo_original": "LEGO Disney Princess: Villains Unite",
       "data_lancamento": "2025-08-25",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -1978,7 +3198,7 @@
       "titulo_original": "Night Always Comes",
       "data_lancamento": "2025-08-15",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 52,
       "ultimo_metacritic": 60
     },
@@ -1988,7 +3208,7 @@
       "titulo_original": "You're Cordially Invited",
       "data_lancamento": "2025-01-30",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 48,
       "ultimo_metacritic": 51
     },
@@ -1998,7 +3218,7 @@
       "titulo_original": "Adult Swim's The Elephant",
       "data_lancamento": "2025-12-20",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2008,7 +3228,7 @@
       "titulo_original": "LEGO Frozen: Operation Puffins",
       "data_lancamento": "2025-10-23",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2018,7 +3238,7 @@
       "titulo_original": "हक़",
       "data_lancamento": "2025-11-07",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2028,7 +3248,7 @@
       "titulo_original": "Orang Ikan",
       "data_lancamento": "2025-05-08",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 63,
       "ultimo_metacritic": null
     },
@@ -2038,7 +3258,7 @@
       "titulo_original": "唐探1900",
       "data_lancamento": "2025-05-15",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2048,7 +3268,7 @@
       "titulo_original": "Untitled Home Invasion Romance",
       "data_lancamento": "2026-01-27",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2058,7 +3278,7 @@
       "titulo_original": "Stolen: Heist of the Century",
       "data_lancamento": "2025-08-08",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2068,7 +3288,7 @@
       "titulo_original": "만약에 우리",
       "data_lancamento": "2025-12-31",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2078,7 +3298,7 @@
       "titulo_original": "Le Jardinier",
       "data_lancamento": "2025-01-30",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2088,7 +3308,7 @@
       "titulo_original": "살인자 리포트",
       "data_lancamento": "2025-09-05",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2098,7 +3318,7 @@
       "titulo_original": "Peter Pan's Neverland Nightmare",
       "data_lancamento": "2025-05-11",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 39,
       "ultimo_metacritic": 50
     },
@@ -2108,7 +3328,7 @@
       "titulo_original": "No me sigas",
       "data_lancamento": "2025-10-30",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2118,7 +3338,7 @@
       "titulo_original": "劇映画 孤独のグルメ",
       "data_lancamento": "2025-01-10",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2128,7 +3348,7 @@
       "titulo_original": "Man with No Past",
       "data_lancamento": "2025-07-14",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2138,7 +3358,7 @@
       "titulo_original": "Y'a pas de réseau",
       "data_lancamento": "2025-08-06",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2148,7 +3368,7 @@
       "titulo_original": "Champagne Problems",
       "data_lancamento": "2025-11-19",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": 50
     },
@@ -2158,7 +3378,7 @@
       "titulo_original": "하이파이브",
       "data_lancamento": "2025-05-30",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2168,7 +3388,7 @@
       "titulo_original": "On Swift Horses",
       "data_lancamento": "2025-10-22",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 53,
       "ultimo_metacritic": 63
     },
@@ -2178,7 +3398,7 @@
       "titulo_original": "The Dogs",
       "data_lancamento": "2025-06-13",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2188,7 +3408,7 @@
       "titulo_original": "室町無頼",
       "data_lancamento": "2025-01-17",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2198,7 +3418,7 @@
       "titulo_original": "How to Lose a Popularity Contest",
       "data_lancamento": "2026-01-16",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2208,7 +3428,7 @@
       "titulo_original": "Me has robado el corazón",
       "data_lancamento": "2025-12-05",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2218,7 +3438,7 @@
       "titulo_original": "秒速5センチメートル",
       "data_lancamento": "2025-10-10",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2228,7 +3448,7 @@
       "titulo_original": "Kinda Pregnant",
       "data_lancamento": "2025-02-05",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 27,
       "ultimo_metacritic": 38
     },
@@ -2238,7 +3458,7 @@
       "titulo_original": "Baise-en-ville",
       "data_lancamento": "2026-01-28",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2248,7 +3468,7 @@
       "titulo_original": "Star Trek: Section 31",
       "data_lancamento": "2025-01-24",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 23,
       "ultimo_metacritic": 37
     },
@@ -2258,7 +3478,7 @@
       "titulo_original": "The Bayou",
       "data_lancamento": "2025-01-31",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2268,7 +3488,7 @@
       "titulo_original": "House on Eden",
       "data_lancamento": "2025-07-25",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2278,7 +3498,7 @@
       "titulo_original": "Todos los lados de la cama",
       "data_lancamento": "2025-11-14",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2288,7 +3508,7 @@
       "titulo_original": "Desert Dawn",
       "data_lancamento": "2025-05-15",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2298,7 +3518,7 @@
       "titulo_original": "Clika",
       "data_lancamento": "2026-01-22",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 10,
       "ultimo_metacritic": null
     },
@@ -2308,7 +3528,7 @@
       "titulo_original": "Vieja loca",
       "data_lancamento": "2025-10-10",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2318,7 +3538,7 @@
       "titulo_original": "爆弾",
       "data_lancamento": "2025-10-31",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2328,7 +3548,7 @@
       "titulo_original": "Mektoub, My Love: Canto Due",
       "data_lancamento": "2025-12-03",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2338,7 +3558,7 @@
       "titulo_original": "Taylor Swift | The Eras Tour | The Final Show",
       "data_lancamento": "2025-12-12",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2348,7 +3568,7 @@
       "titulo_original": "Tyler Perry's Duplicity",
       "data_lancamento": "2025-03-20",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 0,
       "ultimo_metacritic": null
     },
@@ -2358,7 +3578,7 @@
       "titulo_original": "Coyotes",
       "data_lancamento": "2025-10-02",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 59,
       "ultimo_metacritic": null
     },
@@ -2368,7 +3588,7 @@
       "titulo_original": "The Investigation of Lucy Letby",
       "data_lancamento": "2026-02-04",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2378,7 +3598,7 @@
       "titulo_original": "Ballad of a Small Player",
       "data_lancamento": "2025-10-08",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 49,
       "ultimo_metacritic": 46
     },
@@ -2388,7 +3608,7 @@
       "titulo_original": "120  बहादुर",
       "data_lancamento": "2025-11-18",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2398,7 +3618,7 @@
       "titulo_original": "French Lover",
       "data_lancamento": "2025-09-26",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2408,7 +3628,7 @@
       "titulo_original": "Baby",
       "data_lancamento": "2025-01-09",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2418,7 +3638,7 @@
       "titulo_original": "मालिक",
       "data_lancamento": "2025-07-11",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 23,
       "ultimo_metacritic": null
     },
@@ -2428,7 +3648,7 @@
       "titulo_original": "Opus",
       "data_lancamento": "2025-03-13",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 39,
       "ultimo_metacritic": 42
     },
@@ -2438,7 +3658,7 @@
       "titulo_original": "Charlie the Wonderdog",
       "data_lancamento": "2026-04-09",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2448,7 +3668,7 @@
       "titulo_original": "La virgen de la tosquera",
       "data_lancamento": "2026-03-27",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2458,7 +3678,7 @@
       "titulo_original": "À pied d’œuvre",
       "data_lancamento": "2026-02-04",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2468,7 +3688,7 @@
       "titulo_original": "Bad Man",
       "data_lancamento": "2025-09-05",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2478,7 +3698,7 @@
       "titulo_original": "Die drei ??? – Toteninsel",
       "data_lancamento": "2026-01-22",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2488,7 +3708,7 @@
       "titulo_original": "Merv",
       "data_lancamento": "2025-12-10",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": 40
     },
@@ -2498,7 +3718,7 @@
       "titulo_original": "కుబేర",
       "data_lancamento": "2025-06-19",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2508,7 +3728,7 @@
       "titulo_original": "825 Forest Road",
       "data_lancamento": "2025-04-24",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 33,
       "ultimo_metacritic": null
     },
@@ -2518,7 +3738,7 @@
       "titulo_original": "Giant",
       "data_lancamento": "2026-01-09",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": 50
     },
@@ -2528,7 +3748,7 @@
       "titulo_original": "프로젝트 Y",
       "data_lancamento": "2026-01-21",
       "descoberto_em": "2026-06-09",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2538,7 +3758,7 @@
       "titulo_original": "Seven Snipers",
       "data_lancamento": "2026-04-30",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2548,7 +3768,7 @@
       "titulo_original": "La desconocida",
       "data_lancamento": "2026-06-05",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2558,7 +3778,7 @@
       "titulo_original": "La Bataille de Gaulle : L’âge de fer",
       "data_lancamento": "2026-06-03",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2568,7 +3788,7 @@
       "titulo_original": "小林さんちのメイドラゴン さみしがりやの竜",
       "data_lancamento": "2025-06-27",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2578,7 +3798,7 @@
       "titulo_original": "Wolf Man",
       "data_lancamento": "2025-01-16",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 48,
       "ultimo_metacritic": 50
     },
@@ -2588,7 +3808,7 @@
       "titulo_original": "Locked",
       "data_lancamento": "2025-05-29",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 63,
       "ultimo_metacritic": 45
     },
@@ -2598,7 +3818,7 @@
       "titulo_original": "Lesbian Space Princess",
       "data_lancamento": "2026-02-12",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2608,7 +3828,7 @@
       "titulo_original": "Cash Out 2: High Rollers",
       "data_lancamento": "2025-03-14",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 20,
       "ultimo_metacritic": null
     },
@@ -2618,7 +3838,7 @@
       "titulo_original": "Borderline",
       "data_lancamento": "2025-09-08",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 59,
       "ultimo_metacritic": 58
     },
@@ -2628,7 +3848,7 @@
       "titulo_original": "Back in Action",
       "data_lancamento": "2025-01-17",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 31,
       "ultimo_metacritic": 46
     },
@@ -2638,7 +3858,7 @@
       "titulo_original": "छावा",
       "data_lancamento": "2025-02-14",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 29,
       "ultimo_metacritic": null
     },
@@ -2648,7 +3868,7 @@
       "titulo_original": "Shelby Oaks",
       "data_lancamento": "2025-10-30",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": 40
     },
@@ -2658,7 +3878,7 @@
       "titulo_original": "Another Simple Favor",
       "data_lancamento": "2025-05-01",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 58,
       "ultimo_metacritic": 54
     },
@@ -2668,7 +3888,7 @@
       "titulo_original": "ตี๋ใหญ่ ฤกษ์ดาวโจร",
       "data_lancamento": "2025-11-13",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2678,7 +3898,7 @@
       "titulo_original": "The Alto Knights",
       "data_lancamento": "2025-03-20",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 40,
       "ultimo_metacritic": 47
     },
@@ -2688,7 +3908,7 @@
       "titulo_original": "風林火山",
       "data_lancamento": "2025-10-01",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2698,7 +3918,7 @@
       "titulo_original": "Gaua",
       "data_lancamento": "2025-11-13",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2708,7 +3928,7 @@
       "titulo_original": "सिकंदर",
       "data_lancamento": "2025-03-29",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 6,
       "ultimo_metacritic": null
     },
@@ -2718,7 +3938,7 @@
       "titulo_original": "The Moment",
       "data_lancamento": "2026-02-19",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": 53
     },
@@ -2728,7 +3948,7 @@
       "titulo_original": "Gladiator Underground",
       "data_lancamento": "2025-08-22",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2738,7 +3958,7 @@
       "titulo_original": "A Paw Patrol Christmas",
       "data_lancamento": "2025-10-30",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2748,7 +3968,7 @@
       "titulo_original": "Night Carnage",
       "data_lancamento": "2025-07-29",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2758,7 +3978,7 @@
       "titulo_original": "అఖండ 2: తాండవం",
       "data_lancamento": "2025-12-12",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2768,7 +3988,7 @@
       "titulo_original": "The Pickup",
       "data_lancamento": "2025-08-06",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 25,
       "ultimo_metacritic": 38
     },
@@ -2778,7 +3998,7 @@
       "titulo_original": "A Big Bold Beautiful Journey",
       "data_lancamento": "2025-09-18",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 37,
       "ultimo_metacritic": 43
     },
@@ -2788,7 +4008,7 @@
       "titulo_original": "Ídolos",
       "data_lancamento": "2026-01-23",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2798,7 +4018,7 @@
       "titulo_original": "Los Tigres",
       "data_lancamento": "2025-10-31",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2808,7 +4028,7 @@
       "titulo_original": "C'était mieux demain",
       "data_lancamento": "2025-10-08",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2818,7 +4038,7 @@
       "titulo_original": "Ella McCay",
       "data_lancamento": "2026-02-05",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 23,
       "ultimo_metacritic": 39
     },
@@ -2828,7 +4048,7 @@
       "titulo_original": "Shadow Force",
       "data_lancamento": "2025-07-10",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 30,
       "ultimo_metacritic": 27
     },
@@ -2838,7 +4058,7 @@
       "titulo_original": "Altered",
       "data_lancamento": "2025-09-18",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2848,7 +4068,7 @@
       "titulo_original": "Anemone",
       "data_lancamento": "2026-02-19",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 52,
       "ultimo_metacritic": 53
     },
@@ -2858,7 +4078,7 @@
       "titulo_original": "Jolly LLB 3",
       "data_lancamento": "2025-09-19",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2868,7 +4088,7 @@
       "titulo_original": "ఒడేల 2",
       "data_lancamento": "2025-04-17",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2878,7 +4098,7 @@
       "titulo_original": "96分鐘",
       "data_lancamento": "2025-09-05",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2888,7 +4108,7 @@
       "titulo_original": "Agata Christian - Delitto sulle nevi",
       "data_lancamento": "2026-02-05",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2898,7 +4118,7 @@
       "titulo_original": "Affinity",
       "data_lancamento": "2025-11-27",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2908,7 +4128,7 @@
       "titulo_original": "Pabrik Gula",
       "data_lancamento": "2025-03-31",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2918,7 +4138,7 @@
       "titulo_original": "Natacha (presque) hôtesse de l'air",
       "data_lancamento": "2025-04-02",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2928,7 +4148,7 @@
       "titulo_original": "Honey Don't!",
       "data_lancamento": "2025-11-06",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": 46
     },
@@ -2938,7 +4158,7 @@
       "titulo_original": "Hierarchy",
       "data_lancamento": "2025-08-15",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2948,7 +4168,7 @@
       "titulo_original": "Day of Reckoning",
       "data_lancamento": "2025-03-28",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2958,7 +4178,7 @@
       "titulo_original": "ரெட்ரோ",
       "data_lancamento": "2025-04-30",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2968,7 +4188,7 @@
       "titulo_original": "Extrawurst",
       "data_lancamento": "2026-01-15",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2978,7 +4198,7 @@
       "titulo_original": "Der Medicus II",
       "data_lancamento": "2025-12-25",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2988,7 +4208,7 @@
       "titulo_original": "神雕侠侣：问世间",
       "data_lancamento": "2025-01-22",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -2998,7 +4218,7 @@
       "titulo_original": "A Line of Fire",
       "data_lancamento": "2025-04-05",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3008,7 +4228,7 @@
       "titulo_original": "Bride Hard",
       "data_lancamento": "2025-12-26",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 14,
       "ultimo_metacritic": 23
     },
@@ -3018,7 +4238,7 @@
       "titulo_original": "31 Minutos: Calurosa Navidad",
       "data_lancamento": "2025-11-21",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3028,7 +4248,7 @@
       "titulo_original": "The Woman in Cabin 10",
       "data_lancamento": "2025-10-10",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 29,
       "ultimo_metacritic": 41
     },
@@ -3038,7 +4258,7 @@
       "titulo_original": "Bambi: The Reckoning",
       "data_lancamento": "2025-07-11",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 59,
       "ultimo_metacritic": null
     },
@@ -3048,7 +4268,7 @@
       "titulo_original": "ഓഫീസര്‍ ഓണ്‍ ഡ്യൂട്ടി",
       "data_lancamento": "2025-02-20",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3058,7 +4278,7 @@
       "titulo_original": "रेड २",
       "data_lancamento": "2025-06-25",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 29,
       "ultimo_metacritic": null
     },
@@ -3068,7 +4288,7 @@
       "titulo_original": "बाघी ४",
       "data_lancamento": "2025-09-05",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3078,7 +4298,7 @@
       "titulo_original": "The Woman in the Yard",
       "data_lancamento": "2025-05-08",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 41,
       "ultimo_metacritic": 51
     },
@@ -3088,7 +4308,7 @@
       "titulo_original": "Mala influencia",
       "data_lancamento": "2025-05-09",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3098,7 +4318,7 @@
       "titulo_original": "Gates of Flesh",
       "data_lancamento": "2026-01-14",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3108,7 +4328,7 @@
       "titulo_original": "Echo Valley",
       "data_lancamento": "2025-06-12",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 52,
       "ultimo_metacritic": 54
     },
@@ -3118,7 +4338,7 @@
       "titulo_original": "Snow White",
       "data_lancamento": "2025-03-07",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3128,7 +4348,7 @@
       "titulo_original": "Kika",
       "data_lancamento": "2025-11-05",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3138,7 +4358,7 @@
       "titulo_original": "Mouseboat Massacre",
       "data_lancamento": "2025-05-09",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3148,7 +4368,7 @@
       "titulo_original": "Magalhães",
       "data_lancamento": "2025-10-05",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3158,7 +4378,7 @@
       "titulo_original": "The Hand That Rocks the Cradle",
       "data_lancamento": "2025-11-19",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 42,
       "ultimo_metacritic": 52
     },
@@ -3168,7 +4388,7 @@
       "titulo_original": "Les Légendaires",
       "data_lancamento": "2026-01-28",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3178,7 +4398,7 @@
       "titulo_original": "得闲谨制",
       "data_lancamento": "2025-12-06",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3188,7 +4408,7 @@
       "titulo_original": "महावतार नरसिम्हा",
       "data_lancamento": "2025-07-25",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3198,7 +4418,7 @@
       "titulo_original": "Home Sweet Home: Rebirth",
       "data_lancamento": "2026-04-16",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3208,7 +4428,7 @@
       "titulo_original": "A Tooth Fairy Tale",
       "data_lancamento": "2025-05-02",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3218,7 +4438,7 @@
       "titulo_original": "The Carpenter's Son",
       "data_lancamento": "2025-11-13",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 31,
       "ultimo_metacritic": 40
     },
@@ -3228,7 +4448,7 @@
       "titulo_original": "The Death That Awaits",
       "data_lancamento": "2025-02-06",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3238,7 +4458,7 @@
       "titulo_original": "Guns Up",
       "data_lancamento": "2025-07-31",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 61,
       "ultimo_metacritic": null
     },
@@ -3248,7 +4468,7 @@
       "titulo_original": "La Exorcista",
       "data_lancamento": "2025-06-05",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3258,7 +4478,7 @@
       "titulo_original": "William Tell",
       "data_lancamento": "2025-01-17",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 54,
       "ultimo_metacritic": 52
     },
@@ -3268,7 +4488,7 @@
       "titulo_original": "Rüzgara Bırak",
       "data_lancamento": "2025-01-09",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3278,7 +4498,7 @@
       "titulo_original": "カラダ探し THE LAST NIGHT",
       "data_lancamento": "2026-03-05",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3288,7 +4508,7 @@
       "titulo_original": "东北警察故事3",
       "data_lancamento": "2026-01-23",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3298,7 +4518,7 @@
       "titulo_original": "F Marry Kill",
       "data_lancamento": "2025-08-27",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 50,
       "ultimo_metacritic": null
     },
@@ -3308,7 +4528,7 @@
       "titulo_original": "ஸ்டீபன்",
       "data_lancamento": "2025-12-05",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3318,7 +4538,7 @@
       "titulo_original": "Sneaks",
       "data_lancamento": "2025-04-17",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 29,
       "ultimo_metacritic": 42
     },
@@ -3328,7 +4548,7 @@
       "titulo_original": "ซองแดงแต่งผี",
       "data_lancamento": "2025-03-20",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3338,7 +4558,7 @@
       "titulo_original": "Grand Prix of Europe",
       "data_lancamento": "2025-11-06",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3348,7 +4568,7 @@
       "titulo_original": "尋秦記",
       "data_lancamento": "2025-12-31",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3358,7 +4578,7 @@
       "titulo_original": "Carjackers",
       "data_lancamento": "2025-03-28",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3368,7 +4588,7 @@
       "titulo_original": "Afterlight",
       "data_lancamento": "2025-11-27",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3378,7 +4598,7 @@
       "titulo_original": "கூலி",
       "data_lancamento": "2025-08-13",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3388,7 +4608,7 @@
       "titulo_original": "The Ritual",
       "data_lancamento": "2025-07-24",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 9,
       "ultimo_metacritic": 33
     },
@@ -3398,7 +4618,7 @@
       "titulo_original": "டியூட்",
       "data_lancamento": "2025-10-17",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3408,7 +4628,7 @@
       "titulo_original": "강령: 귀신놀이",
       "data_lancamento": "2026-04-14",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3418,7 +4638,7 @@
       "titulo_original": "Буратино",
       "data_lancamento": "2026-04-16",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3428,7 +4648,7 @@
       "titulo_original": "731",
       "data_lancamento": "2025-09-18",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3438,7 +4658,7 @@
       "titulo_original": "మన శంకర వరప్రసాద్ గారు",
       "data_lancamento": "2026-01-11",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3448,7 +4668,7 @@
       "titulo_original": "First Moon",
       "data_lancamento": "2025-05-06",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3458,7 +4678,7 @@
       "titulo_original": "La viuda negra",
       "data_lancamento": "2025-05-30",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3468,7 +4688,7 @@
       "titulo_original": "ലോകഃ Chapter 1: ചന്ദ്ര",
       "data_lancamento": "2025-08-28",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3478,7 +4698,7 @@
       "titulo_original": "माँ",
       "data_lancamento": "2025-06-20",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 14,
       "ultimo_metacritic": null
     },
@@ -3488,7 +4708,7 @@
       "titulo_original": "Holland",
       "data_lancamento": "2025-03-27",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 21,
       "ultimo_metacritic": 42
     },
@@ -3498,7 +4718,7 @@
       "titulo_original": "Somnium",
       "data_lancamento": "2025-08-28",
       "descoberto_em": "2026-06-08",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3508,7 +4728,7 @@
       "titulo_original": "Office Romance",
       "data_lancamento": "2026-06-05",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3518,7 +4738,7 @@
       "titulo_original": "México 86",
       "data_lancamento": "2026-06-05",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3528,7 +4748,7 @@
       "titulo_original": "WHO",
       "data_lancamento": "2026-05-28",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3538,7 +4758,7 @@
       "titulo_original": "Cleaner",
       "data_lancamento": "2025-02-19",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 51,
       "ultimo_metacritic": 51
     },
@@ -3548,7 +4768,7 @@
       "titulo_original": "Grizzly Night",
       "data_lancamento": "2026-01-30",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3558,7 +4778,7 @@
       "titulo_original": "Killer Whale",
       "data_lancamento": "2026-01-16",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3568,7 +4788,7 @@
       "titulo_original": "ปัง",
       "data_lancamento": "2025-12-05",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3578,7 +4798,7 @@
       "titulo_original": "Until Dawn",
       "data_lancamento": "2025-04-24",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 51,
       "ultimo_metacritic": 47
     },
@@ -3588,7 +4808,7 @@
       "titulo_original": "The House on Haunted Grounds",
       "data_lancamento": "2026-01-09",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3598,7 +4818,7 @@
       "titulo_original": "Icefall",
       "data_lancamento": "2025-10-16",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3608,7 +4828,7 @@
       "titulo_original": "Osiris",
       "data_lancamento": "2025-07-25",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 50,
       "ultimo_metacritic": null
     },
@@ -3618,7 +4838,7 @@
       "titulo_original": "Smurfs",
       "data_lancamento": "2025-07-17",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 21,
       "ultimo_metacritic": 31
     },
@@ -3628,7 +4848,7 @@
       "titulo_original": "Death of a Unicorn",
       "data_lancamento": "2025-07-31",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 52,
       "ultimo_metacritic": 51
     },
@@ -3638,7 +4858,7 @@
       "titulo_original": "In the Blink of an Eye",
       "data_lancamento": "2026-02-27",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": 37
     },
@@ -3648,7 +4868,7 @@
       "titulo_original": "대홍수",
       "data_lancamento": "2025-12-19",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3658,7 +4878,7 @@
       "titulo_original": "Troll 2",
       "data_lancamento": "2025-12-01",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3668,7 +4888,7 @@
       "titulo_original": "Versa",
       "data_lancamento": "2025-04-15",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3678,7 +4898,7 @@
       "titulo_original": "The Red Book Ritual: Gates of Hell",
       "data_lancamento": "2025-09-18",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3688,7 +4908,7 @@
       "titulo_original": "Havoc",
       "data_lancamento": "2025-04-25",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 64,
       "ultimo_metacritic": 57
     },
@@ -3698,7 +4918,7 @@
       "titulo_original": "Badh",
       "data_lancamento": "2025-08-06",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3708,7 +4928,7 @@
       "titulo_original": "浪浪山小妖怪",
       "data_lancamento": "2025-08-02",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3718,7 +4938,7 @@
       "titulo_original": "Miraculous World : Tokyo, Stellar Force",
       "data_lancamento": "2025-12-07",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3728,7 +4948,7 @@
       "titulo_original": "जाट",
       "data_lancamento": "2025-06-05",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 36,
       "ultimo_metacritic": null
     },
@@ -3738,7 +4958,7 @@
       "titulo_original": "Prep & Landing: The Snowball Protocol",
       "data_lancamento": "2025-11-28",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3748,7 +4968,7 @@
       "titulo_original": "सितारे ज़मीन पर",
       "data_lancamento": "2025-06-20",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3758,7 +4978,7 @@
       "titulo_original": "Happy Gilmore 2",
       "data_lancamento": "2025-07-25",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 61,
       "ultimo_metacritic": 52
     },
@@ -3768,7 +4988,7 @@
       "titulo_original": "사마귀",
       "data_lancamento": "2025-09-26",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3778,7 +4998,7 @@
       "titulo_original": "封神第二部：战火西岐",
       "data_lancamento": "2025-01-29",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3788,7 +5008,7 @@
       "titulo_original": "泥娃娃",
       "data_lancamento": "2025-10-09",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3798,7 +5018,7 @@
       "titulo_original": "Flight Risk",
       "data_lancamento": "2025-01-23",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 29,
       "ultimo_metacritic": 38
     },
@@ -3808,7 +5028,7 @@
       "titulo_original": "Play Dead",
       "data_lancamento": "2026-03-04",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3818,7 +5038,7 @@
       "titulo_original": "Gourou",
       "data_lancamento": "2026-01-28",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3828,7 +5048,7 @@
       "titulo_original": "Diabolic",
       "data_lancamento": "2025-11-20",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3838,7 +5058,7 @@
       "titulo_original": "The Astronaut",
       "data_lancamento": "2025-10-17",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 37,
       "ultimo_metacritic": 40
     },
@@ -3848,7 +5068,7 @@
       "titulo_original": "Evil Influencer: The Jodi Hildebrandt Story",
       "data_lancamento": "2025-12-30",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3858,7 +5078,7 @@
       "titulo_original": "동화지만 청불입니다",
       "data_lancamento": "2025-01-08",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3868,7 +5088,7 @@
       "titulo_original": "Dímelo bajito",
       "data_lancamento": "2025-12-11",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3878,7 +5098,7 @@
       "titulo_original": "Fountain of Youth",
       "data_lancamento": "2025-05-22",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 35,
       "ultimo_metacritic": 41
     },
@@ -3888,7 +5108,7 @@
       "titulo_original": "Red Sonja",
       "data_lancamento": "2025-07-31",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": 41
     },
@@ -3898,7 +5118,7 @@
       "titulo_original": "Fall for Me",
       "data_lancamento": "2025-08-21",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3908,7 +5128,7 @@
       "titulo_original": "The Strangers: Chapter 2",
       "data_lancamento": "2025-10-02",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 21,
       "ultimo_metacritic": 28
     },
@@ -3918,7 +5138,7 @@
       "titulo_original": "Playa de lobos",
       "data_lancamento": "2025-10-24",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3928,7 +5148,7 @@
       "titulo_original": "HIM",
       "data_lancamento": "2025-10-02",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 31,
       "ultimo_metacritic": 38
     },
@@ -3938,7 +5158,7 @@
       "titulo_original": "İki Dünya Bir Dilek",
       "data_lancamento": "2025-11-24",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": null,
       "ultimo_metacritic": null
     },
@@ -3948,7 +5168,7 @@
       "titulo_original": "Alarum",
       "data_lancamento": "2025-04-03",
       "descoberto_em": "2026-06-07",
-      "ultima_consulta": "2026-06-09",
+      "ultima_consulta": "2026-06-10",
       "ultimo_rt": 0,
       "ultimo_metacritic": 23
     },
@@ -7333,5 +8553,5 @@
       "ultimo_metacritic": null
     }
   ],
-  "sweep_pagina": 51
+  "sweep_pagina": 61
 }
