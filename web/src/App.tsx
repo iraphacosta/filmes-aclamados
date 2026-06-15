@@ -290,6 +290,7 @@ export function App() {
 
   return (
     <div className="app">
+      <div className="sol" aria-hidden />
       <div className="grao" aria-hidden />
       <div className="vinheta" aria-hidden />
 

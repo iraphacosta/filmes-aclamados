@@ -28,6 +28,7 @@ export async function carregarCatalogo(): Promise<CatalogoCarregado> {
 /** Um lançamento recente ainda na fila (aguardando RT/Metacritic ≥ 65). */
 export interface ItemRadar {
   tmdb_id: number;
+  imdb_id: string | null;
   titulo: string;
   data_lancamento: string;
   /** Última nota vista (ainda abaixo de 65), ou null se a OMDb não tinha. */

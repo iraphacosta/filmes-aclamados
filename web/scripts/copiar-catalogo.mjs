@@ -62,6 +62,7 @@ try {
     .slice(0, LIMITE)
     .map((f) => ({
       tmdb_id: f.tmdb_id,
+      imdb_id: f.imdb_id ?? null,
       titulo: f.titulo_original,
       data_lancamento: f.data_lancamento,
       rt: f.ultimo_rt ?? null,

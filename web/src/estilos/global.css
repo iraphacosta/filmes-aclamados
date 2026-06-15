@@ -1,89 +1,72 @@
-@import url("https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Hanken+Grotesk:ital,wght@0,300..800;1,400..600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Cinzel:wght@500..900&family=Hanken+Grotesk:ital,wght@0,300..800;1,400..600&display=swap");
+
+/* ===========================================================================
+   "Vinheta dourada" — evoca a abertura do Cine Belas Artes (SBT): sol radial,
+   brasão metálico e brilho quente de transmissão. Tema escuro = projeção à
+   noite (bronze); tema claro = o sol dourado em cheio.
+   =========================================================================== */
 
 :root {
-  /* superfícies — sala de projeção */
-  --bg: #100c0b;
-  --bg-elev: #16110f;
-  --surface: #1b1613;
-  --surface-2: #231c17;
-  --linha: rgba(245, 237, 225, 0.1);
-  --linha-forte: rgba(245, 237, 225, 0.18);
+  /* superfícies — projeção dourada à noite */
+  --bg: #1a1004;
+  --bg-elev: #20150a;
+  --surface: #2a1c0c;
+  --surface-2: #34250f;
+  --linha: rgba(247, 225, 160, 0.14);
+  --linha-forte: rgba(247, 225, 160, 0.26);
 
   /* tinta */
-  --tinta: #f5ede1;
-  --tinta-2: #c5b7a4;
-  --tinta-3: #8a7d6e;
+  --tinta: #fcecc6;
+  --tinta-2: #ddc28a;
+  --tinta-3: #a98c58;
 
   /* acentos */
-  --ambar: #f0a93b;
-  --ambar-2: #ffcf86;
-  --rt: #ff6a45;
-  --mc: #58c79f;
+  --ambar: #f4bb3e;
+  --ambar-2: #ffdd86;
+  --rt: #ff7a4d;
+  --mc: #5fc88c;
   --imdb: #f5c518;
-  --cinema: #e6b450;
+  --cinema: #f0c45a;
 
   --raio: 14px;
   --raio-sm: 9px;
-  --sombra: 0 18px 50px -20px rgba(0, 0, 0, 0.85);
-  --sombra-card: 0 12px 30px -16px rgba(0, 0, 0, 0.8);
+  --sombra: 0 22px 60px -22px rgba(0, 0, 0, 0.85);
+  --sombra-card: 0 14px 34px -18px rgba(20, 10, 0, 0.8);
 
-  --inset: rgba(0, 0, 0, 0.25);
-  --inset-forte: rgba(0, 0, 0, 0.4);
-  --vidro: rgba(16, 12, 11, 0.62);
+  --inset: rgba(0, 0, 0, 0.26);
+  --inset-forte: rgba(0, 0, 0, 0.42);
+  --vidro: rgba(26, 16, 4, 0.66);
 
+  /* ouro escovado para o brasão */
+  --brass: linear-gradient(180deg, #fff3c0 0%, #f3cd6c 36%, #c8911f 64%, #8a5a14 100%);
+
+  --fonte-marca: "Cinzel", "Bodoni Moda", serif;
   --fonte-display: "Bodoni Moda", Georgia, serif;
   --fonte-ui: "Hanken Grotesk", system-ui, sans-serif;
 }
 
-/* ---------------- Tema claro ---------------- */
+/* ---------------- Tema claro: o sol em cheio ---------------- */
 :root[data-tema="claro"] {
-  --bg: #f3ede2;
-  --bg-elev: #efe7d9;
-  --surface: #fbf8f1;
-  --surface-2: #f1e9db;
-  --linha: rgba(45, 30, 15, 0.12);
-  --linha-forte: rgba(45, 30, 15, 0.2);
-  --tinta: #271c12;
-  --tinta-2: #5a4e40;
-  --tinta-3: #897b69;
-  --ambar: #b9761a;
-  --ambar-2: #9a5f0f;
-  --rt: #d2452a;
-  --mc: #1c8f68;
-  --imdb: #a9810a;
-  --cinema: #a8780f;
-  --sombra: 0 18px 50px -22px rgba(60, 40, 20, 0.35);
-  --sombra-card: 0 12px 30px -18px rgba(60, 40, 20, 0.28);
-  --inset: rgba(45, 30, 15, 0.05);
-  --inset-forte: rgba(45, 30, 15, 0.1);
-  --vidro: rgba(251, 248, 241, 0.86);
-}
-
-:root[data-tema="claro"] body {
-  background:
-    radial-gradient(1200px 620px at 50% -12%, rgba(185, 118, 26, 0.12), transparent 60%),
-    radial-gradient(1000px 520px at 102% 2%, rgba(210, 69, 42, 0.06), transparent 55%),
-    var(--bg);
-}
-
-:root[data-tema="claro"] .grao {
-  opacity: 0.04;
-  mix-blend-mode: multiply;
-}
-
-:root[data-tema="claro"] .vinheta {
-  background: radial-gradient(125% 100% at 50% -5%, transparent 62%, rgba(60, 40, 20, 0.12));
-}
-
-:root[data-tema="claro"] .masthead__nome {
-  background: linear-gradient(180deg, #2c2014, #715a3b);
-  -webkit-background-clip: text;
-  background-clip: text;
-  text-shadow: none;
-}
-
-:root[data-tema="claro"] .barra {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.82), rgba(251, 248, 241, 0.82));
+  --bg: #d39a1e;
+  --bg-elev: #e7c45a;
+  --surface: #fdf3d6;
+  --surface-2: #f6e6b6;
+  --linha: rgba(120, 72, 12, 0.22);
+  --linha-forte: rgba(120, 72, 12, 0.38);
+  --tinta: #3a2408;
+  --tinta-2: #6e4b18;
+  --tinta-3: #9a7634;
+  --ambar: #b5750f;
+  --ambar-2: #8a5408;
+  --rt: #c23a1c;
+  --mc: #2f7d4f;
+  --imdb: #9a6a08;
+  --cinema: #9a6a0f;
+  --sombra: 0 22px 60px -24px rgba(90, 55, 10, 0.45);
+  --sombra-card: 0 14px 34px -18px rgba(110, 70, 15, 0.32);
+  --inset: rgba(120, 72, 12, 0.08);
+  --inset-forte: rgba(120, 72, 12, 0.16);
+  --vidro: rgba(253, 243, 214, 0.84);
 }
 
 * {
@@ -98,14 +81,38 @@ body {
   margin: 0;
   font-family: var(--fonte-ui);
   color: var(--tinta);
-  background:
-    radial-gradient(1200px 620px at 50% -12%, rgba(240, 169, 59, 0.11), transparent 60%),
-    radial-gradient(1000px 520px at 102% 2%, rgba(255, 106, 69, 0.06), transparent 55%),
-    var(--bg);
-  background-attachment: fixed;
+  background: var(--bg);
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   line-height: 1.5;
+}
+
+/* O sol radial: glow central + raios cônicos + base em degradê. Fica numa
+   camada fixa própria (composição barata no scroll, sem repaint). */
+.sol {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at 50% 24%, rgba(255, 218, 130, 0.34) 0%, rgba(170, 112, 28, 0.12) 20%, transparent 44%),
+    repeating-conic-gradient(
+      from 0deg at 50% 24%,
+      rgba(120, 82, 22, 0.55) 0deg 3.2deg,
+      rgba(74, 48, 12, 0.5) 3.2deg 6.4deg
+    ),
+    radial-gradient(circle at 50% 24%, #2e1d09 0%, #1c1206 58%, #130c04 100%);
+}
+
+:root[data-tema="claro"] .sol {
+  background:
+    radial-gradient(circle at 50% 26%, rgba(255, 250, 224, 0.95) 0%, rgba(255, 234, 158, 0.5) 16%, transparent 40%),
+    repeating-conic-gradient(
+      from 0deg at 50% 26%,
+      #eeba3c 0deg 3.2deg,
+      #dca528 3.2deg 6.4deg
+    ),
+    radial-gradient(circle at 50% 26%, #e6ad2c 0%, #ce8d18 52%, #a96c12 100%);
 }
 
 button {
@@ -118,15 +125,22 @@ a {
   text-decoration: none;
 }
 
-/* ---- atmosfera: grão de filme + vinheta ---- */
+/* ---- atmosfera: leve textura de transmissão (grão + scanlines) + vinheta ---- */
 .grao {
   position: fixed;
   inset: 0;
   z-index: 4;
   pointer-events: none;
-  opacity: 0.05;
+  opacity: 0.06;
   mix-blend-mode: overlay;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-image:
+    repeating-linear-gradient(0deg, rgba(0, 0, 0, 0.5) 0, rgba(0, 0, 0, 0.5) 1px, transparent 1px, transparent 3px),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+:root[data-tema="claro"] .grao {
+  opacity: 0.05;
+  mix-blend-mode: multiply;
 }
 
 .vinheta {
@@ -134,7 +148,11 @@ a {
   inset: 0;
   z-index: 3;
   pointer-events: none;
-  background: radial-gradient(125% 100% at 50% -5%, transparent 52%, rgba(0, 0, 0, 0.55));
+  background: radial-gradient(132% 112% at 50% 24%, transparent 46%, rgba(40, 22, 4, 0.66));
+}
+
+:root[data-tema="claro"] .vinheta {
+  background: radial-gradient(134% 114% at 50% 26%, transparent 42%, rgba(96, 54, 8, 0.42));
 }
 
 .container {
@@ -145,7 +163,7 @@ a {
   padding: clamp(1.2rem, 3vw, 2.4rem);
 }
 
-/* ---------------- Masthead ---------------- */
+/* ---------------- Masthead: o brasão ---------------- */
 .masthead {
   text-align: center;
   padding: clamp(1.5rem, 6vw, 4rem) 0 clamp(1.2rem, 3vw, 2rem);
@@ -154,27 +172,39 @@ a {
 
 .masthead__filete {
   display: inline-block;
-  font-size: 0.7rem;
-  letter-spacing: 0.34em;
+  font-size: 0.68rem;
+  letter-spacing: 0.4em;
   text-transform: uppercase;
-  color: var(--ambar);
+  color: var(--ambar-2);
   padding-bottom: 0.9rem;
-  border-bottom: 1px solid var(--linha);
+  border-bottom: 1px solid var(--linha-forte);
 }
 
 .masthead__nome {
-  font-family: var(--fonte-display);
-  font-optical-sizing: auto;
-  font-weight: 900;
-  font-size: clamp(3.4rem, 13vw, 8rem);
-  line-height: 0.92;
-  letter-spacing: -0.02em;
-  margin: 1.2rem 0 0;
-  background: linear-gradient(180deg, var(--tinta) 30%, #d8c6ac);
+  font-family: var(--fonte-marca);
+  font-weight: 800;
+  font-size: clamp(2.9rem, 12vw, 7.2rem);
+  line-height: 0.96;
+  letter-spacing: 0.045em;
+  text-transform: uppercase;
+  margin: 1.1rem 0 0;
+  background: var(--brass);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
+  filter:
+    drop-shadow(0 1px 0 rgba(255, 246, 206, 0.5))
+    drop-shadow(0 3px 6px rgba(70, 38, 4, 0.55));
+}
+
+/* No sol claro, o brasão é gravado em ouro escuro para destacar do fundo. */
+:root[data-tema="claro"] .masthead__nome {
+  background: linear-gradient(180deg, #5a380c 0%, #8a5614 42%, #c89224 72%, #6e430c 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  filter:
+    drop-shadow(0 1px 0 rgba(255, 242, 198, 0.6))
+    drop-shadow(0 2px 3px rgba(70, 38, 4, 0.4));
 }
 
 .masthead__tagline {
@@ -183,7 +213,7 @@ a {
   font-weight: 400;
   color: var(--tinta-2);
   font-size: clamp(1rem, 2.4vw, 1.35rem);
-  max-width: 30ch;
+  max-width: 32ch;
   margin: 1rem auto 0;
 }
 
@@ -207,9 +237,11 @@ a {
   gap: 0.8rem;
   padding: 0.9rem;
   margin: 0.5rem 0 2rem;
-  border: 1px solid var(--linha);
+  border: 1px solid var(--linha-forte);
+  border-top: 2px solid transparent;
+  border-image: linear-gradient(90deg, transparent, rgba(244, 187, 62, 0.6), transparent) 1;
   border-radius: var(--raio);
-  background: linear-gradient(180deg, rgba(35, 28, 23, 0.85), rgba(22, 17, 15, 0.85));
+  background: var(--vidro);
   backdrop-filter: blur(12px);
   box-shadow: var(--sombra-card);
 }

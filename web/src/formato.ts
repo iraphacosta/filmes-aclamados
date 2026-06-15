@@ -55,6 +55,13 @@ export function linkLetterboxd(tmdbId: number): string {
   return `https://letterboxd.com/tmdb/${tmdbId}/`;
 }
 
+/** Link para a página do filme no IMDb (ou uma busca, quando não há id). */
+export function linkImdb(imdbId: string | null, titulo: string): string {
+  return imdbId
+    ? `https://www.imdb.com/title/${imdbId}/`
+    : `https://www.imdb.com/find/?q=${encodeURIComponent(titulo)}&s=tt`;
+}
+
 // Tradução de códigos ISO para nomes em pt-BR.
 const nomesPais = new Intl.DisplayNames(["pt-BR"], { type: "region" });
 const nomesIdioma = new Intl.DisplayNames(["pt-BR"], { type: "language" });

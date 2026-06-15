@@ -1,5 +1,5 @@
 import type { ItemRadar } from "../dados";
-import { dataMedia, linkLetterboxd } from "../formato";
+import { dataMedia, linkImdb, linkLetterboxd } from "../formato";
 import { NotaChip } from "./Selos";
 
 /**
@@ -31,10 +31,10 @@ export function Radar({ itens }: { itens: ItemRadar[] }) {
                 <div className="radar__corpo">
                   <a
                     className="radar__titulo"
-                    href={linkLetterboxd(it.tmdb_id)}
+                    href={linkImdb(it.imdb_id, it.titulo)}
                     target="_blank"
                     rel="noreferrer"
-                    title="Ver no Letterboxd"
+                    title="Ver no IMDb"
                   >
                     {it.titulo}
                   </a>
@@ -52,6 +52,14 @@ export function Radar({ itens }: { itens: ItemRadar[] }) {
                       </span>
                     )}
                   </div>
+                  <a
+                    className="radar__letterboxd"
+                    href={linkLetterboxd(it.tmdb_id)}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Letterboxd ↗
+                  </a>
                 </div>
               </li>
             );
