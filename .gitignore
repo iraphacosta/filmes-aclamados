@@ -4,8 +4,9 @@ node_modules/
 # Build do front
 web/dist/
 
-# Cópia local do catálogo dentro do front (o canônico mora em /dados)
+# Gerados no build do front a partir de /dados (canônico) — não versionar
 web/public/catalogo.json
+web/public/radar.json
 
 # Segredos — NUNCA versionar chaves de API
 .env

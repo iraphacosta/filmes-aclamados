@@ -4,9 +4,16 @@ import { BarraTopo, type Fonte, type Lista, type Ordenar } from "./componentes/B
 import { CardFilme } from "./componentes/CardFilme";
 import { Detalhe } from "./componentes/Detalhe";
 import { NotificacaoCentral } from "./componentes/NotificacaoCentral";
+import { Radar } from "./componentes/Radar";
 import { ScrollTopo } from "./componentes/ScrollTopo";
 import { TemaToggle } from "./componentes/TemaToggle";
-import { carregarCatalogo, type EstadoDisponibilidade, type Filme } from "./dados";
+import {
+  carregarCatalogo,
+  carregarRadar,
+  type EstadoDisponibilidade,
+  type Filme,
+  type ItemRadar,
+} from "./dados";
 import { nomePais } from "./formato";
 import { plataformasDisponiveis, plataformasDoFilme } from "./plataformas";
 import { useDadosPessoais } from "./favoritos";
@@ -151,6 +158,8 @@ export function App() {
   const [geradoEm, setGeradoEm] = useState<string | null>(null);
   const [carregando, setCarregando] = useState(true);
   const [erro, setErro] = useState<string | null>(null);
+  const [radar, setRadar] = useState<ItemRadar[]>([]);
+  const [aba, setAba] = useState<"feed" | "radar">("feed");
 
   const [busca, setBusca] = useState("");
   const [genero, setGenero] = useState("");
@@ -176,6 +185,10 @@ export function App() {
       })
       .catch((e: unknown) => setErro(e instanceof Error ? e.message : String(e)))
       .finally(() => setCarregando(false));
+  }, []);
+
+  useEffect(() => {
+    carregarRadar().then(({ itens }) => setRadar(itens)).catch(() => {});
   }, []);
 
   useEffect(() => {
@@ -298,61 +311,87 @@ export function App() {
         </div>
         <Masthead total={filmes.length} geradoEm={geradoEm} />
 
-        <BarraTopo
-          busca={busca}
-          onBusca={setBusca}
-          generos={generos}
-          generoAtivo={genero}
-          onGenero={setGenero}
-          lista={lista}
-          onLista={setLista}
-          totais={pessoal.totais}
-          colunas={colunas}
-          onColunas={setColunas}
-          ordenar={ordenar}
-          onOrdenar={setOrdenar}
-          fontes={fontes}
-          onAlternarFonte={alternarFonte}
-          onde={onde}
-          onAlternarOnde={alternarOnde}
-          plataformasDisp={plataformasDisp}
-          plataformasAtivas={plataformas}
-          onAlternarPlataforma={alternarPlataforma}
-        />
+        <nav className="abas" role="tablist" aria-label="Seções">
+          <button
+            className={`aba ${aba === "feed" ? "ativo" : ""}`}
+            role="tab"
+            aria-selected={aba === "feed"}
+            onClick={() => setAba("feed")}
+          >
+            Aclamados
+          </button>
+          <button
+            className={`aba ${aba === "radar" ? "ativo" : ""}`}
+            role="tab"
+            aria-selected={aba === "radar"}
+            onClick={() => setAba("radar")}
+          >
+            Radar
+            {radar.length > 0 && <span className="aba__n">{radar.length}</span>}
+          </button>
+        </nav>
 
-        {carregando && <p className="estado-vazio">Carregando o feed…</p>}
-        {erro && <p className="estado-vazio estado-erro">{erro}</p>}
+        {aba === "radar" && <Radar itens={radar} />}
 
-        {!carregando && !erro && ordenado.length === 0 && (
-          <p className="estado-vazio">{VAZIO_MSG[lista]}</p>
-        )}
-
-        <main
-          className={`feed ${colunas === 3 ? "feed--3col" : ""}`}
-          style={{ "--colunas": colunas } as CSSProperties}
-        >
-          {visiveis.map((filme, i) => (
-            <CardFilme
-              key={filme.tmdb_id}
-              filme={filme}
-              indice={i}
-              ehAssistido={pessoal.ehAssistido(filme.tmdb_id)}
-              querVer={pessoal.querVer(filme.tmdb_id)}
-              onAbrir={() => setAbertoId(filme.tmdb_id)}
-              onAlternarAssistido={() => pessoal.alternarAssistido(filme.tmdb_id)}
-              onAlternarQueroVer={() => pessoal.alternarQueroVer(filme.tmdb_id)}
+        {aba === "feed" && (
+          <>
+            <BarraTopo
+              busca={busca}
+              onBusca={setBusca}
+              generos={generos}
+              generoAtivo={genero}
+              onGenero={setGenero}
+              lista={lista}
+              onLista={setLista}
+              totais={pessoal.totais}
+              colunas={colunas}
+              onColunas={setColunas}
+              ordenar={ordenar}
+              onOrdenar={setOrdenar}
+              fontes={fontes}
+              onAlternarFonte={alternarFonte}
+              onde={onde}
+              onAlternarOnde={alternarOnde}
+              plataformasDisp={plataformasDisp}
+              plataformasAtivas={plataformas}
+              onAlternarPlataforma={alternarPlataforma}
             />
-          ))}
-        </main>
 
-        <Paginacao
-          atual={paginaAtual}
-          total={totalPaginas}
-          inicio={inicio}
-          fim={fim}
-          totalFilmes={ordenado.length}
-          onIr={irParaPagina}
-        />
+            {carregando && <p className="estado-vazio">Carregando o feed…</p>}
+            {erro && <p className="estado-vazio estado-erro">{erro}</p>}
+
+            {!carregando && !erro && ordenado.length === 0 && (
+              <p className="estado-vazio">{VAZIO_MSG[lista]}</p>
+            )}
+
+            <main
+              className={`feed ${colunas === 3 ? "feed--3col" : ""}`}
+              style={{ "--colunas": colunas } as CSSProperties}
+            >
+              {visiveis.map((filme, i) => (
+                <CardFilme
+                  key={filme.tmdb_id}
+                  filme={filme}
+                  indice={i}
+                  ehAssistido={pessoal.ehAssistido(filme.tmdb_id)}
+                  querVer={pessoal.querVer(filme.tmdb_id)}
+                  onAbrir={() => setAbertoId(filme.tmdb_id)}
+                  onAlternarAssistido={() => pessoal.alternarAssistido(filme.tmdb_id)}
+                  onAlternarQueroVer={() => pessoal.alternarQueroVer(filme.tmdb_id)}
+                />
+              ))}
+            </main>
+
+            <Paginacao
+              atual={paginaAtual}
+              total={totalPaginas}
+              inicio={inicio}
+              fim={fim}
+              totalFilmes={ordenado.length}
+              onIr={irParaPagina}
+            />
+          </>
+        )}
 
         <footer className="rodape">
           <p>
