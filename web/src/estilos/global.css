@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Cinzel:wght@500..900&family=Hanken+Grotesk:ital,wght@0,300..800;1,400..600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Hanken+Grotesk:ital,wght@0,300..800;1,400..600&display=swap");
 
 /* ===========================================================================
    "Vinheta dourada" — evoca a abertura do Cine Belas Artes (SBT): sol radial,
@@ -40,7 +40,6 @@
   /* ouro escovado para o brasão */
   --brass: linear-gradient(180deg, #fff3c0 0%, #f3cd6c 36%, #c8911f 64%, #8a5a14 100%);
 
-  --fonte-marca: "Cinzel", "Bodoni Moda", serif;
   --fonte-display: "Bodoni Moda", Georgia, serif;
   --fonte-ui: "Hanken Grotesk", system-ui, sans-serif;
 }
@@ -181,30 +180,19 @@ a {
 }
 
 .masthead__nome {
-  font-family: var(--fonte-marca);
-  font-weight: 800;
-  font-size: clamp(2.9rem, 12vw, 7.2rem);
-  line-height: 0.96;
-  letter-spacing: 0.045em;
-  text-transform: uppercase;
-  margin: 1.1rem 0 0;
-  background: var(--brass);
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-  filter:
-    drop-shadow(0 1px 0 rgba(255, 246, 206, 0.5))
-    drop-shadow(0 3px 6px rgba(70, 38, 4, 0.55));
+  margin: 1.2rem 0 0;
+  line-height: 0;
 }
 
-/* No sol claro, o brasão é gravado em ouro escuro para destacar do fundo. */
-:root[data-tema="claro"] .masthead__nome {
-  background: linear-gradient(180deg, #5a380c 0%, #8a5614 42%, #c89224 72%, #6e430c 100%);
-  -webkit-background-clip: text;
-  background-clip: text;
+/* O logotipo "Filmes Aclamados" (PNG dourado transparente) no lugar do título. */
+.masthead__logo {
+  display: block;
+  width: clamp(240px, 58vw, 520px);
+  height: auto;
+  margin: 0 auto;
   filter:
-    drop-shadow(0 1px 0 rgba(255, 242, 198, 0.6))
-    drop-shadow(0 2px 3px rgba(70, 38, 4, 0.4));
+    drop-shadow(0 2px 1px rgba(50, 28, 2, 0.45))
+    drop-shadow(0 10px 26px rgba(36, 20, 2, 0.5));
 }
 
 .masthead__tagline {

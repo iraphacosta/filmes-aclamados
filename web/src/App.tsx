@@ -60,7 +60,15 @@ function Masthead({ total, geradoEm }: { total: number; geradoEm: string | null 
       <div className="masthead__topo">
         <span className="masthead__filete">desde 2025 · crítica ≥ 65</span>
       </div>
-      <h1 className="masthead__nome">Aclamados</h1>
+      <h1 className="masthead__nome">
+        <img
+          className="masthead__logo"
+          src={`${import.meta.env.BASE_URL}logo.png`}
+          alt="Filmes Aclamados"
+          width={1024}
+          height={683}
+        />
+      </h1>
       <p className="masthead__tagline">
         Um diário dos filmes que a crítica aprovou — Rotten Tomatoes e Metacritic, todos os dias.
       </p>
