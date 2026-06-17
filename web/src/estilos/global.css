@@ -7,9 +7,9 @@
    =========================================================================== */
 
 :root {
-  /* superfícies — projeção dourada à noite */
-  --bg: #1a1004;
-  --bg-elev: #20150a;
+  /* superfícies — sala escura, ouro discreto */
+  --bg: #0a0805;
+  --bg-elev: #100c06;
   --surface: #2a1c0c;
   --surface-2: #34250f;
   --linha: rgba(247, 225, 160, 0.14);
@@ -86,32 +86,25 @@ body {
   line-height: 1.5;
 }
 
-/* O sol radial: glow central + raios cônicos + base em degradê. Fica numa
-   camada fixa própria (composição barata no scroll, sem repaint). */
+/* Fundo: preto quente em degradê com luzes douradas DISCRETAS — sem raios (eles
+   atrapalhavam a leitura no mobile). Camada fixa = composição barata no scroll. */
 .sol {
   position: fixed;
   inset: 0;
   z-index: 0;
   pointer-events: none;
   background:
-    radial-gradient(circle at 50% 24%, rgba(255, 218, 130, 0.34) 0%, rgba(170, 112, 28, 0.12) 20%, transparent 44%),
-    repeating-conic-gradient(
-      from 0deg at 50% 24%,
-      rgba(120, 82, 22, 0.55) 0deg 3.2deg,
-      rgba(74, 48, 12, 0.5) 3.2deg 6.4deg
-    ),
-    radial-gradient(circle at 50% 24%, #2e1d09 0%, #1c1206 58%, #130c04 100%);
+    radial-gradient(58% 40% at 50% 2%, rgba(216, 164, 60, 0.16), transparent 72%),
+    radial-gradient(85% 60% at 92% 112%, rgba(176, 120, 36, 0.08), transparent 60%),
+    radial-gradient(60% 55% at 2% 36%, rgba(150, 104, 30, 0.05), transparent 62%),
+    linear-gradient(180deg, #0c0a06 0%, #0a0805 48%, #060403 100%);
 }
 
 :root[data-tema="claro"] .sol {
   background:
-    radial-gradient(circle at 50% 26%, rgba(255, 250, 224, 0.95) 0%, rgba(255, 234, 158, 0.5) 16%, transparent 40%),
-    repeating-conic-gradient(
-      from 0deg at 50% 26%,
-      #eeba3c 0deg 3.2deg,
-      #dca528 3.2deg 6.4deg
-    ),
-    radial-gradient(circle at 50% 26%, #e6ad2c 0%, #ce8d18 52%, #a96c12 100%);
+    radial-gradient(58% 44% at 50% 1%, rgba(255, 244, 202, 0.5), transparent 64%),
+    radial-gradient(85% 60% at 92% 112%, rgba(196, 138, 40, 0.12), transparent 60%),
+    linear-gradient(180deg, #dca641 0%, #c79129 55%, #b07d1b 100%);
 }
 
 button {
@@ -147,7 +140,7 @@ a {
   inset: 0;
   z-index: 3;
   pointer-events: none;
-  background: radial-gradient(132% 112% at 50% 24%, transparent 46%, rgba(40, 22, 4, 0.66));
+  background: radial-gradient(135% 115% at 50% 16%, transparent 54%, rgba(0, 0, 0, 0.55));
 }
 
 :root[data-tema="claro"] .vinheta {

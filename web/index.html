@@ -7,13 +7,13 @@
       name="description"
       content="Diário de filmes de 2025+ bem avaliados pela crítica — Metacritic e Rotten Tomatoes."
     />
-    <meta name="theme-color" content="#1a1004" />
+    <meta name="theme-color" content="#0a0805" />
     <title>Aclamados — filmes bem avaliados desde 2025</title>
     <script>
       // Aplica o tema salvo antes da primeira pintura (evita flash de cor errada).
       (function () {
         try {
-          var t = localStorage.getItem("filmes-aclamados:tema") || "sistema";
+          var t = localStorage.getItem("filmes-aclamados:tema") || "escuro";
           var ef = t === "sistema"
             ? (window.matchMedia("(prefers-color-scheme: dark)").matches ? "escuro" : "claro")
             : t;

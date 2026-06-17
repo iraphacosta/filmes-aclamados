@@ -7,9 +7,9 @@ const CHAVE = "filmes-aclamados:tema";
 function ler(): Tema {
   try {
     const t = localStorage.getItem(CHAVE);
-    return t === "claro" || t === "escuro" || t === "sistema" ? t : "sistema";
+    return t === "claro" || t === "escuro" || t === "sistema" ? t : "escuro";
   } catch {
-    return "sistema";
+    return "escuro";
   }
 }
 
