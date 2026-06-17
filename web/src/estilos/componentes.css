@@ -1183,6 +1183,7 @@
 
 .vista-colunas {
   border-radius: 9px;
+  flex-shrink: 0;
 }
 
 .tema-opt,

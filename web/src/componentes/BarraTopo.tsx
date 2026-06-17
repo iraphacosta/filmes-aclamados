@@ -121,6 +121,21 @@ export function BarraTopo({
           />
         </label>
 
+        <div className="vista-colunas" role="group" aria-label="Colunas de capas">
+          {[1, 2, 3].map((n) => (
+            <button
+              key={n}
+              className={`vista-opt ${colunas === n ? "ativo" : ""}`}
+              onClick={() => onColunas(n)}
+              title={`${n} ${n === 1 ? "coluna" : "colunas"}`}
+              aria-label={`${n} ${n === 1 ? "coluna" : "colunas"}`}
+              aria-pressed={colunas === n}
+            >
+              <IconeColunas n={n} />
+            </button>
+          ))}
+        </div>
+
         <button
           className={`filtros-botao ${aberto ? "ativo" : ""}`}
           onClick={() => setAberto((v) => !v)}
@@ -240,21 +255,6 @@ export function BarraTopo({
                 ))}
               </select>
             </label>
-
-            <div className="vista-colunas" role="group" aria-label="Colunas de capas">
-              {[1, 2, 3].map((n) => (
-                <button
-                  key={n}
-                  className={`vista-opt ${colunas === n ? "ativo" : ""}`}
-                  onClick={() => onColunas(n)}
-                  title={`${n} ${n === 1 ? "coluna" : "colunas"}`}
-                  aria-label={`${n} ${n === 1 ? "coluna" : "colunas"}`}
-                  aria-pressed={colunas === n}
-                >
-                  <IconeColunas n={n} />
-                </button>
-              ))}
-            </div>
 
             {algumFiltro && (
               <button className="filtros-limpar" onClick={limpar}>
