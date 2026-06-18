@@ -2,8 +2,10 @@ import { initializeApp } from "firebase/app";
 import {
   GoogleAuthProvider,
   getAuth,
+  getRedirectResult,
   onAuthStateChanged,
   signInWithPopup,
+  signInWithRedirect,
   signOut,
   type User,
 } from "firebase/auth";
@@ -25,8 +27,30 @@ const auth = getAuth(app);
 const db = getFirestore(app);
 const provider = new GoogleAuthProvider();
 
-export function entrarComGoogle(): Promise<unknown> {
-  return signInWithPopup(auth, provider);
+// Quando o popup não está disponível (iOS Safari, app standalone, bloqueadores),
+// caímos para o fluxo por redirect, que funciona em todo lugar.
+const FALLBACK_REDIRECT = new Set([
+  "auth/popup-blocked",
+  "auth/popup-closed-by-user",
+  "auth/cancelled-popup-request",
+  "auth/operation-not-supported-in-this-environment",
+]);
+
+export async function entrarComGoogle(): Promise<unknown> {
+  try {
+    return await signInWithPopup(auth, provider);
+  } catch (e: unknown) {
+    const code = (e as { code?: string }).code ?? "";
+    if (FALLBACK_REDIRECT.has(code)) {
+      return signInWithRedirect(auth, provider);
+    }
+    throw e;
+  }
+}
+
+/** Processa o retorno do login por redirect (e deixa erros aparecerem no console). */
+export function processarRedirectLogin(): Promise<unknown> {
+  return getRedirectResult(auth);
 }
 
 export function sairDoGoogle(): Promise<void> {

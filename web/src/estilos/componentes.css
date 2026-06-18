@@ -118,6 +118,15 @@
   line-height: 1.1;
   letter-spacing: -0.01em;
   margin: 0.55rem 0 0.1rem;
+  overflow-wrap: anywhere;
+}
+
+.feed--3col .card__titulo {
+  font-size: 1.04rem;
+}
+
+.feed--3col .card__titulo-en {
+  font-size: 0.82rem;
 }
 
 .card__titulo-en {
@@ -153,10 +162,9 @@
 
 .card__notas {
   display: flex;
-  flex-wrap: nowrap;
-  gap: 0.3rem;
+  flex-wrap: wrap;
+  gap: 0.34rem;
   margin-top: 0.6rem;
-  overflow: hidden;
 }
 
 /* ===================== Chips de nota ===================== */
@@ -196,21 +204,70 @@
 }
 
 .nota-chip__valor {
-  font-weight: 600;
+  font-weight: 700;
   font-variant-numeric: tabular-nums;
 }
 
+/* Rotten Tomatoes — tomate + % */
 .nota-rt {
   color: var(--rt);
   border-color: rgba(255, 106, 69, 0.4);
 }
-.nota-mc {
-  color: var(--mc);
-  border-color: rgba(88, 199, 159, 0.4);
+.nota-rt svg {
+  flex-shrink: 0;
 }
+
+/* Metacritic — caixa colorida (verde/amarelo/vermelho) com numeral branco */
+.nota-mc {
+  border: none;
+  background: none;
+  padding: 0;
+}
+.mc-box {
+  display: inline-grid;
+  place-items: center;
+  min-width: 22px;
+  height: 22px;
+  padding: 0 0.28rem;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: 800;
+  font-size: 0.76rem;
+  font-variant-numeric: tabular-nums;
+}
+.nota-chip--compacto .mc-box {
+  min-width: 20px;
+  height: 20px;
+  font-size: 0.72rem;
+}
+.mc-box--bom {
+  background: #4f9e2e;
+}
+.mc-box--medio {
+  background: #c79212;
+}
+.mc-box--ruim {
+  background: #cc4332;
+}
+.mc-box--vazio {
+  background: var(--inset-forte);
+  color: var(--tinta-3);
+}
+
+/* IMDb — selo dourado */
 .nota-imdb {
   color: var(--imdb);
-  border-color: rgba(245, 197, 24, 0.35);
+  border-color: rgba(245, 197, 24, 0.4);
+}
+.imdb-badge {
+  display: inline-block;
+  padding: 0.06rem 0.22rem;
+  border-radius: 3px;
+  background: #f5c518;
+  color: #100a02;
+  font-weight: 800;
+  font-size: 0.58rem;
+  letter-spacing: -0.02em;
 }
 
 /* ===================== Selo de critério (ingresso) ===================== */
@@ -1182,8 +1239,10 @@
 }
 
 .vista-colunas {
-  border-radius: 9px;
+  border-radius: 8px;
   flex-shrink: 0;
+  align-self: flex-start;
+  padding: 2px;
 }
 
 .tema-opt,
@@ -1200,8 +1259,14 @@
 }
 
 .vista-opt {
-  height: 28px;
+  width: 27px;
+  height: 25px;
   border-radius: 6px;
+}
+
+.vista-opt svg {
+  width: 13px;
+  height: 13px;
 }
 
 .tema-opt:hover,

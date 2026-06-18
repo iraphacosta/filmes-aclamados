@@ -101,6 +101,8 @@ export function useDadosPessoais(): ApiPessoal {
     carregarFirebase()
       .then((fb) => {
         if (!vivo) return;
+        // Conclui o login por redirect (mobile/standalone) e expõe erros.
+        fb.processarRedirectLogin().catch((e) => console.error("Redirect login:", e));
         unsub = fb.observarAuth((u) => {
           setUsuario(u);
           setCarregandoAuth(false);
