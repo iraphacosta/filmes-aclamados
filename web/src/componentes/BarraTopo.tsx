@@ -105,6 +105,7 @@ export function BarraTopo({
   };
 
   return (
+    <>
     <div className="barra">
       <div className="barra-linha">
         <label className="busca">
@@ -130,21 +131,6 @@ export function BarraTopo({
           <IconeFiltro />
           {algumFiltro && <span className="filtros-botao__ponto" aria-hidden />}
         </button>
-      </div>
-
-      <div className="vista-colunas" role="group" aria-label="Colunas de capas">
-        {[1, 2, 3].map((n) => (
-          <button
-            key={n}
-            className={`vista-opt ${colunas === n ? "ativo" : ""}`}
-            onClick={() => onColunas(n)}
-            title={`${n} ${n === 1 ? "coluna" : "colunas"}`}
-            aria-label={`${n} ${n === 1 ? "coluna" : "colunas"}`}
-            aria-pressed={colunas === n}
-          >
-            <IconeColunas n={n} />
-          </button>
-        ))}
       </div>
 
       {aberto && (
@@ -265,5 +251,23 @@ export function BarraTopo({
         </div>
       )}
     </div>
+
+    <div className="vista-colunas-fora">
+      <div className="vista-colunas" role="group" aria-label="Colunas de capas">
+        {[1, 2, 3].map((n) => (
+          <button
+            key={n}
+            className={`vista-opt ${colunas === n ? "ativo" : ""}`}
+            onClick={() => onColunas(n)}
+            title={`${n} ${n === 1 ? "coluna" : "colunas"}`}
+            aria-label={`${n} ${n === 1 ? "coluna" : "colunas"}`}
+            aria-pressed={colunas === n}
+          >
+            <IconeColunas n={n} />
+          </button>
+        ))}
+      </div>
+    </div>
+    </>
   );
 }

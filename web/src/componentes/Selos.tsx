@@ -1,26 +1,40 @@
 import type { CriterioQualificacao, Disponibilidade } from "../dados";
 import { ROTULO_CRITERIO, resumoDisponibilidade } from "../formato";
 
-/** Tomate do Rotten Tomatoes: vermelho quando "fresh" (≥60%), respingo verde quando "rotten". */
-function IconeTomate({ podre, size = 14 }: { podre: boolean; size?: number }) {
-  if (podre) {
+type EstadoRT = "rotten" | "fresh" | "certified";
+
+/**
+ * Estado do Rotten Tomatoes a partir da nota: Rotten (<60%), Fresh (60–89%) ou
+ * Certified Fresh (≥90%). O "Certified Fresh" real depende da contagem de
+ * críticas (que não temos), então aqui é uma aproximação pela nota.
+ */
+function estadoRT(valor: number): EstadoRT {
+  if (valor < 60) return "rotten";
+  if (valor >= 90) return "certified";
+  return "fresh";
+}
+
+/** Ícone do Rotten Tomatoes conforme o estado (respingo verde / tomate / tomate com halo). */
+function IconeRT({ estado, size = 14 }: { estado: EstadoRT; size?: number }) {
+  if (estado === "rotten") {
     return (
       <svg viewBox="0 0 24 24" width={size} height={size} aria-hidden>
         <path
-          d="M12 3l1.7 3.6 3.9-.6-2 3.4 2.8 2.7-3.8.8.3 3.9-3.1-2.4-3.1 2.4.3-3.9-3.8-.8 2.8-2.7-2-3.4 3.9.6z"
-          fill="#5bbb55"
+          d="M12 1.5c1.4 0 2 1.6 3.3 1.9 1.3.3 2.6-.8 3.6.2 1 1-.1 2.3.2 3.6.3 1.3 1.9 1.9 1.9 3.3 0 1.4-1.6 2-1.9 3.3-.3 1.3.8 2.6-.2 3.6-1 1-2.3-.1-3.6.2-1.3.3-1.9 1.9-3.3 1.9-1.4 0-2-1.6-3.3-1.9-1.3-.3-2.6.8-3.6-.2-1-1 .1-2.3-.2-3.6-.3-1.3-1.9-1.9-1.9-3.3 0-1.4 1.6-2 1.9-3.3.3-1.3-.8-2.6.2-3.6 1-1 2.3.1 3.6-.2 1.3-.3 1.9-1.9 3.3-1.9z"
+          fill="#93c53c"
         />
-        <circle cx="12" cy="12" r="2.7" fill="#3e9444" />
+        <circle cx="12" cy="12" r="3.2" fill="#6fa42a" />
       </svg>
     );
   }
   return (
     <svg viewBox="0 0 24 24" width={size} height={size} aria-hidden>
-      <circle cx="12" cy="14" r="8" fill="#e53b2e" />
-      <path d="M12 7.6C10.5 4.6 7.6 4.1 6 5.6c1.5 1.5 4 2 6 2z" fill="#4a9d3f" />
-      <path d="M12 7.6c1.5-3 4.4-3.5 6-2-1.5 1.5-4 2-6 2z" fill="#4a9d3f" />
-      <path d="M12 4.6v3" stroke="#3a7d32" strokeWidth="1.4" strokeLinecap="round" />
-      <ellipse cx="9.4" cy="11.6" rx="2.1" ry="1.4" fill="rgba(255,255,255,0.4)" transform="rotate(-25 9.4 11.6)" />
+      {estado === "certified" && <circle cx="12" cy="12.8" r="11" fill="#f6cb28" />}
+      <circle cx="12" cy={estado === "certified" ? 14 : 14.4} r={estado === "certified" ? 6.2 : 7.8} fill="#e23b2e" />
+      <path d="M12 8.2c-1.2-2.3-3.9-3-5.7-1.7 1.4 1.7 3.9 2.1 5.7 1.7z" fill="#54a23f" />
+      <path d="M12 8.2c1.2-2.3 3.9-3 5.7-1.7-1.4 1.7-3.9 2.1-5.7 1.7z" fill="#54a23f" />
+      <path d="M12 5.8v2.6" stroke="#3c7d30" strokeWidth="1.5" strokeLinecap="round" />
+      <ellipse cx="9.5" cy="12.4" rx="2" ry="1.3" fill="rgba(255,255,255,0.42)" transform="rotate(-25 9.5 12.4)" />
     </svg>
   );
 }
@@ -44,7 +58,7 @@ export function NotaChip({
   if (tipo === "rt") {
     conteudo = (
       <>
-        <IconeTomate podre={!vazio && valor < 60} size={compacto ? 13 : 15} />
+        {valor != null && <IconeRT estado={estadoRT(valor)} size={compacto ? 13 : 15} />}
         <span className="nota-chip__valor">{vazio ? "—" : `${valor}%`}</span>
       </>
     );

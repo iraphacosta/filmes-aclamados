@@ -41,8 +41,8 @@ export function Radar({ itens }: { itens: ItemRadar[] }) {
                   <div className="radar__status">
                     {temNota ? (
                       <>
-                        {it.rt != null && <NotaChip tipo="rt" valor={it.rt} compacto />}
                         {it.mc != null && <NotaChip tipo="mc" valor={it.mc} compacto />}
+                        {it.rt != null && <NotaChip tipo="rt" valor={it.rt} compacto />}
                         <span className="radar__abaixo">ainda abaixo de 65</span>
                       </>
                     ) : (

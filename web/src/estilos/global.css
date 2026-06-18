@@ -225,7 +225,7 @@ a {
   flex-direction: column;
   gap: 0.8rem;
   padding: 0.9rem;
-  margin: 0.5rem 0 2rem;
+  margin: 0.5rem 0 0.6rem;
   border: 1px solid rgba(247, 226, 168, 0.34);
   border-radius: var(--raio);
   background: var(--vidro);

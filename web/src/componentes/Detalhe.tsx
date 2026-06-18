@@ -85,6 +85,8 @@ function NotasCriticos({ filme }: { filme: Filme }) {
     <div className="detalhe__criticos">
       <span className="detalhe__criticos-rotulo">A crítica</span>
       <div className="detalhe__notas-atuais">
+        <NotaChip tipo="mc" valor={filme.atual_metacritic ?? filme.metacritic} href={linkAgregador("mc", titulo)} />
+        <NotaChip tipo="imdb" valor={filme.imdb_publico} href={filme.links.imdb} />
         <NotaChip tipo="rt" valor={filme.atual_rt ?? filme.rt_critica} href={linkAgregador("rt", titulo)} />
         {filme.rt_publico != null && (
           <span className="nota-chip nota-rt nota-chip--publico" title="Rotten Tomatoes (público)">
@@ -92,8 +94,6 @@ function NotasCriticos({ filme }: { filme: Filme }) {
             <span className="nota-chip__valor">{filme.rt_publico}%</span>
           </span>
         )}
-        <NotaChip tipo="mc" valor={filme.atual_metacritic ?? filme.metacritic} href={linkAgregador("mc", titulo)} />
-        <NotaChip tipo="imdb" valor={filme.imdb_publico} href={filme.links.imdb} />
       </div>
       <a
         className="detalhe__letterboxd"

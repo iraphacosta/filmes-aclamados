@@ -1240,9 +1240,14 @@
 
 .vista-colunas {
   border-radius: 8px;
-  flex-shrink: 0;
-  align-self: flex-start;
   padding: 2px;
+}
+
+/* Seletor de colunas — fora do quadro da busca/filtros, à direita */
+.vista-colunas-fora {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 0 1.4rem;
 }
 
 .tema-opt,

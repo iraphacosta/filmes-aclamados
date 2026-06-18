@@ -76,9 +76,9 @@ export function CardFilme({
           <span className="card__lancamento-data">{dataMedia(filme.data_lancamento)}</span>
         </p>
         <div className="card__notas">
-          <NotaChip tipo="rt" valor={filme.atual_rt ?? filme.rt_critica} compacto />
           <NotaChip tipo="mc" valor={filme.atual_metacritic ?? filme.metacritic} compacto />
           <NotaChip tipo="imdb" valor={filme.imdb_publico} compacto />
+          <NotaChip tipo="rt" valor={filme.atual_rt ?? filme.rt_critica} compacto />
         </div>
       </div>
     </article>
