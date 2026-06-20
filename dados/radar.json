@@ -1,7 +1,73 @@
 {
   "versao": 1,
-  "gerado_em": "2026-06-20T01:19:56.817Z",
+  "gerado_em": "2026-06-20T11:29:28.682Z",
   "filmes": [
+    {
+      "tmdb_id": 1477317,
+      "imdb_id": "tt36958376",
+      "titulo_original": "Your Fault: London",
+      "titulo_ingles": "Your Fault: London",
+      "ano": 2026,
+      "data_lancamento": "2026-06-17",
+      "data_qualificacao": "",
+      "sinopse_pt": "Nick e Noah enfrentam o maior teste de seu amor quando Noah inicia sua nova vida na Universidade de Oxford, enquanto Nick permanece em Londres trabalhando para a empresa de seu pai. Separados pela distância e cercados por pressões cada vez maiores — ciúmes, ambição e forças determinadas a separá-los —, eles precisarão arriscar tudo para provar que seu vínculo pode sobreviver contra todas as adversidades.",
+      "elenco": [
+        "Asha Banks",
+        "Matthew Broome",
+        "Louisa Binder",
+        "Joel Nankervis",
+        "Scarlett Rayner",
+        "Orlando Norman",
+        "Ray Fearon",
+        "Enva Lewis"
+      ],
+      "diretor": "Dani Girdwood, Charlotte Fassler",
+      "generos": [
+        "Romance",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uXQKhfO4Qf7FodbsJbXacX3Tgbc.jpg",
+      "pais": [
+        "ES",
+        "GB",
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 123,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1477317-your-fault-london/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36958376/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Your%20Fault%3A%20London",
+        "metacritic": "https://www.metacritic.com/search/Your%20Fault%3A%20London/"
+      }
+    },
     {
       "tmdb_id": 1084244,
       "imdb_id": "tt29355505",
@@ -33,8 +99,8 @@
         "US"
       ],
       "idiomas": [
-        "es",
-        "en"
+        "en",
+        "es"
       ],
       "duracao": 100,
       "rt_critica": null,
@@ -59,7 +125,7 @@
     {
       "tmdb_id": 1501018,
       "imdb_id": "tt36963493",
-      "titulo_original": "Une famille de bâtards",
+      "titulo_original": "Une Famille De Bâtards",
       "titulo_ingles": "A Family of Bastards",
       "ano": 2026,
       "data_lancamento": "2026-06-12",
@@ -122,6 +188,70 @@
       }
     },
     {
+      "tmdb_id": 1511549,
+      "imdb_id": "tt36956284",
+      "titulo_original": "Ancora più sexy",
+      "titulo_ingles": "Still Sexy",
+      "ano": 2026,
+      "data_lancamento": "2026-06-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Diana Del Bufalo",
+        "Valentina Nappi",
+        "Mario Ermito",
+        "Michele Rosiello",
+        "Filippo Bisciglia",
+        "Angela Finocchiaro",
+        "Anna Galiena",
+        "Fabrizio Colica"
+      ],
+      "diretor": "Michela Andreozzi",
+      "generos": [
+        "Comédia",
+        "Romance"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cQYHYSnHf1A853xoNn6Qq6lm2JO.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 100,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1511549-ancora-piu-sexy/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36956284/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Still%20Sexy",
+        "metacritic": "https://www.metacritic.com/search/Still%20Sexy/"
+      }
+    },
+    {
       "tmdb_id": 1699155,
       "imdb_id": "tt42863533",
       "titulo_original": "Maternal Instinct",
@@ -174,6 +304,111 @@
         "imdb": "https://www.imdb.com/title/tt42863533/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Maternal%20Instinct",
         "metacritic": "https://www.metacritic.com/search/Maternal%20Instinct/"
+      }
+    },
+    {
+      "tmdb_id": 1275779,
+      "imdb_id": "tt15047880",
+      "titulo_original": "Disclosure Day",
+      "titulo_ingles": "Disclosure Day",
+      "ano": 2026,
+      "data_lancamento": "2026-06-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "A existência de vida extraterrestre torna-se uma realidade inegável para todos os habitantes da Terra em um único instante. O mundo entra em colapso quando uma meteorologista, em plena transmissão ao vivo, é dominada por uma força invisível, perdendo a fala e emitindo sons perturbadores. Enquanto fenômenos inexplicáveis e sinais de controle mental em massa se espalham, um informante tenta expor segredos governamentais guardados por décadas. Diante da prova definitiva de que a humanidade não está sozinha, o pânico e o fascínio tomam conta de uma civilização confrontada pelo desconhecido.",
+      "elenco": [
+        "Emily Blunt",
+        "Josh O'Connor",
+        "Colin Firth",
+        "Colman Domingo",
+        "Eve Hewson",
+        "Wyatt Russell",
+        "Elizabeth Marvel",
+        "Henry Lloyd-Hughes"
+      ],
+      "diretor": "Steven Spielberg",
+      "generos": [
+        "Ficção científica",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/pmff1wjKrgJi92PPr346lAifzlg.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "ko",
+        "ru"
+      ],
+      "duracao": 145,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt15047880/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Disclosure%20Day",
+        "metacritic": "https://www.metacritic.com/search/Disclosure%20Day/"
+      }
+    },
+    {
+      "tmdb_id": 1668499,
+      "imdb_id": "tt42575634",
+      "titulo_original": "Le Vertige",
+      "titulo_ingles": "Vertiginous",
+      "ano": 2026,
+      "data_lancamento": "2026-06-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alain Chabat",
+        "Jonathan Cohen",
+        "Anaïs Demoustier",
+        "Jean-Marie Winling",
+        "Jean-Christophe Le Guennan",
+        "Oscar Vercken de Vreuschmen",
+        "Coco Dupieux",
+        "Anna-Marie Filippi"
+      ],
+      "diretor": "Quentin Dupieux",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qO8nc3cSjzGduaC0deh8gBRKK9Z.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt42575634/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vertiginous",
+        "metacritic": "https://www.metacritic.com/search/Vertiginous/"
       }
     },
     {
@@ -239,59 +474,6 @@
         "imdb": "https://www.imdb.com/title/tt38681832/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Colors%20of%20Evil%3A%20Black",
         "metacritic": "https://www.metacritic.com/search/Colors%20of%20Evil%3A%20Black/"
-      }
-    },
-    {
-      "tmdb_id": 1275779,
-      "imdb_id": "tt15047880",
-      "titulo_original": "Disclosure Day",
-      "titulo_ingles": "Disclosure Day",
-      "ano": 2026,
-      "data_lancamento": "2026-06-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "A existência de vida extraterrestre torna-se uma realidade inegável para todos os habitantes da Terra em um único instante. O mundo entra em colapso quando uma meteorologista, em plena transmissão ao vivo, é dominada por uma força invisível, perdendo a fala e emitindo sons perturbadores. Enquanto fenômenos inexplicáveis e sinais de controle mental em massa se espalham, um informante tenta expor segredos governamentais guardados por décadas. Diante da prova definitiva de que a humanidade não está sozinha, o pânico e o fascínio tomam conta de uma civilização confrontada pelo desconhecido.",
-      "elenco": [
-        "Emily Blunt",
-        "Josh O'Connor",
-        "Colin Firth",
-        "Colman Domingo",
-        "Eve Hewson",
-        "Wyatt Russell",
-        "Elizabeth Marvel",
-        "Henry Lloyd-Hughes"
-      ],
-      "diretor": "Steven Spielberg",
-      "generos": [
-        "Ficção científica",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/5e8BQ6RP3GRPz45yno1jjlXu56.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "ko",
-        "ru"
-      ],
-      "duracao": 145,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt15047880/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Disclosure%20Day",
-        "metacritic": "https://www.metacritic.com/search/Disclosure%20Day/"
       }
     },
     {
@@ -1343,71 +1525,6 @@
       }
     },
     {
-      "tmdb_id": 1628367,
-      "imdb_id": "tt39664733",
-      "titulo_original": "कर्त्तव्य",
-      "titulo_ingles": "Kartavya",
-      "ano": 2026,
-      "data_lancamento": "2026-05-15",
-      "data_qualificacao": "",
-      "sinopse_pt": "Com a segurança da família em risco e diante de ameaças iminentes, um policial precisa decidir o quanto está disposto a sacrificar em nome do dever.",
-      "elenco": [
-        "सैफ़ अली ख़ान",
-        "रसिका दुग्गल",
-        "Sanjay Mishra",
-        "Saurabh Dwivedi",
-        "Zakir Hussain",
-        "Manish Chaudhary",
-        "Durgesh Kumar",
-        "Saharsh Kumar Shukla"
-      ],
-      "diretor": "Pulkit",
-      "generos": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/tVJVueBmMmGwuel02Z8XeudNoq4.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 109,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1628367/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39664733/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kartavya",
-        "metacritic": "https://www.metacritic.com/search/Kartavya/"
-      }
-    },
-    {
       "tmdb_id": 1684226,
       "imdb_id": "tt42192201",
       "titulo_original": "Bruid van die Jaar",
@@ -1474,6 +1591,114 @@
       }
     },
     {
+      "tmdb_id": 1628367,
+      "imdb_id": "tt39664733",
+      "titulo_original": "कर्त्तव्य",
+      "titulo_ingles": "Kartavya",
+      "ano": 2026,
+      "data_lancamento": "2026-05-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "Com a segurança da família em risco e diante de ameaças iminentes, um policial precisa decidir o quanto está disposto a sacrificar em nome do dever.",
+      "elenco": [
+        "सैफ़ अली ख़ान",
+        "रसिका दुग्गल",
+        "Sanjay Mishra",
+        "Saurabh Dwivedi",
+        "Zakir Hussain",
+        "Manish Chaudhary",
+        "Durgesh Kumar",
+        "Saharsh Kumar Shukla"
+      ],
+      "diretor": "Pulkit",
+      "generos": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/tVJVueBmMmGwuel02Z8XeudNoq4.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 109,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1628367/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39664733/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kartavya",
+        "metacritic": "https://www.metacritic.com/search/Kartavya/"
+      }
+    },
+    {
+      "tmdb_id": 1693346,
+      "imdb_id": "tt42615436",
+      "titulo_original": "Apple Music Live: Lady Gaga MAYHEM Requiem",
+      "titulo_ingles": "Apple Music Live: Lady Gaga MAYHEM Requiem",
+      "ano": 2026,
+      "data_lancamento": "2026-05-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "Para o Apple Music Live, Lady Gaga apresenta MAYHEM Requiem, uma celebração e releitura musical de MAYHEM.",
+      "elenco": [
+        "Lady Gaga"
+      ],
+      "diretor": "Morningview",
+      "generos": [
+        "Música"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/5qJgfeZRcz6EOi6zUb9tpSlmDni.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 68,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt42615436/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Apple%20Music%20Live%3A%20Lady%20Gaga%20MAYHEM%20Requiem",
+        "metacritic": "https://www.metacritic.com/search/Apple%20Music%20Live%3A%20Lady%20Gaga%20MAYHEM%20Requiem/"
+      }
+    },
+    {
       "tmdb_id": 1662317,
       "imdb_id": "tt40792117",
       "titulo_original": "The Crash",
@@ -1535,49 +1760,6 @@
         "imdb": "https://www.imdb.com/title/tt40792117/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Crash",
         "metacritic": "https://www.metacritic.com/search/The%20Crash/"
-      }
-    },
-    {
-      "tmdb_id": 1693346,
-      "imdb_id": "tt42615436",
-      "titulo_original": "Apple Music Live: Lady Gaga MAYHEM Requiem",
-      "titulo_ingles": "Apple Music Live: Lady Gaga MAYHEM Requiem",
-      "ano": 2026,
-      "data_lancamento": "2026-05-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "Para o Apple Music Live, Lady Gaga apresenta MAYHEM Requiem, uma celebração e releitura musical de MAYHEM.",
-      "elenco": [
-        "Lady Gaga"
-      ],
-      "diretor": "Morningview",
-      "generos": [
-        "Música"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/5qJgfeZRcz6EOi6zUb9tpSlmDni.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 68,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt42615436/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Apple%20Music%20Live%3A%20Lady%20Gaga%20MAYHEM%20Requiem",
-        "metacritic": "https://www.metacritic.com/search/Apple%20Music%20Live%3A%20Lady%20Gaga%20MAYHEM%20Requiem/"
       }
     },
     {
@@ -1798,6 +1980,66 @@
       }
     },
     {
+      "tmdb_id": 1439930,
+      "imdb_id": "tt36042156",
+      "titulo_original": "The Punisher: One Last Kill",
+      "titulo_ingles": "The Punisher: One Last Kill",
+      "ano": 2026,
+      "data_lancamento": "2026-05-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "Enquanto Frank Castle busca um significado além da vingança, uma força inesperada o arrasta de volta para a luta.",
+      "elenco": [
+        "Jon Bernthal",
+        "Deborah Ann Woll",
+        "Jason R. Moore",
+        "Judith Light",
+        "Kelli Barrett",
+        "Andre Royo",
+        "John Douglas Thompson",
+        "Colton Hill"
+      ],
+      "diretor": "Reinaldo Marcus Green",
+      "generos": [
+        "Ação",
+        "Drama",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 51,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1439930-the-punisher-one-last-kill/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36042156/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Punisher%3A%20One%20Last%20Kill",
+        "metacritic": "https://www.metacritic.com/search/The%20Punisher%3A%20One%20Last%20Kill/"
+      }
+    },
+    {
       "tmdb_id": 1442669,
       "imdb_id": "tt37163509",
       "titulo_original": "La Vénus électrique",
@@ -1915,66 +2157,6 @@
       }
     },
     {
-      "tmdb_id": 1439930,
-      "imdb_id": "tt36042156",
-      "titulo_original": "The Punisher: One Last Kill",
-      "titulo_ingles": "The Punisher: One Last Kill",
-      "ano": 2026,
-      "data_lancamento": "2026-05-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "Enquanto Frank Castle busca um significado além da vingança, uma força inesperada o arrasta de volta para a luta.",
-      "elenco": [
-        "Jon Bernthal",
-        "Deborah Ann Woll",
-        "Jason R. Moore",
-        "Judith Light",
-        "Kelli Barrett",
-        "Andre Royo",
-        "John Douglas Thompson",
-        "Colton Hill"
-      ],
-      "diretor": "Reinaldo Marcus Green",
-      "generos": [
-        "Ação",
-        "Drama",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 51,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1439930-the-punisher-one-last-kill/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36042156/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Punisher%3A%20One%20Last%20Kill",
-        "metacritic": "https://www.metacritic.com/search/The%20Punisher%3A%20One%20Last%20Kill/"
-      }
-    },
-    {
       "tmdb_id": 1620034,
       "imdb_id": "tt39382052",
       "titulo_original": "Marty, Life Is Short",
@@ -2035,69 +2217,6 @@
         "imdb": "https://www.imdb.com/title/tt39382052/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Marty%2C%20Life%20Is%20Short",
         "metacritic": "https://www.metacritic.com/search/Marty%2C%20Life%20Is%20Short/"
-      }
-    },
-    {
-      "tmdb_id": 1658982,
-      "imdb_id": "tt40898187",
-      "titulo_original": "The Roast of Kevin Hart",
-      "titulo_ingles": "The Roast of Kevin Hart",
-      "ano": 2026,
-      "data_lancamento": "2026-05-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Kevin Hart está preparado para ser alvo de piadas sem filtro e sem piedade, em uma noite apresentada pelo mestre das fritadas Shane Gillis e convidados ilustres.",
-      "elenco": [
-        "Kevin Hart",
-        "Shane Gillis",
-        "Dwayne Johnson",
-        "Tony Hinchcliffe",
-        "Jeff Ross",
-        "Tom Brady",
-        "Usher",
-        "Chelsea Handler"
-      ],
-      "diretor": "Beth McCarthy-Miller",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 172,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1658982-the-roast-of-kevin-hart/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt40898187/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Roast%20of%20Kevin%20Hart",
-        "metacritic": "https://www.metacritic.com/search/The%20Roast%20of%20Kevin%20Hart/"
       }
     },
     {
@@ -2180,6 +2299,69 @@
         "imdb": "https://www.imdb.com/title/tt32801387/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Thieves%20Highway",
         "metacritic": "https://www.metacritic.com/search/Thieves%20Highway/"
+      }
+    },
+    {
+      "tmdb_id": 1658982,
+      "imdb_id": "tt40898187",
+      "titulo_original": "The Roast of Kevin Hart",
+      "titulo_ingles": "The Roast of Kevin Hart",
+      "ano": 2026,
+      "data_lancamento": "2026-05-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "Kevin Hart está preparado para ser alvo de piadas sem filtro e sem piedade, em uma noite apresentada pelo mestre das fritadas Shane Gillis e convidados ilustres.",
+      "elenco": [
+        "Kevin Hart",
+        "Shane Gillis",
+        "Dwayne Johnson",
+        "Tony Hinchcliffe",
+        "Jeff Ross",
+        "Tom Brady",
+        "Usher",
+        "Chelsea Handler"
+      ],
+      "diretor": "Beth McCarthy-Miller",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 172,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1658982-the-roast-of-kevin-hart/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt40898187/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Roast%20of%20Kevin%20Hart",
+        "metacritic": "https://www.metacritic.com/search/The%20Roast%20of%20Kevin%20Hart/"
       }
     },
     {
@@ -2371,57 +2553,6 @@
       }
     },
     {
-      "tmdb_id": 1515899,
-      "imdb_id": "tt39018643",
-      "titulo_original": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
-      "titulo_ingles": "Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D)",
-      "ano": 2026,
-      "data_lancamento": "2026-05-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "Codirigido por Billie Eilish em parceria com o visionário cineasta James Cameron, o longa traz performances ao vivo em 3D de hits como “LUNCH”, “Birds of a Feather” e “CHIHIRO”, além de contar um pouco dos bastidores da turnê do álbum \"HIT ME HARD AND SOFT\".",
-      "elenco": [
-        "Billie Eilish",
-        "FINNEAS",
-        "Andrew Marshall",
-        "Solomon Smith",
-        "Abraham Nouri",
-        "Tom Crouch",
-        "Jane Horner",
-        "Ava Horner"
-      ],
-      "diretor": "James Cameron, Billie Eilish",
-      "generos": [
-        "Música",
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uXY2G2BaqiqiPehRlDBCik6w01x.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 114,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39018643/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Billie%20Eilish%20-%20Hit%20Me%20Hard%20and%20Soft%3A%20The%20Tour%20(Live%20in%203D)",
-        "metacritic": "https://www.metacritic.com/search/Billie%20Eilish%20-%20Hit%20Me%20Hard%20and%20Soft%3A%20The%20Tour%20(Live%20in%203D)/"
-      }
-    },
-    {
       "tmdb_id": 931285,
       "imdb_id": "tt17490712",
       "titulo_original": "Mortal Kombat II",
@@ -2539,166 +2670,6 @@
       }
     },
     {
-      "tmdb_id": 1369286,
-      "imdb_id": "tt34477890",
-      "titulo_original": "C’est quoi l’amour ?",
-      "titulo_ingles": "What is Love?",
-      "ano": 2026,
-      "data_lancamento": "2026-05-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Laure Calamy",
-        "Vincent Macaigne",
-        "Lyes Salem",
-        "Mélanie Thierry",
-        "Céleste Brunnquell",
-        "Saül Benchetrit",
-        "Grégoire Leprince-Ringuet",
-        "Jean-Marc Barr"
-      ],
-      "diretor": "Fabien Gorgeart",
-      "generos": [
-        "Comédia",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/m5afVTwwWKclUCjSABwdd5EVatV.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 100,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34477890/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=What%20is%20Love%3F",
-        "metacritic": "https://www.metacritic.com/search/What%20is%20Love%3F/"
-      }
-    },
-    {
-      "tmdb_id": 1516724,
-      "imdb_id": "tt38607784",
-      "titulo_original": "Pour le plaisir",
-      "titulo_ingles": "Good Vibes Only",
-      "ano": 2026,
-      "data_lancamento": "2026-05-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alexandra Lamy",
-        "François Cluzet",
-        "Mitty Hazanavicius",
-        "Delphine Baril",
-        "François-Xavier Demaison",
-        "Reem Kherici",
-        "Kyan Khojandi",
-        "Camille Aumont Carnel"
-      ],
-      "diretor": "Reem Kherici",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/2cWdr2n7VNrLEAer6hMPASIP7Px.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 95,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38607784/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Good%20Vibes%20Only",
-        "metacritic": "https://www.metacritic.com/search/Good%20Vibes%20Only/"
-      }
-    },
-    {
-      "tmdb_id": 1688652,
-      "imdb_id": "tt42373968",
-      "titulo_original": "Gary",
-      "titulo_ingles": "Gary",
-      "ano": 2026,
-      "data_lancamento": "2026-05-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "Dois amigos encaram uma viagem a trabalho cheia de desafios inesperados. Enquanto resolvem problemas e se conectam com os moradores, a experiência deixa uma marca inesquecível e oferece um novo olhar sobre a amizade deles.",
-      "elenco": [
-        "Ebon Moss-Bachrach",
-        "Jon Bernthal",
-        "Marin Ireland",
-        "Gillian Jacobs",
-        "Nation Sage Henrikson",
-        "T.J. Jagodowski",
-        "Elisha Evans",
-        "Richard Gomez"
-      ],
-      "diretor": "Christopher Storer",
-      "generos": [
-        "Drama",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 60,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1688652-gary/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt42373968/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Gary",
-        "metacritic": "https://www.metacritic.com/search/Gary/"
-      }
-    },
-    {
       "tmdb_id": 539745,
       "imdb_id": "tt2467700",
       "titulo_original": "Animal Farm",
@@ -2730,8 +2701,8 @@
         "GB"
       ],
       "idiomas": [
-        "es",
-        "en"
+        "en",
+        "es"
       ],
       "duracao": 96,
       "rt_critica": 27,
@@ -3298,6 +3269,57 @@
         "imdb": "https://www.imdb.com/title/tt12706836/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Shell",
         "metacritic": "https://www.metacritic.com/search/Shell/"
+      }
+    },
+    {
+      "tmdb_id": 1242426,
+      "imdb_id": "tt34479814",
+      "titulo_original": "Regarde",
+      "titulo_ingles": "See The Sea",
+      "ano": 2025,
+      "data_lancamento": "2025-09-17",
+      "data_qualificacao": "",
+      "sinopse_pt": "Desde o divórcio, Chris e Antoine parecem não concordar em nada, exceto no amor pelo filho de 15 anos, Milo, cujo mundo gira em torno do surfe e de sua paixão de verão, Nina. Prestes a ir passar férias na casa de praia do avô, Milo recebe o diagnóstico de um problema de visão que pode levá-lo à cegueira em breve.",
+      "elenco": [
+        "Audrey Fleurot",
+        "Dany Boon",
+        "Nicolas Marié",
+        "Manon Villa",
+        "Ewan Bourdelles",
+        "Camille Solal",
+        "Amalia Blasco",
+        "Thomas VDB"
+      ],
+      "diretor": "Emmanuel Poulain-Arnaud",
+      "generos": [
+        "Comédia",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/m4HxQLfDzidOLrAisBfDndbq3bY.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 91,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34479814/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=See%20The%20Sea",
+        "metacritic": "https://www.metacritic.com/search/See%20The%20Sea/"
       }
     },
     {
