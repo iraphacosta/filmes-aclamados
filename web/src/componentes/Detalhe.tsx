@@ -17,6 +17,8 @@ import { Sparkline } from "./Sparkline";
 
 interface Props {
   filme: Filme;
+  /** Filme do radar (ainda não no feed): esconde as seções de qualificação. */
+  radar?: boolean;
   ehAssistido: boolean;
   querVer: boolean;
   nota: number | null;
@@ -109,6 +111,7 @@ function NotasCriticos({ filme }: { filme: Filme }) {
 
 export function Detalhe({
   filme,
+  radar = false,
   ehAssistido,
   querVer,
   nota,
@@ -204,7 +207,7 @@ export function Detalhe({
           </aside>
 
           <div className="detalhe__corpo">
-            <SeloCriterio criterio={filme.criterio_qualificacao} />
+            {!radar && <SeloCriterio criterio={filme.criterio_qualificacao} />}
             <h2 className="detalhe__titulo">{filme.titulo_original}</h2>
             {filme.titulo_ingles && filme.titulo_ingles !== filme.titulo_original && (
               <p className="detalhe__titulo-en">{filme.titulo_ingles}</p>
@@ -212,7 +215,11 @@ export function Detalhe({
 
             <div className="detalhe__datas">
               <span><strong>Estreia:</strong> {dataLonga(filme.data_lancamento)}</span>
-              <span><strong>Entrou no feed:</strong> {dataLonga(filme.data_qualificacao)}</span>
+              {radar ? (
+                <span><strong>Status:</strong> aguardando crítica</span>
+              ) : (
+                <span><strong>Entrou no feed:</strong> {dataLonga(filme.data_qualificacao)}</span>
+              )}
             </div>
 
             <div className="detalhe__generos">
@@ -241,19 +248,21 @@ export function Detalhe({
               )}
             </dl>
 
-            <section className="detalhe__evolucao">
-              <h4 className="detalhe__sub">A crítica ao longo do tempo</h4>
-              <div className="vereditos">
-                <PicoAtual rotulo="Rotten Tomatoes" pico={filme.pico_rt} atual={filme.atual_rt} sufixo="%" classe="veredito--rt" />
-                <PicoAtual rotulo="Metacritic" pico={filme.pico_metacritic} atual={filme.atual_metacritic} sufixo="" classe="veredito--mc" />
-              </div>
-              <Sparkline historico={filme.historico} />
-              <div className="legenda">
-                <span><i className="legenda__cor legenda__cor--rt" /> Rotten Tomatoes</span>
-                <span><i className="legenda__cor legenda__cor--mc" /> Metacritic</span>
-                <span className="legenda__limiar">– – critério (65)</span>
-              </div>
-            </section>
+            {!radar && (
+              <section className="detalhe__evolucao">
+                <h4 className="detalhe__sub">A crítica ao longo do tempo</h4>
+                <div className="vereditos">
+                  <PicoAtual rotulo="Rotten Tomatoes" pico={filme.pico_rt} atual={filme.atual_rt} sufixo="%" classe="veredito--rt" />
+                  <PicoAtual rotulo="Metacritic" pico={filme.pico_metacritic} atual={filme.atual_metacritic} sufixo="" classe="veredito--mc" />
+                </div>
+                <Sparkline historico={filme.historico} />
+                <div className="legenda">
+                  <span><i className="legenda__cor legenda__cor--rt" /> Rotten Tomatoes</span>
+                  <span><i className="legenda__cor legenda__cor--mc" /> Metacritic</span>
+                  <span className="legenda__limiar">– – critério (65)</span>
+                </div>
+              </section>
+            )}
 
             <section className="detalhe__disp">
               <h4 className="detalhe__sub">No Brasil</h4>

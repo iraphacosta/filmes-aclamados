@@ -7,13 +7,7 @@ import { NotificacaoCentral } from "./componentes/NotificacaoCentral";
 import { Radar } from "./componentes/Radar";
 import { ScrollTopo } from "./componentes/ScrollTopo";
 import { TemaToggle } from "./componentes/TemaToggle";
-import {
-  carregarCatalogo,
-  carregarRadar,
-  type EstadoDisponibilidade,
-  type Filme,
-  type ItemRadar,
-} from "./dados";
+import { carregarCatalogo, carregarRadar, type EstadoDisponibilidade, type Filme } from "./dados";
 import { nomePais } from "./formato";
 import { plataformasDisponiveis, plataformasDoFilme } from "./plataformas";
 import { useDadosPessoais } from "./favoritos";
@@ -166,7 +160,7 @@ export function App() {
   const [geradoEm, setGeradoEm] = useState<string | null>(null);
   const [carregando, setCarregando] = useState(true);
   const [erro, setErro] = useState<string | null>(null);
-  const [radar, setRadar] = useState<ItemRadar[]>([]);
+  const [radar, setRadar] = useState<Filme[]>([]);
   const [aba, setAba] = useState<"feed" | "radar">("feed");
 
   const [busca, setBusca] = useState("");
@@ -196,7 +190,7 @@ export function App() {
   }, []);
 
   useEffect(() => {
-    carregarRadar().then(({ itens }) => setRadar(itens)).catch(() => {});
+    carregarRadar().then(({ filmes }) => setRadar(filmes)).catch(() => {});
   }, []);
 
   useEffect(() => {
@@ -294,7 +288,12 @@ export function App() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
-  const aberto = abertoId != null ? filmes.find((f) => f.tmdb_id === abertoId) ?? null : null;
+  const aberto =
+    abertoId != null
+      ? (filmes.find((f) => f.tmdb_id === abertoId) ?? radar.find((f) => f.tmdb_id === abertoId) ?? null)
+      : null;
+  // Filme do radar (ainda não no feed): a ficha esconde as seções de qualificação.
+  const abertoEhRadar = aberto != null && !filmes.some((f) => f.tmdb_id === aberto.tmdb_id);
 
   return (
     <div className="app">
@@ -340,7 +339,7 @@ export function App() {
           </button>
         </nav>
 
-        {aba === "radar" && <Radar itens={radar} />}
+        {aba === "radar" && <Radar filmes={radar} onAbrir={(id) => setAbertoId(id)} />}
 
         {aba === "feed" && (
           <>
@@ -414,6 +413,7 @@ export function App() {
       {aberto && (
         <Detalhe
           filme={aberto}
+          radar={abertoEhRadar}
           ehAssistido={pessoal.ehAssistido(aberto.tmdb_id)}
           querVer={pessoal.querVer(aberto.tmdb_id)}
           nota={pessoal.notaDe(aberto.tmdb_id)}

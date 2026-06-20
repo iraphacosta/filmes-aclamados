@@ -23,8 +23,9 @@ import {
   type LinksExternos,
   type RegistroHistorico,
 } from "../../compartilhado/src/index";
-import { carregarCatalogo, carregarFila, salvarCatalogo, salvarFila } from "./catalogo";
+import { carregarCatalogo, carregarFila, salvarCatalogo, salvarFila, salvarRadar } from "./catalogo";
 import { buscarNotas, configurarOmdb, type NotasOmdb } from "./omdb";
+import { gerarRadar } from "./radar";
 import {
   buscarImdbId,
   buscarMetadados,
@@ -272,6 +273,18 @@ async function main(): Promise<void> {
   // 8. Grava
   await salvarCatalogo(catalogo);
   await salvarFila(estado);
+
+  // Radar: lançamentos recentes na fila, enriquecidos com a ficha do TMDb
+  // (pôster + ficha no front). Falha aqui não derruba a coleta já gravada.
+  try {
+    const idsCatalogo = new Set(catalogo.filmes.map((f) => f.tmdb_id));
+    const radar = await gerarRadar(estado.fila, idsCatalogo, dia);
+    await salvarRadar(radar);
+    console.log(`  Radar: ${radar.length} lançamento(s) recente(s) com ficha.`);
+  } catch (e) {
+    console.warn(`  (aviso) radar não gerado: ${String(e)}`);
+  }
+
   console.log(`\nPronto. Feed: ${catalogo.filmes.length} filme(s). Fila: ${estado.fila.length}.`);
 }
 

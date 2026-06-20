@@ -25,35 +25,24 @@ export async function carregarCatalogo(): Promise<CatalogoCarregado> {
   return { filmes: dados.filmes ?? [], geradoEm: dados.gerado_em ?? null };
 }
 
-/** Um lançamento recente ainda na fila (aguardando RT/Metacritic ≥ 65). */
-export interface ItemRadar {
-  tmdb_id: number;
-  imdb_id: string | null;
-  titulo: string;
-  data_lancamento: string;
-  /** Última nota vista (ainda abaixo de 65), ou null se a OMDb não tinha. */
-  rt: number | null;
-  mc: number | null;
-  descoberto_em: string | null;
-}
-
 export interface RadarCarregado {
-  itens: ItemRadar[];
+  filmes: Filme[];
   geradoEm: string | null;
 }
 
 /**
- * Carrega o "radar.json" derivado da fila no build. Falhas (404 num deploy
- * antigo, JSON inválido) não quebram o app — apenas devolvem um radar vazio.
+ * Carrega o "radar.json" (lançamentos recentes na fila, com ficha completa,
+ * gerado pelo robô). Falhas (404 num deploy antigo, JSON inválido) não quebram
+ * o app — apenas devolvem um radar vazio.
  */
 export async function carregarRadar(): Promise<RadarCarregado> {
   const url = `${import.meta.env.BASE_URL}radar.json?v=${Date.now()}`;
   try {
     const resp = await fetch(url);
-    if (!resp.ok) return { itens: [], geradoEm: null };
-    const dados = (await resp.json()) as { filmes?: ItemRadar[]; gerado_em?: string };
-    return { itens: dados.filmes ?? [], geradoEm: dados.gerado_em ?? null };
+    if (!resp.ok) return { filmes: [], geradoEm: null };
+    const dados = (await resp.json()) as { filmes?: Filme[]; gerado_em?: string };
+    return { filmes: dados.filmes ?? [], geradoEm: dados.gerado_em ?? null };
   } catch {
-    return { itens: [], geradoEm: null };
+    return { filmes: [], geradoEm: null };
   }
 }

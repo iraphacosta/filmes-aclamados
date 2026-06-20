@@ -10,6 +10,7 @@ const DIR_DADOS = path.join(RAIZ, "dados");
 
 export const CAMINHO_CATALOGO = path.join(DIR_DADOS, "catalogo.json");
 export const CAMINHO_FILA = path.join(DIR_DADOS, "fila.json");
+export const CAMINHO_RADAR = path.join(DIR_DADOS, "radar.json");
 
 async function lerJson<T>(caminho: string, padrao: T): Promise<T> {
   try {
@@ -66,4 +67,10 @@ export async function salvarFila(estado: EstadoFila): Promise<void> {
     atualizado_em: new Date().toISOString(),
   };
   await writeFile(CAMINHO_FILA, JSON.stringify(saida, null, 2) + "\n", "utf8");
+}
+
+/** Grava o radar.json (lançamentos recentes na fila, com ficha completa do TMDb). */
+export async function salvarRadar(filmes: Filme[]): Promise<void> {
+  const saida = { versao: 1, gerado_em: new Date().toISOString(), filmes };
+  await writeFile(CAMINHO_RADAR, JSON.stringify(saida, null, 2) + "\n", "utf8");
 }
