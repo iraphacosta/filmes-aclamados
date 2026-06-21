@@ -1,7 +1,177 @@
 {
   "versao": 1,
-  "gerado_em": "2026-06-20T11:29:28.682Z",
+  "gerado_em": "2026-06-21T11:59:17.067Z",
   "filmes": [
+    {
+      "tmdb_id": 614945,
+      "imdb_id": "tt10375624",
+      "titulo_original": "Voicemails for Isabelle",
+      "titulo_ingles": "Voicemails for Isabelle",
+      "ano": 2026,
+      "data_lancamento": "2026-06-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "As mensagens de voz sinceronas de uma jovem para a irmã falecida acabam sendo enviadas para um estranho, que começa a se apaixonar por ela mesmo de longe.",
+      "elenco": [
+        "Zoey Deutch",
+        "Nick Robinson",
+        "Ciara Bravo",
+        "Nick Offerman",
+        "Leah McKendrick",
+        "Harry Shum Jr.",
+        "Lukas Gage",
+        "Toby Sandeman"
+      ],
+      "diretor": "Leah McKendrick",
+      "generos": [
+        "Romance",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/nf7N5j407xPTOEPG0feJJbKFNRd.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 119,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/614945-voicemails-for-isabelle/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt10375624/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Voicemails%20for%20Isabelle",
+        "metacritic": "https://www.metacritic.com/search/Voicemails%20for%20Isabelle/"
+      }
+    },
+    {
+      "tmdb_id": 1716513,
+      "imdb_id": "tt43140112",
+      "titulo_original": "Extreme Makeover: Homer Edition",
+      "titulo_ingles": "Extreme Makeover: Homer Edition",
+      "ano": 2026,
+      "data_lancamento": "2026-06-17",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Dan Castellaneta",
+        "Julie Kavner",
+        "Nancy Cartwright",
+        "Yeardley Smith",
+        "Harry Shearer",
+        "Hank Azaria",
+        "Betty Gilpin",
+        "Jon Hamm"
+      ],
+      "diretor": "Matthew Nastuk, Timothy Bailey",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Família"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vim76mMXig00YRxN2iGYJASoGkP.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 48,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43140112/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Extreme%20Makeover%3A%20Homer%20Edition",
+        "metacritic": "https://www.metacritic.com/search/Extreme%20Makeover%3A%20Homer%20Edition/"
+      }
+    },
+    {
+      "tmdb_id": 1084244,
+      "imdb_id": "tt29355505",
+      "titulo_original": "Toy Story 5",
+      "titulo_ingles": "Toy Story 5",
+      "ano": 2026,
+      "data_lancamento": "2026-06-17",
+      "data_qualificacao": "",
+      "sinopse_pt": "O trabalho de Buzz, Woody, Jessie e do resto da gangue fica exponencialmente mais difícil quando eles enfrentam uma nova ameaça à diversão: a tecnologia.",
+      "elenco": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Joan Cusack",
+        "Greta Lee",
+        "Conan O'Brien",
+        "Craig Robinson",
+        "Shelby Rabara",
+        "Tony Hale"
+      ],
+      "diretor": "Andrew Stanton",
+      "generos": [
+        "Animação",
+        "Família",
+        "Comédia",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/iwEuq51BV59mm2LgZ42bWgPgagW.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "es"
+      ],
+      "duracao": 100,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt29355505/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toy%20Story%205",
+        "metacritic": "https://www.metacritic.com/search/Toy%20Story%205/"
+      }
+    },
     {
       "tmdb_id": 1477317,
       "imdb_id": "tt36958376",
@@ -66,60 +236,6 @@
         "imdb": "https://www.imdb.com/title/tt36958376/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Your%20Fault%3A%20London",
         "metacritic": "https://www.metacritic.com/search/Your%20Fault%3A%20London/"
-      }
-    },
-    {
-      "tmdb_id": 1084244,
-      "imdb_id": "tt29355505",
-      "titulo_original": "Toy Story 5",
-      "titulo_ingles": "Toy Story 5",
-      "ano": 2026,
-      "data_lancamento": "2026-06-17",
-      "data_qualificacao": "",
-      "sinopse_pt": "O trabalho de Buzz, Woody, Jessie e do resto da gangue fica exponencialmente mais difícil quando eles enfrentam uma nova ameaça à diversão: a tecnologia.",
-      "elenco": [
-        "Tom Hanks",
-        "Tim Allen",
-        "Joan Cusack",
-        "Greta Lee",
-        "Conan O'Brien",
-        "Craig Robinson",
-        "Shelby Rabara",
-        "Tony Hale"
-      ],
-      "diretor": "Andrew Stanton",
-      "generos": [
-        "Animação",
-        "Família",
-        "Comédia",
-        "Aventura"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/iwEuq51BV59mm2LgZ42bWgPgagW.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "es"
-      ],
-      "duracao": 100,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt29355505/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toy%20Story%205",
-        "metacritic": "https://www.metacritic.com/search/Toy%20Story%205/"
       }
     },
     {
@@ -360,58 +476,6 @@
       }
     },
     {
-      "tmdb_id": 1668499,
-      "imdb_id": "tt42575634",
-      "titulo_original": "Le Vertige",
-      "titulo_ingles": "Vertiginous",
-      "ano": 2026,
-      "data_lancamento": "2026-06-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alain Chabat",
-        "Jonathan Cohen",
-        "Anaïs Demoustier",
-        "Jean-Marie Winling",
-        "Jean-Christophe Le Guennan",
-        "Oscar Vercken de Vreuschmen",
-        "Coco Dupieux",
-        "Anna-Marie Filippi"
-      ],
-      "diretor": "Quentin Dupieux",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qO8nc3cSjzGduaC0deh8gBRKK9Z.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt42575634/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vertiginous",
-        "metacritic": "https://www.metacritic.com/search/Vertiginous/"
-      }
-    },
-    {
       "tmdb_id": 1560681,
       "imdb_id": "tt38681832",
       "titulo_original": "Kolory zła: Czerń",
@@ -477,37 +541,38 @@
       }
     },
     {
-      "tmdb_id": 1083884,
-      "imdb_id": "tt21109170",
-      "titulo_original": "Signal One",
-      "titulo_ingles": "Signal One",
+      "tmdb_id": 1668499,
+      "imdb_id": "tt42575634",
+      "titulo_original": "Le Vertige",
+      "titulo_ingles": "Vertiginous",
       "ano": 2026,
-      "data_lancamento": "2026-06-05",
+      "data_lancamento": "2026-06-10",
       "data_qualificacao": "",
-      "sinopse_pt": "Uma cientista da computação é recrutada por um bilionário da tecnologia para trabalhar em um projeto que pode mudar o lugar da humanidade no universo.",
+      "sinopse_pt": "",
       "elenco": [
-        "Isabelle Fuhrman",
-        "Josh Hutcherson",
-        "David Thewlis",
-        "Dennis Quaid",
-        "Vanessa Smythe",
-        "Kiera Allen",
-        "Raoul Bhaneja",
-        "Ronnie James Hughes"
+        "Alain Chabat",
+        "Jonathan Cohen",
+        "Anaïs Demoustier",
+        "Jean-Marie Winling",
+        "Jean-Christophe Le Guennan",
+        "Oscar Vercken de Vreuschmen",
+        "Coco Dupieux",
+        "Anna-Marie Filippi"
       ],
-      "diretor": "Jonathan Sobol",
+      "diretor": "Quentin Dupieux",
       "generos": [
-        "Mistério",
+        "Animação",
+        "Comédia",
         "Ficção científica"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qO8nc3cSjzGduaC0deh8gBRKK9Z.jpg",
       "pais": [
-        "CA"
+        "FR"
       ],
       "idiomas": [
-        "en"
+        "fr"
       ],
-      "duracao": 112,
+      "duracao": 0,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -522,9 +587,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt21109170/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Signal%20One",
-        "metacritic": "https://www.metacritic.com/search/Signal%20One/"
+        "imdb": "https://www.imdb.com/title/tt42575634/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vertiginous",
+        "metacritic": "https://www.metacritic.com/search/Vertiginous/"
       }
     },
     {
@@ -644,6 +709,57 @@
       }
     },
     {
+      "tmdb_id": 1083884,
+      "imdb_id": "tt21109170",
+      "titulo_original": "Signal One",
+      "titulo_ingles": "Signal One",
+      "ano": 2026,
+      "data_lancamento": "2026-06-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma cientista da computação é recrutada por um bilionário da tecnologia para trabalhar em um projeto que pode mudar o lugar da humanidade no universo.",
+      "elenco": [
+        "Isabelle Fuhrman",
+        "Josh Hutcherson",
+        "David Thewlis",
+        "Dennis Quaid",
+        "Vanessa Smythe",
+        "Kiera Allen",
+        "Raoul Bhaneja",
+        "Ronnie James Hughes"
+      ],
+      "diretor": "Jonathan Sobol",
+      "generos": [
+        "Mistério",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
+      "pais": [
+        "CA"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 112,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt21109170/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Signal%20One",
+        "metacritic": "https://www.metacritic.com/search/Signal%20One/"
+      }
+    },
+    {
       "tmdb_id": 1358005,
       "imdb_id": "tt33397980",
       "titulo_original": "Office Romance",
@@ -705,6 +821,61 @@
         "imdb": "https://www.imdb.com/title/tt33397980/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Office%20Romance",
         "metacritic": "https://www.metacritic.com/search/Office%20Romance/"
+      }
+    },
+    {
+      "tmdb_id": 1693002,
+      "imdb_id": "tt42192165",
+      "titulo_original": "The Murder of Rachel Nickell",
+      "titulo_ingles": "The Murder of Rachel Nickell",
+      "ano": 2026,
+      "data_lancamento": "2026-06-04",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma jovem mãe é assassinada em plena luz do dia no parque Wimbledon Common, em Londres, na frente de seu filho pequeno. Este documentário examina o caso de assassinato que se arrastou por anos.",
+      "elenco": [],
+      "diretor": "Lucy Bowden",
+      "generos": [
+        "Documentário",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/ArCOJVC5fYvmsxEyzoxvgugJnon.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 96,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1693002-the-murder-of-rachel-nickell/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt42192165/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Murder%20of%20Rachel%20Nickell",
+        "metacritic": "https://www.metacritic.com/search/The%20Murder%20of%20Rachel%20Nickell/"
       }
     },
     {
@@ -864,57 +1035,6 @@
       }
     },
     {
-      "tmdb_id": 1057265,
-      "imdb_id": "tt23865918",
-      "titulo_original": "పెద్ది",
-      "titulo_ingles": "Peddi",
-      "ano": 2026,
-      "data_lancamento": "2026-06-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Ram Charan",
-        "Janhvi Kapoor",
-        "Shivaraj Kumar",
-        "Jagapati Babu",
-        "दिव्येंदु शर्मा",
-        "Rajatabha Dutta",
-        "Dayanand Reddy",
-        "Upendra Limaye"
-      ],
-      "diretor": "Buchi Babu Sana",
-      "generos": [
-        "Ação",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "te"
-      ],
-      "duracao": 192,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt23865918/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Peddi",
-        "metacritic": "https://www.metacritic.com/search/Peddi/"
-      }
-    },
-    {
       "tmdb_id": 1165366,
       "imdb_id": "tt28553375",
       "titulo_original": "La Bataille de Gaulle : L’âge de fer",
@@ -966,6 +1086,57 @@
         "imdb": "https://www.imdb.com/title/tt28553375/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=De%20Gaulle%3A%20R%C3%A9sistance",
         "metacritic": "https://www.metacritic.com/search/De%20Gaulle%3A%20R%C3%A9sistance/"
+      }
+    },
+    {
+      "tmdb_id": 1057265,
+      "imdb_id": "tt23865918",
+      "titulo_original": "పెద్ది",
+      "titulo_ingles": "Peddi",
+      "ano": 2026,
+      "data_lancamento": "2026-06-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Ram Charan",
+        "Janhvi Kapoor",
+        "Shivaraj Kumar",
+        "Jagapati Babu",
+        "दिव्येंदु शर्मा",
+        "Rajatabha Dutta",
+        "Dayanand Reddy",
+        "Upendra Limaye"
+      ],
+      "diretor": "Buchi Babu Sana",
+      "generos": [
+        "Ação",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "te"
+      ],
+      "duracao": 192,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt23865918/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Peddi",
+        "metacritic": "https://www.metacritic.com/search/Peddi/"
       }
     },
     {
@@ -1242,57 +1413,6 @@
       }
     },
     {
-      "tmdb_id": 1368314,
-      "imdb_id": "tt33763941",
-      "titulo_original": "Passenger",
-      "titulo_ingles": "Passenger",
-      "ano": 2026,
-      "data_lancamento": "2026-05-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "Durante uma viagem de van, um jovem casal presencia um acidente terrível que resulta na morte do motorista. Logo, eles passam a ser perseguidos por uma entidade demoníaca, de quem é impossível escapar e que os segue por onde quer que vão.",
-      "elenco": [
-        "Lou Llobell",
-        "Jacob Scipio",
-        "Melissa Leo",
-        "Joseph Lopez",
-        "Tony Doupe",
-        "Bonni Dichone",
-        "Devielle Johnson",
-        "Jessica Cruz"
-      ],
-      "diretor": "André Øvredal",
-      "generos": [
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/aSoOiatgMmXtDS3iwWD5hC2Rbyn.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 94,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33763941/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Passenger",
-        "metacritic": "https://www.metacritic.com/search/Passenger/"
-      }
-    },
-    {
       "tmdb_id": 1228710,
       "imdb_id": "tt30825738",
       "titulo_original": "The Mandalorian and Grogu",
@@ -1342,6 +1462,57 @@
         "imdb": "https://www.imdb.com/title/tt30825738/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Mandalorian%20and%20Grogu",
         "metacritic": "https://www.metacritic.com/search/The%20Mandalorian%20and%20Grogu/"
+      }
+    },
+    {
+      "tmdb_id": 1368314,
+      "imdb_id": "tt33763941",
+      "titulo_original": "Passenger",
+      "titulo_ingles": "Passenger",
+      "ano": 2026,
+      "data_lancamento": "2026-05-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "Durante uma viagem de van, um jovem casal presencia um acidente terrível que resulta na morte do motorista. Logo, eles passam a ser perseguidos por uma entidade demoníaca, de quem é impossível escapar e que os segue por onde quer que vão.",
+      "elenco": [
+        "Lou Llobell",
+        "Jacob Scipio",
+        "Melissa Leo",
+        "Joseph Lopez",
+        "Tony Doupe",
+        "Bonni Dichone",
+        "Devielle Johnson",
+        "Jessica Cruz"
+      ],
+      "diretor": "André Øvredal",
+      "generos": [
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/aSoOiatgMmXtDS3iwWD5hC2Rbyn.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 94,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33763941/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Passenger",
+        "metacritic": "https://www.metacritic.com/search/Passenger/"
       }
     },
     {
@@ -1525,6 +1696,71 @@
       }
     },
     {
+      "tmdb_id": 1628367,
+      "imdb_id": "tt39664733",
+      "titulo_original": "कर्त्तव्य",
+      "titulo_ingles": "Kartavya",
+      "ano": 2026,
+      "data_lancamento": "2026-05-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "Com a segurança da família em risco e diante de ameaças iminentes, um policial precisa decidir o quanto está disposto a sacrificar em nome do dever.",
+      "elenco": [
+        "सैफ़ अली ख़ान",
+        "रसिका दुग्गल",
+        "Sanjay Mishra",
+        "Saurabh Dwivedi",
+        "Zakir Hussain",
+        "Manish Chaudhary",
+        "Durgesh Kumar",
+        "Saharsh Kumar Shukla"
+      ],
+      "diretor": "Pulkit",
+      "generos": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/tVJVueBmMmGwuel02Z8XeudNoq4.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 109,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1628367/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39664733/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kartavya",
+        "metacritic": "https://www.metacritic.com/search/Kartavya/"
+      }
+    },
+    {
       "tmdb_id": 1684226,
       "imdb_id": "tt42192201",
       "titulo_original": "Bruid van die Jaar",
@@ -1588,71 +1824,6 @@
         "imdb": "https://www.imdb.com/title/tt42192201/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Bride%20of%20the%20Year",
         "metacritic": "https://www.metacritic.com/search/Bride%20of%20the%20Year/"
-      }
-    },
-    {
-      "tmdb_id": 1628367,
-      "imdb_id": "tt39664733",
-      "titulo_original": "कर्त्तव्य",
-      "titulo_ingles": "Kartavya",
-      "ano": 2026,
-      "data_lancamento": "2026-05-15",
-      "data_qualificacao": "",
-      "sinopse_pt": "Com a segurança da família em risco e diante de ameaças iminentes, um policial precisa decidir o quanto está disposto a sacrificar em nome do dever.",
-      "elenco": [
-        "सैफ़ अली ख़ान",
-        "रसिका दुग्गल",
-        "Sanjay Mishra",
-        "Saurabh Dwivedi",
-        "Zakir Hussain",
-        "Manish Chaudhary",
-        "Durgesh Kumar",
-        "Saharsh Kumar Shukla"
-      ],
-      "diretor": "Pulkit",
-      "generos": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/tVJVueBmMmGwuel02Z8XeudNoq4.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 109,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1628367/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39664733/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kartavya",
-        "metacritic": "https://www.metacritic.com/search/Kartavya/"
       }
     },
     {
@@ -1980,6 +2151,59 @@
       }
     },
     {
+      "tmdb_id": 1442669,
+      "imdb_id": "tt37163509",
+      "titulo_original": "La Vénus électrique",
+      "titulo_ingles": "La Vénus électrique",
+      "ano": 2026,
+      "data_lancamento": "2026-05-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Pio Marmaï",
+        "Anaïs Demoustier",
+        "Gilles Lellouche",
+        "Vimala Pons",
+        "Gustave Kervern",
+        "Patrice Tépasso",
+        "Madeleine Baudot",
+        "Charline Cerri"
+      ],
+      "diretor": "Pierre Salvadori",
+      "generos": [
+        "Comédia",
+        "Drama",
+        "História"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bpaCAvxvqCNQdoRAjr88MA42YfI.jpg",
+      "pais": [
+        "FR",
+        "BE"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 122,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 45,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 45,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37163509/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=La%20V%C3%A9nus%20%C3%A9lectrique",
+        "metacritic": "https://www.metacritic.com/search/La%20V%C3%A9nus%20%C3%A9lectrique/"
+      }
+    },
+    {
       "tmdb_id": 1439930,
       "imdb_id": "tt36042156",
       "titulo_original": "The Punisher: One Last Kill",
@@ -2037,59 +2261,6 @@
         "imdb": "https://www.imdb.com/title/tt36042156/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Punisher%3A%20One%20Last%20Kill",
         "metacritic": "https://www.metacritic.com/search/The%20Punisher%3A%20One%20Last%20Kill/"
-      }
-    },
-    {
-      "tmdb_id": 1442669,
-      "imdb_id": "tt37163509",
-      "titulo_original": "La Vénus électrique",
-      "titulo_ingles": "La Vénus électrique",
-      "ano": 2026,
-      "data_lancamento": "2026-05-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Pio Marmaï",
-        "Anaïs Demoustier",
-        "Gilles Lellouche",
-        "Vimala Pons",
-        "Gustave Kervern",
-        "Patrice Tépasso",
-        "Madeleine Baudot",
-        "Charline Cerri"
-      ],
-      "diretor": "Pierre Salvadori",
-      "generos": [
-        "Comédia",
-        "Drama",
-        "História"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bpaCAvxvqCNQdoRAjr88MA42YfI.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 122,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 45,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 45,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37163509/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=La%20V%C3%A9nus%20%C3%A9lectrique",
-        "metacritic": "https://www.metacritic.com/search/La%20V%C3%A9nus%20%C3%A9lectrique/"
       }
     },
     {
@@ -2220,6 +2391,69 @@
       }
     },
     {
+      "tmdb_id": 1658982,
+      "imdb_id": "tt40898187",
+      "titulo_original": "The Roast of Kevin Hart",
+      "titulo_ingles": "The Roast of Kevin Hart",
+      "ano": 2026,
+      "data_lancamento": "2026-05-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "Kevin Hart está preparado para ser alvo de piadas sem filtro e sem piedade, em uma noite apresentada pelo mestre das fritadas Shane Gillis e convidados ilustres.",
+      "elenco": [
+        "Kevin Hart",
+        "Shane Gillis",
+        "Dwayne Johnson",
+        "Tony Hinchcliffe",
+        "Jeff Ross",
+        "Tom Brady",
+        "Usher",
+        "Chelsea Handler"
+      ],
+      "diretor": "Beth McCarthy-Miller",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 172,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1658982-the-roast-of-kevin-hart/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt40898187/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Roast%20of%20Kevin%20Hart",
+        "metacritic": "https://www.metacritic.com/search/The%20Roast%20of%20Kevin%20Hart/"
+      }
+    },
+    {
       "tmdb_id": 1293162,
       "imdb_id": "tt32801387",
       "titulo_original": "Thieves Highway",
@@ -2299,69 +2533,6 @@
         "imdb": "https://www.imdb.com/title/tt32801387/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Thieves%20Highway",
         "metacritic": "https://www.metacritic.com/search/Thieves%20Highway/"
-      }
-    },
-    {
-      "tmdb_id": 1658982,
-      "imdb_id": "tt40898187",
-      "titulo_original": "The Roast of Kevin Hart",
-      "titulo_ingles": "The Roast of Kevin Hart",
-      "ano": 2026,
-      "data_lancamento": "2026-05-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Kevin Hart está preparado para ser alvo de piadas sem filtro e sem piedade, em uma noite apresentada pelo mestre das fritadas Shane Gillis e convidados ilustres.",
-      "elenco": [
-        "Kevin Hart",
-        "Shane Gillis",
-        "Dwayne Johnson",
-        "Tony Hinchcliffe",
-        "Jeff Ross",
-        "Tom Brady",
-        "Usher",
-        "Chelsea Handler"
-      ],
-      "diretor": "Beth McCarthy-Miller",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 172,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1658982-the-roast-of-kevin-hart/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt40898187/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Roast%20of%20Kevin%20Hart",
-        "metacritic": "https://www.metacritic.com/search/The%20Roast%20of%20Kevin%20Hart/"
       }
     },
     {
@@ -2493,66 +2664,6 @@
       }
     },
     {
-      "tmdb_id": 1642859,
-      "imdb_id": "tt36163614",
-      "titulo_original": "Iron Maiden: Burning Ambition",
-      "titulo_ingles": "Iron Maiden: Burning Ambition",
-      "ano": 2026,
-      "data_lancamento": "2026-05-07",
-      "data_qualificacao": "",
-      "sinopse_pt": "O longa explora como o Iron Maiden ajudou a moldar um movimento cultural, desafiando visões convencionais sobre o rock e o impacto mais amplo do heavy metal na sociedade e na cultura.",
-      "elenco": [
-        "Steve Harris",
-        "Bruce Dickinson",
-        "Nicko McBrain",
-        "Adrian Smith",
-        "Dave Murray",
-        "Janick Gers",
-        "Blaze Bayley",
-        "Rod Smallwood"
-      ],
-      "diretor": "Malcolm Venville",
-      "generos": [
-        "Documentário",
-        "Música"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/yZqhFJDenLfgF1VygOOCNmAdS1P.jpg",
-      "pais": [
-        "GB",
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Video",
-            "tipo": "aluguel",
-            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1642859-iron-maiden-burning-ambition/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36163614/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Iron%20Maiden%3A%20Burning%20Ambition",
-        "metacritic": "https://www.metacritic.com/search/Iron%20Maiden%3A%20Burning%20Ambition/"
-      }
-    },
-    {
       "tmdb_id": 931285,
       "imdb_id": "tt17490712",
       "titulo_original": "Mortal Kombat II",
@@ -2602,71 +2713,6 @@
         "imdb": "https://www.imdb.com/title/tt17490712/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mortal%20Kombat%20II",
         "metacritic": "https://www.metacritic.com/search/Mortal%20Kombat%20II/"
-      }
-    },
-    {
-      "tmdb_id": 1630423,
-      "imdb_id": "tt39749979",
-      "titulo_original": "เลือดรักนักฆ่า",
-      "titulo_ingles": "My Dearest Assassin",
-      "ano": 2026,
-      "data_lancamento": "2026-05-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "Perseguida por ter um tipo sanguíneo raro, uma jovem encontra proteção nos braços de um assassino perigoso. Juntos, eles lutam para sobreviver.",
-      "elenco": [
-        "พิมพ์ชนก ลือวิเศษไพบูลย์",
-        "ธนภพ ลีรัตนขจร",
-        "ศิวกร อดุลสุทธิกุล",
-        "ชาตโยดม หิรัญยัติ",
-        "ธีรชัย วิมลชัยฤกษ์",
-        "Teerawat Mulvilai",
-        "ชูพงษ์ ช่างปรุง",
-        "เกศริน เอกธวัชกุล"
-      ],
-      "diretor": "Taweewat Wantha",
-      "generos": [
-        "Ação",
-        "Drama",
-        "Romance"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/9ZfPvLEx1xcuTkfAtrVyIbA5Vaw.jpg",
-      "pais": [
-        "TH"
-      ],
-      "idiomas": [
-        "th"
-      ],
-      "duracao": 128,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1630423/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39749979/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Dearest%20Assassin",
-        "metacritic": "https://www.metacritic.com/search/My%20Dearest%20Assassin/"
       }
     },
     {
@@ -2952,55 +2998,6 @@
         "imdb": "https://www.imdb.com/title/tt34685692/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Over%20Your%20Dead%20Body",
         "metacritic": "https://www.metacritic.com/search/Over%20Your%20Dead%20Body/"
-      }
-    },
-    {
-      "tmdb_id": 1309083,
-      "imdb_id": "tt32639175",
-      "titulo_original": "Dolly",
-      "titulo_ingles": "Dolly",
-      "ano": 2026,
-      "data_lancamento": "2026-03-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma jovem chamada Macy luta para sobreviver após ser sequestrada por uma figura monstruosa e perturbada que deseja criá-la como sua filha.",
-      "elenco": [
-        "Max Lindsey",
-        "Fabianne Therese",
-        "Seann William Scott",
-        "Ethan Suplee",
-        "Russ Tiller",
-        "Michalina Scorzelli",
-        "Kate Cobb"
-      ],
-      "diretor": "Rod Blackhurst",
-      "generos": [
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vCeOJ9wpABXDSdqVnZ7jPbgtNUp.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 82,
-      "rt_critica": 61,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 61,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32639175/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Dolly",
-        "metacritic": "https://www.metacritic.com/search/Dolly/"
       }
     },
     {
