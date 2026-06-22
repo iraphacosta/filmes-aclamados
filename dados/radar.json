@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-06-21T11:59:17.067Z",
+  "gerado_em": "2026-06-22T15:03:51.177Z",
   "filmes": [
     {
       "tmdb_id": 614945,
@@ -67,6 +67,70 @@
       }
     },
     {
+      "tmdb_id": 1451344,
+      "imdb_id": "tt36876775",
+      "titulo_original": "남편들",
+      "titulo_ingles": "Husbands in Action",
+      "ano": 2026,
+      "data_lancamento": "2026-06-18",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um detetive se une ao novo marido da ex-esposa para caçar os sequestradores dela. Será que essa dupla inusitada consegue deixar as diferenças de lado em nome do resgate?",
+      "elenco": [
+        "진선규",
+        "Gong Myung",
+        "김지석",
+        "윤경호",
+        "강한나",
+        "Lee Da Hee",
+        "Jeon So Min",
+        "윤아"
+      ],
+      "diretor": "박규태",
+      "generos": [
+        "Comédia",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/mring2SRouYXnlLLRLbXb1tlmM3.jpg",
+      "pais": [
+        "KR"
+      ],
+      "idiomas": [
+        "ko"
+      ],
+      "duracao": 110,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1451344/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36876775/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Husbands%20in%20Action",
+        "metacritic": "https://www.metacritic.com/search/Husbands%20in%20Action/"
+      }
+    },
+    {
       "tmdb_id": 1716513,
       "imdb_id": "tt43140112",
       "titulo_original": "Extreme Makeover: Homer Edition",
@@ -116,60 +180,6 @@
         "imdb": "https://www.imdb.com/title/tt43140112/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Extreme%20Makeover%3A%20Homer%20Edition",
         "metacritic": "https://www.metacritic.com/search/Extreme%20Makeover%3A%20Homer%20Edition/"
-      }
-    },
-    {
-      "tmdb_id": 1084244,
-      "imdb_id": "tt29355505",
-      "titulo_original": "Toy Story 5",
-      "titulo_ingles": "Toy Story 5",
-      "ano": 2026,
-      "data_lancamento": "2026-06-17",
-      "data_qualificacao": "",
-      "sinopse_pt": "O trabalho de Buzz, Woody, Jessie e do resto da gangue fica exponencialmente mais difícil quando eles enfrentam uma nova ameaça à diversão: a tecnologia.",
-      "elenco": [
-        "Tom Hanks",
-        "Tim Allen",
-        "Joan Cusack",
-        "Greta Lee",
-        "Conan O'Brien",
-        "Craig Robinson",
-        "Shelby Rabara",
-        "Tony Hale"
-      ],
-      "diretor": "Andrew Stanton",
-      "generos": [
-        "Animação",
-        "Família",
-        "Comédia",
-        "Aventura"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/iwEuq51BV59mm2LgZ42bWgPgagW.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "es"
-      ],
-      "duracao": 100,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt29355505/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toy%20Story%205",
-        "metacritic": "https://www.metacritic.com/search/Toy%20Story%205/"
       }
     },
     {
@@ -476,6 +486,58 @@
       }
     },
     {
+      "tmdb_id": 1668499,
+      "imdb_id": "tt42575634",
+      "titulo_original": "Le Vertige",
+      "titulo_ingles": "Vertiginous",
+      "ano": 2026,
+      "data_lancamento": "2026-06-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alain Chabat",
+        "Jonathan Cohen",
+        "Anaïs Demoustier",
+        "Jean-Marie Winling",
+        "Jean-Christophe Le Guennan",
+        "Oscar Vercken de Vreuschmen",
+        "Coco Dupieux",
+        "Anna-Marie Filippi"
+      ],
+      "diretor": "Quentin Dupieux",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qO8nc3cSjzGduaC0deh8gBRKK9Z.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt42575634/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vertiginous",
+        "metacritic": "https://www.metacritic.com/search/Vertiginous/"
+      }
+    },
+    {
       "tmdb_id": 1560681,
       "imdb_id": "tt38681832",
       "titulo_original": "Kolory zła: Czerń",
@@ -538,123 +600,6 @@
         "imdb": "https://www.imdb.com/title/tt38681832/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Colors%20of%20Evil%3A%20Black",
         "metacritic": "https://www.metacritic.com/search/Colors%20of%20Evil%3A%20Black/"
-      }
-    },
-    {
-      "tmdb_id": 1668499,
-      "imdb_id": "tt42575634",
-      "titulo_original": "Le Vertige",
-      "titulo_ingles": "Vertiginous",
-      "ano": 2026,
-      "data_lancamento": "2026-06-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alain Chabat",
-        "Jonathan Cohen",
-        "Anaïs Demoustier",
-        "Jean-Marie Winling",
-        "Jean-Christophe Le Guennan",
-        "Oscar Vercken de Vreuschmen",
-        "Coco Dupieux",
-        "Anna-Marie Filippi"
-      ],
-      "diretor": "Quentin Dupieux",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qO8nc3cSjzGduaC0deh8gBRKK9Z.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt42575634/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vertiginous",
-        "metacritic": "https://www.metacritic.com/search/Vertiginous/"
-      }
-    },
-    {
-      "tmdb_id": 1274706,
-      "imdb_id": "tt32129938",
-      "titulo_original": "La desconocida",
-      "titulo_ingles": "The Marked Woman",
-      "ano": 2026,
-      "data_lancamento": "2026-06-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma mulher é encontrada em um contêiner totalmente sem memória. Agora, dois investigadores correm contra o tempo para descobrir a identidade dela e quem quer matá-la.",
-      "elenco": [
-        "Candela Peña",
-        "Ana Rujas",
-        "Pol López",
-        "Manolo Solo",
-        "Kira Miró",
-        "Esther Noya",
-        "Luka Peroš",
-        "Pilar Nogales"
-      ],
-      "diretor": "Gabe Ibáñez",
-      "generos": [
-        "Thriller",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4RVwOa0lgMIIJNYccEQVvShHUNZ.jpg",
-      "pais": [
-        "AR",
-        "ES"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 109,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1274706-la-desconocida/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32129938/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Marked%20Woman",
-        "metacritic": "https://www.metacritic.com/search/The%20Marked%20Woman/"
       }
     },
     {
@@ -757,6 +702,71 @@
         "imdb": "https://www.imdb.com/title/tt21109170/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Signal%20One",
         "metacritic": "https://www.metacritic.com/search/Signal%20One/"
+      }
+    },
+    {
+      "tmdb_id": 1274706,
+      "imdb_id": "tt32129938",
+      "titulo_original": "La desconocida",
+      "titulo_ingles": "The Marked Woman",
+      "ano": 2026,
+      "data_lancamento": "2026-06-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma mulher é encontrada em um contêiner totalmente sem memória. Agora, dois investigadores correm contra o tempo para descobrir a identidade dela e quem quer matá-la.",
+      "elenco": [
+        "Candela Peña",
+        "Ana Rujas",
+        "Pol López",
+        "Manolo Solo",
+        "Kira Miró",
+        "Esther Noya",
+        "Luka Peroš",
+        "Pilar Nogales"
+      ],
+      "diretor": "Gabe Ibáñez",
+      "generos": [
+        "Thriller",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4RVwOa0lgMIIJNYccEQVvShHUNZ.jpg",
+      "pais": [
+        "AR",
+        "ES"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 109,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1274706-la-desconocida/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32129938/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Marked%20Woman",
+        "metacritic": "https://www.metacritic.com/search/The%20Marked%20Woman/"
       }
     },
     {
@@ -1231,6 +1241,57 @@
       }
     },
     {
+      "tmdb_id": 1694978,
+      "imdb_id": "tt41604789",
+      "titulo_original": "Chum",
+      "titulo_ingles": "Chum",
+      "ano": 2026,
+      "data_lancamento": "2026-05-27",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alice Eve",
+        "Eric Michael Cole",
+        "Jim Klock",
+        "Elle Haymond",
+        "Sarah Siadat",
+        "Johnny Gaffney",
+        "Lisa Yaro",
+        "Vince Jolivette"
+      ],
+      "diretor": "Jonathan Zuck",
+      "generos": [
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uJOW6pWxJ0i5sji9VXRR6Y1wXyE.jpg",
+      "pais": [
+        "US",
+        "MT"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 87,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt41604789/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Chum",
+        "metacritic": "https://www.metacritic.com/search/Chum/"
+      }
+    },
+    {
       "tmdb_id": 1466123,
       "imdb_id": "tt37535559",
       "titulo_original": "L'Objet du délit",
@@ -1445,7 +1506,7 @@
         "en"
       ],
       "duracao": 132,
-      "rt_critica": 60,
+      "rt_critica": 62,
       "rt_publico": null,
       "metacritic": 55,
       "imdb_publico": null,
@@ -1453,7 +1514,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 60,
+      "atual_rt": 62,
       "atual_metacritic": 55,
       "disponibilidade_br": {
         "estado": "cinema"
@@ -1462,57 +1523,6 @@
         "imdb": "https://www.imdb.com/title/tt30825738/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Mandalorian%20and%20Grogu",
         "metacritic": "https://www.metacritic.com/search/The%20Mandalorian%20and%20Grogu/"
-      }
-    },
-    {
-      "tmdb_id": 1368314,
-      "imdb_id": "tt33763941",
-      "titulo_original": "Passenger",
-      "titulo_ingles": "Passenger",
-      "ano": 2026,
-      "data_lancamento": "2026-05-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "Durante uma viagem de van, um jovem casal presencia um acidente terrível que resulta na morte do motorista. Logo, eles passam a ser perseguidos por uma entidade demoníaca, de quem é impossível escapar e que os segue por onde quer que vão.",
-      "elenco": [
-        "Lou Llobell",
-        "Jacob Scipio",
-        "Melissa Leo",
-        "Joseph Lopez",
-        "Tony Doupe",
-        "Bonni Dichone",
-        "Devielle Johnson",
-        "Jessica Cruz"
-      ],
-      "diretor": "André Øvredal",
-      "generos": [
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/aSoOiatgMmXtDS3iwWD5hC2Rbyn.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 94,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33763941/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Passenger",
-        "metacritic": "https://www.metacritic.com/search/Passenger/"
       }
     },
     {
@@ -1577,6 +1587,57 @@
         "imdb": "https://www.imdb.com/title/tt34378301/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Tom%20Clancy's%20Jack%20Ryan%3A%20Ghost%20War",
         "metacritic": "https://www.metacritic.com/search/Tom%20Clancy's%20Jack%20Ryan%3A%20Ghost%20War/"
+      }
+    },
+    {
+      "tmdb_id": 1368314,
+      "imdb_id": "tt33763941",
+      "titulo_original": "Passenger",
+      "titulo_ingles": "Passenger",
+      "ano": 2026,
+      "data_lancamento": "2026-05-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "Durante uma viagem de van, um jovem casal presencia um acidente terrível que resulta na morte do motorista. Logo, eles passam a ser perseguidos por uma entidade demoníaca, de quem é impossível escapar e que os segue por onde quer que vão.",
+      "elenco": [
+        "Lou Llobell",
+        "Jacob Scipio",
+        "Melissa Leo",
+        "Joseph Lopez",
+        "Tony Doupe",
+        "Bonni Dichone",
+        "Devielle Johnson",
+        "Jessica Cruz"
+      ],
+      "diretor": "André Øvredal",
+      "generos": [
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/aSoOiatgMmXtDS3iwWD5hC2Rbyn.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 94,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33763941/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Passenger",
+        "metacritic": "https://www.metacritic.com/search/Passenger/"
       }
     },
     {
@@ -2018,7 +2079,7 @@
         "es"
       ],
       "duracao": 98,
-      "rt_critica": 46,
+      "rt_critica": 49,
       "rt_publico": null,
       "metacritic": 53,
       "imdb_publico": null,
@@ -2026,7 +2087,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 46,
+      "atual_rt": 49,
       "atual_metacritic": 53,
       "disponibilidade_br": {
         "estado": "cinema"
@@ -2151,59 +2212,6 @@
       }
     },
     {
-      "tmdb_id": 1442669,
-      "imdb_id": "tt37163509",
-      "titulo_original": "La Vénus électrique",
-      "titulo_ingles": "La Vénus électrique",
-      "ano": 2026,
-      "data_lancamento": "2026-05-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Pio Marmaï",
-        "Anaïs Demoustier",
-        "Gilles Lellouche",
-        "Vimala Pons",
-        "Gustave Kervern",
-        "Patrice Tépasso",
-        "Madeleine Baudot",
-        "Charline Cerri"
-      ],
-      "diretor": "Pierre Salvadori",
-      "generos": [
-        "Comédia",
-        "Drama",
-        "História"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bpaCAvxvqCNQdoRAjr88MA42YfI.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 122,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 45,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 45,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37163509/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=La%20V%C3%A9nus%20%C3%A9lectrique",
-        "metacritic": "https://www.metacritic.com/search/La%20V%C3%A9nus%20%C3%A9lectrique/"
-      }
-    },
-    {
       "tmdb_id": 1439930,
       "imdb_id": "tt36042156",
       "titulo_original": "The Punisher: One Last Kill",
@@ -2325,6 +2333,59 @@
         "imdb": "https://www.imdb.com/title/tt41777258/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jamie%20Vardy",
         "metacritic": "https://www.metacritic.com/search/Jamie%20Vardy/"
+      }
+    },
+    {
+      "tmdb_id": 1442669,
+      "imdb_id": "tt37163509",
+      "titulo_original": "La Vénus électrique",
+      "titulo_ingles": "La Vénus électrique",
+      "ano": 2026,
+      "data_lancamento": "2026-05-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Pio Marmaï",
+        "Anaïs Demoustier",
+        "Gilles Lellouche",
+        "Vimala Pons",
+        "Gustave Kervern",
+        "Patrice Tépasso",
+        "Madeleine Baudot",
+        "Charline Cerri"
+      ],
+      "diretor": "Pierre Salvadori",
+      "generos": [
+        "Comédia",
+        "Drama",
+        "História"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bpaCAvxvqCNQdoRAjr88MA42YfI.jpg",
+      "pais": [
+        "FR",
+        "BE"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 122,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 45,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 45,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37163509/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=La%20V%C3%A9nus%20%C3%A9lectrique",
+        "metacritic": "https://www.metacritic.com/search/La%20V%C3%A9nus%20%C3%A9lectrique/"
       }
     },
     {
@@ -2664,58 +2725,6 @@
       }
     },
     {
-      "tmdb_id": 931285,
-      "imdb_id": "tt17490712",
-      "titulo_original": "Mortal Kombat II",
-      "titulo_ingles": "Mortal Kombat II",
-      "ano": 2026,
-      "data_lancamento": "2026-05-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "Os campeões favoritos dos fãs – agora acompanhados pelo próprio Johnny Cage – são colocados uns contra os outros numa sangrenta e derradeira batalha, sem regras ou limites, para derrotar o governo sombrio de Shao Kahn.",
-      "elenco": [
-        "Karl Urban",
-        "Adeline Rudolph",
-        "Ludi Lin",
-        "Jessica McNamee",
-        "Lewis Tan",
-        "Josh Lawson",
-        "Martyn Ford",
-        "Mehcad Brooks"
-      ],
-      "diretor": "Simon McQuoid",
-      "generos": [
-        "Ação",
-        "Fantasia",
-        "Aventura"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/iILiJSRViTEcF23MHhGCbVm3mfW.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 116,
-      "rt_critica": 64,
-      "rt_publico": null,
-      "metacritic": 46,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 64,
-      "atual_metacritic": 46,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt17490712/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mortal%20Kombat%20II",
-        "metacritic": "https://www.metacritic.com/search/Mortal%20Kombat%20II/"
-      }
-    },
-    {
       "tmdb_id": 539745,
       "imdb_id": "tt2467700",
       "titulo_original": "Animal Farm",
@@ -2751,7 +2760,7 @@
         "es"
       ],
       "duracao": 96,
-      "rt_critica": 27,
+      "rt_critica": 30,
       "rt_publico": null,
       "metacritic": 33,
       "imdb_publico": null,
@@ -2759,7 +2768,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 27,
+      "atual_rt": 30,
       "atual_metacritic": 33,
       "disponibilidade_br": {
         "estado": "cinema"
@@ -3174,7 +3183,7 @@
         "en"
       ],
       "duracao": 93,
-      "rt_critica": 60,
+      "rt_critica": 53,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -3182,7 +3191,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 60,
+      "atual_rt": 53,
       "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "streaming",
