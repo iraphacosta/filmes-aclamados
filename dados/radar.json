@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-06-23T12:19:22.043Z",
+  "gerado_em": "2026-06-24T12:04:57.742Z",
   "filmes": [
     {
       "tmdb_id": 614945,
@@ -185,38 +185,38 @@
       }
     },
     {
-      "tmdb_id": 1061798,
-      "imdb_id": "tt36955518",
-      "titulo_original": "Jim Queen",
-      "titulo_ingles": "Jim Queen and the Quest for Chloroqueer",
+      "tmdb_id": 1716513,
+      "imdb_id": "tt43140112",
+      "titulo_original": "Extreme Makeover: Homer Edition",
+      "titulo_ingles": "Extreme Makeover: Homer Edition",
       "ano": 2026,
       "data_lancamento": "2026-06-17",
       "data_qualificacao": "",
       "sinopse_pt": "",
       "elenco": [
-        "Alex Ramirès",
-        "Jéremy Gillet",
-        "Shirley Souagnon",
-        "François Sagat",
-        "Elisabeth Wiener",
-        "Harald Marlot",
-        "Alexandre Brik",
-        "Philippe Katerine"
+        "Dan Castellaneta",
+        "Julie Kavner",
+        "Nancy Cartwright",
+        "Yeardley Smith",
+        "Harry Shearer",
+        "Hank Azaria",
+        "Betty Gilpin",
+        "Jon Hamm"
       ],
-      "diretor": "Marco Nguyen, Nicolas Athané",
+      "diretor": "Matthew Nastuk, Timothy Bailey",
       "generos": [
         "Animação",
-        "Comédia"
+        "Comédia",
+        "Família"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vim76mMXig00YRxN2iGYJASoGkP.jpg",
       "pais": [
-        "FR",
-        "BE"
+        "US"
       ],
       "idiomas": [
-        "fr"
+        "en"
       ],
-      "duracao": 85,
+      "duracao": 48,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -231,9 +231,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36955518/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen%20and%20the%20Quest%20for%20Chloroqueer",
-        "metacritic": "https://www.metacritic.com/search/Jim%20Queen%20and%20the%20Quest%20for%20Chloroqueer/"
+        "imdb": "https://www.imdb.com/title/tt43140112/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Extreme%20Makeover%3A%20Homer%20Edition",
+        "metacritic": "https://www.metacritic.com/search/Extreme%20Makeover%3A%20Homer%20Edition/"
       }
     },
     {
@@ -303,38 +303,38 @@
       }
     },
     {
-      "tmdb_id": 1716513,
-      "imdb_id": "tt43140112",
-      "titulo_original": "Extreme Makeover: Homer Edition",
-      "titulo_ingles": "Extreme Makeover: Homer Edition",
+      "tmdb_id": 1061798,
+      "imdb_id": "tt36955518",
+      "titulo_original": "Jim Queen",
+      "titulo_ingles": "Jim Queen",
       "ano": 2026,
       "data_lancamento": "2026-06-17",
       "data_qualificacao": "",
       "sinopse_pt": "",
       "elenco": [
-        "Dan Castellaneta",
-        "Julie Kavner",
-        "Nancy Cartwright",
-        "Yeardley Smith",
-        "Harry Shearer",
-        "Hank Azaria",
-        "Betty Gilpin",
-        "Jon Hamm"
+        "Alex Ramirès",
+        "Jéremy Gillet",
+        "Shirley Souagnon",
+        "François Sagat",
+        "Elisabeth Wiener",
+        "Harald Marlot",
+        "Alexandre Brik",
+        "Philippe Katerine"
       ],
-      "diretor": "Matthew Nastuk, Timothy Bailey",
+      "diretor": "Marco Nguyen, Nicolas Athané",
       "generos": [
         "Animação",
-        "Comédia",
-        "Família"
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vim76mMXig00YRxN2iGYJASoGkP.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
       "pais": [
-        "US"
+        "FR",
+        "BE"
       ],
       "idiomas": [
-        "en"
+        "fr"
       ],
-      "duracao": 48,
+      "duracao": 85,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -349,73 +349,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt43140112/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Extreme%20Makeover%3A%20Homer%20Edition",
-        "metacritic": "https://www.metacritic.com/search/Extreme%20Makeover%3A%20Homer%20Edition/"
-      }
-    },
-    {
-      "tmdb_id": 1511549,
-      "imdb_id": "tt36956284",
-      "titulo_original": "Ancora più sexy",
-      "titulo_ingles": "Still Sexy",
-      "ano": 2026,
-      "data_lancamento": "2026-06-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Diana Del Bufalo",
-        "Valentina Nappi",
-        "Mario Ermito",
-        "Michele Rosiello",
-        "Filippo Bisciglia",
-        "Angela Finocchiaro",
-        "Anna Galiena",
-        "Fabrizio Colica"
-      ],
-      "diretor": "Michela Andreozzi",
-      "generos": [
-        "Comédia",
-        "Romance"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cQYHYSnHf1A853xoNn6Qq6lm2JO.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 100,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1511549-ancora-piu-sexy/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36956284/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Still%20Sexy",
-        "metacritic": "https://www.metacritic.com/search/Still%20Sexy/"
+        "imdb": "https://www.imdb.com/title/tt36955518/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
+        "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
       }
     },
     {
@@ -484,6 +420,70 @@
       }
     },
     {
+      "tmdb_id": 1511549,
+      "imdb_id": "tt36956284",
+      "titulo_original": "Ancora più sexy",
+      "titulo_ingles": "Still Sexy",
+      "ano": 2026,
+      "data_lancamento": "2026-06-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Diana Del Bufalo",
+        "Valentina Nappi",
+        "Mario Ermito",
+        "Michele Rosiello",
+        "Filippo Bisciglia",
+        "Angela Finocchiaro",
+        "Anna Galiena",
+        "Fabrizio Colica"
+      ],
+      "diretor": "Michela Andreozzi",
+      "generos": [
+        "Comédia",
+        "Romance"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cQYHYSnHf1A853xoNn6Qq6lm2JO.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 100,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1511549-ancora-piu-sexy/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36956284/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Still%20Sexy",
+        "metacritic": "https://www.metacritic.com/search/Still%20Sexy/"
+      }
+    },
+    {
       "tmdb_id": 1699155,
       "imdb_id": "tt42863533",
       "titulo_original": "Maternal Instinct",
@@ -536,6 +536,59 @@
         "imdb": "https://www.imdb.com/title/tt42863533/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Maternal%20Instinct",
         "metacritic": "https://www.metacritic.com/search/Maternal%20Instinct/"
+      }
+    },
+    {
+      "tmdb_id": 1275779,
+      "imdb_id": "tt15047880",
+      "titulo_original": "Disclosure Day",
+      "titulo_ingles": "Disclosure Day",
+      "ano": 2026,
+      "data_lancamento": "2026-06-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "A existência de vida extraterrestre torna-se uma realidade inegável para todos os habitantes da Terra em um único instante. O mundo entra em colapso quando uma meteorologista, em plena transmissão ao vivo, é dominada por uma força invisível, perdendo a fala e emitindo sons perturbadores. Enquanto fenômenos inexplicáveis e sinais de controle mental em massa se espalham, um informante tenta expor segredos governamentais guardados por décadas. Diante da prova definitiva de que a humanidade não está sozinha, o pânico e o fascínio tomam conta de uma civilização confrontada pelo desconhecido.",
+      "elenco": [
+        "Emily Blunt",
+        "Josh O'Connor",
+        "Colin Firth",
+        "Colman Domingo",
+        "Eve Hewson",
+        "Wyatt Russell",
+        "Elizabeth Marvel",
+        "Henry Lloyd-Hughes"
+      ],
+      "diretor": "Steven Spielberg",
+      "generos": [
+        "Ficção científica",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/pmff1wjKrgJi92PPr346lAifzlg.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "ko",
+        "ru"
+      ],
+      "duracao": 145,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt15047880/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Disclosure%20Day",
+        "metacritic": "https://www.metacritic.com/search/Disclosure%20Day/"
       }
     },
     {
@@ -601,59 +654,6 @@
         "imdb": "https://www.imdb.com/title/tt38681832/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Colors%20of%20Evil%3A%20Black",
         "metacritic": "https://www.metacritic.com/search/Colors%20of%20Evil%3A%20Black/"
-      }
-    },
-    {
-      "tmdb_id": 1275779,
-      "imdb_id": "tt15047880",
-      "titulo_original": "Disclosure Day",
-      "titulo_ingles": "Disclosure Day",
-      "ano": 2026,
-      "data_lancamento": "2026-06-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "A existência de vida extraterrestre torna-se uma realidade inegável para todos os habitantes da Terra em um único instante. O mundo entra em colapso quando uma meteorologista, em plena transmissão ao vivo, é dominada por uma força invisível, perdendo a fala e emitindo sons perturbadores. Enquanto fenômenos inexplicáveis e sinais de controle mental em massa se espalham, um informante tenta expor segredos governamentais guardados por décadas. Diante da prova definitiva de que a humanidade não está sozinha, o pânico e o fascínio tomam conta de uma civilização confrontada pelo desconhecido.",
-      "elenco": [
-        "Emily Blunt",
-        "Josh O'Connor",
-        "Colin Firth",
-        "Colman Domingo",
-        "Eve Hewson",
-        "Wyatt Russell",
-        "Elizabeth Marvel",
-        "Henry Lloyd-Hughes"
-      ],
-      "diretor": "Steven Spielberg",
-      "generos": [
-        "Ficção científica",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/pmff1wjKrgJi92PPr346lAifzlg.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "ko",
-        "ru"
-      ],
-      "duracao": 145,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt15047880/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Disclosure%20Day",
-        "metacritic": "https://www.metacritic.com/search/Disclosure%20Day/"
       }
     },
     {
@@ -774,57 +774,6 @@
       }
     },
     {
-      "tmdb_id": 1083884,
-      "imdb_id": "tt21109170",
-      "titulo_original": "Signal One",
-      "titulo_ingles": "Signal One",
-      "ano": 2026,
-      "data_lancamento": "2026-06-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma cientista da computação é recrutada por um bilionário da tecnologia para trabalhar em um projeto que pode mudar o lugar da humanidade no universo.",
-      "elenco": [
-        "Isabelle Fuhrman",
-        "Josh Hutcherson",
-        "David Thewlis",
-        "Dennis Quaid",
-        "Vanessa Smythe",
-        "Kiera Allen",
-        "Raoul Bhaneja",
-        "Ronnie James Hughes"
-      ],
-      "diretor": "Jonathan Sobol",
-      "generos": [
-        "Mistério",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
-      "pais": [
-        "CA"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 112,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt21109170/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Signal%20One",
-        "metacritic": "https://www.metacritic.com/search/Signal%20One/"
-      }
-    },
-    {
       "tmdb_id": 1285959,
       "imdb_id": "tt32298956",
       "titulo_original": "The Passenger",
@@ -873,6 +822,57 @@
         "imdb": "https://www.imdb.com/title/tt32298956/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Passenger",
         "metacritic": "https://www.metacritic.com/search/The%20Passenger/"
+      }
+    },
+    {
+      "tmdb_id": 1083884,
+      "imdb_id": "tt21109170",
+      "titulo_original": "Signal One",
+      "titulo_ingles": "Signal One",
+      "ano": 2026,
+      "data_lancamento": "2026-06-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma cientista da computação é recrutada por um bilionário da tecnologia para trabalhar em um projeto que pode mudar o lugar da humanidade no universo.",
+      "elenco": [
+        "Isabelle Fuhrman",
+        "Josh Hutcherson",
+        "David Thewlis",
+        "Dennis Quaid",
+        "Vanessa Smythe",
+        "Kiera Allen",
+        "Raoul Bhaneja",
+        "Ronnie James Hughes"
+      ],
+      "diretor": "Jonathan Sobol",
+      "generos": [
+        "Mistério",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
+      "pais": [
+        "CA"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 112,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt21109170/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Signal%20One",
+        "metacritic": "https://www.metacritic.com/search/Signal%20One/"
       }
     },
     {
@@ -1632,57 +1632,6 @@
       }
     },
     {
-      "tmdb_id": 1368314,
-      "imdb_id": "tt33763941",
-      "titulo_original": "Passenger",
-      "titulo_ingles": "Passenger",
-      "ano": 2026,
-      "data_lancamento": "2026-05-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "Durante uma viagem de van, um jovem casal presencia um acidente terrível que resulta na morte do motorista. Logo, eles passam a ser perseguidos por uma entidade demoníaca, de quem é impossível escapar e que os segue por onde quer que vão.",
-      "elenco": [
-        "Lou Llobell",
-        "Jacob Scipio",
-        "Melissa Leo",
-        "Joseph Lopez",
-        "Tony Doupe",
-        "Bonni Dichone",
-        "Devielle Johnson",
-        "Jessica Cruz"
-      ],
-      "diretor": "André Øvredal",
-      "generos": [
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/aSoOiatgMmXtDS3iwWD5hC2Rbyn.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 94,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33763941/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Passenger",
-        "metacritic": "https://www.metacritic.com/search/Passenger/"
-      }
-    },
-    {
       "tmdb_id": 1380291,
       "imdb_id": "tt34378301",
       "titulo_original": "Tom Clancy's Jack Ryan: Ghost War",
@@ -1744,6 +1693,57 @@
         "imdb": "https://www.imdb.com/title/tt34378301/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Tom%20Clancy's%20Jack%20Ryan%3A%20Ghost%20War",
         "metacritic": "https://www.metacritic.com/search/Tom%20Clancy's%20Jack%20Ryan%3A%20Ghost%20War/"
+      }
+    },
+    {
+      "tmdb_id": 1368314,
+      "imdb_id": "tt33763941",
+      "titulo_original": "Passenger",
+      "titulo_ingles": "Passenger",
+      "ano": 2026,
+      "data_lancamento": "2026-05-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "Durante uma viagem de van, um jovem casal presencia um acidente terrível que resulta na morte do motorista. Logo, eles passam a ser perseguidos por uma entidade demoníaca, de quem é impossível escapar e que os segue por onde quer que vão.",
+      "elenco": [
+        "Lou Llobell",
+        "Jacob Scipio",
+        "Melissa Leo",
+        "Joseph Lopez",
+        "Tony Doupe",
+        "Bonni Dichone",
+        "Devielle Johnson",
+        "Jessica Cruz"
+      ],
+      "diretor": "André Øvredal",
+      "generos": [
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/aSoOiatgMmXtDS3iwWD5hC2Rbyn.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 94,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33763941/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Passenger",
+        "metacritic": "https://www.metacritic.com/search/Passenger/"
       }
     },
     {
@@ -2009,7 +2009,7 @@
       "generos": [
         "Música"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/5qJgfeZRcz6EOi6zUb9tpSlmDni.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/doRAgLMtD34F4fDPAKiVt2ixEiV.jpg",
       "pais": [
         "US"
       ],
@@ -2558,6 +2558,69 @@
       }
     },
     {
+      "tmdb_id": 1658982,
+      "imdb_id": "tt40898187",
+      "titulo_original": "The Roast of Kevin Hart",
+      "titulo_ingles": "The Roast of Kevin Hart",
+      "ano": 2026,
+      "data_lancamento": "2026-05-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "Kevin Hart está preparado para ser alvo de piadas sem filtro e sem piedade, em uma noite apresentada pelo mestre das fritadas Shane Gillis e convidados ilustres.",
+      "elenco": [
+        "Kevin Hart",
+        "Shane Gillis",
+        "Dwayne Johnson",
+        "Tony Hinchcliffe",
+        "Jeff Ross",
+        "Tom Brady",
+        "Usher",
+        "Chelsea Handler"
+      ],
+      "diretor": "Beth McCarthy-Miller",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 172,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1658982-the-roast-of-kevin-hart/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt40898187/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Roast%20of%20Kevin%20Hart",
+        "metacritic": "https://www.metacritic.com/search/The%20Roast%20of%20Kevin%20Hart/"
+      }
+    },
+    {
       "tmdb_id": 1293162,
       "imdb_id": "tt32801387",
       "titulo_original": "Thieves Highway",
@@ -2637,69 +2700,6 @@
         "imdb": "https://www.imdb.com/title/tt32801387/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Thieves%20Highway",
         "metacritic": "https://www.metacritic.com/search/Thieves%20Highway/"
-      }
-    },
-    {
-      "tmdb_id": 1658982,
-      "imdb_id": "tt40898187",
-      "titulo_original": "The Roast of Kevin Hart",
-      "titulo_ingles": "The Roast of Kevin Hart",
-      "ano": 2026,
-      "data_lancamento": "2026-05-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Kevin Hart está preparado para ser alvo de piadas sem filtro e sem piedade, em uma noite apresentada pelo mestre das fritadas Shane Gillis e convidados ilustres.",
-      "elenco": [
-        "Kevin Hart",
-        "Shane Gillis",
-        "Dwayne Johnson",
-        "Tony Hinchcliffe",
-        "Jeff Ross",
-        "Tom Brady",
-        "Usher",
-        "Chelsea Handler"
-      ],
-      "diretor": "Beth McCarthy-Miller",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 172,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1658982-the-roast-of-kevin-hart/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt40898187/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Roast%20of%20Kevin%20Hart",
-        "metacritic": "https://www.metacritic.com/search/The%20Roast%20of%20Kevin%20Hart/"
       }
     },
     {
