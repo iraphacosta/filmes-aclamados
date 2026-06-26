@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-06-25T12:00:39.218Z",
+  "gerado_em": "2026-06-26T11:58:22.414Z",
   "filmes": [
     {
       "tmdb_id": 1081003,
@@ -27,7 +27,7 @@
         "Aventura",
         "Ficção científica"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/9jqZfA7eaxfXWkj9vZLQbla7c5r.jpg",
       "pais": [
         "US"
       ],
@@ -173,122 +173,6 @@
       }
     },
     {
-      "tmdb_id": 1451344,
-      "imdb_id": "tt36876775",
-      "titulo_original": "남편들",
-      "titulo_ingles": "Husbands in Action",
-      "ano": 2026,
-      "data_lancamento": "2026-06-18",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um detetive se une ao novo marido da ex-esposa para caçar os sequestradores dela. Será que essa dupla inusitada consegue deixar as diferenças de lado em nome do resgate?",
-      "elenco": [
-        "진선규",
-        "Gong Myung",
-        "김지석",
-        "윤경호",
-        "강한나",
-        "Lee Da Hee",
-        "Jeon So Min",
-        "윤아"
-      ],
-      "diretor": "박규태",
-      "generos": [
-        "Comédia",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/mring2SRouYXnlLLRLbXb1tlmM3.jpg",
-      "pais": [
-        "KR"
-      ],
-      "idiomas": [
-        "ko"
-      ],
-      "duracao": 110,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1451344/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36876775/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Husbands%20in%20Action",
-        "metacritic": "https://www.metacritic.com/search/Husbands%20in%20Action/"
-      }
-    },
-    {
-      "tmdb_id": 1061798,
-      "imdb_id": "tt36955518",
-      "titulo_original": "Jim Queen",
-      "titulo_ingles": "Jim Queen",
-      "ano": 2026,
-      "data_lancamento": "2026-06-17",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alex Ramirès",
-        "Jéremy Gillet",
-        "Shirley Souagnon",
-        "François Sagat",
-        "Elisabeth Wiener",
-        "Harald Marlot",
-        "Alexandre Brik",
-        "Philippe Katerine"
-      ],
-      "diretor": "Nicolas Athané, Marco Nguyen",
-      "generos": [
-        "Animação",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 85,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36955518/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
-        "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
-      }
-    },
-    {
       "tmdb_id": 1716513,
       "imdb_id": "tt43140112",
       "titulo_original": "Extreme Makeover: Homer Edition",
@@ -338,6 +222,58 @@
         "imdb": "https://www.imdb.com/title/tt43140112/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Extreme%20Makeover%3A%20Homer%20Edition",
         "metacritic": "https://www.metacritic.com/search/Extreme%20Makeover%3A%20Homer%20Edition/"
+      }
+    },
+    {
+      "tmdb_id": 1061798,
+      "imdb_id": "tt36955518",
+      "titulo_original": "Jim Queen",
+      "titulo_ingles": "Jim Queen",
+      "ano": 2026,
+      "data_lancamento": "2026-06-17",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alex Ramirès",
+        "Jéremy Gillet",
+        "Shirley Souagnon",
+        "François Sagat",
+        "Elisabeth Wiener",
+        "Harald Marlot",
+        "Alexandre Brik",
+        "Philippe Katerine"
+      ],
+      "diretor": "Marco Nguyen, Nicolas Athané",
+      "generos": [
+        "Animação",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
+      "pais": [
+        "FR",
+        "BE"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 85,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36955518/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
+        "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
       }
     },
     {
@@ -407,37 +343,37 @@
       }
     },
     {
-      "tmdb_id": 1511549,
-      "imdb_id": "tt36956284",
-      "titulo_original": "Ancora più sexy",
-      "titulo_ingles": "Still Sexy",
+      "tmdb_id": 1451344,
+      "imdb_id": "tt36876775",
+      "titulo_original": "남편들",
+      "titulo_ingles": "Husbands in Action",
       "ano": 2026,
-      "data_lancamento": "2026-06-12",
+      "data_lancamento": "2026-06-15",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Um detetive se une ao novo marido da ex-esposa para caçar os sequestradores dela. Será que essa dupla inusitada consegue deixar as diferenças de lado em nome do resgate?",
       "elenco": [
-        "Diana Del Bufalo",
-        "Valentina Nappi",
-        "Mario Ermito",
-        "Michele Rosiello",
-        "Filippo Bisciglia",
-        "Angela Finocchiaro",
-        "Anna Galiena",
-        "Fabrizio Colica"
+        "진선규",
+        "Gong Myung",
+        "김지석",
+        "윤경호",
+        "강한나",
+        "Lee Da Hee",
+        "Jeon So Min",
+        "윤아"
       ],
-      "diretor": "Michela Andreozzi",
+      "diretor": "박규태",
       "generos": [
         "Comédia",
-        "Romance"
+        "Ação"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cQYHYSnHf1A853xoNn6Qq6lm2JO.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mring2SRouYXnlLLRLbXb1tlmM3.jpg",
       "pais": [
-        "IT"
+        "KR"
       ],
       "idiomas": [
-        "it"
+        "ko"
       ],
-      "duracao": 100,
+      "duracao": 110,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -452,22 +388,22 @@
         "estado": "streaming",
         "servicos": [
           {
-            "nome": "Amazon Prime Video",
+            "nome": "Netflix",
             "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
           },
           {
-            "nome": "Amazon Prime Video with Ads",
+            "nome": "Netflix Standard with Ads",
             "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
           }
         ],
-        "link_br": "https://www.themoviedb.org/movie/1511549-ancora-piu-sexy/watch?locale=BR"
+        "link_br": "https://www.themoviedb.org/movie/1451344/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36956284/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Still%20Sexy",
-        "metacritic": "https://www.metacritic.com/search/Still%20Sexy/"
+        "imdb": "https://www.imdb.com/title/tt36876775/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Husbands%20in%20Action",
+        "metacritic": "https://www.metacritic.com/search/Husbands%20in%20Action/"
       }
     },
     {
@@ -533,6 +469,70 @@
         "imdb": "https://www.imdb.com/title/tt36963493/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Family%20of%20Bastards",
         "metacritic": "https://www.metacritic.com/search/A%20Family%20of%20Bastards/"
+      }
+    },
+    {
+      "tmdb_id": 1511549,
+      "imdb_id": "tt36956284",
+      "titulo_original": "Ancora più sexy",
+      "titulo_ingles": "Still Sexy",
+      "ano": 2026,
+      "data_lancamento": "2026-06-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Diana Del Bufalo",
+        "Valentina Nappi",
+        "Mario Ermito",
+        "Michele Rosiello",
+        "Filippo Bisciglia",
+        "Angela Finocchiaro",
+        "Anna Galiena",
+        "Fabrizio Colica"
+      ],
+      "diretor": "Michela Andreozzi",
+      "generos": [
+        "Comédia",
+        "Romance"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cQYHYSnHf1A853xoNn6Qq6lm2JO.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 100,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1511549-ancora-piu-sexy/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36956284/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Still%20Sexy",
+        "metacritic": "https://www.metacritic.com/search/Still%20Sexy/"
       }
     },
     {
@@ -1099,6 +1099,58 @@
       }
     },
     {
+      "tmdb_id": 1273221,
+      "imdb_id": "tt32093575",
+      "titulo_original": "Scary Movie",
+      "titulo_ingles": "Scary Movie",
+      "ano": 2026,
+      "data_lancamento": "2026-06-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Vinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo.",
+      "elenco": [
+        "Marlon Wayans",
+        "Shawn Wayans",
+        "Anna Faris",
+        "Regina Hall",
+        "Damon Wayans Jr.",
+        "Gregg Wayans",
+        "Kim Wayans",
+        "Benny Zielke"
+      ],
+      "diretor": "Michael Tiddes",
+      "generos": [
+        "Comédia",
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/y9yJd2qIIwhZcllHeKHsz5eRvNr.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "ko"
+      ],
+      "duracao": 95,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32093575/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Scary%20Movie",
+        "metacritic": "https://www.metacritic.com/search/Scary%20Movie/"
+      }
+    },
+    {
       "tmdb_id": 454639,
       "imdb_id": "tt0427340",
       "titulo_original": "Masters of the Universe",
@@ -1256,58 +1308,6 @@
       }
     },
     {
-      "tmdb_id": 1273221,
-      "imdb_id": "tt32093575",
-      "titulo_original": "Scary Movie",
-      "titulo_ingles": "Scary Movie",
-      "ano": 2026,
-      "data_lancamento": "2026-06-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "Vinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo.",
-      "elenco": [
-        "Marlon Wayans",
-        "Shawn Wayans",
-        "Anna Faris",
-        "Regina Hall",
-        "Damon Wayans Jr.",
-        "Gregg Wayans",
-        "Kim Wayans",
-        "Benny Zielke"
-      ],
-      "diretor": "Michael Tiddes",
-      "generos": [
-        "Comédia",
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/xlelBCtee51bFM6vgc1AeYOLzkS.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "ko"
-      ],
-      "duracao": 95,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32093575/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Scary%20Movie",
-        "metacritic": "https://www.metacritic.com/search/Scary%20Movie/"
-      }
-    },
-    {
       "tmdb_id": 1638740,
       "imdb_id": "",
       "titulo_original": "WWE Clash in Italy Preshow",
@@ -1399,57 +1399,6 @@
       }
     },
     {
-      "tmdb_id": 1694978,
-      "imdb_id": "tt41604789",
-      "titulo_original": "Chum",
-      "titulo_ingles": "Chum",
-      "ano": 2026,
-      "data_lancamento": "2026-05-27",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alice Eve",
-        "Eric Michael Cole",
-        "Jim Klock",
-        "Elle Haymond",
-        "Sarah Siadat",
-        "Johnny Gaffney",
-        "Lisa Yaro",
-        "Vince Jolivette"
-      ],
-      "diretor": "Jonathan Zuck",
-      "generos": [
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uJOW6pWxJ0i5sji9VXRR6Y1wXyE.jpg",
-      "pais": [
-        "US",
-        "MT"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 87,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt41604789/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Chum",
-        "metacritic": "https://www.metacritic.com/search/Chum/"
-      }
-    },
-    {
       "tmdb_id": 1466123,
       "imdb_id": "tt37535559",
       "titulo_original": "L'Objet du délit",
@@ -1499,6 +1448,57 @@
         "imdb": "https://www.imdb.com/title/tt37535559/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Crescendo",
         "metacritic": "https://www.metacritic.com/search/Crescendo/"
+      }
+    },
+    {
+      "tmdb_id": 1694978,
+      "imdb_id": "tt41604789",
+      "titulo_original": "Chum",
+      "titulo_ingles": "Chum",
+      "ano": 2026,
+      "data_lancamento": "2026-05-27",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alice Eve",
+        "Eric Michael Cole",
+        "Jim Klock",
+        "Elle Haymond",
+        "Sarah Siadat",
+        "Johnny Gaffney",
+        "Lisa Yaro",
+        "Vince Jolivette"
+      ],
+      "diretor": "Jonathan Zuck",
+      "generos": [
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uJOW6pWxJ0i5sji9VXRR6Y1wXyE.jpg",
+      "pais": [
+        "US",
+        "MT"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 87,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt41604789/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Chum",
+        "metacritic": "https://www.metacritic.com/search/Chum/"
       }
     },
     {
@@ -1633,6 +1633,58 @@
       }
     },
     {
+      "tmdb_id": 1228710,
+      "imdb_id": "tt30825738",
+      "titulo_original": "The Mandalorian and Grogu",
+      "titulo_ingles": "The Mandalorian and Grogu",
+      "ano": 2026,
+      "data_lancamento": "2026-05-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "O maligno Império caiu e os senhores da guerra Imperiais ainda estão espalhados pela galáxia. Enquanto a jovem Nova República luta para proteger tudo pelo que a Rebelião batalhou, ela conta com a ajuda do lendário caçador de recompensas Mandaloriano Din Djarin e seu jovem aprendiz Grogu.",
+      "elenco": [
+        "Pedro Pascal",
+        "Jeremy Allen White",
+        "Sigourney Weaver",
+        "Brendan Wayne",
+        "Lateef Crowder",
+        "Steve Blum",
+        "Jonny Coyne",
+        "Matthew Willig"
+      ],
+      "diretor": "Jon Favreau",
+      "generos": [
+        "Ação",
+        "Aventura",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/dNwaS0tnwgQRaQFPY5MbGxdmYXr.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 132,
+      "rt_critica": 62,
+      "rt_publico": null,
+      "metacritic": 55,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 62,
+      "atual_metacritic": 55,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt30825738/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Mandalorian%20and%20Grogu",
+        "metacritic": "https://www.metacritic.com/search/The%20Mandalorian%20and%20Grogu/"
+      }
+    },
+    {
       "tmdb_id": 1368314,
       "imdb_id": "tt33763941",
       "titulo_original": "Passenger",
@@ -1745,58 +1797,6 @@
         "imdb": "https://www.imdb.com/title/tt34378301/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Tom%20Clancy's%20Jack%20Ryan%3A%20Ghost%20War",
         "metacritic": "https://www.metacritic.com/search/Tom%20Clancy's%20Jack%20Ryan%3A%20Ghost%20War/"
-      }
-    },
-    {
-      "tmdb_id": 1228710,
-      "imdb_id": "tt30825738",
-      "titulo_original": "The Mandalorian and Grogu",
-      "titulo_ingles": "The Mandalorian and Grogu",
-      "ano": 2026,
-      "data_lancamento": "2026-05-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "O maligno Império caiu e os senhores da guerra Imperiais ainda estão espalhados pela galáxia. Enquanto a jovem Nova República luta para proteger tudo pelo que a Rebelião batalhou, ela conta com a ajuda do lendário caçador de recompensas Mandaloriano Din Djarin e seu jovem aprendiz Grogu.",
-      "elenco": [
-        "Pedro Pascal",
-        "Jeremy Allen White",
-        "Sigourney Weaver",
-        "Brendan Wayne",
-        "Lateef Crowder",
-        "Steve Blum",
-        "Jonny Coyne",
-        "Matthew Willig"
-      ],
-      "diretor": "Jon Favreau",
-      "generos": [
-        "Ação",
-        "Aventura",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/dNwaS0tnwgQRaQFPY5MbGxdmYXr.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 132,
-      "rt_critica": 62,
-      "rt_publico": null,
-      "metacritic": 55,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 62,
-      "atual_metacritic": 55,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt30825738/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Mandalorian%20and%20Grogu",
-        "metacritic": "https://www.metacritic.com/search/The%20Mandalorian%20and%20Grogu/"
       }
     },
     {
@@ -2258,6 +2258,56 @@
       }
     },
     {
+      "tmdb_id": 1645368,
+      "imdb_id": "tt40435390",
+      "titulo_original": "L'abandon",
+      "titulo_ingles": "Forsaken",
+      "ano": 2026,
+      "data_lancamento": "2026-05-13",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Antoine Reinartz",
+        "Emmanuelle Bercot",
+        "Nedjim Bouizzoul",
+        "Emma Boumali",
+        "Azize Kabouche",
+        "Marie-Sohna Condé",
+        "Jean-Michel Lahmi",
+        "Nhoa François"
+      ],
+      "diretor": "Vincent Garenq",
+      "generos": [
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/kfUKP5IgzgLQyQD1MDt99yq9Af0.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt40435390/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Forsaken",
+        "metacritic": "https://www.metacritic.com/search/Forsaken/"
+      }
+    },
+    {
       "tmdb_id": 1678844,
       "imdb_id": "tt37024319",
       "titulo_original": "Le Bus : Les Bleus en grève",
@@ -2318,116 +2368,6 @@
         "imdb": "https://www.imdb.com/title/tt37024319/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Bus%3A%20A%20French%20Football%20Mutiny",
         "metacritic": "https://www.metacritic.com/search/The%20Bus%3A%20A%20French%20Football%20Mutiny/"
-      }
-    },
-    {
-      "tmdb_id": 1645368,
-      "imdb_id": "tt40435390",
-      "titulo_original": "L'abandon",
-      "titulo_ingles": "Forsaken",
-      "ano": 2026,
-      "data_lancamento": "2026-05-13",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Antoine Reinartz",
-        "Emmanuelle Bercot",
-        "Nedjim Bouizzoul",
-        "Emma Boumali",
-        "Azize Kabouche",
-        "Marie-Sohna Condé",
-        "Jean-Michel Lahmi",
-        "Nhoa François"
-      ],
-      "diretor": "Vincent Garenq",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/kfUKP5IgzgLQyQD1MDt99yq9Af0.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt40435390/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Forsaken",
-        "metacritic": "https://www.metacritic.com/search/Forsaken/"
-      }
-    },
-    {
-      "tmdb_id": 1439930,
-      "imdb_id": "tt36042156",
-      "titulo_original": "The Punisher: One Last Kill",
-      "titulo_ingles": "The Punisher: One Last Kill",
-      "ano": 2026,
-      "data_lancamento": "2026-05-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "Enquanto Frank Castle busca um significado além da vingança, uma força inesperada o arrasta de volta para a luta.",
-      "elenco": [
-        "Jon Bernthal",
-        "Deborah Ann Woll",
-        "Jason R. Moore",
-        "Judith Light",
-        "Kelli Barrett",
-        "Andre Royo",
-        "John Douglas Thompson",
-        "Colton Hill"
-      ],
-      "diretor": "Reinaldo Marcus Green",
-      "generos": [
-        "Ação",
-        "Drama",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 51,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1439930-the-punisher-one-last-kill/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36042156/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Punisher%3A%20One%20Last%20Kill",
-        "metacritic": "https://www.metacritic.com/search/The%20Punisher%3A%20One%20Last%20Kill/"
       }
     },
     {
@@ -2548,6 +2488,66 @@
       }
     },
     {
+      "tmdb_id": 1439930,
+      "imdb_id": "tt36042156",
+      "titulo_original": "The Punisher: One Last Kill",
+      "titulo_ingles": "The Punisher: One Last Kill",
+      "ano": 2026,
+      "data_lancamento": "2026-05-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "Enquanto Frank Castle busca um significado além da vingança, uma força inesperada o arrasta de volta para a luta.",
+      "elenco": [
+        "Jon Bernthal",
+        "Deborah Ann Woll",
+        "Jason R. Moore",
+        "Judith Light",
+        "Kelli Barrett",
+        "Andre Royo",
+        "John Douglas Thompson",
+        "Colton Hill"
+      ],
+      "diretor": "Reinaldo Marcus Green",
+      "generos": [
+        "Ação",
+        "Drama",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 51,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1439930-the-punisher-one-last-kill/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36042156/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Punisher%3A%20One%20Last%20Kill",
+        "metacritic": "https://www.metacritic.com/search/The%20Punisher%3A%20One%20Last%20Kill/"
+      }
+    },
+    {
       "tmdb_id": 1620034,
       "imdb_id": "tt39382052",
       "titulo_original": "Marty, Life Is Short",
@@ -2608,6 +2608,69 @@
         "imdb": "https://www.imdb.com/title/tt39382052/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Marty%2C%20Life%20Is%20Short",
         "metacritic": "https://www.metacritic.com/search/Marty%2C%20Life%20Is%20Short/"
+      }
+    },
+    {
+      "tmdb_id": 1658982,
+      "imdb_id": "tt40898187",
+      "titulo_original": "The Roast of Kevin Hart",
+      "titulo_ingles": "The Roast of Kevin Hart",
+      "ano": 2026,
+      "data_lancamento": "2026-05-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "Kevin Hart está preparado para ser alvo de piadas sem filtro e sem piedade, em uma noite apresentada pelo mestre das fritadas Shane Gillis e convidados ilustres.",
+      "elenco": [
+        "Kevin Hart",
+        "Shane Gillis",
+        "Dwayne Johnson",
+        "Tony Hinchcliffe",
+        "Jeff Ross",
+        "Tom Brady",
+        "Usher",
+        "Chelsea Handler"
+      ],
+      "diretor": "Beth McCarthy-Miller",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 172,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1658982-the-roast-of-kevin-hart/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt40898187/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Roast%20of%20Kevin%20Hart",
+        "metacritic": "https://www.metacritic.com/search/The%20Roast%20of%20Kevin%20Hart/"
       }
     },
     {
@@ -2690,69 +2753,6 @@
         "imdb": "https://www.imdb.com/title/tt32801387/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Thieves%20Highway",
         "metacritic": "https://www.metacritic.com/search/Thieves%20Highway/"
-      }
-    },
-    {
-      "tmdb_id": 1658982,
-      "imdb_id": "tt40898187",
-      "titulo_original": "The Roast of Kevin Hart",
-      "titulo_ingles": "The Roast of Kevin Hart",
-      "ano": 2026,
-      "data_lancamento": "2026-05-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Kevin Hart está preparado para ser alvo de piadas sem filtro e sem piedade, em uma noite apresentada pelo mestre das fritadas Shane Gillis e convidados ilustres.",
-      "elenco": [
-        "Kevin Hart",
-        "Shane Gillis",
-        "Dwayne Johnson",
-        "Tony Hinchcliffe",
-        "Jeff Ross",
-        "Tom Brady",
-        "Usher",
-        "Chelsea Handler"
-      ],
-      "diretor": "Beth McCarthy-Miller",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/wRPgZUWMZ8fFszfduEPdKa4Mmwm.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 172,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1658982-the-roast-of-kevin-hart/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt40898187/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Roast%20of%20Kevin%20Hart",
-        "metacritic": "https://www.metacritic.com/search/The%20Roast%20of%20Kevin%20Hart/"
       }
     },
     {
