@@ -1,64 +1,14 @@
 {
   "versao": 1,
-  "gerado_em": "2026-06-27T11:09:18.008Z",
+  "gerado_em": "2026-06-28T11:19:14.992Z",
   "filmes": [
-    {
-      "tmdb_id": 1397385,
-      "imdb_id": "tt34888871",
-      "titulo_original": "Little Brother",
-      "titulo_ingles": "Little Brother",
-      "ano": 2026,
-      "data_lancamento": "2026-06-25",
-      "data_qualificacao": "",
-      "sinopse_pt": "A vida de um corretor de imóveis todo regrado vira de cabeça para baixo quando seu \"irmãozinho\" caótico reaparece de repente.",
-      "elenco": [
-        "John Cena",
-        "Eric André",
-        "Michelle Monaghan",
-        "Christopher Meloni",
-        "Sherry Cola",
-        "Ego Nwodim",
-        "Caleb Hearon",
-        "Bryce Gheisar"
-      ],
-      "diretor": "Matt Spicer",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/ghPZXHqe3CamVjoTUUuGvE0zrRV.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 101,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34888871/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Little%20Brother",
-        "metacritic": "https://www.metacritic.com/search/Little%20Brother/"
-      }
-    },
     {
       "tmdb_id": 1081003,
       "imdb_id": "tt8814476",
       "titulo_original": "Supergirl",
       "titulo_ingles": "Supergirl",
       "ano": 2026,
-      "data_lancamento": "2026-06-23",
+      "data_lancamento": "2026-06-24",
       "data_qualificacao": "",
       "sinopse_pt": "Kara Zor-El comemora seu aniversário de 21 anos viajando pela galáxia com seu cachorro Krypto. Ao longo do caminho, ela conhece a jovem Ruthye Marye Knoll e se depara com uma tragédia que a leva a uma “busca assassina por vingança\".",
       "elenco": [
@@ -77,7 +27,7 @@
         "Aventura",
         "Ficção científica"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/9jqZfA7eaxfXWkj9vZLQbla7c5r.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg",
       "pais": [
         "US"
       ],
@@ -169,6 +119,57 @@
       }
     },
     {
+      "tmdb_id": 1392469,
+      "imdb_id": "tt35064672",
+      "titulo_original": "कॉकटेल २",
+      "titulo_ingles": "Cocktail 2",
+      "ano": 2026,
+      "data_lancamento": "2026-06-19",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Kriti Sanon",
+        "Shahid Kapoor",
+        "Rashmika Mandanna",
+        "Mark Bennington",
+        "Tiku Talsania",
+        "Neelu Kohli",
+        "Suparna Marwah",
+        "Kanan Arunachalam"
+      ],
+      "diretor": "Homi Adajania",
+      "generos": [
+        "Romance",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bW1tdWzyFusyuJJT1IOdjWtKCb8.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 149,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35064672/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Cocktail%202",
+        "metacritic": "https://www.metacritic.com/search/Cocktail%202/"
+      }
+    },
+    {
       "tmdb_id": 1413976,
       "imdb_id": "tt35309713",
       "titulo_original": "Citizen Vigilante",
@@ -176,7 +177,7 @@
       "ano": 2026,
       "data_lancamento": "2026-06-19",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Um homem faz justiça com suas próprias mãos, perseguindo criminosos. Sua cruzada como vigilante faz dele uma estrela da mídia social, mas isso o coloca em conflito com o chefe de polícia local.",
       "elenco": [
         "Armie Hammer",
         "Costas Mandylor",
@@ -196,11 +197,11 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
       "pais": [
         "HR",
-        "DE",
-        "US"
+        "DE"
       ],
       "idiomas": [
-        "en"
+        "en",
+        "de"
       ],
       "duracao": 90,
       "rt_critica": null,
@@ -223,39 +224,36 @@
       }
     },
     {
-      "tmdb_id": 1477317,
-      "imdb_id": "tt36958376",
-      "titulo_original": "Your Fault: London",
-      "titulo_ingles": "Your Fault: London",
+      "tmdb_id": 1397385,
+      "imdb_id": "tt34888871",
+      "titulo_original": "Little Brother",
+      "titulo_ingles": "Little Brother",
       "ano": 2026,
-      "data_lancamento": "2026-06-17",
+      "data_lancamento": "2026-06-18",
       "data_qualificacao": "",
-      "sinopse_pt": "Nick e Noah enfrentam o maior teste de seu amor quando Noah inicia sua nova vida na Universidade de Oxford, enquanto Nick permanece em Londres trabalhando para a empresa de seu pai. Separados pela distância e cercados por pressões cada vez maiores — ciúmes, ambição e forças determinadas a separá-los —, eles precisarão arriscar tudo para provar que seu vínculo pode sobreviver contra todas as adversidades.",
+      "sinopse_pt": "A vida de um corretor de imóveis todo regrado vira de cabeça para baixo quando seu \"irmãozinho\" caótico reaparece de repente.",
       "elenco": [
-        "Asha Banks",
-        "Matthew Broome",
-        "Louisa Binder",
-        "Joel Nankervis",
-        "Scarlett Rayner",
-        "Orlando Norman",
-        "Ray Fearon",
-        "Enva Lewis"
+        "John Cena",
+        "Eric André",
+        "Michelle Monaghan",
+        "Christopher Meloni",
+        "Sherry Cola",
+        "Ego Nwodim",
+        "Caleb Hearon",
+        "Bryce Gheisar"
       ],
-      "diretor": "Dani Girdwood, Charlotte Fassler",
+      "diretor": "Matt Spicer",
       "generos": [
-        "Romance",
-        "Drama"
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uXQKhfO4Qf7FodbsJbXacX3Tgbc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ghPZXHqe3CamVjoTUUuGvE0zrRV.jpg",
       "pais": [
-        "ES",
-        "GB",
         "US"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 123,
+      "duracao": 101,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -270,22 +268,22 @@
         "estado": "streaming",
         "servicos": [
           {
-            "nome": "Amazon Prime Video",
+            "nome": "Netflix",
             "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
           },
           {
-            "nome": "Amazon Prime Video with Ads",
+            "nome": "Netflix Standard with Ads",
             "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
           }
         ],
-        "link_br": "https://www.themoviedb.org/movie/1477317-your-fault-london/watch?locale=BR"
+        "link_br": "https://www.themoviedb.org/movie/1397385-little-brother/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36958376/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Your%20Fault%3A%20London",
-        "metacritic": "https://www.metacritic.com/search/Your%20Fault%3A%20London/"
+        "imdb": "https://www.imdb.com/title/tt34888871/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Little%20Brother",
+        "metacritic": "https://www.metacritic.com/search/Little%20Brother/"
       }
     },
     {
@@ -359,7 +357,7 @@
         "Alexandre Brik",
         "Philippe Katerine"
       ],
-      "diretor": "Nicolas Athané, Marco Nguyen",
+      "diretor": "Marco Nguyen, Nicolas Athané",
       "generos": [
         "Animação",
         "Comédia"
@@ -390,6 +388,72 @@
         "imdb": "https://www.imdb.com/title/tt36955518/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
         "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
+      }
+    },
+    {
+      "tmdb_id": 1477317,
+      "imdb_id": "tt36958376",
+      "titulo_original": "Your Fault: London",
+      "titulo_ingles": "Your Fault: London",
+      "ano": 2026,
+      "data_lancamento": "2026-06-17",
+      "data_qualificacao": "",
+      "sinopse_pt": "Nick e Noah enfrentam o maior teste de seu amor quando Noah inicia sua nova vida na Universidade de Oxford, enquanto Nick permanece em Londres trabalhando para a empresa de seu pai. Separados pela distância e cercados por pressões cada vez maiores — ciúmes, ambição e forças determinadas a separá-los —, eles precisarão arriscar tudo para provar que seu vínculo pode sobreviver contra todas as adversidades.",
+      "elenco": [
+        "Asha Banks",
+        "Matthew Broome",
+        "Louisa Binder",
+        "Joel Nankervis",
+        "Scarlett Rayner",
+        "Orlando Norman",
+        "Ray Fearon",
+        "Enva Lewis"
+      ],
+      "diretor": "Dani Girdwood, Charlotte Fassler",
+      "generos": [
+        "Romance",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uXQKhfO4Qf7FodbsJbXacX3Tgbc.jpg",
+      "pais": [
+        "ES",
+        "GB",
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 123,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1477317-your-fault-london/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36958376/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Your%20Fault%3A%20London",
+        "metacritic": "https://www.metacritic.com/search/Your%20Fault%3A%20London/"
       }
     },
     {
@@ -519,6 +583,62 @@
         "imdb": "https://www.imdb.com/title/tt36963493/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Family%20of%20Bastards",
         "metacritic": "https://www.metacritic.com/search/A%20Family%20of%20Bastards/"
+      }
+    },
+    {
+      "tmdb_id": 1020047,
+      "imdb_id": "tt1333644",
+      "titulo_original": "In the Hand of Dante",
+      "titulo_ingles": "In the Hand of Dante",
+      "ano": 2026,
+      "data_lancamento": "2026-06-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um manuscrito do poema “A Divina Comédia”, de Dante Alighieri, passa das mãos de um padre para as de um chefe da máfia em Nova Iorque, onde é levado por Nick Tosches depois de lhe ter sido pedido que verificasse a sua autenticidade.",
+      "elenco": [
+        "Oscar Isaac",
+        "Gal Gadot",
+        "Gerard Butler",
+        "John Malkovich",
+        "Louis Cancelmi",
+        "Sabrina Impacciatore",
+        "Franco Nero",
+        "Benjamin Clementine"
+      ],
+      "diretor": "Julian Schnabel",
+      "generos": [
+        "Drama",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/kvJJK0EoC4rCtovBMoq2A6eeATL.jpg",
+      "pais": [
+        "CL",
+        "IT",
+        "GB",
+        "US"
+      ],
+      "idiomas": [
+        "es",
+        "en",
+        "it"
+      ],
+      "duracao": 153,
+      "rt_critica": 43,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 43,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt1333644/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=In%20the%20Hand%20of%20Dante",
+        "metacritic": "https://www.metacritic.com/search/In%20the%20Hand%20of%20Dante/"
       }
     },
     {
@@ -664,7 +784,7 @@
         "Ficção científica",
         "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/pmff1wjKrgJi92PPr346lAifzlg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5e8BQ6RP3GRPz45yno1jjlXu56.jpg",
       "pais": [
         "US"
       ],
@@ -691,58 +811,6 @@
         "imdb": "https://www.imdb.com/title/tt15047880/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Disclosure%20Day",
         "metacritic": "https://www.metacritic.com/search/Disclosure%20Day/"
-      }
-    },
-    {
-      "tmdb_id": 1668499,
-      "imdb_id": "tt42575634",
-      "titulo_original": "Le Vertige",
-      "titulo_ingles": "Vertiginous",
-      "ano": 2026,
-      "data_lancamento": "2026-06-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alain Chabat",
-        "Jonathan Cohen",
-        "Anaïs Demoustier",
-        "Jean-Marie Winling",
-        "Jean-Christophe Le Guennan",
-        "Oscar Vercken de Vreuschmen",
-        "Coco Dupieux",
-        "Anna-Marie Filippi"
-      ],
-      "diretor": "Quentin Dupieux",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qO8nc3cSjzGduaC0deh8gBRKK9Z.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt42575634/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vertiginous",
-        "metacritic": "https://www.metacritic.com/search/Vertiginous/"
       }
     },
     {
@@ -811,6 +879,160 @@
       }
     },
     {
+      "tmdb_id": 1668499,
+      "imdb_id": "tt42575634",
+      "titulo_original": "Le Vertige",
+      "titulo_ingles": "Vertiginous",
+      "ano": 2026,
+      "data_lancamento": "2026-06-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alain Chabat",
+        "Jonathan Cohen",
+        "Anaïs Demoustier",
+        "Jean-Marie Winling",
+        "Jean-Christophe Le Guennan",
+        "Oscar Vercken de Vreuschmen",
+        "Coco Dupieux",
+        "Anna-Marie Filippi"
+      ],
+      "diretor": "Quentin Dupieux",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qO8nc3cSjzGduaC0deh8gBRKK9Z.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt42575634/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vertiginous",
+        "metacritic": "https://www.metacritic.com/search/Vertiginous/"
+      }
+    },
+    {
+      "tmdb_id": 1285959,
+      "imdb_id": "tt32298956",
+      "titulo_original": "The Passenger",
+      "titulo_ingles": "The Passenger",
+      "ano": 2026,
+      "data_lancamento": "2026-06-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Djimon Hounsou",
+        "Kodi Smit-McPhee",
+        "Leigh-Ann Rose",
+        "Carolina Campos",
+        "Tegan Couchman",
+        "Adrian McLean",
+        "Sarah Constible",
+        "Teddy Parker"
+      ],
+      "diretor": "Вадим Перельман",
+      "generos": [
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/i9XqCdF0jrgqveYUaLjOSiRepIq.jpg",
+      "pais": [
+        "US",
+        "CA"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 93,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32298956/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Passenger",
+        "metacritic": "https://www.metacritic.com/search/The%20Passenger/"
+      }
+    },
+    {
+      "tmdb_id": 1083884,
+      "imdb_id": "tt21109170",
+      "titulo_original": "Signal One",
+      "titulo_ingles": "Signal One",
+      "ano": 2026,
+      "data_lancamento": "2026-06-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma cientista da computação é recrutada por um bilionário da tecnologia para trabalhar em um projeto que pode mudar o lugar da humanidade no universo.",
+      "elenco": [
+        "Isabelle Fuhrman",
+        "Josh Hutcherson",
+        "David Thewlis",
+        "Dennis Quaid",
+        "Vanessa Smythe",
+        "Kiera Allen",
+        "Raoul Bhaneja",
+        "Ronnie James Hughes"
+      ],
+      "diretor": "Jonathan Sobol",
+      "generos": [
+        "Mistério",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
+      "pais": [
+        "CA"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 112,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt21109170/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Signal%20One",
+        "metacritic": "https://www.metacritic.com/search/Signal%20One/"
+      }
+    },
+    {
       "tmdb_id": 1274706,
       "imdb_id": "tt32129938",
       "titulo_original": "La desconocida",
@@ -873,108 +1095,6 @@
         "imdb": "https://www.imdb.com/title/tt32129938/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Marked%20Woman",
         "metacritic": "https://www.metacritic.com/search/The%20Marked%20Woman/"
-      }
-    },
-    {
-      "tmdb_id": 1083884,
-      "imdb_id": "tt21109170",
-      "titulo_original": "Signal One",
-      "titulo_ingles": "Signal One",
-      "ano": 2026,
-      "data_lancamento": "2026-06-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma cientista da computação é recrutada por um bilionário da tecnologia para trabalhar em um projeto que pode mudar o lugar da humanidade no universo.",
-      "elenco": [
-        "Isabelle Fuhrman",
-        "Josh Hutcherson",
-        "David Thewlis",
-        "Dennis Quaid",
-        "Vanessa Smythe",
-        "Kiera Allen",
-        "Raoul Bhaneja",
-        "Ronnie James Hughes"
-      ],
-      "diretor": "Jonathan Sobol",
-      "generos": [
-        "Mistério",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
-      "pais": [
-        "CA"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 112,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt21109170/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Signal%20One",
-        "metacritic": "https://www.metacritic.com/search/Signal%20One/"
-      }
-    },
-    {
-      "tmdb_id": 1285959,
-      "imdb_id": "tt32298956",
-      "titulo_original": "The Passenger",
-      "titulo_ingles": "The Passenger",
-      "ano": 2026,
-      "data_lancamento": "2026-06-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Djimon Hounsou",
-        "Kodi Smit-McPhee",
-        "Leigh-Ann Rose",
-        "Carolina Campos",
-        "Tegan Couchman",
-        "Adrian McLean",
-        "Sarah Constible",
-        "Teddy Parker"
-      ],
-      "diretor": "Вадим Перельман",
-      "generos": [
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/i9XqCdF0jrgqveYUaLjOSiRepIq.jpg",
-      "pais": [
-        "US",
-        "CA"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 93,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32298956/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Passenger",
-        "metacritic": "https://www.metacritic.com/search/The%20Passenger/"
       }
     },
     {
@@ -1221,7 +1341,8 @@
       ],
       "diretor": "Michael Tiddes",
       "generos": [
-        "Comédia"
+        "Comédia",
+        "Terror"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/97lWamoj4RSBjBHXFmliQbPs06K.jpg",
       "pais": [
@@ -1499,6 +1620,57 @@
       }
     },
     {
+      "tmdb_id": 1694978,
+      "imdb_id": "tt41604789",
+      "titulo_original": "Chum",
+      "titulo_ingles": "Chum",
+      "ano": 2026,
+      "data_lancamento": "2026-05-27",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alice Eve",
+        "Eric Michael Cole",
+        "Jim Klock",
+        "Elle Haymond",
+        "Sarah Siadat",
+        "Johnny Gaffney",
+        "Lisa Yaro",
+        "Vince Jolivette"
+      ],
+      "diretor": "Jonathan Zuck",
+      "generos": [
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uJOW6pWxJ0i5sji9VXRR6Y1wXyE.jpg",
+      "pais": [
+        "US",
+        "MT"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 87,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt41604789/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Chum",
+        "metacritic": "https://www.metacritic.com/search/Chum/"
+      }
+    },
+    {
       "tmdb_id": 1466123,
       "imdb_id": "tt37535559",
       "titulo_original": "L'Objet du délit",
@@ -1551,57 +1723,6 @@
       }
     },
     {
-      "tmdb_id": 1694978,
-      "imdb_id": "tt41604789",
-      "titulo_original": "Chum",
-      "titulo_ingles": "Chum",
-      "ano": 2026,
-      "data_lancamento": "2026-05-27",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alice Eve",
-        "Eric Michael Cole",
-        "Jim Klock",
-        "Elle Haymond",
-        "Sarah Siadat",
-        "Johnny Gaffney",
-        "Lisa Yaro",
-        "Vince Jolivette"
-      ],
-      "diretor": "Jonathan Zuck",
-      "generos": [
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uJOW6pWxJ0i5sji9VXRR6Y1wXyE.jpg",
-      "pais": [
-        "US",
-        "MT"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 87,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt41604789/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Chum",
-        "metacritic": "https://www.metacritic.com/search/Chum/"
-      }
-    },
-    {
       "tmdb_id": 1530510,
       "imdb_id": "tt37961742",
       "titulo_original": "México 86",
@@ -1632,8 +1753,8 @@
         "US"
       ],
       "idiomas": [
-        "en",
-        "es"
+        "es",
+        "en"
       ],
       "duracao": 95,
       "rt_critica": null,
@@ -1951,71 +2072,6 @@
       }
     },
     {
-      "tmdb_id": 1662414,
-      "imdb_id": "tt41367695",
-      "titulo_original": "Propeller One-Way Night Coach",
-      "titulo_ingles": "Propeller One-Way Night Coach",
-      "ano": 2026,
-      "data_lancamento": "2026-05-15",
-      "data_qualificacao": "",
-      "sinopse_pt": "Durante a era de ouro da aviação, um jovem entusiasta de aviões e sua mãe embarcam em uma viagem até Hollywood, e o que era para ser um simples voo se transforma na viagem de suas vidas.",
-      "elenco": [
-        "Clark Shotwell",
-        "Kelly Eviston-Quinnett",
-        "Ella Bleu Travolta",
-        "Olga Hoffmann",
-        "Charlie Berger",
-        "Margaret Travolta",
-        "Ellen Travolta",
-        "John Travolta"
-      ],
-      "diretor": "John Travolta",
-      "generos": [
-        "Aventura",
-        "Drama",
-        "Família"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/2CfaoWBSBUA1wquEa0CF45f4Aaa.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 60,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 42,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 42,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Apple TV",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/mcbz1LgtErU9p4UdbZ0rG6RTWHX.jpg"
-          },
-          {
-            "nome": "Apple TV Amazon Channel",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/mHrYMgnZIp6lgW2aXg7ix9zGOnA.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1662414-propeller-one-way-night-coach/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt41367695/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Propeller%20One-Way%20Night%20Coach",
-        "metacritic": "https://www.metacritic.com/search/Propeller%20One-Way%20Night%20Coach/"
-      }
-    },
-    {
       "tmdb_id": 1628367,
       "imdb_id": "tt39664733",
       "titulo_original": "कर्त्तव्य",
@@ -2144,6 +2200,71 @@
         "imdb": "https://www.imdb.com/title/tt42192201/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Bride%20of%20the%20Year",
         "metacritic": "https://www.metacritic.com/search/Bride%20of%20the%20Year/"
+      }
+    },
+    {
+      "tmdb_id": 1662414,
+      "imdb_id": "tt41367695",
+      "titulo_original": "Propeller One-Way Night Coach",
+      "titulo_ingles": "Propeller One-Way Night Coach",
+      "ano": 2026,
+      "data_lancamento": "2026-05-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "Durante a era de ouro da aviação, um jovem entusiasta de aviões e sua mãe embarcam em uma viagem até Hollywood, e o que era para ser um simples voo se transforma na viagem de suas vidas.",
+      "elenco": [
+        "Clark Shotwell",
+        "Kelly Eviston-Quinnett",
+        "Ella Bleu Travolta",
+        "Olga Hoffmann",
+        "Charlie Berger",
+        "Margaret Travolta",
+        "Ellen Travolta",
+        "John Travolta"
+      ],
+      "diretor": "John Travolta",
+      "generos": [
+        "Aventura",
+        "Drama",
+        "Família"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/2CfaoWBSBUA1wquEa0CF45f4Aaa.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 60,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 42,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 42,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Apple TV",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/mcbz1LgtErU9p4UdbZ0rG6RTWHX.jpg"
+          },
+          {
+            "nome": "Apple TV Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/mHrYMgnZIp6lgW2aXg7ix9zGOnA.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1662414-propeller-one-way-night-coach/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt41367695/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Propeller%20One-Way%20Night%20Coach",
+        "metacritic": "https://www.metacritic.com/search/Propeller%20One-Way%20Night%20Coach/"
       }
     },
     {
@@ -2648,69 +2769,6 @@
       }
     },
     {
-      "tmdb_id": 1620034,
-      "imdb_id": "tt39382052",
-      "titulo_original": "Marty, Life Is Short",
-      "titulo_ingles": "Marty, Life Is Short",
-      "ano": 2026,
-      "data_lancamento": "2026-05-11",
-      "data_qualificacao": "",
-      "sinopse_pt": "Martin Short analisa uma vida motivada pela alegria neste documentário repleto de vídeos clássicos, entrevistas e filmes inéditos.",
-      "elenco": [
-        "Martin Short",
-        "Lawrence Kasdan",
-        "Steve Martin",
-        "Andrea Martin",
-        "Ron Howard",
-        "Michael Short",
-        "Eugene Levy",
-        "Paul Shaffer"
-      ],
-      "diretor": "Lawrence Kasdan",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/udQ4UWZaaN5s46jVHTBmEkWVpst.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 102,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1620034-marty-life-is-short/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39382052/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Marty%2C%20Life%20Is%20Short",
-        "metacritic": "https://www.metacritic.com/search/Marty%2C%20Life%20Is%20Short/"
-      }
-    },
-    {
       "tmdb_id": 539745,
       "imdb_id": "tt2467700",
       "titulo_original": "Animal Farm",
@@ -2810,6 +2868,11 @@
       "disponibilidade_br": {
         "estado": "streaming",
         "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
           {
             "nome": "Netflix Standard with Ads",
             "tipo": "assinatura",
@@ -2996,80 +3059,6 @@
       }
     },
     {
-      "tmdb_id": 1405769,
-      "imdb_id": "tt34888646",
-      "titulo_original": "I Can Only Imagine 2",
-      "titulo_ingles": "I Can Only Imagine 2",
-      "ano": 2026,
-      "data_lancamento": "2026-02-19",
-      "data_qualificacao": "",
-      "sinopse_pt": "Bart Millard, vocalista do MercyMe, enfrenta uma crise pessoal no auge do sucesso. Enquanto sua vida desmorona, ele luta com a fé e seus demônios internos em busca de um caminho.",
-      "elenco": [
-        "J. Michael Finley",
-        "Milo Ventimiglia",
-        "Sophie Skelton",
-        "Arielle Kebbel",
-        "Sammy Dell",
-        "Mark Furze",
-        "Ezra Proch",
-        "Jason Burkey"
-      ],
-      "diretor": "Brent McCorkle, Andrew Erwin",
-      "generos": [
-        "Música",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/kwuXe0945dfCFQv5VX9pLvmb3Jl.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 110,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Apple TV Store",
-            "tipo": "aluguel",
-            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
-          },
-          {
-            "nome": "Amazon Video",
-            "tipo": "aluguel",
-            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
-          },
-          {
-            "nome": "Apple TV Store",
-            "tipo": "compra",
-            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
-          },
-          {
-            "nome": "Amazon Video",
-            "tipo": "compra",
-            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1405769-i-can-only-imagine-2/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34888646/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=I%20Can%20Only%20Imagine%202",
-        "metacritic": "https://www.metacritic.com/search/I%20Can%20Only%20Imagine%202/"
-      }
-    },
-    {
       "tmdb_id": 1598785,
       "imdb_id": "tt39228706",
       "titulo_original": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
@@ -3236,7 +3225,7 @@
         "Drama",
         "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/mlCDEXu7K1V2ggBFNf4k7umLhGR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lHXXpXzPv22WQCzTYMuwers5jkz.jpg",
       "pais": [
         "US"
       ],
