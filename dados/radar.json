@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-06-29T13:50:01.866Z",
+  "gerado_em": "2026-06-30T11:57:43.562Z",
   "filmes": [
     {
       "tmdb_id": 1165369,
@@ -173,61 +173,6 @@
       }
     },
     {
-      "tmdb_id": 1413976,
-      "imdb_id": "tt35309713",
-      "titulo_original": "Citizen Vigilante",
-      "titulo_ingles": "Citizen Vigilante",
-      "ano": 2026,
-      "data_lancamento": "2026-06-19",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um homem faz justiça com suas próprias mãos, perseguindo criminosos. Sua cruzada como vigilante faz dele uma estrela da mídia social, mas isso o coloca em conflito com o chefe de polícia local.",
-      "elenco": [
-        "Armie Hammer",
-        "Costas Mandylor",
-        "Dora Dimić Rakar",
-        "Vjekoslav Katušin",
-        "Neb Chupin",
-        "Elizabeth Zacero",
-        "Dunja Sepčić Bogner",
-        "Lennart Betzgen"
-      ],
-      "diretor": "Uwe Boll",
-      "generos": [
-        "Thriller",
-        "Ação",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
-      "pais": [
-        "DE",
-        "HR",
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "de"
-      ],
-      "duracao": 90,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35309713/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Citizen%20Vigilante",
-        "metacritic": "https://www.metacritic.com/search/Citizen%20Vigilante/"
-      }
-    },
-    {
       "tmdb_id": 1392469,
       "imdb_id": "tt35064672",
       "titulo_original": "कॉकटेल २",
@@ -251,7 +196,7 @@
         "Romance",
         "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bW1tdWzyFusyuJJT1IOdjWtKCb8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vJq0vuEV2ksMVl0sxsdBaU06FQL.jpg",
       "pais": [
         "IN"
       ],
@@ -276,6 +221,61 @@
         "imdb": "https://www.imdb.com/title/tt35064672/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Cocktail%202",
         "metacritic": "https://www.metacritic.com/search/Cocktail%202/"
+      }
+    },
+    {
+      "tmdb_id": 1413976,
+      "imdb_id": "tt35309713",
+      "titulo_original": "Citizen Vigilante",
+      "titulo_ingles": "Citizen Vigilante",
+      "ano": 2026,
+      "data_lancamento": "2026-06-19",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um homem faz justiça com suas próprias mãos, perseguindo criminosos. Sua cruzada como vigilante faz dele uma estrela da mídia social, mas isso o coloca em conflito com o chefe de polícia local.",
+      "elenco": [
+        "Armie Hammer",
+        "Costas Mandylor",
+        "Désirée Giorgetti",
+        "Steffen Mennekes",
+        "Neb Chupin",
+        "Mukit Abdul Hamid",
+        "Fares Mongi",
+        "Hila Harush"
+      ],
+      "diretor": "Uwe Boll",
+      "generos": [
+        "Thriller",
+        "Ação",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+      "pais": [
+        "DE",
+        "HR",
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "de"
+      ],
+      "duracao": 89,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35309713/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Citizen%20Vigilante",
+        "metacritic": "https://www.metacritic.com/search/Citizen%20Vigilante/"
       }
     },
     {
@@ -393,110 +393,6 @@
       }
     },
     {
-      "tmdb_id": 1061798,
-      "imdb_id": "tt36955518",
-      "titulo_original": "Jim Queen",
-      "titulo_ingles": "Jim Queen",
-      "ano": 2026,
-      "data_lancamento": "2026-06-17",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alex Ramirès",
-        "Jéremy Gillet",
-        "Shirley Souagnon",
-        "François Sagat",
-        "Elisabeth Wiener",
-        "Harald Marlot",
-        "Alexandre Brik",
-        "Philippe Katerine"
-      ],
-      "diretor": "Marco Nguyen, Nicolas Athané",
-      "generos": [
-        "Animação",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 85,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36955518/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
-        "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
-      }
-    },
-    {
-      "tmdb_id": 1716513,
-      "imdb_id": "tt43140112",
-      "titulo_original": "Extreme Makeover: Homer Edition",
-      "titulo_ingles": "Extreme Makeover: Homer Edition",
-      "ano": 2026,
-      "data_lancamento": "2026-06-17",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Dan Castellaneta",
-        "Julie Kavner",
-        "Nancy Cartwright",
-        "Yeardley Smith",
-        "Harry Shearer",
-        "Hank Azaria",
-        "Betty Gilpin",
-        "Jon Hamm"
-      ],
-      "diretor": "Matthew Nastuk, Timothy Bailey",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Família"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vim76mMXig00YRxN2iGYJASoGkP.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 48,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43140112/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Extreme%20Makeover%3A%20Homer%20Edition",
-        "metacritic": "https://www.metacritic.com/search/Extreme%20Makeover%3A%20Homer%20Edition/"
-      }
-    },
-    {
       "tmdb_id": 1477317,
       "imdb_id": "tt36958376",
       "titulo_original": "Your Fault: London",
@@ -563,6 +459,118 @@
       }
     },
     {
+      "tmdb_id": 1716513,
+      "imdb_id": "tt43140112",
+      "titulo_original": "Extreme Makeover: Homer Edition",
+      "titulo_ingles": "Extreme Makeover: Homer Edition",
+      "ano": 2026,
+      "data_lancamento": "2026-06-17",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Dan Castellaneta",
+        "Julie Kavner",
+        "Nancy Cartwright",
+        "Yeardley Smith",
+        "Harry Shearer",
+        "Hank Azaria",
+        "Betty Gilpin",
+        "Jon Hamm"
+      ],
+      "diretor": "Matthew Nastuk, Timothy Bailey",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Família"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/p8QadmOzNsL7I74q1kfaV6SpvdF.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 48,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1716513-extreme-makeover-homer-edition/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43140112/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Extreme%20Makeover%3A%20Homer%20Edition",
+        "metacritic": "https://www.metacritic.com/search/Extreme%20Makeover%3A%20Homer%20Edition/"
+      }
+    },
+    {
+      "tmdb_id": 1061798,
+      "imdb_id": "tt36955518",
+      "titulo_original": "Jim Queen",
+      "titulo_ingles": "Jim Queen",
+      "ano": 2026,
+      "data_lancamento": "2026-06-17",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alex Ramirès",
+        "Jéremy Gillet",
+        "Shirley Souagnon",
+        "François Sagat",
+        "Elisabeth Wiener",
+        "Harald Marlot",
+        "Alexandre Brik",
+        "Philippe Katerine"
+      ],
+      "diretor": "Nicolas Athané, Marco Nguyen",
+      "generos": [
+        "Animação",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
+      "pais": [
+        "FR",
+        "BE"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 85,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36955518/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
+        "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
+      }
+    },
+    {
       "tmdb_id": 1451344,
       "imdb_id": "tt36876775",
       "titulo_original": "남편들",
@@ -624,71 +632,6 @@
         "imdb": "https://www.imdb.com/title/tt36876775/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Husbands%20in%20Action",
         "metacritic": "https://www.metacritic.com/search/Husbands%20in%20Action/"
-      }
-    },
-    {
-      "tmdb_id": 1501018,
-      "imdb_id": "tt36963493",
-      "titulo_original": "Une Famille De Bâtards",
-      "titulo_ingles": "A Family of Bastards",
-      "ano": 2026,
-      "data_lancamento": "2026-06-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Hakim Jemili",
-        "Benjamin Tranié",
-        "Laura Felpin",
-        "Kad Merad",
-        "Florence Foresti",
-        "David Ayala",
-        "Ouassini Embarek",
-        "Alexandre Kominek"
-      ],
-      "diretor": "Mourad Winter",
-      "generos": [
-        "Comédia",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
-      "pais": [
-        "FR",
-        "US"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 105,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1501018-une-famille-de-batards/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36963493/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Family%20of%20Bastards",
-        "metacritic": "https://www.metacritic.com/search/A%20Family%20of%20Bastards/"
       }
     },
     {
@@ -812,6 +755,71 @@
       }
     },
     {
+      "tmdb_id": 1501018,
+      "imdb_id": "tt36963493",
+      "titulo_original": "Une Famille De Bâtards",
+      "titulo_ingles": "A Family of Bastards",
+      "ano": 2026,
+      "data_lancamento": "2026-06-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Hakim Jemili",
+        "Benjamin Tranié",
+        "Laura Felpin",
+        "Kad Merad",
+        "Florence Foresti",
+        "David Ayala",
+        "Ouassini Embarek",
+        "Alexandre Kominek"
+      ],
+      "diretor": "Mourad Winter",
+      "generos": [
+        "Comédia",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
+      "pais": [
+        "FR",
+        "US"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 105,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1501018-une-famille-de-batards/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36963493/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Family%20of%20Bastards",
+        "metacritic": "https://www.metacritic.com/search/A%20Family%20of%20Bastards/"
+      }
+    },
+    {
       "tmdb_id": 1699155,
       "imdb_id": "tt42863533",
       "titulo_original": "Maternal Instinct",
@@ -919,59 +927,6 @@
       }
     },
     {
-      "tmdb_id": 1275779,
-      "imdb_id": "tt15047880",
-      "titulo_original": "Disclosure Day",
-      "titulo_ingles": "Disclosure Day",
-      "ano": 2026,
-      "data_lancamento": "2026-06-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "A existência de vida extraterrestre torna-se uma realidade inegável para todos os habitantes da Terra em um único instante. O mundo entra em colapso quando uma meteorologista, em plena transmissão ao vivo, é dominada por uma força invisível, perdendo a fala e emitindo sons perturbadores. Enquanto fenômenos inexplicáveis e sinais de controle mental em massa se espalham, um informante tenta expor segredos governamentais guardados por décadas. Diante da prova definitiva de que a humanidade não está sozinha, o pânico e o fascínio tomam conta de uma civilização confrontada pelo desconhecido.",
-      "elenco": [
-        "Emily Blunt",
-        "Josh O'Connor",
-        "Colin Firth",
-        "Colman Domingo",
-        "Eve Hewson",
-        "Wyatt Russell",
-        "Elizabeth Marvel",
-        "Henry Lloyd-Hughes"
-      ],
-      "diretor": "Steven Spielberg",
-      "generos": [
-        "Ficção científica",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/5e8BQ6RP3GRPz45yno1jjlXu56.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "ko",
-        "ru"
-      ],
-      "duracao": 145,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt15047880/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Disclosure%20Day",
-        "metacritic": "https://www.metacritic.com/search/Disclosure%20Day/"
-      }
-    },
-    {
       "tmdb_id": 1560681,
       "imdb_id": "tt38681832",
       "titulo_original": "Kolory zła: Czerń",
@@ -1037,37 +992,39 @@
       }
     },
     {
-      "tmdb_id": 1083884,
-      "imdb_id": "tt21109170",
-      "titulo_original": "Signal One",
-      "titulo_ingles": "Signal One",
+      "tmdb_id": 1275779,
+      "imdb_id": "tt15047880",
+      "titulo_original": "Disclosure Day",
+      "titulo_ingles": "Disclosure Day",
       "ano": 2026,
-      "data_lancamento": "2026-06-05",
+      "data_lancamento": "2026-06-10",
       "data_qualificacao": "",
-      "sinopse_pt": "Uma cientista da computação é recrutada por um bilionário da tecnologia para trabalhar em um projeto que pode mudar o lugar da humanidade no universo.",
+      "sinopse_pt": "A existência de vida extraterrestre torna-se uma realidade inegável para todos os habitantes da Terra em um único instante. O mundo entra em colapso quando uma meteorologista, em plena transmissão ao vivo, é dominada por uma força invisível, perdendo a fala e emitindo sons perturbadores. Enquanto fenômenos inexplicáveis e sinais de controle mental em massa se espalham, um informante tenta expor segredos governamentais guardados por décadas. Diante da prova definitiva de que a humanidade não está sozinha, o pânico e o fascínio tomam conta de uma civilização confrontada pelo desconhecido.",
       "elenco": [
-        "Isabelle Fuhrman",
-        "Josh Hutcherson",
-        "David Thewlis",
-        "Dennis Quaid",
-        "Vanessa Smythe",
-        "Kiera Allen",
-        "Raoul Bhaneja",
-        "Ronnie James Hughes"
+        "Emily Blunt",
+        "Josh O'Connor",
+        "Colin Firth",
+        "Colman Domingo",
+        "Eve Hewson",
+        "Wyatt Russell",
+        "Elizabeth Marvel",
+        "Henry Lloyd-Hughes"
       ],
-      "diretor": "Jonathan Sobol",
+      "diretor": "Steven Spielberg",
       "generos": [
-        "Mistério",
-        "Ficção científica"
+        "Ficção científica",
+        "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5e8BQ6RP3GRPz45yno1jjlXu56.jpg",
       "pais": [
-        "CA"
+        "US"
       ],
       "idiomas": [
-        "en"
+        "en",
+        "ko",
+        "ru"
       ],
-      "duracao": 112,
+      "duracao": 145,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1079,12 +1036,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt21109170/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Signal%20One",
-        "metacritic": "https://www.metacritic.com/search/Signal%20One/"
+        "imdb": "https://www.imdb.com/title/tt15047880/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Disclosure%20Day",
+        "metacritic": "https://www.metacritic.com/search/Disclosure%20Day/"
       }
     },
     {
@@ -1201,6 +1158,57 @@
         "imdb": "https://www.imdb.com/title/tt32298956/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Passenger",
         "metacritic": "https://www.metacritic.com/search/The%20Passenger/"
+      }
+    },
+    {
+      "tmdb_id": 1083884,
+      "imdb_id": "tt21109170",
+      "titulo_original": "Signal One",
+      "titulo_ingles": "Signal One",
+      "ano": 2026,
+      "data_lancamento": "2026-06-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma cientista da computação é recrutada por um bilionário da tecnologia para trabalhar em um projeto que pode mudar o lugar da humanidade no universo.",
+      "elenco": [
+        "Isabelle Fuhrman",
+        "Josh Hutcherson",
+        "David Thewlis",
+        "Dennis Quaid",
+        "Vanessa Smythe",
+        "Kiera Allen",
+        "Raoul Bhaneja",
+        "Ronnie James Hughes"
+      ],
+      "diretor": "Jonathan Sobol",
+      "generos": [
+        "Mistério",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
+      "pais": [
+        "CA"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 112,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt21109170/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Signal%20One",
+        "metacritic": "https://www.metacritic.com/search/Signal%20One/"
       }
     },
     {
@@ -1676,6 +1684,56 @@
       }
     },
     {
+      "tmdb_id": 1680516,
+      "imdb_id": "tt42898884",
+      "titulo_original": "WHO",
+      "titulo_ingles": "WHO",
+      "ano": 2026,
+      "data_lancamento": "2026-05-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Wil Aime",
+        "Hassan Koné",
+        "Solène Hegbe",
+        "Eden Elijah",
+        "John Dadie",
+        "Philippe Kande",
+        "David Dey",
+        "Roselyne Geslot"
+      ],
+      "diretor": "Wil Aime",
+      "generos": [
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/rO9L4pXE0ykAKGHOTPNGXcvh450.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt42898884/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=WHO",
+        "metacritic": "https://www.metacritic.com/search/WHO/"
+      }
+    },
+    {
       "tmdb_id": 1515729,
       "imdb_id": "tt37971394",
       "titulo_original": "Blast",
@@ -1742,36 +1800,37 @@
       }
     },
     {
-      "tmdb_id": 1680516,
-      "imdb_id": "tt42898884",
-      "titulo_original": "WHO",
-      "titulo_ingles": "WHO",
+      "tmdb_id": 1694978,
+      "imdb_id": "tt41604789",
+      "titulo_original": "Chum",
+      "titulo_ingles": "Chum",
       "ano": 2026,
-      "data_lancamento": "2026-05-28",
+      "data_lancamento": "2026-05-27",
       "data_qualificacao": "",
       "sinopse_pt": "",
       "elenco": [
-        "Wil Aime",
-        "Hassan Koné",
-        "Solène Hegbe",
-        "Eden Elijah",
-        "John Dadie",
-        "Philippe Kande",
-        "David Dey",
-        "Roselyne Geslot"
+        "Alice Eve",
+        "Eric Michael Cole",
+        "Jim Klock",
+        "Elle Haymond",
+        "Sarah Siadat",
+        "Johnny Gaffney",
+        "Lisa Yaro",
+        "Vince Jolivette"
       ],
-      "diretor": "Wil Aime",
+      "diretor": "Jonathan Zuck",
       "generos": [
-        "Thriller"
+        "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/rO9L4pXE0ykAKGHOTPNGXcvh450.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uJOW6pWxJ0i5sji9VXRR6Y1wXyE.jpg",
       "pais": [
-        "FR"
+        "US",
+        "MT"
       ],
       "idiomas": [
-        "fr"
+        "en"
       ],
-      "duracao": 0,
+      "duracao": 87,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1786,9 +1845,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt42898884/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=WHO",
-        "metacritic": "https://www.metacritic.com/search/WHO/"
+        "imdb": "https://www.imdb.com/title/tt41604789/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Chum",
+        "metacritic": "https://www.metacritic.com/search/Chum/"
       }
     },
     {
@@ -1841,57 +1900,6 @@
         "imdb": "https://www.imdb.com/title/tt37535559/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Crescendo",
         "metacritic": "https://www.metacritic.com/search/Crescendo/"
-      }
-    },
-    {
-      "tmdb_id": 1694978,
-      "imdb_id": "tt41604789",
-      "titulo_original": "Chum",
-      "titulo_ingles": "Chum",
-      "ano": 2026,
-      "data_lancamento": "2026-05-27",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alice Eve",
-        "Eric Michael Cole",
-        "Jim Klock",
-        "Elle Haymond",
-        "Sarah Siadat",
-        "Johnny Gaffney",
-        "Lisa Yaro",
-        "Vince Jolivette"
-      ],
-      "diretor": "Jonathan Zuck",
-      "generos": [
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uJOW6pWxJ0i5sji9VXRR6Y1wXyE.jpg",
-      "pais": [
-        "US",
-        "MT"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 87,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt41604789/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Chum",
-        "metacritic": "https://www.metacritic.com/search/Chum/"
       }
     },
     {
@@ -2026,57 +2034,6 @@
       }
     },
     {
-      "tmdb_id": 1368314,
-      "imdb_id": "tt33763941",
-      "titulo_original": "Passenger",
-      "titulo_ingles": "Passenger",
-      "ano": 2026,
-      "data_lancamento": "2026-05-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "Durante uma viagem de van, um jovem casal presencia um acidente terrível que resulta na morte do motorista. Logo, eles passam a ser perseguidos por uma entidade demoníaca, de quem é impossível escapar e que os segue por onde quer que vão.",
-      "elenco": [
-        "Lou Llobell",
-        "Jacob Scipio",
-        "Melissa Leo",
-        "Joseph Lopez",
-        "Tony Doupe",
-        "Bonni Dichone",
-        "Devielle Johnson",
-        "Jessica Cruz"
-      ],
-      "diretor": "André Øvredal",
-      "generos": [
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/aSoOiatgMmXtDS3iwWD5hC2Rbyn.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 94,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33763941/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Passenger",
-        "metacritic": "https://www.metacritic.com/search/Passenger/"
-      }
-    },
-    {
       "tmdb_id": 1228710,
       "imdb_id": "tt30825738",
       "titulo_original": "The Mandalorian and Grogu",
@@ -2126,6 +2083,57 @@
         "imdb": "https://www.imdb.com/title/tt30825738/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Mandalorian%20and%20Grogu",
         "metacritic": "https://www.metacritic.com/search/The%20Mandalorian%20and%20Grogu/"
+      }
+    },
+    {
+      "tmdb_id": 1368314,
+      "imdb_id": "tt33763941",
+      "titulo_original": "Passenger",
+      "titulo_ingles": "Passenger",
+      "ano": 2026,
+      "data_lancamento": "2026-05-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "Durante uma viagem de van, um jovem casal presencia um acidente terrível que resulta na morte do motorista. Logo, eles passam a ser perseguidos por uma entidade demoníaca, de quem é impossível escapar e que os segue por onde quer que vão.",
+      "elenco": [
+        "Lou Llobell",
+        "Jacob Scipio",
+        "Melissa Leo",
+        "Joseph Lopez",
+        "Tony Doupe",
+        "Bonni Dichone",
+        "Devielle Johnson",
+        "Jessica Cruz"
+      ],
+      "diretor": "André Øvredal",
+      "generos": [
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/aSoOiatgMmXtDS3iwWD5hC2Rbyn.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 94,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33763941/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Passenger",
+        "metacritic": "https://www.metacritic.com/search/Passenger/"
       }
     },
     {
@@ -2309,6 +2317,71 @@
       }
     },
     {
+      "tmdb_id": 1628367,
+      "imdb_id": "tt39664733",
+      "titulo_original": "कर्त्तव्य",
+      "titulo_ingles": "Kartavya",
+      "ano": 2026,
+      "data_lancamento": "2026-05-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "Com a segurança da família em risco e diante de ameaças iminentes, um policial precisa decidir o quanto está disposto a sacrificar em nome do dever.",
+      "elenco": [
+        "सैफ़ अली ख़ान",
+        "रसिका दुग्गल",
+        "Sanjay Mishra",
+        "Saurabh Dwivedi",
+        "Zakir Hussain",
+        "Manish Chaudhary",
+        "Durgesh Kumar",
+        "Saharsh Kumar Shukla"
+      ],
+      "diretor": "Pulkit",
+      "generos": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/tVJVueBmMmGwuel02Z8XeudNoq4.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 109,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1628367/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39664733/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kartavya",
+        "metacritic": "https://www.metacritic.com/search/Kartavya/"
+      }
+    },
+    {
       "tmdb_id": 1684226,
       "imdb_id": "tt42192201",
       "titulo_original": "Bruid van die Jaar",
@@ -2375,71 +2448,6 @@
       }
     },
     {
-      "tmdb_id": 1628367,
-      "imdb_id": "tt39664733",
-      "titulo_original": "कर्त्तव्य",
-      "titulo_ingles": "Kartavya",
-      "ano": 2026,
-      "data_lancamento": "2026-05-15",
-      "data_qualificacao": "",
-      "sinopse_pt": "Com a segurança da família em risco e diante de ameaças iminentes, um policial precisa decidir o quanto está disposto a sacrificar em nome do dever.",
-      "elenco": [
-        "सैफ़ अली ख़ान",
-        "रसिका दुग्गल",
-        "Sanjay Mishra",
-        "Saurabh Dwivedi",
-        "Zakir Hussain",
-        "Manish Chaudhary",
-        "Durgesh Kumar",
-        "Saharsh Kumar Shukla"
-      ],
-      "diretor": "Pulkit",
-      "generos": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/tVJVueBmMmGwuel02Z8XeudNoq4.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 109,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1628367/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39664733/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kartavya",
-        "metacritic": "https://www.metacritic.com/search/Kartavya/"
-      }
-    },
-    {
       "tmdb_id": 1693346,
       "imdb_id": "tt42615436",
       "titulo_original": "Apple Music Live: Lady Gaga MAYHEM Requiem",
@@ -2480,69 +2488,6 @@
         "imdb": "https://www.imdb.com/title/tt42615436/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Apple%20Music%20Live%3A%20Lady%20Gaga%20MAYHEM%20Requiem",
         "metacritic": "https://www.metacritic.com/search/Apple%20Music%20Live%3A%20Lady%20Gaga%20MAYHEM%20Requiem/"
-      }
-    },
-    {
-      "tmdb_id": 1398050,
-      "imdb_id": "tt9308022",
-      "titulo_original": "Driver's Ed",
-      "titulo_ingles": "Driver's Ed",
-      "ano": 2026,
-      "data_lancamento": "2026-05-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "Jeremy, um estudante do último ano do ensino médio, planeja continuar o namoro com Samantha quando ela for pra faculdade. Depois de uma ligação numa madrugada, ele acha que ela está terminando e rouba o carro da autoescola com três colegas dentro para ir até Chapel Hill para reconquistá-la. Em 24 horas caóticas, eles são perseguidos por um segurança, bandidos e por suas péssimas decisões.",
-      "elenco": [
-        "Sam Nivola",
-        "Sophie Telegadis",
-        "Mohana Krishnan",
-        "Aidan Laprete",
-        "Kumail Nanjiani",
-        "Molly Shannon",
-        "Lilah Pate",
-        "Tim Baltz"
-      ],
-      "diretor": "Bobby Farrelly",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vFeNDnqH6X10MewHWQ5EnlHHRSF.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 102,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 44,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 44,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1398050-driver-s-ed/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt9308022/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Driver's%20Ed",
-        "metacritic": "https://www.metacritic.com/search/Driver's%20Ed/"
       }
     },
     {
@@ -2619,7 +2564,7 @@
       "data_qualificacao": "",
       "sinopse_pt": "",
       "elenco": [
-        "Suriya",
+        "சூர்யா",
         "த்ரிஷா கிருஷ்ணன்",
         "RJ Balaji",
         "Indrans",
@@ -3309,6 +3254,69 @@
         "imdb": "https://www.imdb.com/title/tt34479814/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=See%20The%20Sea",
         "metacritic": "https://www.metacritic.com/search/See%20The%20Sea/"
+      }
+    },
+    {
+      "tmdb_id": 1398050,
+      "imdb_id": "tt9308022",
+      "titulo_original": "Driver's Ed",
+      "titulo_ingles": "Driver's Ed",
+      "ano": 2025,
+      "data_lancamento": "2025-09-13",
+      "data_qualificacao": "",
+      "sinopse_pt": "Jeremy, um estudante do último ano do ensino médio, planeja continuar o namoro com Samantha quando ela for pra faculdade. Depois de uma ligação numa madrugada, ele acha que ela está terminando e rouba o carro da autoescola com três colegas dentro para ir até Chapel Hill para reconquistá-la. Em 24 horas caóticas, eles são perseguidos por um segurança, bandidos e por suas péssimas decisões.",
+      "elenco": [
+        "Sam Nivola",
+        "Sophie Telegadis",
+        "Mohana Krishnan",
+        "Aidan Laprete",
+        "Kumail Nanjiani",
+        "Molly Shannon",
+        "Lilah Pate",
+        "Tim Baltz"
+      ],
+      "diretor": "Bobby Farrelly",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vFeNDnqH6X10MewHWQ5EnlHHRSF.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 102,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 44,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 44,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1398050-driver-s-ed/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt9308022/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Driver's%20Ed",
+        "metacritic": "https://www.metacritic.com/search/Driver's%20Ed/"
       }
     },
     {
