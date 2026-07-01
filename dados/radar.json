@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-06-30T11:57:43.562Z",
+  "gerado_em": "2026-07-01T12:19:35.304Z",
   "filmes": [
     {
       "tmdb_id": 1165369,
@@ -26,7 +26,7 @@
         "História",
         "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/zFjAZS8ai97JP2LnwaU3vRYWRUn.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg",
       "pais": [
         "FR",
         "BE",
@@ -54,6 +54,114 @@
         "imdb": "https://www.imdb.com/title/tt35856133/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=De%20Gaulle%3A%20Libert%C3%A9",
         "metacritic": "https://www.metacritic.com/search/De%20Gaulle%3A%20Libert%C3%A9/"
+      }
+    },
+    {
+      "tmdb_id": 1169516,
+      "imdb_id": "tt28540171",
+      "titulo_original": "Welcome to the Jungle",
+      "titulo_ingles": "Welcome to the Jungle",
+      "ano": 2026,
+      "data_lancamento": "2026-06-25",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Akshay Kumar",
+        "सुनील शेट्टी",
+        "Arshad Warsi",
+        "जैकलिन फर्नांडीस",
+        "Disha Patani",
+        "रवीना टंडन",
+        "Jackie Shroff",
+        "Paresh Rawal"
+      ],
+      "diretor": "Ahmed Khan",
+      "generos": [
+        "Ação",
+        "Comédia",
+        "Aventura",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 170,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt28540171/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Welcome%20to%20the%20Jungle",
+        "metacritic": "https://www.metacritic.com/search/Welcome%20to%20the%20Jungle/"
+      }
+    },
+    {
+      "tmdb_id": 1315772,
+      "imdb_id": "tt32890033",
+      "titulo_original": "Minions & Monsters",
+      "titulo_ingles": "Minions & Monsters",
+      "ano": 2026,
+      "data_lancamento": "2026-06-24",
+      "data_qualificacao": "",
+      "sinopse_pt": "Esta é a frenética, ridícula e totalmente verdadeira história de como os Minions conquistaram Hollywood, se tornaram estrelas de cinema, perderam tudo, libertaram monstros pelo mundo e, depois, se uniram para tentar salvar o planeta do caos que eles mesmos haviam acabado de criar.",
+      "elenco": [
+        "Pierre Coffin",
+        "Trey Parker",
+        "Allison Janney",
+        "Christoph Waltz",
+        "Jeff Bridges",
+        "Jesse Eisenberg",
+        "Zoey Deutch",
+        "Bobby Moynihan"
+      ],
+      "diretor": "Pierre Coffin",
+      "generos": [
+        "Aventura",
+        "Animação",
+        "Comédia",
+        "Família",
+        "Fantasia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/hTowtXrkCY7FJyoj4p91JckrJSE.jpg",
+      "pais": [
+        "US",
+        "JP"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 87,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32890033/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Minions%20%26%20Monsters",
+        "metacritic": "https://www.metacritic.com/search/Minions%20%26%20Monsters/"
       }
     },
     {
@@ -393,6 +501,118 @@
       }
     },
     {
+      "tmdb_id": 1061798,
+      "imdb_id": "tt36955518",
+      "titulo_original": "Jim Queen",
+      "titulo_ingles": "Jim Queen",
+      "ano": 2026,
+      "data_lancamento": "2026-06-17",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alex Ramirès",
+        "Jéremy Gillet",
+        "Shirley Souagnon",
+        "François Sagat",
+        "Elisabeth Wiener",
+        "Harald Marlot",
+        "Alexandre Brik",
+        "Philippe Katerine"
+      ],
+      "diretor": "Marco Nguyen, Nicolas Athané",
+      "generos": [
+        "Animação",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
+      "pais": [
+        "FR",
+        "BE"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 85,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36955518/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
+        "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
+      }
+    },
+    {
+      "tmdb_id": 1716513,
+      "imdb_id": "tt43140112",
+      "titulo_original": "Extreme Makeover: Homer Edition",
+      "titulo_ingles": "Extreme Makeover: Homer Edition",
+      "ano": 2026,
+      "data_lancamento": "2026-06-17",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Dan Castellaneta",
+        "Julie Kavner",
+        "Nancy Cartwright",
+        "Yeardley Smith",
+        "Harry Shearer",
+        "Hank Azaria",
+        "Betty Gilpin",
+        "Jon Hamm"
+      ],
+      "diretor": "Matthew Nastuk, Timothy Bailey",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Família"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vim76mMXig00YRxN2iGYJASoGkP.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 48,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1716513-extreme-makeover-homer-edition/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43140112/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Extreme%20Makeover%3A%20Homer%20Edition",
+        "metacritic": "https://www.metacritic.com/search/Extreme%20Makeover%3A%20Homer%20Edition/"
+      }
+    },
+    {
       "tmdb_id": 1477317,
       "imdb_id": "tt36958376",
       "titulo_original": "Your Fault: London",
@@ -456,118 +676,6 @@
         "imdb": "https://www.imdb.com/title/tt36958376/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Your%20Fault%3A%20London",
         "metacritic": "https://www.metacritic.com/search/Your%20Fault%3A%20London/"
-      }
-    },
-    {
-      "tmdb_id": 1716513,
-      "imdb_id": "tt43140112",
-      "titulo_original": "Extreme Makeover: Homer Edition",
-      "titulo_ingles": "Extreme Makeover: Homer Edition",
-      "ano": 2026,
-      "data_lancamento": "2026-06-17",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Dan Castellaneta",
-        "Julie Kavner",
-        "Nancy Cartwright",
-        "Yeardley Smith",
-        "Harry Shearer",
-        "Hank Azaria",
-        "Betty Gilpin",
-        "Jon Hamm"
-      ],
-      "diretor": "Matthew Nastuk, Timothy Bailey",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Família"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/p8QadmOzNsL7I74q1kfaV6SpvdF.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 48,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1716513-extreme-makeover-homer-edition/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43140112/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Extreme%20Makeover%3A%20Homer%20Edition",
-        "metacritic": "https://www.metacritic.com/search/Extreme%20Makeover%3A%20Homer%20Edition/"
-      }
-    },
-    {
-      "tmdb_id": 1061798,
-      "imdb_id": "tt36955518",
-      "titulo_original": "Jim Queen",
-      "titulo_ingles": "Jim Queen",
-      "ano": 2026,
-      "data_lancamento": "2026-06-17",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alex Ramirès",
-        "Jéremy Gillet",
-        "Shirley Souagnon",
-        "François Sagat",
-        "Elisabeth Wiener",
-        "Harald Marlot",
-        "Alexandre Brik",
-        "Philippe Katerine"
-      ],
-      "diretor": "Nicolas Athané, Marco Nguyen",
-      "generos": [
-        "Animação",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 85,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36955518/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
-        "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
       }
     },
     {
@@ -635,6 +743,62 @@
       }
     },
     {
+      "tmdb_id": 1020047,
+      "imdb_id": "tt1333644",
+      "titulo_original": "In the Hand of Dante",
+      "titulo_ingles": "In the Hand of Dante",
+      "ano": 2026,
+      "data_lancamento": "2026-06-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um manuscrito do poema “A Divina Comédia”, de Dante Alighieri, passa das mãos de um padre para as de um chefe da máfia em Nova Iorque, onde é levado por Nick Tosches depois de lhe ter sido pedido que verificasse a sua autenticidade.",
+      "elenco": [
+        "Oscar Isaac",
+        "Gal Gadot",
+        "Gerard Butler",
+        "John Malkovich",
+        "Louis Cancelmi",
+        "Sabrina Impacciatore",
+        "Franco Nero",
+        "Benjamin Clementine"
+      ],
+      "diretor": "Julian Schnabel",
+      "generos": [
+        "Drama",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/kvJJK0EoC4rCtovBMoq2A6eeATL.jpg",
+      "pais": [
+        "CL",
+        "IT",
+        "GB",
+        "US"
+      ],
+      "idiomas": [
+        "es",
+        "en",
+        "it"
+      ],
+      "duracao": 153,
+      "rt_critica": 43,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 43,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt1333644/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=In%20the%20Hand%20of%20Dante",
+        "metacritic": "https://www.metacritic.com/search/In%20the%20Hand%20of%20Dante/"
+      }
+    },
+    {
       "tmdb_id": 1511549,
       "imdb_id": "tt36956284",
       "titulo_original": "Ancora più sexy",
@@ -696,62 +860,6 @@
         "imdb": "https://www.imdb.com/title/tt36956284/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Still%20Sexy",
         "metacritic": "https://www.metacritic.com/search/Still%20Sexy/"
-      }
-    },
-    {
-      "tmdb_id": 1020047,
-      "imdb_id": "tt1333644",
-      "titulo_original": "In the Hand of Dante",
-      "titulo_ingles": "In the Hand of Dante",
-      "ano": 2026,
-      "data_lancamento": "2026-06-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um manuscrito do poema “A Divina Comédia”, de Dante Alighieri, passa das mãos de um padre para as de um chefe da máfia em Nova Iorque, onde é levado por Nick Tosches depois de lhe ter sido pedido que verificasse a sua autenticidade.",
-      "elenco": [
-        "Oscar Isaac",
-        "Gal Gadot",
-        "Gerard Butler",
-        "John Malkovich",
-        "Louis Cancelmi",
-        "Sabrina Impacciatore",
-        "Franco Nero",
-        "Benjamin Clementine"
-      ],
-      "diretor": "Julian Schnabel",
-      "generos": [
-        "Drama",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvJJK0EoC4rCtovBMoq2A6eeATL.jpg",
-      "pais": [
-        "CL",
-        "IT",
-        "GB",
-        "US"
-      ],
-      "idiomas": [
-        "es",
-        "en",
-        "it"
-      ],
-      "duracao": 153,
-      "rt_critica": 43,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 43,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt1333644/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=In%20the%20Hand%20of%20Dante",
-        "metacritic": "https://www.metacritic.com/search/In%20the%20Hand%20of%20Dante/"
       }
     },
     {
@@ -875,38 +983,39 @@
       }
     },
     {
-      "tmdb_id": 1668499,
-      "imdb_id": "tt42575634",
-      "titulo_original": "Le Vertige",
-      "titulo_ingles": "Vertiginous",
+      "tmdb_id": 1275779,
+      "imdb_id": "tt15047880",
+      "titulo_original": "Disclosure Day",
+      "titulo_ingles": "Disclosure Day",
       "ano": 2026,
       "data_lancamento": "2026-06-10",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "A existência de vida extraterrestre torna-se uma realidade inegável para todos os habitantes da Terra em um único instante. O mundo entra em colapso quando uma meteorologista, em plena transmissão ao vivo, é dominada por uma força invisível, perdendo a fala e emitindo sons perturbadores. Enquanto fenômenos inexplicáveis e sinais de controle mental em massa se espalham, um informante tenta expor segredos governamentais guardados por décadas. Diante da prova definitiva de que a humanidade não está sozinha, o pânico e o fascínio tomam conta de uma civilização confrontada pelo desconhecido.",
       "elenco": [
-        "Alain Chabat",
-        "Jonathan Cohen",
-        "Anaïs Demoustier",
-        "Jean-Marie Winling",
-        "Jean-Christophe Le Guennan",
-        "Oscar Vercken de Vreuschmen",
-        "Coco Dupieux",
-        "Anna-Marie Filippi"
+        "Emily Blunt",
+        "Josh O'Connor",
+        "Colin Firth",
+        "Colman Domingo",
+        "Eve Hewson",
+        "Wyatt Russell",
+        "Elizabeth Marvel",
+        "Henry Lloyd-Hughes"
       ],
-      "diretor": "Quentin Dupieux",
+      "diretor": "Steven Spielberg",
       "generos": [
-        "Animação",
-        "Comédia",
-        "Ficção científica"
+        "Ficção científica",
+        "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qO8nc3cSjzGduaC0deh8gBRKK9Z.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5e8BQ6RP3GRPz45yno1jjlXu56.jpg",
       "pais": [
-        "FR"
+        "US"
       ],
       "idiomas": [
-        "fr"
+        "en",
+        "ko",
+        "ru"
       ],
-      "duracao": 0,
+      "duracao": 145,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -918,12 +1027,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt42575634/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vertiginous",
-        "metacritic": "https://www.metacritic.com/search/Vertiginous/"
+        "imdb": "https://www.imdb.com/title/tt15047880/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Disclosure%20Day",
+        "metacritic": "https://www.metacritic.com/search/Disclosure%20Day/"
       }
     },
     {
@@ -992,39 +1101,38 @@
       }
     },
     {
-      "tmdb_id": 1275779,
-      "imdb_id": "tt15047880",
-      "titulo_original": "Disclosure Day",
-      "titulo_ingles": "Disclosure Day",
+      "tmdb_id": 1668499,
+      "imdb_id": "tt42575634",
+      "titulo_original": "Le Vertige",
+      "titulo_ingles": "Vertiginous",
       "ano": 2026,
       "data_lancamento": "2026-06-10",
       "data_qualificacao": "",
-      "sinopse_pt": "A existência de vida extraterrestre torna-se uma realidade inegável para todos os habitantes da Terra em um único instante. O mundo entra em colapso quando uma meteorologista, em plena transmissão ao vivo, é dominada por uma força invisível, perdendo a fala e emitindo sons perturbadores. Enquanto fenômenos inexplicáveis e sinais de controle mental em massa se espalham, um informante tenta expor segredos governamentais guardados por décadas. Diante da prova definitiva de que a humanidade não está sozinha, o pânico e o fascínio tomam conta de uma civilização confrontada pelo desconhecido.",
+      "sinopse_pt": "",
       "elenco": [
-        "Emily Blunt",
-        "Josh O'Connor",
-        "Colin Firth",
-        "Colman Domingo",
-        "Eve Hewson",
-        "Wyatt Russell",
-        "Elizabeth Marvel",
-        "Henry Lloyd-Hughes"
+        "Alain Chabat",
+        "Jonathan Cohen",
+        "Anaïs Demoustier",
+        "Jean-Marie Winling",
+        "Jean-Christophe Le Guennan",
+        "Oscar Vercken de Vreuschmen",
+        "Coco Dupieux",
+        "Anna-Marie Filippi"
       ],
-      "diretor": "Steven Spielberg",
+      "diretor": "Quentin Dupieux",
       "generos": [
-        "Ficção científica",
-        "Thriller"
+        "Animação",
+        "Comédia",
+        "Ficção científica"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/5e8BQ6RP3GRPz45yno1jjlXu56.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/qO8nc3cSjzGduaC0deh8gBRKK9Z.jpg",
       "pais": [
-        "US"
+        "FR"
       ],
       "idiomas": [
-        "en",
-        "ko",
-        "ru"
+        "fr"
       ],
-      "duracao": 145,
+      "duracao": 0,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1036,77 +1144,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "cinema"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt15047880/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Disclosure%20Day",
-        "metacritic": "https://www.metacritic.com/search/Disclosure%20Day/"
-      }
-    },
-    {
-      "tmdb_id": 1274706,
-      "imdb_id": "tt32129938",
-      "titulo_original": "La desconocida",
-      "titulo_ingles": "The Marked Woman",
-      "ano": 2026,
-      "data_lancamento": "2026-06-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma mulher é encontrada em um contêiner totalmente sem memória. Agora, dois investigadores correm contra o tempo para descobrir a identidade dela e quem quer matá-la.",
-      "elenco": [
-        "Candela Peña",
-        "Ana Rujas",
-        "Pol López",
-        "Manolo Solo",
-        "Kira Miró",
-        "Esther Noya",
-        "Luka Peroš",
-        "Pilar Nogales"
-      ],
-      "diretor": "Gabe Ibáñez",
-      "generos": [
-        "Thriller",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4RVwOa0lgMIIJNYccEQVvShHUNZ.jpg",
-      "pais": [
-        "AR",
-        "ES"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 109,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1274706-la-desconocida/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32129938/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Marked%20Woman",
-        "metacritic": "https://www.metacritic.com/search/The%20Marked%20Woman/"
+        "imdb": "https://www.imdb.com/title/tt42575634/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vertiginous",
+        "metacritic": "https://www.metacritic.com/search/Vertiginous/"
       }
     },
     {
@@ -1212,37 +1255,38 @@
       }
     },
     {
-      "tmdb_id": 1358005,
-      "imdb_id": "tt33397980",
-      "titulo_original": "Office Romance",
-      "titulo_ingles": "Office Romance",
+      "tmdb_id": 1274706,
+      "imdb_id": "tt32129938",
+      "titulo_original": "La desconocida",
+      "titulo_ingles": "The Marked Woman",
       "ano": 2026,
-      "data_lancamento": "2026-06-04",
+      "data_lancamento": "2026-06-05",
       "data_qualificacao": "",
-      "sinopse_pt": "Uma comédia romântica apimentada sobre dois viciados em trabalho que vivem um relacionamento secreto na empresa.",
+      "sinopse_pt": "Uma mulher é encontrada em um contêiner totalmente sem memória. Agora, dois investigadores correm contra o tempo para descobrir a identidade dela e quem quer matá-la.",
       "elenco": [
-        "Jennifer Lopez",
-        "Brett Goldstein",
-        "Betty Gilpin",
-        "Edward James Olmos",
-        "Bradley Whitford",
-        "Amy Sedaris",
-        "Jodie Whittaker",
-        "Mary Wiseman"
+        "Candela Peña",
+        "Ana Rujas",
+        "Pol López",
+        "Manolo Solo",
+        "Kira Miró",
+        "Esther Noya",
+        "Luka Peroš",
+        "Pilar Nogales"
       ],
-      "diretor": "Ol Parker",
+      "diretor": "Gabe Ibáñez",
       "generos": [
-        "Romance",
-        "Comédia"
+        "Thriller",
+        "Crime"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/kN86jEhf5xeHTPwlVeZ1ZAW861r.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4RVwOa0lgMIIJNYccEQVvShHUNZ.jpg",
       "pais": [
-        "US"
+        "AR",
+        "ES"
       ],
       "idiomas": [
-        "en"
+        "es"
       ],
-      "duracao": 115,
+      "duracao": 109,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1267,12 +1311,12 @@
             "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
           }
         ],
-        "link_br": "https://www.themoviedb.org/movie/1358005-office-romance/watch?locale=BR"
+        "link_br": "https://www.themoviedb.org/movie/1274706-la-desconocida/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt33397980/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Office%20Romance",
-        "metacritic": "https://www.metacritic.com/search/Office%20Romance/"
+        "imdb": "https://www.imdb.com/title/tt32129938/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Marked%20Woman",
+        "metacritic": "https://www.metacritic.com/search/The%20Marked%20Woman/"
       }
     },
     {
@@ -1380,6 +1424,70 @@
         "imdb": "https://www.imdb.com/title/tt30447822/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Hai%20Jawani%20Toh%20Ishq%20Hona%20Hai",
         "metacritic": "https://www.metacritic.com/search/Hai%20Jawani%20Toh%20Ishq%20Hona%20Hai/"
+      }
+    },
+    {
+      "tmdb_id": 1358005,
+      "imdb_id": "tt33397980",
+      "titulo_original": "Office Romance",
+      "titulo_ingles": "Office Romance",
+      "ano": 2026,
+      "data_lancamento": "2026-06-04",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma comédia romântica apimentada sobre dois viciados em trabalho que vivem um relacionamento secreto na empresa.",
+      "elenco": [
+        "Jennifer Lopez",
+        "Brett Goldstein",
+        "Betty Gilpin",
+        "Edward James Olmos",
+        "Bradley Whitford",
+        "Amy Sedaris",
+        "Jodie Whittaker",
+        "Mary Wiseman"
+      ],
+      "diretor": "Ol Parker",
+      "generos": [
+        "Romance",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/kN86jEhf5xeHTPwlVeZ1ZAW861r.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 115,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1358005-office-romance/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33397980/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Office%20Romance",
+        "metacritic": "https://www.metacritic.com/search/Office%20Romance/"
       }
     },
     {
@@ -1494,7 +1602,7 @@
       "ano": 2026,
       "data_lancamento": "2026-06-03",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Um grupo de turistas precisa lutar por suas vidas contra um hipopótamo enfurecido à solta após se perder nos pântanos da Louisiana.",
       "elenco": [
         "Madison Davenport",
         "Tracey Bonner",
@@ -1510,7 +1618,7 @@
         "Thriller",
         "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/kHbUXJhXYV7UGiStIgCyplWsYKd.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hxg4RRGVJ2FTq6C38dGaOKu57l8.jpg",
       "pais": [
         "US"
       ],
@@ -1612,7 +1720,7 @@
         "História",
         "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wRvwPOxWXkeBhPFwpuE8v9tmsY9.jpg",
       "pais": [
         "FR",
         "BE",
@@ -1800,57 +1908,6 @@
       }
     },
     {
-      "tmdb_id": 1694978,
-      "imdb_id": "tt41604789",
-      "titulo_original": "Chum",
-      "titulo_ingles": "Chum",
-      "ano": 2026,
-      "data_lancamento": "2026-05-27",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alice Eve",
-        "Eric Michael Cole",
-        "Jim Klock",
-        "Elle Haymond",
-        "Sarah Siadat",
-        "Johnny Gaffney",
-        "Lisa Yaro",
-        "Vince Jolivette"
-      ],
-      "diretor": "Jonathan Zuck",
-      "generos": [
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uJOW6pWxJ0i5sji9VXRR6Y1wXyE.jpg",
-      "pais": [
-        "US",
-        "MT"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 87,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt41604789/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Chum",
-        "metacritic": "https://www.metacritic.com/search/Chum/"
-      }
-    },
-    {
       "tmdb_id": 1466123,
       "imdb_id": "tt37535559",
       "titulo_original": "L'Objet du délit",
@@ -1900,6 +1957,57 @@
         "imdb": "https://www.imdb.com/title/tt37535559/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Crescendo",
         "metacritic": "https://www.metacritic.com/search/Crescendo/"
+      }
+    },
+    {
+      "tmdb_id": 1694978,
+      "imdb_id": "tt41604789",
+      "titulo_original": "Chum",
+      "titulo_ingles": "Chum",
+      "ano": 2026,
+      "data_lancamento": "2026-05-27",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alice Eve",
+        "Eric Michael Cole",
+        "Jim Klock",
+        "Elle Haymond",
+        "Sarah Siadat",
+        "Johnny Gaffney",
+        "Lisa Yaro",
+        "Vince Jolivette"
+      ],
+      "diretor": "Jonathan Zuck",
+      "generos": [
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uJOW6pWxJ0i5sji9VXRR6Y1wXyE.jpg",
+      "pais": [
+        "US",
+        "MT"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 87,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt41604789/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Chum",
+        "metacritic": "https://www.metacritic.com/search/Chum/"
       }
     },
     {
@@ -2463,7 +2571,7 @@
       "generos": [
         "Música"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/doRAgLMtD34F4fDPAKiVt2ixEiV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5qJgfeZRcz6EOi6zUb9tpSlmDni.jpg",
       "pais": [
         "US"
       ],
@@ -2555,57 +2663,6 @@
       }
     },
     {
-      "tmdb_id": 1367220,
-      "imdb_id": "tt33988385",
-      "titulo_original": "கருப்பு",
-      "titulo_ingles": "Karuppu",
-      "ano": 2026,
-      "data_lancamento": "2026-05-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "சூர்யா",
-        "த்ரிஷா கிருஷ்ணன்",
-        "RJ Balaji",
-        "Indrans",
-        "Anagha Maya Ravi",
-        "Swasika",
-        "Sshivada Nair",
-        "Natarajan Subramaniam"
-      ],
-      "diretor": "RJ Balaji",
-      "generos": [
-        "Ação",
-        "Fantasia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "ta"
-      ],
-      "duracao": 152,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33988385/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Karuppu",
-        "metacritic": "https://www.metacritic.com/search/Karuppu/"
-      }
-    },
-    {
       "tmdb_id": 1122573,
       "imdb_id": "tt27681354",
       "titulo_original": "In the Grey",
@@ -2656,69 +2713,6 @@
         "imdb": "https://www.imdb.com/title/tt27681354/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=In%20the%20Grey",
         "metacritic": "https://www.metacritic.com/search/In%20the%20Grey/"
-      }
-    },
-    {
-      "tmdb_id": 1678844,
-      "imdb_id": "tt37024319",
-      "titulo_original": "Le Bus : Les Bleus en grève",
-      "titulo_ingles": "The Bus: A French Football Mutiny",
-      "ano": 2026,
-      "data_lancamento": "2026-05-13",
-      "data_qualificacao": "",
-      "sinopse_pt": "Este documentário revisita a polêmica Copa do Mundo de 2010 da seleção francesa de futebol e a greve de ônibus que gerou manchetes globais e indignação nacional.",
-      "elenco": [
-        "Raymond Domenech",
-        "Patrice Evra",
-        "William Gallas",
-        "Bacary Sagna",
-        "Estelle Denis",
-        "François Manardo",
-        "Roselyne Bachelot",
-        "Sébastien Tarrago"
-      ],
-      "diretor": "Jérôme Fritel, Christophe Astruc",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/xy5oC3dWw2OuSUHXIBPm6XQLk8n.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 81,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1678844-le-bus-les-bleus-en-greve/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37024319/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Bus%3A%20A%20French%20Football%20Mutiny",
-        "metacritic": "https://www.metacritic.com/search/The%20Bus%3A%20A%20French%20Football%20Mutiny/"
       }
     },
     {
