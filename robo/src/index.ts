@@ -39,6 +39,9 @@ import { anoDe, carregarEnv, diasEntre, emLotes, envObrigatoria, hoje } from "./
 
 const CONCORRENCIA = 5;
 
+/** A cada quantos dias as notas (OMDb) de um filme já no feed são reconsultadas. */
+const DIAS_ATUALIZAR_NOTAS = 15;
+
 const NOTAS_VAZIAS: NotasOmdb = { encontrado: false, rt: null, metacritic: null, imdb: null };
 
 /**
@@ -113,6 +116,18 @@ function anexarHistorico(filme: Filme, notas: NotasOmdb, dia: string): void {
   }
 }
 
+/**
+ * Verdadeiro se as notas do filme já venceram o ciclo de reconsulta
+ * (DIAS_ATUALIZAR_NOTAS dias desde o último registro) — ou se ele ainda não tem
+ * nenhum registro. Usado para reconsultar a OMDb nesse ritmo, não diariamente,
+ * poupando o orçamento gratuito da OMDb.
+ */
+function notasVencidas(filme: Filme, dia: string): boolean {
+  const ultimo = filme.historico[filme.historico.length - 1];
+  if (!ultimo) return true;
+  return diasEntre(ultimo.data, dia) >= DIAS_ATUALIZAR_NOTAS;
+}
+
 async function main(): Promise<void> {
   carregarEnv(path.resolve(import.meta.dirname, "..", ".env"));
   configurarTmdb(envObrigatoria("TMDB_API_KEY"));
@@ -181,7 +196,10 @@ async function main(): Promise<void> {
   // 2–4. Processa a fila com ORÇAMENTO diário de consultas à OMDb: prioriza os
   // nunca consultados e os mais antigos; o excedente fica para os próximos dias.
   // Assim a fila pode crescer (varredura) sem estourar o limite gratuito da OMDb.
-  const orcamento = Math.max(150, 850 - catalogo.filmes.length);
+  // O feed reconsulta a OMDb só para os filmes com notas vencidas (ciclo de
+  // DIAS_ATUALIZAR_NOTAS dias), então descontamos apenas esses — não o feed inteiro.
+  const feedVencidos = catalogo.filmes.filter((f) => notasVencidas(f, dia)).length;
+  const orcamento = Math.max(150, 850 - feedVencidos);
   const porPrioridade = estado.fila
     .slice()
     .sort((a, b) => ((a.ultima_consulta ?? "") < (b.ultima_consulta ?? "") ? -1 : 1));
@@ -233,19 +251,27 @@ async function main(): Promise<void> {
   estado.fila = [...aindaNaFila, ...adiados];
   console.log(`  ${promovidos} promovido(s) para o feed. Restam ${estado.fila.length} na fila.`);
 
-  // 5–7. Atualiza quem já está no feed: histórico do dia + ficha (disponibilidade, IMDb).
-  console.log(`Atualizando o feed (${catalogo.filmes.length})...`);
+  // 5–7. Atualiza quem já está no feed. As NOTAS (OMDb) são reconsultadas a cada
+  // DIAS_ATUALIZAR_NOTAS dias por filme — não todo dia — para poupar o orçamento
+  // diário da OMDb. A ficha do TMDb (disponibilidade, pôster) segue diária.
+  console.log(
+    `Atualizando o feed (${catalogo.filmes.length}); notas a reconsultar hoje: ${feedVencidos} (ciclo de ${DIAS_ATUALIZAR_NOTAS} dias).`,
+  );
   await emLotes(catalogo.filmes, CONCORRENCIA, async (filme) => {
-    const { notas } = await notasSeguras(filme.imdb_id);
-    // Só registra o ponto do dia se a OMDb respondeu — assim um dia de falha/limite
-    // não vira um buraco no histórico nem zera as notas atuais.
-    if (notas.encontrado) {
-      anexarHistorico(filme, notas, dia);
-      Object.assign(filme, derivarNotas(filme.historico));
-      filme.rt_critica = notas.rt;
-      filme.metacritic = notas.metacritic;
-      if (notas.imdb != null) filme.imdb_publico = notas.imdb;
+    // Notas: só reconsulta a OMDb quando venceu o ciclo de DIAS_ATUALIZAR_NOTAS dias.
+    if (notasVencidas(filme, dia)) {
+      const { notas } = await notasSeguras(filme.imdb_id);
+      // Só registra o ponto se a OMDb respondeu — assim um dia de falha/limite
+      // não vira um buraco no histórico nem zera as notas atuais.
+      if (notas.encontrado) {
+        anexarHistorico(filme, notas, dia);
+        Object.assign(filme, derivarNotas(filme.historico));
+        filme.rt_critica = notas.rt;
+        filme.metacritic = notas.metacritic;
+        if (notas.imdb != null) filme.imdb_publico = notas.imdb;
+      }
     }
+    // Ficha do TMDb (disponibilidade no Brasil, pôster) continua diária.
     try {
       const meta = await buscarMetadados(filme.tmdb_id, dia);
       filme.disponibilidade_br = meta.disponibilidade_br;
