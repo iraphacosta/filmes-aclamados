@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-07-03T11:44:11.780Z",
+  "gerado_em": "2026-07-04T11:04:27.259Z",
   "filmes": [
     {
       "tmdb_id": 1202033,
@@ -121,6 +121,58 @@
         "imdb": "https://www.imdb.com/title/tt35856133/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=De%20Gaulle%3A%20Libert%C3%A9",
         "metacritic": "https://www.metacritic.com/search/De%20Gaulle%3A%20Libert%C3%A9/"
+      }
+    },
+    {
+      "tmdb_id": 1612018,
+      "imdb_id": "tt39316472",
+      "titulo_original": "Jackass: Best and Last",
+      "titulo_ingles": "Jackass: Best and Last",
+      "ano": 2026,
+      "data_lancamento": "2026-06-25",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Johnny Knoxville",
+        "Steve-O",
+        "Chris Pontius",
+        "Jason 'Wee Man' Acuña",
+        "Dave England",
+        "Preston Lacy",
+        "Ehren McGhehey",
+        "Bam Margera"
+      ],
+      "diretor": "Jeff Tremaine",
+      "generos": [
+        "Ação",
+        "Comédia",
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qCLF1Bp3HiLAZsdd1H1e04RtbSJ.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 92,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39316472/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jackass%3A%20Best%20and%20Last",
+        "metacritic": "https://www.metacritic.com/search/Jackass%3A%20Best%20and%20Last/"
       }
     },
     {
@@ -517,6 +569,59 @@
       }
     },
     {
+      "tmdb_id": 1279493,
+      "imdb_id": "tt32321803",
+      "titulo_original": "The Get Out",
+      "titulo_ingles": "The Get Out",
+      "ano": 2026,
+      "data_lancamento": "2026-06-18",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Russell Crowe",
+        "Luke Evans",
+        "Aaron Paul",
+        "Teresa Palmer",
+        "Nina Dobrev",
+        "Daniel Zovatto",
+        "Kartiah Vergara",
+        "Sabelle Morrow-Woods"
+      ],
+      "diretor": "Derrick Borte",
+      "generos": [
+        "Ação",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/A56e359GzpasjuYRajkDBhLncEW.jpg",
+      "pais": [
+        "US",
+        "AU",
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 111,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32321803/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Get%20Out",
+        "metacritic": "https://www.metacritic.com/search/The%20Get%20Out/"
+      }
+    },
+    {
       "tmdb_id": 880067,
       "imdb_id": "tt15532464",
       "titulo_original": "Strung",
@@ -565,6 +670,58 @@
         "imdb": "https://www.imdb.com/title/tt15532464/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Strung",
         "metacritic": "https://www.metacritic.com/search/Strung/"
+      }
+    },
+    {
+      "tmdb_id": 1061798,
+      "imdb_id": "tt36955518",
+      "titulo_original": "Jim Queen",
+      "titulo_ingles": "Jim Queen",
+      "ano": 2026,
+      "data_lancamento": "2026-06-17",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alex Ramirès",
+        "Jéremy Gillet",
+        "Shirley Souagnon",
+        "François Sagat",
+        "Elisabeth Wiener",
+        "Harald Marlot",
+        "Alexandre Brik",
+        "Philippe Katerine"
+      ],
+      "diretor": "Marco Nguyen, Nicolas Athané",
+      "generos": [
+        "Animação",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
+      "pais": [
+        "FR",
+        "BE"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 85,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36955518/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
+        "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
       }
     },
     {
@@ -691,58 +848,6 @@
         "imdb": "https://www.imdb.com/title/tt43140112/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Extreme%20Makeover%3A%20Homer%20Edition",
         "metacritic": "https://www.metacritic.com/search/Extreme%20Makeover%3A%20Homer%20Edition/"
-      }
-    },
-    {
-      "tmdb_id": 1061798,
-      "imdb_id": "tt36955518",
-      "titulo_original": "Jim Queen",
-      "titulo_ingles": "Jim Queen",
-      "ano": 2026,
-      "data_lancamento": "2026-06-17",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alex Ramirès",
-        "Jéremy Gillet",
-        "Shirley Souagnon",
-        "François Sagat",
-        "Elisabeth Wiener",
-        "Harald Marlot",
-        "Alexandre Brik",
-        "Philippe Katerine"
-      ],
-      "diretor": "Marco Nguyen, Nicolas Athané",
-      "generos": [
-        "Animação",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 85,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36955518/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
-        "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
       }
     },
     {
@@ -1082,7 +1187,7 @@
         "ko",
         "ru"
       ],
-      "duracao": 145,
+      "duracao": 146,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1100,58 +1205,6 @@
         "imdb": "https://www.imdb.com/title/tt15047880/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Disclosure%20Day",
         "metacritic": "https://www.metacritic.com/search/Disclosure%20Day/"
-      }
-    },
-    {
-      "tmdb_id": 1668499,
-      "imdb_id": "tt42575634",
-      "titulo_original": "Le Vertige",
-      "titulo_ingles": "Vertiginous",
-      "ano": 2026,
-      "data_lancamento": "2026-06-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alain Chabat",
-        "Jonathan Cohen",
-        "Anaïs Demoustier",
-        "Jean-Marie Winling",
-        "Jean-Christophe Le Guennan",
-        "Oscar Vercken de Vreuschmen",
-        "Coco Dupieux",
-        "Anna-Marie Filippi"
-      ],
-      "diretor": "Quentin Dupieux",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qO8nc3cSjzGduaC0deh8gBRKK9Z.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt42575634/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vertiginous",
-        "metacritic": "https://www.metacritic.com/search/Vertiginous/"
       }
     },
     {
@@ -1217,6 +1270,58 @@
         "imdb": "https://www.imdb.com/title/tt38681832/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Colors%20of%20Evil%3A%20Black",
         "metacritic": "https://www.metacritic.com/search/Colors%20of%20Evil%3A%20Black/"
+      }
+    },
+    {
+      "tmdb_id": 1668499,
+      "imdb_id": "tt42575634",
+      "titulo_original": "Le Vertige",
+      "titulo_ingles": "Vertiginous",
+      "ano": 2026,
+      "data_lancamento": "2026-06-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alain Chabat",
+        "Jonathan Cohen",
+        "Anaïs Demoustier",
+        "Jean-Marie Winling",
+        "Jean-Christophe Le Guennan",
+        "Oscar Vercken de Vreuschmen",
+        "Coco Dupieux",
+        "Anna-Marie Filippi"
+      ],
+      "diretor": "Quentin Dupieux",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qO8nc3cSjzGduaC0deh8gBRKK9Z.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt42575634/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vertiginous",
+        "metacritic": "https://www.metacritic.com/search/Vertiginous/"
       }
     },
     {
@@ -1558,57 +1663,6 @@
       }
     },
     {
-      "tmdb_id": 1273221,
-      "imdb_id": "tt32093575",
-      "titulo_original": "Scary Movie",
-      "titulo_ingles": "Scary Movie",
-      "ano": 2026,
-      "data_lancamento": "2026-06-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "Vinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo.",
-      "elenco": [
-        "Marlon Wayans",
-        "Shawn Wayans",
-        "Anna Faris",
-        "Regina Hall",
-        "Damon Wayans Jr.",
-        "Gregg Wayans",
-        "Kim Wayans",
-        "Benny Zielke"
-      ],
-      "diretor": "Michael Tiddes",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/97lWamoj4RSBjBHXFmliQbPs06K.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "ko"
-      ],
-      "duracao": 95,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32093575/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Scary%20Movie",
-        "metacritic": "https://www.metacritic.com/search/Scary%20Movie/"
-      }
-    },
-    {
       "tmdb_id": 454639,
       "imdb_id": "tt0427340",
       "titulo_original": "Masters of the Universe",
@@ -1661,37 +1715,38 @@
       }
     },
     {
-      "tmdb_id": 1382832,
-      "imdb_id": "tt34494076",
-      "titulo_original": "Hungry",
-      "titulo_ingles": "HUNGRY",
+      "tmdb_id": 1273221,
+      "imdb_id": "tt32093575",
+      "titulo_original": "Scary Movie",
+      "titulo_ingles": "Scary Movie",
       "ano": 2026,
       "data_lancamento": "2026-06-03",
       "data_qualificacao": "",
-      "sinopse_pt": "Um grupo de turistas precisa lutar por suas vidas contra um hipopótamo enfurecido à solta após se perder nos pântanos da Louisiana.",
+      "sinopse_pt": "Vinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo.",
       "elenco": [
-        "Madison Davenport",
-        "Tracey Bonner",
-        "Joaquim de Almeida",
-        "Michel Curiel",
-        "Samantha Coughlan",
-        "Olivia Bernstone",
-        "Jim Meskimen",
-        "River Codack"
+        "Marlon Wayans",
+        "Shawn Wayans",
+        "Anna Faris",
+        "Regina Hall",
+        "Damon Wayans Jr.",
+        "Gregg Wayans",
+        "Kim Wayans",
+        "Benny Zielke"
       ],
-      "diretor": "James Nunn",
+      "diretor": "Michael Tiddes",
       "generos": [
-        "Thriller",
+        "Comédia",
         "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/hxg4RRGVJ2FTq6C38dGaOKu57l8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/97lWamoj4RSBjBHXFmliQbPs06K.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
-        "en"
+        "en",
+        "ko"
       ],
-      "duracao": 93,
+      "duracao": 95,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1703,12 +1758,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt34494076/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=HUNGRY",
-        "metacritic": "https://www.metacritic.com/search/HUNGRY/"
+        "imdb": "https://www.imdb.com/title/tt32093575/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Scary%20Movie",
+        "metacritic": "https://www.metacritic.com/search/Scary%20Movie/"
       }
     },
     {
@@ -1814,6 +1869,57 @@
         "imdb": "https://www.imdb.com/title/tt28553375/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=De%20Gaulle%3A%20R%C3%A9sistance",
         "metacritic": "https://www.metacritic.com/search/De%20Gaulle%3A%20R%C3%A9sistance/"
+      }
+    },
+    {
+      "tmdb_id": 1382832,
+      "imdb_id": "tt34494076",
+      "titulo_original": "Hungry",
+      "titulo_ingles": "Hungry",
+      "ano": 2026,
+      "data_lancamento": "2026-06-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um grupo de turistas precisa lutar por suas vidas contra um hipopótamo enfurecido à solta após se perder nos pântanos da Louisiana.",
+      "elenco": [
+        "Madison Davenport",
+        "Tracey Bonner",
+        "Joaquim de Almeida",
+        "Michel Curiel",
+        "Samantha Coughlan",
+        "Olivia Bernstone",
+        "Jim Meskimen",
+        "River Codack"
+      ],
+      "diretor": "James Nunn",
+      "generos": [
+        "Thriller",
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/hxg4RRGVJ2FTq6C38dGaOKu57l8.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 93,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34494076/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Hungry",
+        "metacritic": "https://www.metacritic.com/search/Hungry/"
       }
     },
     {
@@ -1928,9 +2034,7 @@
       ],
       "diretor": "Subash",
       "generos": [
-        "Drama",
         "Ação",
-        "Família",
         "Thriller"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/mZZBUaAXSeEeO3RovqJssBQyxfK.jpg",
@@ -2208,57 +2312,6 @@
       }
     },
     {
-      "tmdb_id": 1368314,
-      "imdb_id": "tt33763941",
-      "titulo_original": "Passenger",
-      "titulo_ingles": "Passenger",
-      "ano": 2026,
-      "data_lancamento": "2026-05-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "Durante uma viagem de van, um jovem casal presencia um acidente terrível que resulta na morte do motorista. Logo, eles passam a ser perseguidos por uma entidade demoníaca, de quem é impossível escapar e que os segue por onde quer que vão.",
-      "elenco": [
-        "Lou Llobell",
-        "Jacob Scipio",
-        "Melissa Leo",
-        "Joseph Lopez",
-        "Tony Doupe",
-        "Bonni Dichone",
-        "Devielle Johnson",
-        "Jessica Cruz"
-      ],
-      "diretor": "André Øvredal",
-      "generos": [
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/aSoOiatgMmXtDS3iwWD5hC2Rbyn.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 94,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33763941/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Passenger",
-        "metacritic": "https://www.metacritic.com/search/Passenger/"
-      }
-    },
-    {
       "tmdb_id": 1228710,
       "imdb_id": "tt30825738",
       "titulo_original": "The Mandalorian and Grogu",
@@ -2308,6 +2361,57 @@
         "imdb": "https://www.imdb.com/title/tt30825738/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Mandalorian%20and%20Grogu",
         "metacritic": "https://www.metacritic.com/search/The%20Mandalorian%20and%20Grogu/"
+      }
+    },
+    {
+      "tmdb_id": 1368314,
+      "imdb_id": "tt33763941",
+      "titulo_original": "Passenger",
+      "titulo_ingles": "Passenger",
+      "ano": 2026,
+      "data_lancamento": "2026-05-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "Durante uma viagem de van, um jovem casal presencia um acidente terrível que resulta na morte do motorista. Logo, eles passam a ser perseguidos por uma entidade demoníaca, de quem é impossível escapar e que os segue por onde quer que vão.",
+      "elenco": [
+        "Lou Llobell",
+        "Jacob Scipio",
+        "Melissa Leo",
+        "Joseph Lopez",
+        "Tony Doupe",
+        "Bonni Dichone",
+        "Devielle Johnson",
+        "Jessica Cruz"
+      ],
+      "diretor": "André Øvredal",
+      "generos": [
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/aSoOiatgMmXtDS3iwWD5hC2Rbyn.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 94,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33763941/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Passenger",
+        "metacritic": "https://www.metacritic.com/search/Passenger/"
       }
     },
     {
@@ -2556,72 +2660,6 @@
       }
     },
     {
-      "tmdb_id": 1684226,
-      "imdb_id": "tt42192201",
-      "titulo_original": "Bruid van die Jaar",
-      "titulo_ingles": "Bride of the Year",
-      "ano": 2026,
-      "data_lancamento": "2026-05-15",
-      "data_qualificacao": "",
-      "sinopse_pt": "Depois que seu sonho de formar uma família dá errado, Lienkie bola um plano para ganhar o concurso \"Noiva do Ano\" e se vingar do ex.",
-      "elenco": [
-        "Carine Rous",
-        "Bouwer Bosch",
-        "Armand Aucamp",
-        "Laura-lee Mostert",
-        "Lisa Tredoux",
-        "Hanli Rolfes",
-        "Terence Bridgett",
-        "Tobie Cronje"
-      ],
-      "diretor": "Joshua Rous",
-      "generos": [
-        "Comédia",
-        "Romance",
-        "Família"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/geFc71rCYM8fErbROLY6n1LfAS6.jpg",
-      "pais": [
-        "ZA"
-      ],
-      "idiomas": [
-        "af",
-        "en"
-      ],
-      "duracao": 98,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1684226-bruid-van-die-jaar/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt42192201/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Bride%20of%20the%20Year",
-        "metacritic": "https://www.metacritic.com/search/Bride%20of%20the%20Year/"
-      }
-    },
-    {
       "tmdb_id": 1693346,
       "imdb_id": "tt42615436",
       "titulo_original": "Apple Music Live: Lady Gaga MAYHEM Requiem",
@@ -2726,57 +2764,6 @@
         "imdb": "https://www.imdb.com/title/tt40792117/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Crash",
         "metacritic": "https://www.metacritic.com/search/The%20Crash/"
-      }
-    },
-    {
-      "tmdb_id": 1367220,
-      "imdb_id": "tt33988385",
-      "titulo_original": "கருப்பு",
-      "titulo_ingles": "Karuppu",
-      "ano": 2026,
-      "data_lancamento": "2026-05-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "சூர்யா",
-        "த்ரிஷா கிருஷ்ணன்",
-        "RJ Balaji",
-        "Indrans",
-        "Anagha Maya Ravi",
-        "Swasika",
-        "Sshivada Nair",
-        "Natarajan Subramaniam"
-      ],
-      "diretor": "RJ Balaji",
-      "generos": [
-        "Ação",
-        "Fantasia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "ta"
-      ],
-      "duracao": 152,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33988385/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Karuppu",
-        "metacritic": "https://www.metacritic.com/search/Karuppu/"
       }
     },
     {
