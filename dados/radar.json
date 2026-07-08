@@ -1,7 +1,110 @@
 {
   "versao": 1,
-  "gerado_em": "2026-07-07T12:14:08.987Z",
+  "gerado_em": "2026-07-08T11:21:22.532Z",
   "filmes": [
+    {
+      "tmdb_id": 1725116,
+      "imdb_id": "tt43140642",
+      "titulo_original": "Simpsley",
+      "titulo_ingles": "Simpsley",
+      "ano": 2026,
+      "data_lancamento": "2026-07-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Dan Castellaneta",
+        "Julie Kavner",
+        "Nancy Cartwright",
+        "Yeardley Smith",
+        "Hank Azaria",
+        "Harry Shearer",
+        "Tress MacNeille",
+        "Alex Désert"
+      ],
+      "diretor": "Debbie Bruce Mahan",
+      "generos": [
+        "Animação",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 24,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43140642/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Simpsley",
+        "metacritic": "https://www.metacritic.com/search/Simpsley/"
+      }
+    },
+    {
+      "tmdb_id": 1705729,
+      "imdb_id": "tt34584846",
+      "titulo_original": "Man of War",
+      "titulo_ingles": "Man of War",
+      "ano": 2026,
+      "data_lancamento": "2026-07-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Quando uma agente humanitária desaparece nas primeiras horas da guerra na Ucrânia, um ex-agente da Marinha dos Estados Unidos e da CIA entra no país devastado para trazê-la de volta.",
+      "elenco": [
+        "LaMonica Garrett",
+        "Andrew Howard",
+        "Linds Edwards",
+        "Rosmary Yaneva",
+        "Jason Patric",
+        "Daniel Bernhardt",
+        "Antoni Davidov",
+        "François Coetzer"
+      ],
+      "diretor": "William Kaufman",
+      "generos": [
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "bg",
+        "en",
+        "ru"
+      ],
+      "duracao": 111,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34584846/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Man%20of%20War",
+        "metacritic": "https://www.metacritic.com/search/Man%20of%20War/"
+      }
+    },
     {
       "tmdb_id": 1202033,
       "imdb_id": "tt32278481",
@@ -92,7 +195,7 @@
         "História",
         "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zH2fFPezB58VbxuLZ51CEJI970g.jpg",
       "pais": [
         "FR",
         "BE",
@@ -344,6 +447,57 @@
       }
     },
     {
+      "tmdb_id": 1392469,
+      "imdb_id": "tt35064672",
+      "titulo_original": "कॉकटेल २",
+      "titulo_ingles": "Cocktail 2",
+      "ano": 2026,
+      "data_lancamento": "2026-06-19",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Kriti Sanon",
+        "Shahid Kapoor",
+        "Rashmika Mandanna",
+        "Mark Bennington",
+        "Tiku Talsania",
+        "Neelu Kohli",
+        "Suparna Marwah",
+        "Kanan Arunachalam"
+      ],
+      "diretor": "Homi Adajania",
+      "generos": [
+        "Romance",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/xsD4z48dWRd6fRIR3ohjuhSWEEs.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 149,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35064672/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Cocktail%202",
+        "metacritic": "https://www.metacritic.com/search/Cocktail%202/"
+      }
+    },
+    {
       "tmdb_id": 1413976,
       "imdb_id": "tt35309713",
       "titulo_original": "Citizen Vigilante",
@@ -396,57 +550,6 @@
         "imdb": "https://www.imdb.com/title/tt35309713/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Citizen%20Vigilante",
         "metacritic": "https://www.metacritic.com/search/Citizen%20Vigilante/"
-      }
-    },
-    {
-      "tmdb_id": 1392469,
-      "imdb_id": "tt35064672",
-      "titulo_original": "कॉकटेल २",
-      "titulo_ingles": "Cocktail 2",
-      "ano": 2026,
-      "data_lancamento": "2026-06-19",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Kriti Sanon",
-        "Shahid Kapoor",
-        "Rashmika Mandanna",
-        "Mark Bennington",
-        "Tiku Talsania",
-        "Neelu Kohli",
-        "Suparna Marwah",
-        "Kanan Arunachalam"
-      ],
-      "diretor": "Homi Adajania",
-      "generos": [
-        "Romance",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/xsD4z48dWRd6fRIR3ohjuhSWEEs.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 149,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35064672/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Cocktail%202",
-        "metacritic": "https://www.metacritic.com/search/Cocktail%202/"
       }
     },
     {
@@ -589,7 +692,7 @@
         "Mistério",
         "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/wsAbahLUdjdLw5Za1Wug1w226ki.jpg",
       "pais": [
         "US"
       ],
@@ -614,58 +717,6 @@
         "imdb": "https://www.imdb.com/title/tt15532464/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Strung",
         "metacritic": "https://www.metacritic.com/search/Strung/"
-      }
-    },
-    {
-      "tmdb_id": 1061798,
-      "imdb_id": "tt36955518",
-      "titulo_original": "Jim Queen",
-      "titulo_ingles": "Jim Queen",
-      "ano": 2026,
-      "data_lancamento": "2026-06-17",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alex Ramirès",
-        "Jéremy Gillet",
-        "Shirley Souagnon",
-        "François Sagat",
-        "Elisabeth Wiener",
-        "Harald Marlot",
-        "Alexandre Brik",
-        "Philippe Katerine"
-      ],
-      "diretor": "Nicolas Athané, Marco Nguyen",
-      "generos": [
-        "Animação",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 85,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36955518/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
-        "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
       }
     },
     {
@@ -795,6 +846,58 @@
       }
     },
     {
+      "tmdb_id": 1061798,
+      "imdb_id": "tt36955518",
+      "titulo_original": "Jim Queen",
+      "titulo_ingles": "Jim Queen",
+      "ano": 2026,
+      "data_lancamento": "2026-06-17",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alex Ramirès",
+        "Jéremy Gillet",
+        "Shirley Souagnon",
+        "François Sagat",
+        "Elisabeth Wiener",
+        "Harald Marlot",
+        "Alexandre Brik",
+        "Philippe Katerine"
+      ],
+      "diretor": "Marco Nguyen, Nicolas Athané",
+      "generos": [
+        "Animação",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
+      "pais": [
+        "FR",
+        "BE"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 85,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36955518/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
+        "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
+      }
+    },
+    {
       "tmdb_id": 1451344,
       "imdb_id": "tt36876775",
       "titulo_original": "남편들",
@@ -856,6 +959,126 @@
         "imdb": "https://www.imdb.com/title/tt36876775/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Husbands%20in%20Action",
         "metacritic": "https://www.metacritic.com/search/Husbands%20in%20Action/"
+      }
+    },
+    {
+      "tmdb_id": 1511549,
+      "imdb_id": "tt36956284",
+      "titulo_original": "Ancora più sexy",
+      "titulo_ingles": "Still Sexy",
+      "ano": 2026,
+      "data_lancamento": "2026-06-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Diana Del Bufalo",
+        "Valentina Nappi",
+        "Mario Ermito",
+        "Michele Rosiello",
+        "Filippo Bisciglia",
+        "Angela Finocchiaro",
+        "Anna Galiena",
+        "Fabrizio Colica"
+      ],
+      "diretor": "Michela Andreozzi",
+      "generos": [
+        "Comédia",
+        "Romance"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cQYHYSnHf1A853xoNn6Qq6lm2JO.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 100,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1511549-ancora-piu-sexy/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36956284/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Still%20Sexy",
+        "metacritic": "https://www.metacritic.com/search/Still%20Sexy/"
+      }
+    },
+    {
+      "tmdb_id": 1020047,
+      "imdb_id": "tt1333644",
+      "titulo_original": "In the Hand of Dante",
+      "titulo_ingles": "In the Hand of Dante",
+      "ano": 2026,
+      "data_lancamento": "2026-06-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um manuscrito do poema “A Divina Comédia”, de Dante Alighieri, passa das mãos de um padre para as de um chefe da máfia em Nova Iorque, onde é levado por Nick Tosches depois de lhe ter sido pedido que verificasse a sua autenticidade.",
+      "elenco": [
+        "Oscar Isaac",
+        "Gal Gadot",
+        "Gerard Butler",
+        "John Malkovich",
+        "Louis Cancelmi",
+        "Sabrina Impacciatore",
+        "Franco Nero",
+        "Benjamin Clementine"
+      ],
+      "diretor": "Julian Schnabel",
+      "generos": [
+        "Drama",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/kvJJK0EoC4rCtovBMoq2A6eeATL.jpg",
+      "pais": [
+        "CL",
+        "IT",
+        "GB",
+        "US"
+      ],
+      "idiomas": [
+        "es",
+        "en",
+        "it"
+      ],
+      "duracao": 153,
+      "rt_critica": 43,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 43,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt1333644/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=In%20the%20Hand%20of%20Dante",
+        "metacritic": "https://www.metacritic.com/search/In%20the%20Hand%20of%20Dante/"
       }
     },
     {
@@ -924,126 +1147,6 @@
       }
     },
     {
-      "tmdb_id": 1020047,
-      "imdb_id": "tt1333644",
-      "titulo_original": "In the Hand of Dante",
-      "titulo_ingles": "In the Hand of Dante",
-      "ano": 2026,
-      "data_lancamento": "2026-06-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um manuscrito do poema “A Divina Comédia”, de Dante Alighieri, passa das mãos de um padre para as de um chefe da máfia em Nova Iorque, onde é levado por Nick Tosches depois de lhe ter sido pedido que verificasse a sua autenticidade.",
-      "elenco": [
-        "Oscar Isaac",
-        "Gal Gadot",
-        "Gerard Butler",
-        "John Malkovich",
-        "Louis Cancelmi",
-        "Sabrina Impacciatore",
-        "Franco Nero",
-        "Benjamin Clementine"
-      ],
-      "diretor": "Julian Schnabel",
-      "generos": [
-        "Drama",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvJJK0EoC4rCtovBMoq2A6eeATL.jpg",
-      "pais": [
-        "CL",
-        "IT",
-        "GB",
-        "US"
-      ],
-      "idiomas": [
-        "es",
-        "en",
-        "it"
-      ],
-      "duracao": 153,
-      "rt_critica": 43,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 43,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt1333644/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=In%20the%20Hand%20of%20Dante",
-        "metacritic": "https://www.metacritic.com/search/In%20the%20Hand%20of%20Dante/"
-      }
-    },
-    {
-      "tmdb_id": 1511549,
-      "imdb_id": "tt36956284",
-      "titulo_original": "Ancora più sexy",
-      "titulo_ingles": "Still Sexy",
-      "ano": 2026,
-      "data_lancamento": "2026-06-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Diana Del Bufalo",
-        "Valentina Nappi",
-        "Mario Ermito",
-        "Michele Rosiello",
-        "Filippo Bisciglia",
-        "Angela Finocchiaro",
-        "Anna Galiena",
-        "Fabrizio Colica"
-      ],
-      "diretor": "Michela Andreozzi",
-      "generos": [
-        "Comédia",
-        "Romance"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cQYHYSnHf1A853xoNn6Qq6lm2JO.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 100,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1511549-ancora-piu-sexy/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36956284/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Still%20Sexy",
-        "metacritic": "https://www.metacritic.com/search/Still%20Sexy/"
-      }
-    },
-    {
       "tmdb_id": 1699155,
       "imdb_id": "tt42863533",
       "titulo_original": "Maternal Instinct",
@@ -1096,6 +1199,58 @@
         "imdb": "https://www.imdb.com/title/tt42863533/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Maternal%20Instinct",
         "metacritic": "https://www.metacritic.com/search/Maternal%20Instinct/"
+      }
+    },
+    {
+      "tmdb_id": 1668499,
+      "imdb_id": "tt42575634",
+      "titulo_original": "Le Vertige",
+      "titulo_ingles": "Vertiginous",
+      "ano": 2026,
+      "data_lancamento": "2026-06-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alain Chabat",
+        "Jonathan Cohen",
+        "Anaïs Demoustier",
+        "Jean-Marie Winling",
+        "Jean-Christophe Le Guennan",
+        "Oscar Vercken de Vreuschmen",
+        "Coco Dupieux",
+        "Anna-Marie Filippi"
+      ],
+      "diretor": "Quentin Dupieux",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qO8nc3cSjzGduaC0deh8gBRKK9Z.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt42575634/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vertiginous",
+        "metacritic": "https://www.metacritic.com/search/Vertiginous/"
       }
     },
     {
@@ -1214,58 +1369,6 @@
         "imdb": "https://www.imdb.com/title/tt38681832/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Colors%20of%20Evil%3A%20Black",
         "metacritic": "https://www.metacritic.com/search/Colors%20of%20Evil%3A%20Black/"
-      }
-    },
-    {
-      "tmdb_id": 1668499,
-      "imdb_id": "tt42575634",
-      "titulo_original": "Le Vertige",
-      "titulo_ingles": "Vertiginous",
-      "ano": 2026,
-      "data_lancamento": "2026-06-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alain Chabat",
-        "Jonathan Cohen",
-        "Anaïs Demoustier",
-        "Jean-Marie Winling",
-        "Jean-Christophe Le Guennan",
-        "Oscar Vercken de Vreuschmen",
-        "Coco Dupieux",
-        "Anna-Marie Filippi"
-      ],
-      "diretor": "Quentin Dupieux",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qO8nc3cSjzGduaC0deh8gBRKK9Z.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt42575634/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vertiginous",
-        "metacritic": "https://www.metacritic.com/search/Vertiginous/"
       }
     },
     {
@@ -1400,57 +1503,6 @@
       }
     },
     {
-      "tmdb_id": 1285959,
-      "imdb_id": "tt32298956",
-      "titulo_original": "The Passenger",
-      "titulo_ingles": "The Passenger",
-      "ano": 2026,
-      "data_lancamento": "2026-06-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Djimon Hounsou",
-        "Kodi Smit-McPhee",
-        "Leigh-Ann Rose",
-        "Carolina Campos",
-        "Tegan Couchman",
-        "Adrian McLean",
-        "Sarah Constible",
-        "Teddy Parker"
-      ],
-      "diretor": "Вадим Перельман",
-      "generos": [
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/i9XqCdF0jrgqveYUaLjOSiRepIq.jpg",
-      "pais": [
-        "US",
-        "CA"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 93,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32298956/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Passenger",
-        "metacritic": "https://www.metacritic.com/search/The%20Passenger/"
-      }
-    },
-    {
       "tmdb_id": 1083884,
       "imdb_id": "tt21109170",
       "titulo_original": "Signal One",
@@ -1499,6 +1551,57 @@
         "imdb": "https://www.imdb.com/title/tt21109170/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Signal%20One",
         "metacritic": "https://www.metacritic.com/search/Signal%20One/"
+      }
+    },
+    {
+      "tmdb_id": 1285959,
+      "imdb_id": "tt32298956",
+      "titulo_original": "The Passenger",
+      "titulo_ingles": "The Passenger",
+      "ano": 2026,
+      "data_lancamento": "2026-06-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Djimon Hounsou",
+        "Kodi Smit-McPhee",
+        "Leigh-Ann Rose",
+        "Carolina Campos",
+        "Tegan Couchman",
+        "Adrian McLean",
+        "Sarah Constible",
+        "Teddy Parker"
+      ],
+      "diretor": "Вадим Перельман",
+      "generos": [
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/i9XqCdF0jrgqveYUaLjOSiRepIq.jpg",
+      "pais": [
+        "US",
+        "CA"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 93,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32298956/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Passenger",
+        "metacritic": "https://www.metacritic.com/search/The%20Passenger/"
       }
     },
     {
@@ -1566,58 +1669,6 @@
       }
     },
     {
-      "tmdb_id": 1308553,
-      "imdb_id": "tt30447822",
-      "titulo_original": "है जवानी तो इश्क होना है",
-      "titulo_ingles": "Hai Jawani Toh Ishq Hona Hai",
-      "ano": 2026,
-      "data_lancamento": "2026-06-04",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Varun Dhawan",
-        "Mrunal Thakur",
-        "Pooja Hegde",
-        "Maniesh Paul",
-        "Chunky Pandey",
-        "Jimmy Shergill",
-        "मौनी राय",
-        "Rakesh Bedi"
-      ],
-      "diretor": "David Dhawan",
-      "generos": [
-        "Romance",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
-      "pais": [
-        "IN",
-        "GB"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 136,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt30447822/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Hai%20Jawani%20Toh%20Ishq%20Hona%20Hai",
-        "metacritic": "https://www.metacritic.com/search/Hai%20Jawani%20Toh%20Ishq%20Hona%20Hai/"
-      }
-    },
-    {
       "tmdb_id": 1693002,
       "imdb_id": "tt42192165",
       "titulo_original": "The Murder of Rachel Nickell",
@@ -1673,38 +1724,38 @@
       }
     },
     {
-      "tmdb_id": 1273221,
-      "imdb_id": "tt32093575",
-      "titulo_original": "Scary Movie",
-      "titulo_ingles": "Scary Movie",
+      "tmdb_id": 1308553,
+      "imdb_id": "tt30447822",
+      "titulo_original": "है जवानी तो इश्क होना है",
+      "titulo_ingles": "Hai Jawani Toh Ishq Hona Hai",
       "ano": 2026,
-      "data_lancamento": "2026-06-03",
+      "data_lancamento": "2026-06-04",
       "data_qualificacao": "",
-      "sinopse_pt": "Vinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo.",
+      "sinopse_pt": "",
       "elenco": [
-        "Marlon Wayans",
-        "Shawn Wayans",
-        "Anna Faris",
-        "Regina Hall",
-        "Damon Wayans Jr.",
-        "Gregg Wayans",
-        "Kim Wayans",
-        "Benny Zielke"
+        "Varun Dhawan",
+        "Mrunal Thakur",
+        "Pooja Hegde",
+        "Maniesh Paul",
+        "Chunky Pandey",
+        "Jimmy Shergill",
+        "मौनी राय",
+        "Rakesh Bedi"
       ],
-      "diretor": "Michael Tiddes",
+      "diretor": "David Dhawan",
       "generos": [
-        "Comédia",
-        "Terror"
+        "Romance",
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/97lWamoj4RSBjBHXFmliQbPs06K.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
       "pais": [
-        "US"
+        "IN",
+        "GB"
       ],
       "idiomas": [
-        "en",
-        "ko"
+        "hi"
       ],
-      "duracao": 95,
+      "duracao": 136,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1716,12 +1767,115 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt30447822/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Hai%20Jawani%20Toh%20Ishq%20Hona%20Hai",
+        "metacritic": "https://www.metacritic.com/search/Hai%20Jawani%20Toh%20Ishq%20Hona%20Hai/"
+      }
+    },
+    {
+      "tmdb_id": 454639,
+      "imdb_id": "tt0427340",
+      "titulo_original": "Masters of the Universe",
+      "titulo_ingles": "Masters of the Universe",
+      "ano": 2026,
+      "data_lancamento": "2026-06-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Adam caiu na Terra quando era criança e perdeu a espada mágica que o ligava a Eternia. Quase 20 anos depois, ele a recupera e retorna ao seu planeta natal para protegê-lo do malvado Esqueleto, mas primeiro precisa desvendar seu passado.",
+      "elenco": [
+        "Nicholas Galitzine",
+        "Camila Mendes",
+        "Idris Elba",
+        "Jared Leto",
+        "Alison Brie",
+        "Jóhannes Haukur Jóhannesson",
+        "Jon Xue Zhang",
+        "Sam C. Wilson"
+      ],
+      "diretor": "Travis Knight",
+      "generos": [
+        "Ação",
+        "Fantasia",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uPuVEyoGrtoU9O2sLDhwtKPR78Z.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 133,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 52,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 52,
+      "disponibilidade_br": {
         "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt32093575/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Scary%20Movie",
-        "metacritic": "https://www.metacritic.com/search/Scary%20Movie/"
+        "imdb": "https://www.imdb.com/title/tt0427340/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Masters%20of%20the%20Universe",
+        "metacritic": "https://www.metacritic.com/search/Masters%20of%20the%20Universe/"
+      }
+    },
+    {
+      "tmdb_id": 1382832,
+      "imdb_id": "tt34494076",
+      "titulo_original": "Hungry",
+      "titulo_ingles": "Hungry",
+      "ano": 2026,
+      "data_lancamento": "2026-06-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um grupo de turistas precisa lutar por suas vidas contra um hipopótamo enfurecido à solta após se perder nos pântanos da Louisiana.",
+      "elenco": [
+        "Madison Davenport",
+        "Tracey Bonner",
+        "Joaquim de Almeida",
+        "Michel Curiel",
+        "Samantha Coughlan",
+        "Olivia Bernstone",
+        "Jim Meskimen",
+        "River Codack"
+      ],
+      "diretor": "James Nunn",
+      "generos": [
+        "Thriller",
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/hxg4RRGVJ2FTq6C38dGaOKu57l8.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 93,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34494076/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Hungry",
+        "metacritic": "https://www.metacritic.com/search/Hungry/"
       }
     },
     {
@@ -1779,109 +1933,6 @@
       }
     },
     {
-      "tmdb_id": 1382832,
-      "imdb_id": "tt34494076",
-      "titulo_original": "Hungry",
-      "titulo_ingles": "Hungry",
-      "ano": 2026,
-      "data_lancamento": "2026-06-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um grupo de turistas precisa lutar por suas vidas contra um hipopótamo enfurecido à solta após se perder nos pântanos da Louisiana.",
-      "elenco": [
-        "Madison Davenport",
-        "Tracey Bonner",
-        "Joaquim de Almeida",
-        "Michel Curiel",
-        "Samantha Coughlan",
-        "Olivia Bernstone",
-        "Jim Meskimen",
-        "River Codack"
-      ],
-      "diretor": "James Nunn",
-      "generos": [
-        "Thriller",
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/hxg4RRGVJ2FTq6C38dGaOKu57l8.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 93,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34494076/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Hungry",
-        "metacritic": "https://www.metacritic.com/search/Hungry/"
-      }
-    },
-    {
-      "tmdb_id": 454639,
-      "imdb_id": "tt0427340",
-      "titulo_original": "Masters of the Universe",
-      "titulo_ingles": "Masters of the Universe",
-      "ano": 2026,
-      "data_lancamento": "2026-06-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "Adam caiu na Terra quando era criança e perdeu a espada mágica que o ligava a Eternia. Quase 20 anos depois, ele a recupera e retorna ao seu planeta natal para protegê-lo do malvado Esqueleto, mas primeiro precisa desvendar seu passado.",
-      "elenco": [
-        "Nicholas Galitzine",
-        "Camila Mendes",
-        "Idris Elba",
-        "Jared Leto",
-        "Alison Brie",
-        "Jóhannes Haukur Jóhannesson",
-        "Jon Xue Zhang",
-        "Sam C. Wilson"
-      ],
-      "diretor": "Travis Knight",
-      "generos": [
-        "Ação",
-        "Fantasia",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uPuVEyoGrtoU9O2sLDhwtKPR78Z.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 133,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 52,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 52,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt0427340/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Masters%20of%20the%20Universe",
-        "metacritic": "https://www.metacritic.com/search/Masters%20of%20the%20Universe/"
-      }
-    },
-    {
       "tmdb_id": 1057265,
       "imdb_id": "tt23865918",
       "titulo_original": "పెద్ది",
@@ -1930,6 +1981,58 @@
         "imdb": "https://www.imdb.com/title/tt23865918/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Peddi",
         "metacritic": "https://www.metacritic.com/search/Peddi/"
+      }
+    },
+    {
+      "tmdb_id": 1273221,
+      "imdb_id": "tt32093575",
+      "titulo_original": "Scary Movie",
+      "titulo_ingles": "Scary Movie",
+      "ano": 2026,
+      "data_lancamento": "2026-06-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Vinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo.",
+      "elenco": [
+        "Marlon Wayans",
+        "Shawn Wayans",
+        "Anna Faris",
+        "Regina Hall",
+        "Damon Wayans Jr.",
+        "Gregg Wayans",
+        "Kim Wayans",
+        "Benny Zielke"
+      ],
+      "diretor": "Michael Tiddes",
+      "generos": [
+        "Comédia",
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/97lWamoj4RSBjBHXFmliQbPs06K.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "ko"
+      ],
+      "duracao": 95,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32093575/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Scary%20Movie",
+        "metacritic": "https://www.metacritic.com/search/Scary%20Movie/"
       }
     },
     {
@@ -2605,71 +2708,6 @@
       }
     },
     {
-      "tmdb_id": 1628367,
-      "imdb_id": "tt39664733",
-      "titulo_original": "कर्त्तव्य",
-      "titulo_ingles": "Kartavya",
-      "ano": 2026,
-      "data_lancamento": "2026-05-15",
-      "data_qualificacao": "",
-      "sinopse_pt": "Com a segurança da família em risco e diante de ameaças iminentes, um policial precisa decidir o quanto está disposto a sacrificar em nome do dever.",
-      "elenco": [
-        "सैफ़ अली ख़ान",
-        "रसिका दुग्गल",
-        "Sanjay Mishra",
-        "Saurabh Dwivedi",
-        "Zakir Hussain",
-        "Manish Chaudhary",
-        "Durgesh Kumar",
-        "Saharsh Kumar Shukla"
-      ],
-      "diretor": "Pulkit",
-      "generos": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/tVJVueBmMmGwuel02Z8XeudNoq4.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 109,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1628367/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39664733/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kartavya",
-        "metacritic": "https://www.metacritic.com/search/Kartavya/"
-      }
-    },
-    {
       "tmdb_id": 1693346,
       "imdb_id": "tt42615436",
       "titulo_original": "Apple Music Live: Lady Gaga MAYHEM Requiem",
@@ -2710,70 +2748,6 @@
         "imdb": "https://www.imdb.com/title/tt42615436/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Apple%20Music%20Live%3A%20Lady%20Gaga%20MAYHEM%20Requiem",
         "metacritic": "https://www.metacritic.com/search/Apple%20Music%20Live%3A%20Lady%20Gaga%20MAYHEM%20Requiem/"
-      }
-    },
-    {
-      "tmdb_id": 1662317,
-      "imdb_id": "tt40792117",
-      "titulo_original": "The Crash",
-      "titulo_ingles": "The Crash",
-      "ano": 2026,
-      "data_lancamento": "2026-05-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma jovem bate o carro em um prédio, matando o namorado e o amigo dele. Este documentário mostra como um suposto acidente trágico se transforma em um caso de assassinato.",
-      "elenco": [
-        "Mackenzie Shirilla",
-        "Tim Troup",
-        "Rosie Graham",
-        "Bubba Turner",
-        "Faythe Walsh",
-        "Steve Shirilla",
-        "Natalie Shirilla",
-        "Frank Russo"
-      ],
-      "diretor": "Gareth Johnson",
-      "generos": [
-        "Documentário",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/94AQpf6Rg6tblNpa65ogzYw4q6P.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 95,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1662317-the-crash/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt40792117/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Crash",
-        "metacritic": "https://www.metacritic.com/search/The%20Crash/"
       }
     },
     {
