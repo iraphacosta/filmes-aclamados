@@ -1,41 +1,39 @@
 {
   "versao": 1,
-  "gerado_em": "2026-07-12T10:51:05.720Z",
+  "gerado_em": "2026-07-13T12:19:20.941Z",
   "filmes": [
     {
-      "tmdb_id": 1108427,
-      "imdb_id": "tt27419466",
-      "titulo_original": "Moana",
-      "titulo_ingles": "Moana",
+      "tmdb_id": 1715492,
+      "imdb_id": "tt43595399",
+      "titulo_original": "Shipwrecked: Nightmare at Sea",
+      "titulo_ingles": "Shipwrecked: Nightmare at Sea",
       "ano": 2026,
-      "data_lancamento": "2026-07-08",
+      "data_lancamento": "2026-07-10",
       "data_qualificacao": "",
-      "sinopse_pt": "Na Polinésia Antiga, quando uma terrível maldição contraída por Maui chega à ilha de um impetuoso chefe, sua filha obstinada responde ao chamado do Oceano para procurar o semideus e consertar as coisas. Adaptação live-action do filme de animação da Disney de 2016 'Moana'",
+      "sinopse_pt": "Imagens inéditas e relatos de sobreviventes reconstituem o naufrágio de um cruzeiro de luxo em 2012 e o desastre que se seguiu, neste documentário imersivo.",
       "elenco": [
-        "Catherine Lagaʻaia",
-        "Dwayne Johnson",
-        "John Tui",
-        "Frankie Adams",
-        "Rena Owen",
-        "Jemaine Clement",
-        "Amaya Masoli",
-        "Emma Puahi-Shapazian"
+        "John Scimone",
+        "Meghan Scimone",
+        "Patricia Sandoval",
+        "Nicholas Taliaferro",
+        "Stefania Vincenzi",
+        "Manrico Giampedroni",
+        "Rose Metcalf",
+        "Francesco Schettino"
       ],
-      "diretor": "Thomas Kail",
+      "diretor": "Chiara Messineo",
       "generos": [
-        "Família",
-        "Fantasia",
-        "Comédia",
-        "Aventura"
+        "Documentário"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/rQ0f1Y3t9w3DxVxuVydkgqQ2Hji.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4LuFhKoO1NXZiB7R3Cu4Eiw1GWR.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
-        "en"
+        "en",
+        "fr"
       ],
-      "duracao": 115,
+      "duracao": 87,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -47,12 +45,25 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "cinema"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1715492-shipwrecked-nightmare-at-sea/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt27419466/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Moana",
-        "metacritic": "https://www.metacritic.com/search/Moana/"
+        "imdb": "https://www.imdb.com/title/tt43595399/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Shipwrecked%3A%20Nightmare%20at%20Sea",
+        "metacritic": "https://www.metacritic.com/search/Shipwrecked%3A%20Nightmare%20at%20Sea/"
       }
     },
     {
@@ -117,6 +128,59 @@
         "imdb": "https://www.imdb.com/title/tt39385949/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Nothing%20to%20Lose",
         "metacritic": "https://www.metacritic.com/search/Nothing%20to%20Lose/"
+      }
+    },
+    {
+      "tmdb_id": 1108427,
+      "imdb_id": "tt27419466",
+      "titulo_original": "Moana",
+      "titulo_ingles": "Moana",
+      "ano": 2026,
+      "data_lancamento": "2026-07-08",
+      "data_qualificacao": "",
+      "sinopse_pt": "Na Polinésia Antiga, quando uma terrível maldição contraída por Maui chega à ilha de um impetuoso chefe, sua filha obstinada responde ao chamado do Oceano para procurar o semideus e consertar as coisas. Adaptação live-action do filme de animação da Disney de 2016 'Moana'",
+      "elenco": [
+        "Catherine Lagaʻaia",
+        "Dwayne Johnson",
+        "John Tui",
+        "Frankie Adams",
+        "Rena Owen",
+        "Jemaine Clement",
+        "Amaya Masoli",
+        "Emma Puahi-Shapazian"
+      ],
+      "diretor": "Thomas Kail",
+      "generos": [
+        "Família",
+        "Fantasia",
+        "Comédia",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/sUkilgOKAGjw9c7OsRPLa392MOw.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 115,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt27419466/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Moana",
+        "metacritic": "https://www.metacritic.com/search/Moana/"
       }
     },
     {
@@ -243,7 +307,8 @@
       "diretor": "Debbie Bruce Mahan",
       "generos": [
         "Animação",
-        "Comédia"
+        "Comédia",
+        "Crime"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
       "pais": [
@@ -445,6 +510,58 @@
       }
     },
     {
+      "tmdb_id": 1321008,
+      "imdb_id": "tt32315584",
+      "titulo_original": "Black Box",
+      "titulo_ingles": "Black Box",
+      "ano": 2026,
+      "data_lancamento": "2026-06-25",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um voo doméstico de rotina se transforma em um voo infernal por meio de uma série de fenômenos inexplicáveis ​​e terror puro. Encontros surreais confundem as fronteiras entre a realidade e o pesadelo. Os passageiros lutam contra todas as probabilidades em uma tentativa de sobreviver enquanto combatem estranhas falhas tecnológicas, eventos sobrenaturais acelerados e influências alienígenas.",
+      "elenco": [
+        "Tom Brittney",
+        "Holly White",
+        "Betsy Blue-English",
+        "Dane Whyte O'Hara",
+        "Kaja Chan",
+        "Georgina Leonidas",
+        "Hanneke Talbot",
+        "Anton Trendafilov"
+      ],
+      "diretor": "Steven Quale",
+      "generos": [
+        "Terror",
+        "Thriller",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 85,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32315584/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Black%20Box",
+        "metacritic": "https://www.metacritic.com/search/Black%20Box/"
+      }
+    },
+    {
       "tmdb_id": 1612018,
       "imdb_id": "tt39316472",
       "titulo_original": "Jackass: Best and Last",
@@ -510,7 +627,7 @@
         "सुनील शेट्टी",
         "Arshad Warsi",
         "जैकलिन फर्नांडीस",
-        "Disha Patani",
+        "दिशा पाटनी",
         "रवीना टंडन",
         "Jackie Shroff",
         "Paresh Rawal"
@@ -546,58 +663,6 @@
         "imdb": "https://www.imdb.com/title/tt28540171/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Welcome%20to%20the%20Jungle",
         "metacritic": "https://www.metacritic.com/search/Welcome%20to%20the%20Jungle/"
-      }
-    },
-    {
-      "tmdb_id": 1321008,
-      "imdb_id": "tt32315584",
-      "titulo_original": "Black Box",
-      "titulo_ingles": "Black Box",
-      "ano": 2026,
-      "data_lancamento": "2026-06-25",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um voo doméstico de rotina se transforma em um voo infernal por meio de uma série de fenômenos inexplicáveis ​​e terror puro. Encontros surreais confundem as fronteiras entre a realidade e o pesadelo. Os passageiros lutam contra todas as probabilidades em uma tentativa de sobreviver enquanto combatem estranhas falhas tecnológicas, eventos sobrenaturais acelerados e influências alienígenas.",
-      "elenco": [
-        "Tom Brittney",
-        "Holly White",
-        "Betsy Blue-English",
-        "Dane Whyte O'Hara",
-        "Kaja Chan",
-        "Georgina Leonidas",
-        "Hanneke Talbot",
-        "Anton Trendafilov"
-      ],
-      "diretor": "Steven Quale",
-      "generos": [
-        "Terror",
-        "Thriller",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 85,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32315584/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Black%20Box",
-        "metacritic": "https://www.metacritic.com/search/Black%20Box/"
       }
     },
     {
@@ -717,57 +782,6 @@
       }
     },
     {
-      "tmdb_id": 1392469,
-      "imdb_id": "tt35064672",
-      "titulo_original": "कॉकटेल २",
-      "titulo_ingles": "Cocktail 2",
-      "ano": 2026,
-      "data_lancamento": "2026-06-19",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "कृति सैनॉन",
-        "Shahid Kapoor",
-        "రష్మిక మందన్న",
-        "Mark Bennington",
-        "Tiku Talsania",
-        "Neelu Kohli",
-        "Suparna Marwah",
-        "Kanan Arunachalam"
-      ],
-      "diretor": "Homi Adajania",
-      "generos": [
-        "Romance",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 149,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35064672/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Cocktail%202",
-        "metacritic": "https://www.metacritic.com/search/Cocktail%202/"
-      }
-    },
-    {
       "tmdb_id": 1413976,
       "imdb_id": "tt35309713",
       "titulo_original": "Citizen Vigilante",
@@ -820,6 +834,57 @@
         "imdb": "https://www.imdb.com/title/tt35309713/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Citizen%20Vigilante",
         "metacritic": "https://www.metacritic.com/search/Citizen%20Vigilante/"
+      }
+    },
+    {
+      "tmdb_id": 1392469,
+      "imdb_id": "tt35064672",
+      "titulo_original": "कॉकटेल २",
+      "titulo_ingles": "Cocktail 2",
+      "ano": 2026,
+      "data_lancamento": "2026-06-19",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "कृति सैनॉन",
+        "Shahid Kapoor",
+        "రష్మిక మందన్న",
+        "Mark Bennington",
+        "Tiku Talsania",
+        "Neelu Kohli",
+        "Suparna Marwah",
+        "Kanan Arunachalam"
+      ],
+      "diretor": "Homi Adajania",
+      "generos": [
+        "Romance",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 149,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35064672/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Cocktail%202",
+        "metacritic": "https://www.metacritic.com/search/Cocktail%202/"
       }
     },
     {
@@ -886,57 +951,6 @@
       }
     },
     {
-      "tmdb_id": 880067,
-      "imdb_id": "tt15532464",
-      "titulo_original": "Strung",
-      "titulo_ingles": "Strung",
-      "ano": 2026,
-      "data_lancamento": "2026-06-18",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma violinista talentosa, cujo novo e prestigioso papel como professora de música para uma família enigmática e de elite se transforma em uma batalha psicológica por sua segurança e sanidade.",
-      "elenco": [
-        "Chlöe Bailey",
-        "Lynn Whitfield",
-        "Lucien Laviscount",
-        "Anna Diop",
-        "Romy Woods",
-        "Coco Jones",
-        "Pardison Fontaine",
-        "Lebo Mashile"
-      ],
-      "diretor": "Malcolm D. Lee",
-      "generos": [
-        "Mistério",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 119,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt15532464/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Strung",
-        "metacritic": "https://www.metacritic.com/search/Strung/"
-      }
-    },
-    {
       "tmdb_id": 1279493,
       "imdb_id": "tt32321803",
       "titulo_original": "The Get Out",
@@ -990,38 +1004,37 @@
       }
     },
     {
-      "tmdb_id": 1061798,
-      "imdb_id": "tt36955518",
-      "titulo_original": "Jim Queen",
-      "titulo_ingles": "Jim Queen",
+      "tmdb_id": 880067,
+      "imdb_id": "tt15532464",
+      "titulo_original": "Strung",
+      "titulo_ingles": "Strung",
       "ano": 2026,
-      "data_lancamento": "2026-06-17",
+      "data_lancamento": "2026-06-18",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Uma violinista talentosa, cujo novo e prestigioso papel como professora de música para uma família enigmática e de elite se transforma em uma batalha psicológica por sua segurança e sanidade.",
       "elenco": [
-        "Alex Ramirès",
-        "Jéremy Gillet",
-        "Shirley Souagnon",
-        "François Sagat",
-        "Elisabeth Wiener",
-        "Harald Marlot",
-        "Alexandre Brik",
-        "Philippe Katerine"
+        "Chlöe Bailey",
+        "Lynn Whitfield",
+        "Lucien Laviscount",
+        "Anna Diop",
+        "Romy Woods",
+        "Coco Jones",
+        "Pardison Fontaine",
+        "Lebo Mashile"
       ],
-      "diretor": "Marco Nguyen, Nicolas Athané",
+      "diretor": "Malcolm D. Lee",
       "generos": [
-        "Animação",
-        "Comédia"
+        "Mistério",
+        "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
       "pais": [
-        "FR",
-        "BE"
+        "US"
       ],
       "idiomas": [
-        "fr"
+        "en"
       ],
-      "duracao": 85,
+      "duracao": 119,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1036,9 +1049,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36955518/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
-        "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
+        "imdb": "https://www.imdb.com/title/tt15532464/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Strung",
+        "metacritic": "https://www.metacritic.com/search/Strung/"
       }
     },
     {
@@ -1105,6 +1118,58 @@
         "imdb": "https://www.imdb.com/title/tt36958376/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Your%20Fault%3A%20London",
         "metacritic": "https://www.metacritic.com/search/Your%20Fault%3A%20London/"
+      }
+    },
+    {
+      "tmdb_id": 1061798,
+      "imdb_id": "tt36955518",
+      "titulo_original": "Jim Queen",
+      "titulo_ingles": "Jim Queen",
+      "ano": 2026,
+      "data_lancamento": "2026-06-17",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alex Ramirès",
+        "Jéremy Gillet",
+        "Shirley Souagnon",
+        "François Sagat",
+        "Elisabeth Wiener",
+        "Harald Marlot",
+        "Alexandre Brik",
+        "Philippe Katerine"
+      ],
+      "diretor": "Nicolas Athané, Marco Nguyen",
+      "generos": [
+        "Animação",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
+      "pais": [
+        "FR",
+        "BE"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 85,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36955518/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
+        "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
       }
     },
     {
@@ -1229,62 +1294,6 @@
         "imdb": "https://www.imdb.com/title/tt36876775/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Husbands%20in%20Action",
         "metacritic": "https://www.metacritic.com/search/Husbands%20in%20Action/"
-      }
-    },
-    {
-      "tmdb_id": 1020047,
-      "imdb_id": "tt1333644",
-      "titulo_original": "In the Hand of Dante",
-      "titulo_ingles": "In the Hand of Dante",
-      "ano": 2026,
-      "data_lancamento": "2026-06-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um manuscrito do poema “A Divina Comédia”, de Dante Alighieri, passa das mãos de um padre para as de um chefe da máfia em Nova Iorque, onde é levado por Nick Tosches depois de lhe ter sido pedido que verificasse a sua autenticidade.",
-      "elenco": [
-        "Oscar Isaac",
-        "Gal Gadot",
-        "Gerard Butler",
-        "John Malkovich",
-        "Louis Cancelmi",
-        "Sabrina Impacciatore",
-        "Franco Nero",
-        "Benjamin Clementine"
-      ],
-      "diretor": "Julian Schnabel",
-      "generos": [
-        "Drama",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvJJK0EoC4rCtovBMoq2A6eeATL.jpg",
-      "pais": [
-        "CL",
-        "IT",
-        "GB",
-        "US"
-      ],
-      "idiomas": [
-        "es",
-        "en",
-        "it"
-      ],
-      "duracao": 153,
-      "rt_critica": 43,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 43,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt1333644/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=In%20the%20Hand%20of%20Dante",
-        "metacritic": "https://www.metacritic.com/search/In%20the%20Hand%20of%20Dante/"
       }
     },
     {
@@ -1417,6 +1426,62 @@
       }
     },
     {
+      "tmdb_id": 1020047,
+      "imdb_id": "tt1333644",
+      "titulo_original": "In the Hand of Dante",
+      "titulo_ingles": "In the Hand of Dante",
+      "ano": 2026,
+      "data_lancamento": "2026-06-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um manuscrito do poema “A Divina Comédia”, de Dante Alighieri, passa das mãos de um padre para as de um chefe da máfia em Nova Iorque, onde é levado por Nick Tosches depois de lhe ter sido pedido que verificasse a sua autenticidade.",
+      "elenco": [
+        "Oscar Isaac",
+        "Gal Gadot",
+        "Gerard Butler",
+        "John Malkovich",
+        "Louis Cancelmi",
+        "Sabrina Impacciatore",
+        "Franco Nero",
+        "Benjamin Clementine"
+      ],
+      "diretor": "Julian Schnabel",
+      "generos": [
+        "Drama",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/kvJJK0EoC4rCtovBMoq2A6eeATL.jpg",
+      "pais": [
+        "CL",
+        "IT",
+        "GB",
+        "US"
+      ],
+      "idiomas": [
+        "es",
+        "en",
+        "it"
+      ],
+      "duracao": 153,
+      "rt_critica": 43,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 43,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt1333644/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=In%20the%20Hand%20of%20Dante",
+        "metacritic": "https://www.metacritic.com/search/In%20the%20Hand%20of%20Dante/"
+      }
+    },
+    {
       "tmdb_id": 1699155,
       "imdb_id": "tt42863533",
       "titulo_original": "Maternal Instinct",
@@ -1469,6 +1534,58 @@
         "imdb": "https://www.imdb.com/title/tt42863533/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Maternal%20Instinct",
         "metacritic": "https://www.metacritic.com/search/Maternal%20Instinct/"
+      }
+    },
+    {
+      "tmdb_id": 1668499,
+      "imdb_id": "tt42575634",
+      "titulo_original": "Le Vertige",
+      "titulo_ingles": "Vertiginous",
+      "ano": 2026,
+      "data_lancamento": "2026-06-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alain Chabat",
+        "Jonathan Cohen",
+        "Anaïs Demoustier",
+        "Jean-Marie Winling",
+        "Jean-Christophe Le Guennan",
+        "Oscar Vercken de Vreuschmen",
+        "Coco Dupieux",
+        "Anna-Marie Filippi"
+      ],
+      "diretor": "Quentin Dupieux",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qO8nc3cSjzGduaC0deh8gBRKK9Z.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt42575634/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vertiginous",
+        "metacritic": "https://www.metacritic.com/search/Vertiginous/"
       }
     },
     {
@@ -1534,58 +1651,6 @@
         "imdb": "https://www.imdb.com/title/tt38681832/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Colors%20of%20Evil%3A%20Black",
         "metacritic": "https://www.metacritic.com/search/Colors%20of%20Evil%3A%20Black/"
-      }
-    },
-    {
-      "tmdb_id": 1668499,
-      "imdb_id": "tt42575634",
-      "titulo_original": "Le Vertige",
-      "titulo_ingles": "Vertiginous",
-      "ano": 2026,
-      "data_lancamento": "2026-06-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alain Chabat",
-        "Jonathan Cohen",
-        "Anaïs Demoustier",
-        "Jean-Marie Winling",
-        "Jean-Christophe Le Guennan",
-        "Oscar Vercken de Vreuschmen",
-        "Coco Dupieux",
-        "Anna-Marie Filippi"
-      ],
-      "diretor": "Quentin Dupieux",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qO8nc3cSjzGduaC0deh8gBRKK9Z.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt42575634/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vertiginous",
-        "metacritic": "https://www.metacritic.com/search/Vertiginous/"
       }
     },
     {
@@ -1886,71 +1951,6 @@
       }
     },
     {
-      "tmdb_id": 1628448,
-      "imdb_id": "tt33538438",
-      "titulo_original": "माँ बहन",
-      "titulo_ingles": "Maa Behen",
-      "ano": 2026,
-      "data_lancamento": "2026-06-04",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um problemão bate à sua porta, e Rekha precisa da ajuda das filhas. Juntas, elas tentam encobrir um crime em uma vizinhança onde é impossível guardar segredo.",
-      "elenco": [
-        "Madhuri Dixit",
-        "Triptii Dimri",
-        "Dharna Durga",
-        "Ravi Kishan",
-        "Jatin Sarna",
-        "Geetanjali Kulkarni",
-        "Arunoday Singh",
-        "Shardul Bhardwaj"
-      ],
-      "diretor": "Suresh Triveni",
-      "generos": [
-        "Comédia",
-        "Thriller",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/9SkVFb3Xgc0TtLirjXb2J2EPC70.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 127,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1628448/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33538438/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Maa%20Behen",
-        "metacritic": "https://www.metacritic.com/search/Maa%20Behen/"
-      }
-    },
-    {
       "tmdb_id": 1693002,
       "imdb_id": "tt42192165",
       "titulo_original": "The Murder of Rachel Nickell",
@@ -2058,6 +2058,71 @@
       }
     },
     {
+      "tmdb_id": 1628448,
+      "imdb_id": "tt33538438",
+      "titulo_original": "माँ बहन",
+      "titulo_ingles": "Maa Behen",
+      "ano": 2026,
+      "data_lancamento": "2026-06-04",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um problemão bate à sua porta, e Rekha precisa da ajuda das filhas. Juntas, elas tentam encobrir um crime em uma vizinhança onde é impossível guardar segredo.",
+      "elenco": [
+        "Madhuri Dixit",
+        "तृप्ति डीमरी",
+        "Dharna Durga",
+        "Ravi Kishan",
+        "Jatin Sarna",
+        "Geetanjali Kulkarni",
+        "Arunoday Singh",
+        "Shardul Bhardwaj"
+      ],
+      "diretor": "Suresh Triveni",
+      "generos": [
+        "Comédia",
+        "Thriller",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/9SkVFb3Xgc0TtLirjXb2J2EPC70.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 127,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1628448/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33538438/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Maa%20Behen",
+        "metacritic": "https://www.metacritic.com/search/Maa%20Behen/"
+      }
+    },
+    {
       "tmdb_id": 454639,
       "imdb_id": "tt0427340",
       "titulo_original": "Masters of the Universe",
@@ -2162,60 +2227,6 @@
       }
     },
     {
-      "tmdb_id": 1165366,
-      "imdb_id": "tt28553375",
-      "titulo_original": "La Bataille de Gaulle : L’âge de fer",
-      "titulo_ingles": "De Gaulle: Résistance",
-      "ano": 2026,
-      "data_lancamento": "2026-06-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Simon Abkarian",
-        "Simon Russell Beale",
-        "Florian Lesieur",
-        "Benoît Magimel",
-        "Mathieu Kassovitz",
-        "Loïc Corbery",
-        "Anamaria Vartolomei",
-        "Niels Schneider"
-      ],
-      "diretor": "Antonin Baudry",
-      "generos": [
-        "História",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/wRvwPOxWXkeBhPFwpuE8v9tmsY9.jpg",
-      "pais": [
-        "FR",
-        "BE",
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "fr"
-      ],
-      "duracao": 160,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt28553375/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=De%20Gaulle%3A%20R%C3%A9sistance",
-        "metacritic": "https://www.metacritic.com/search/De%20Gaulle%3A%20R%C3%A9sistance/"
-      }
-    },
-    {
       "tmdb_id": 1382832,
       "imdb_id": "tt34494076",
       "titulo_original": "Hungry",
@@ -2281,9 +2292,9 @@
         "Shivaraj Kumar",
         "Jagapati Babu",
         "दिव्येंदु शर्मा",
-        "Rajatabha Dutta",
-        "Dayanand Reddy",
-        "Upendra Limaye"
+        "Boman Irani",
+        "Ravi Kishan",
+        "Rao Ramesh"
       ],
       "diretor": "Buchi Babu Sana",
       "generos": [
@@ -2297,7 +2308,7 @@
       "idiomas": [
         "te"
       ],
-      "duracao": 192,
+      "duracao": 185,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2328,6 +2339,60 @@
         "imdb": "https://www.imdb.com/title/tt23865918/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Peddi",
         "metacritic": "https://www.metacritic.com/search/Peddi/"
+      }
+    },
+    {
+      "tmdb_id": 1165366,
+      "imdb_id": "tt28553375",
+      "titulo_original": "La Bataille de Gaulle : L’âge de fer",
+      "titulo_ingles": "De Gaulle: Résistance",
+      "ano": 2026,
+      "data_lancamento": "2026-06-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Simon Abkarian",
+        "Simon Russell Beale",
+        "Florian Lesieur",
+        "Benoît Magimel",
+        "Mathieu Kassovitz",
+        "Loïc Corbery",
+        "Anamaria Vartolomei",
+        "Niels Schneider"
+      ],
+      "diretor": "Antonin Baudry",
+      "generos": [
+        "História",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/wRvwPOxWXkeBhPFwpuE8v9tmsY9.jpg",
+      "pais": [
+        "FR",
+        "BE",
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "fr"
+      ],
+      "duracao": 160,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt28553375/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=De%20Gaulle%3A%20R%C3%A9sistance",
+        "metacritic": "https://www.metacritic.com/search/De%20Gaulle%3A%20R%C3%A9sistance/"
       }
     },
     {
@@ -2369,6 +2434,56 @@
         "imdb": null,
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=WWE%20Clash%20in%20Italy%20Preshow",
         "metacritic": "https://www.metacritic.com/search/WWE%20Clash%20in%20Italy%20Preshow/"
+      }
+    },
+    {
+      "tmdb_id": 1680516,
+      "imdb_id": "tt42898884",
+      "titulo_original": "WHO",
+      "titulo_ingles": "WHO",
+      "ano": 2026,
+      "data_lancamento": "2026-05-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Wil Aime",
+        "Hassan Koné",
+        "Solène Hegbe",
+        "Eden Elijah",
+        "John Dadie",
+        "Philippe Kande",
+        "David Dey",
+        "Roselyne Geslot"
+      ],
+      "diretor": "Wil Aime",
+      "generos": [
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/rO9L4pXE0ykAKGHOTPNGXcvh450.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt42898884/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=WHO",
+        "metacritic": "https://www.metacritic.com/search/WHO/"
       }
     },
     {
@@ -2436,56 +2551,6 @@
       }
     },
     {
-      "tmdb_id": 1680516,
-      "imdb_id": "tt42898884",
-      "titulo_original": "WHO",
-      "titulo_ingles": "WHO",
-      "ano": 2026,
-      "data_lancamento": "2026-05-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Wil Aime",
-        "Hassan Koné",
-        "Solène Hegbe",
-        "Eden Elijah",
-        "John Dadie",
-        "Philippe Kande",
-        "David Dey",
-        "Roselyne Geslot"
-      ],
-      "diretor": "Wil Aime",
-      "generos": [
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/rO9L4pXE0ykAKGHOTPNGXcvh450.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt42898884/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=WHO",
-        "metacritic": "https://www.metacritic.com/search/WHO/"
-      }
-    },
-    {
       "tmdb_id": 1694978,
       "imdb_id": "tt41604789",
       "titulo_original": "Chum",
@@ -2534,58 +2599,6 @@
         "imdb": "https://www.imdb.com/title/tt41604789/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Chum",
         "metacritic": "https://www.metacritic.com/search/Chum/"
-      }
-    },
-    {
-      "tmdb_id": 1466123,
-      "imdb_id": "tt37535559",
-      "titulo_original": "L'Objet du délit",
-      "titulo_ingles": "Crescendo",
-      "ano": 2026,
-      "data_lancamento": "2026-05-27",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Agnès Jaoui",
-        "Daniel Auteuil",
-        "Eye Haïdara",
-        "Claire Chust",
-        "Oussama Kheddam",
-        "Lucie Gallo",
-        "Vincenzo Amato",
-        "Tiphaine Daviot"
-      ],
-      "diretor": "Agnès Jaoui",
-      "generos": [
-        "Comédia",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/AdM7jQOEdRZ0DW6nfizLwxhSmVI.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 133,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37535559/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Crescendo",
-        "metacritic": "https://www.metacritic.com/search/Crescendo/"
       }
     },
     {
