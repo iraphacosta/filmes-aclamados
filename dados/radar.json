@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-07-20T12:00:59.084Z",
+  "gerado_em": "2026-07-21T11:21:55.456Z",
   "filmes": [
     {
       "tmdb_id": 1318621,
@@ -359,36 +359,105 @@
       }
     },
     {
-      "tmdb_id": 1645603,
-      "imdb_id": "tt33296064",
-      "titulo_original": "Night of the Living Dead",
-      "titulo_ingles": "Night of the Living Dead",
+      "tmdb_id": 1659389,
+      "imdb_id": "tt41295042",
+      "titulo_original": "ONE PIECE HEROINES",
+      "titulo_ingles": "ONE PIECE HEROINES",
+      "ano": 2026,
+      "data_lancamento": "2026-07-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "Nami compra um par de sapatos, mas volta à loja com os pés machucados. O estilista Lebno se oferece para refazê-los, com uma condição: Nami terá que desfilar para ele.",
+      "elenco": [
+        "Akemi Okamura",
+        "Yuriko Yamaguchi",
+        "Maaya Sakamoto",
+        "Takehito Koyasu",
+        "藤井剛",
+        "Hiroaki Hirata",
+        "大槻丈一郎",
+        "Kaori Saionji"
+      ],
+      "diretor": "鎌谷悠",
+      "generos": [
+        "Animação",
+        "Ação",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
+      "pais": [
+        "JP"
+      ],
+      "idiomas": [
+        "ja"
+      ],
+      "duracao": 23,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1659389-one-piece-heroines/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt41295042/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=ONE%20PIECE%20HEROINES",
+        "metacritic": "https://www.metacritic.com/search/ONE%20PIECE%20HEROINES/"
+      }
+    },
+    {
+      "tmdb_id": 1705729,
+      "imdb_id": "tt34584846",
+      "titulo_original": "Man of War",
+      "titulo_ingles": "Man of War",
       "ano": 2026,
       "data_lancamento": "2026-07-03",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Quando uma agente humanitária desaparece nas primeiras horas da guerra na Ucrânia, um ex-agente da Marinha dos Estados Unidos e da CIA entra no país devastado para trazê-la de volta.",
       "elenco": [
-        "Vivica A. Fox",
-        "Brittany Underwood",
-        "Robert Carradine",
-        "Dee Wallace",
-        "Eva Ceja",
-        "Jared Cohn",
-        "Raphael Gabai",
-        "Richard Gabai"
+        "LaMonica Garrett",
+        "Andrew Howard",
+        "Linds Edwards",
+        "Rosmary Yaneva",
+        "Jason Patric",
+        "Daniel Bernhardt",
+        "Antoni Davidov",
+        "François Coetzer"
       ],
-      "diretor": "Christopher Ray",
+      "diretor": "William Kaufman",
       "generos": [
-        "Terror"
+        "Ação",
+        "Thriller",
+        "Guerra"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
-        "en"
+        "bg",
+        "en",
+        "ru"
       ],
-      "duracao": 87,
+      "duracao": 111,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -403,9 +472,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt33296064/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Night%20of%20the%20Living%20Dead",
-        "metacritic": "https://www.metacritic.com/search/Night%20of%20the%20Living%20Dead/"
+        "imdb": "https://www.imdb.com/title/tt34584846/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Man%20of%20War",
+        "metacritic": "https://www.metacritic.com/search/Man%20of%20War/"
       }
     },
     {
@@ -469,40 +538,36 @@
       }
     },
     {
-      "tmdb_id": 1705729,
-      "imdb_id": "tt34584846",
-      "titulo_original": "Man of War",
-      "titulo_ingles": "Man of War",
+      "tmdb_id": 1645603,
+      "imdb_id": "tt33296064",
+      "titulo_original": "Night of the Living Dead",
+      "titulo_ingles": "Night of the Living Dead",
       "ano": 2026,
       "data_lancamento": "2026-07-03",
       "data_qualificacao": "",
-      "sinopse_pt": "Quando uma agente humanitária desaparece nas primeiras horas da guerra na Ucrânia, um ex-agente da Marinha dos Estados Unidos e da CIA entra no país devastado para trazê-la de volta.",
+      "sinopse_pt": "",
       "elenco": [
-        "LaMonica Garrett",
-        "Andrew Howard",
-        "Linds Edwards",
-        "Rosmary Yaneva",
-        "Jason Patric",
-        "Daniel Bernhardt",
-        "Antoni Davidov",
-        "François Coetzer"
+        "Vivica A. Fox",
+        "Brittany Underwood",
+        "Robert Carradine",
+        "Dee Wallace",
+        "Eva Ceja",
+        "Jared Cohn",
+        "Raphael Gabai",
+        "Richard Gabai"
       ],
-      "diretor": "William Kaufman",
+      "diretor": "Christopher Ray",
       "generos": [
-        "Ação",
-        "Thriller",
-        "Guerra"
+        "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
-        "bg",
-        "en",
-        "ru"
+        "en"
       ],
-      "duracao": 111,
+      "duracao": 87,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -517,9 +582,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt34584846/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Man%20of%20War",
-        "metacritic": "https://www.metacritic.com/search/Man%20of%20War/"
+        "imdb": "https://www.imdb.com/title/tt33296064/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Night%20of%20the%20Living%20Dead",
+        "metacritic": "https://www.metacritic.com/search/Night%20of%20the%20Living%20Dead/"
       }
     },
     {
@@ -861,6 +926,58 @@
       }
     },
     {
+      "tmdb_id": 1321008,
+      "imdb_id": "tt32315584",
+      "titulo_original": "Black Box",
+      "titulo_ingles": "Black Box",
+      "ano": 2026,
+      "data_lancamento": "2026-06-25",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um voo doméstico de rotina se transforma em um voo infernal por meio de uma série de fenômenos inexplicáveis ​​e terror puro. Encontros surreais confundem as fronteiras entre a realidade e o pesadelo. Os passageiros lutam contra todas as probabilidades em uma tentativa de sobreviver enquanto combatem estranhas falhas tecnológicas, eventos sobrenaturais acelerados e influências alienígenas.",
+      "elenco": [
+        "Tom Brittney",
+        "Holly White",
+        "Betsy Blue-English",
+        "Dane Whyte O'Hara",
+        "Kaja Chan",
+        "Georgina Leonidas",
+        "Hanneke Talbot",
+        "Anton Trendafilov"
+      ],
+      "diretor": "Steven Quale",
+      "generos": [
+        "Terror",
+        "Thriller",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 85,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32315584/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Black%20Box",
+        "metacritic": "https://www.metacritic.com/search/Black%20Box/"
+      }
+    },
+    {
       "tmdb_id": 1612018,
       "imdb_id": "tt39316472",
       "titulo_original": "Jackass: Best and Last",
@@ -962,58 +1079,6 @@
         "imdb": "https://www.imdb.com/title/tt28540171/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Welcome%20to%20the%20Jungle",
         "metacritic": "https://www.metacritic.com/search/Welcome%20to%20the%20Jungle/"
-      }
-    },
-    {
-      "tmdb_id": 1321008,
-      "imdb_id": "tt32315584",
-      "titulo_original": "Black Box",
-      "titulo_ingles": "Black Box",
-      "ano": 2026,
-      "data_lancamento": "2026-06-25",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um voo doméstico de rotina se transforma em um voo infernal por meio de uma série de fenômenos inexplicáveis ​​e terror puro. Encontros surreais confundem as fronteiras entre a realidade e o pesadelo. Os passageiros lutam contra todas as probabilidades em uma tentativa de sobreviver enquanto combatem estranhas falhas tecnológicas, eventos sobrenaturais acelerados e influências alienígenas.",
-      "elenco": [
-        "Tom Brittney",
-        "Holly White",
-        "Betsy Blue-English",
-        "Dane Whyte O'Hara",
-        "Kaja Chan",
-        "Georgina Leonidas",
-        "Hanneke Talbot",
-        "Anton Trendafilov"
-      ],
-      "diretor": "Steven Quale",
-      "generos": [
-        "Terror",
-        "Thriller",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 85,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32315584/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Black%20Box",
-        "metacritic": "https://www.metacritic.com/search/Black%20Box/"
       }
     },
     {
@@ -1154,8 +1219,7 @@
       "diretor": "Uwe Boll",
       "generos": [
         "Thriller",
-        "Ação",
-        "Crime"
+        "Ação"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
       "pais": [
@@ -1302,6 +1366,57 @@
       }
     },
     {
+      "tmdb_id": 880067,
+      "imdb_id": "tt15532464",
+      "titulo_original": "Strung",
+      "titulo_ingles": "Strung",
+      "ano": 2026,
+      "data_lancamento": "2026-06-18",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma violinista talentosa, cujo novo e prestigioso papel como professora de música para uma família enigmática e de elite se transforma em uma batalha psicológica por sua segurança e sanidade.",
+      "elenco": [
+        "Chlöe Bailey",
+        "Lynn Whitfield",
+        "Lucien Laviscount",
+        "Anna Diop",
+        "Romy Woods",
+        "Coco Jones",
+        "Pardison Fontaine",
+        "Lebo Mashile"
+      ],
+      "diretor": "Malcolm D. Lee",
+      "generos": [
+        "Mistério",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 119,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt15532464/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Strung",
+        "metacritic": "https://www.metacritic.com/search/Strung/"
+      }
+    },
+    {
       "tmdb_id": 1279493,
       "imdb_id": "tt32321803",
       "titulo_original": "The Get Out",
@@ -1355,37 +1470,37 @@
       }
     },
     {
-      "tmdb_id": 880067,
-      "imdb_id": "tt15532464",
-      "titulo_original": "Strung",
-      "titulo_ingles": "Strung",
+      "tmdb_id": 1483319,
+      "imdb_id": "tt39172310",
+      "titulo_original": "Shana",
+      "titulo_ingles": "Shana",
       "ano": 2026,
-      "data_lancamento": "2026-06-18",
+      "data_lancamento": "2026-06-17",
       "data_qualificacao": "",
-      "sinopse_pt": "Uma violinista talentosa, cujo novo e prestigioso papel como professora de música para uma família enigmática e de elite se transforma em uma batalha psicológica por sua segurança e sanidade.",
+      "sinopse_pt": "",
       "elenco": [
-        "Chlöe Bailey",
-        "Lynn Whitfield",
-        "Lucien Laviscount",
-        "Anna Diop",
-        "Romy Woods",
-        "Coco Jones",
-        "Pardison Fontaine",
-        "Lebo Mashile"
+        "Eva Huault",
+        "Noémie Lvovsky",
+        "Inès Gherib",
+        "Anaïs Monah",
+        "Bettina de Van",
+        "Sékouba Doucouré",
+        "Solal Bouloudnine",
+        "Sarah Benabdallah"
       ],
-      "diretor": "Malcolm D. Lee",
+      "diretor": "Lila Pinell",
       "generos": [
-        "Mistério",
-        "Thriller"
+        "Drama",
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/pXgr7YW8TKKOCigWM7VY7MB7bm3.jpg",
       "pais": [
-        "US"
+        "FR"
       ],
       "idiomas": [
-        "en"
+        "fr"
       ],
-      "duracao": 119,
+      "duracao": 83,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1400,75 +1515,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt15532464/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Strung",
-        "metacritic": "https://www.metacritic.com/search/Strung/"
-      }
-    },
-    {
-      "tmdb_id": 1477317,
-      "imdb_id": "tt36958376",
-      "titulo_original": "Your Fault: London",
-      "titulo_ingles": "Your Fault: London",
-      "ano": 2026,
-      "data_lancamento": "2026-06-17",
-      "data_qualificacao": "",
-      "sinopse_pt": "Nick e Noah enfrentam o maior teste de seu amor quando Noah inicia sua nova vida na Universidade de Oxford, enquanto Nick permanece em Londres trabalhando para a empresa de seu pai. Separados pela distância e cercados por pressões cada vez maiores — ciúmes, ambição e forças determinadas a separá-los —, eles precisarão arriscar tudo para provar que seu vínculo pode sobreviver contra todas as adversidades.",
-      "elenco": [
-        "Asha Banks",
-        "Matthew Broome",
-        "Louisa Binder",
-        "Joel Nankervis",
-        "Scarlett Rayner",
-        "Orlando Norman",
-        "Ray Fearon",
-        "Enva Lewis"
-      ],
-      "diretor": "Dani Girdwood, Charlotte Fassler",
-      "generos": [
-        "Romance",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uXQKhfO4Qf7FodbsJbXacX3Tgbc.jpg",
-      "pais": [
-        "ES",
-        "GB",
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 123,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1477317-your-fault-london/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36958376/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Your%20Fault%3A%20London",
-        "metacritic": "https://www.metacritic.com/search/Your%20Fault%3A%20London/"
+        "imdb": "https://www.imdb.com/title/tt39172310/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Shana",
+        "metacritic": "https://www.metacritic.com/search/Shana/"
       }
     },
     {
@@ -1581,6 +1630,72 @@
         "imdb": "https://www.imdb.com/title/tt36955518/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
         "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
+      }
+    },
+    {
+      "tmdb_id": 1477317,
+      "imdb_id": "tt36958376",
+      "titulo_original": "Your Fault: London",
+      "titulo_ingles": "Your Fault: London",
+      "ano": 2026,
+      "data_lancamento": "2026-06-17",
+      "data_qualificacao": "",
+      "sinopse_pt": "Nick e Noah enfrentam o maior teste de seu amor quando Noah inicia sua nova vida na Universidade de Oxford, enquanto Nick permanece em Londres trabalhando para a empresa de seu pai. Separados pela distância e cercados por pressões cada vez maiores — ciúmes, ambição e forças determinadas a separá-los —, eles precisarão arriscar tudo para provar que seu vínculo pode sobreviver contra todas as adversidades.",
+      "elenco": [
+        "Asha Banks",
+        "Matthew Broome",
+        "Louisa Binder",
+        "Joel Nankervis",
+        "Scarlett Rayner",
+        "Orlando Norman",
+        "Ray Fearon",
+        "Enva Lewis"
+      ],
+      "diretor": "Dani Girdwood, Charlotte Fassler",
+      "generos": [
+        "Romance",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uXQKhfO4Qf7FodbsJbXacX3Tgbc.jpg",
+      "pais": [
+        "ES",
+        "GB",
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 123,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1477317-your-fault-london/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36958376/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Your%20Fault%3A%20London",
+        "metacritic": "https://www.metacritic.com/search/Your%20Fault%3A%20London/"
       }
     },
     {
@@ -2175,6 +2290,57 @@
       }
     },
     {
+      "tmdb_id": 1285959,
+      "imdb_id": "tt32298956",
+      "titulo_original": "The Passenger",
+      "titulo_ingles": "The Passenger",
+      "ano": 2026,
+      "data_lancamento": "2026-06-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Djimon Hounsou",
+        "Kodi Smit-McPhee",
+        "Leigh-Ann Rose",
+        "Carolina Campos",
+        "Tegan Couchman",
+        "Adrian McLean",
+        "Sarah Constible",
+        "Teddy Parker"
+      ],
+      "diretor": "Вадим Перельман",
+      "generos": [
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/i9XqCdF0jrgqveYUaLjOSiRepIq.jpg",
+      "pais": [
+        "US",
+        "CA"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 93,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32298956/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Passenger",
+        "metacritic": "https://www.metacritic.com/search/The%20Passenger/"
+      }
+    },
+    {
       "tmdb_id": 1274706,
       "imdb_id": "tt32129938",
       "titulo_original": "La desconocida",
@@ -2240,57 +2406,6 @@
       }
     },
     {
-      "tmdb_id": 1285959,
-      "imdb_id": "tt32298956",
-      "titulo_original": "The Passenger",
-      "titulo_ingles": "The Passenger",
-      "ano": 2026,
-      "data_lancamento": "2026-06-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Djimon Hounsou",
-        "Kodi Smit-McPhee",
-        "Leigh-Ann Rose",
-        "Carolina Campos",
-        "Tegan Couchman",
-        "Adrian McLean",
-        "Sarah Constible",
-        "Teddy Parker"
-      ],
-      "diretor": "Вадим Перельман",
-      "generos": [
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/i9XqCdF0jrgqveYUaLjOSiRepIq.jpg",
-      "pais": [
-        "US",
-        "CA"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 93,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32298956/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Passenger",
-        "metacritic": "https://www.metacritic.com/search/The%20Passenger/"
-      }
-    },
-    {
       "tmdb_id": 1358005,
       "imdb_id": "tt33397980",
       "titulo_original": "Office Romance",
@@ -2352,58 +2467,6 @@
         "imdb": "https://www.imdb.com/title/tt33397980/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Office%20Romance",
         "metacritic": "https://www.metacritic.com/search/Office%20Romance/"
-      }
-    },
-    {
-      "tmdb_id": 1308553,
-      "imdb_id": "tt30447822",
-      "titulo_original": "है जवानी तो इश्क होना है",
-      "titulo_ingles": "Hai Jawani Toh Ishq Hona Hai",
-      "ano": 2026,
-      "data_lancamento": "2026-06-04",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Varun Dhawan",
-        "मृणाल ठाकुर",
-        "పూజా హెగ్డే",
-        "मनीष पॉल",
-        "Chunky Pandey",
-        "Jimmy Shergill",
-        "मौनी राय",
-        "Rakesh Bedi"
-      ],
-      "diretor": "David Dhawan",
-      "generos": [
-        "Romance",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
-      "pais": [
-        "IN",
-        "GB"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 136,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt30447822/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Hai%20Jawani%20Toh%20Ishq%20Hona%20Hai",
-        "metacritic": "https://www.metacritic.com/search/Hai%20Jawani%20Toh%20Ishq%20Hona%20Hai/"
       }
     },
     {
@@ -2527,6 +2590,58 @@
       }
     },
     {
+      "tmdb_id": 1308553,
+      "imdb_id": "tt30447822",
+      "titulo_original": "है जवानी तो इश्क होना है",
+      "titulo_ingles": "Hai Jawani Toh Ishq Hona Hai",
+      "ano": 2026,
+      "data_lancamento": "2026-06-04",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Varun Dhawan",
+        "मृणाल ठाकुर",
+        "పూజా హెగ్డే",
+        "मनीष पॉल",
+        "Chunky Pandey",
+        "Jimmy Shergill",
+        "मौनी राय",
+        "Rakesh Bedi"
+      ],
+      "diretor": "David Dhawan",
+      "generos": [
+        "Romance",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
+      "pais": [
+        "IN",
+        "GB"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 136,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt30447822/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Hai%20Jawani%20Toh%20Ishq%20Hona%20Hai",
+        "metacritic": "https://www.metacritic.com/search/Hai%20Jawani%20Toh%20Ishq%20Hona%20Hai/"
+      }
+    },
+    {
       "tmdb_id": 454639,
       "imdb_id": "tt0427340",
       "titulo_original": "Masters of the Universe",
@@ -2551,7 +2666,7 @@
         "Fantasia",
         "Ficção científica"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uPuVEyoGrtoU9O2sLDhwtKPR78Z.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/atpb7NKSyM4bJSUY8vQTunzK4Na.jpg",
       "pais": [
         "US"
       ],
@@ -2576,58 +2691,6 @@
         "imdb": "https://www.imdb.com/title/tt0427340/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Masters%20of%20the%20Universe",
         "metacritic": "https://www.metacritic.com/search/Masters%20of%20the%20Universe/"
-      }
-    },
-    {
-      "tmdb_id": 1273221,
-      "imdb_id": "tt32093575",
-      "titulo_original": "Scary Movie",
-      "titulo_ingles": "Scary Movie",
-      "ano": 2026,
-      "data_lancamento": "2026-06-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "Vinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo.",
-      "elenco": [
-        "Marlon Wayans",
-        "Shawn Wayans",
-        "Anna Faris",
-        "Regina Hall",
-        "Damon Wayans Jr.",
-        "Gregg Wayans",
-        "Kim Wayans",
-        "Benny Zielke"
-      ],
-      "diretor": "Michael Tiddes",
-      "generos": [
-        "Comédia",
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/97lWamoj4RSBjBHXFmliQbPs06K.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "ko"
-      ],
-      "duracao": 95,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 38,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 38,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32093575/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Scary%20Movie",
-        "metacritic": "https://www.metacritic.com/search/Scary%20Movie/"
       }
     },
     {
@@ -2746,57 +2809,57 @@
       }
     },
     {
-      "tmdb_id": 1165366,
-      "imdb_id": "tt28553375",
-      "titulo_original": "La Bataille de Gaulle : L’âge de fer",
-      "titulo_ingles": "De Gaulle: Résistance",
+      "tmdb_id": 1273221,
+      "imdb_id": "tt32093575",
+      "titulo_original": "Scary Movie",
+      "titulo_ingles": "Scary Movie",
       "ano": 2026,
       "data_lancamento": "2026-06-03",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Vinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo.",
       "elenco": [
-        "Simon Abkarian",
-        "Simon Russell Beale",
-        "Florian Lesieur",
-        "Benoît Magimel",
-        "Mathieu Kassovitz",
-        "Loïc Corbery",
-        "Anamaria Vartolomei",
-        "Niels Schneider"
+        "Marlon Wayans",
+        "Shawn Wayans",
+        "Anna Faris",
+        "Regina Hall",
+        "Damon Wayans Jr.",
+        "Gregg Wayans",
+        "Kim Wayans",
+        "Benny Zielke"
       ],
-      "diretor": "Antonin Baudry",
+      "diretor": "Michael Tiddes",
       "generos": [
-        "História",
-        "Drama"
+        "Comédia",
+        "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/wRvwPOxWXkeBhPFwpuE8v9tmsY9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/y9yJd2qIIwhZcllHeKHsz5eRvNr.jpg",
       "pais": [
-        "FR",
-        "BE",
         "US"
       ],
       "idiomas": [
         "en",
-        "fr"
+        "ko",
+        "pt",
+        "es"
       ],
-      "duracao": 160,
+      "duracao": 95,
       "rt_critica": null,
       "rt_publico": null,
-      "metacritic": null,
+      "metacritic": 38,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
       "atual_rt": null,
-      "atual_metacritic": null,
+      "atual_metacritic": 38,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt28553375/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=De%20Gaulle%3A%20R%C3%A9sistance",
-        "metacritic": "https://www.metacritic.com/search/De%20Gaulle%3A%20R%C3%A9sistance/"
+        "imdb": "https://www.imdb.com/title/tt32093575/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Scary%20Movie",
+        "metacritic": "https://www.metacritic.com/search/Scary%20Movie/"
       }
     },
     {
@@ -2879,11 +2942,11 @@
         "Ludwika Paleta",
         "José María Yázpik",
         "Óscar Casas",
-        "Pilar Pascual",
         "Leonardo Ortizgris",
         "Matías Coronado",
-        "Gabriela Zamora",
-        "Jaydy Michel"
+        "Pilar Pascual",
+        "Ivana Salomón",
+        "Gabriela Zamora"
       ],
       "diretor": "Teresa Simone",
       "generos": [
@@ -2943,11 +3006,11 @@
         "Elena Romero",
         "Diego Peretti",
         "Julieta Cazzuchelli",
-        "Manuel Da Silva",
         "Joaquín Furriel",
-        "Graciela Borges",
         "Gustavo Garzón",
-        "Silvina Sabater"
+        "Manuel Da Silva",
+        "Silvina Sabater",
+        "Fabián Casas"
       ],
       "diretor": "Juan Cabral",
       "generos": [
@@ -3112,73 +3175,6 @@
         "imdb": "https://www.imdb.com/title/tt34685692/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Over%20Your%20Dead%20Body",
         "metacritic": "https://www.metacritic.com/search/Over%20Your%20Dead%20Body/"
-      }
-    },
-    {
-      "tmdb_id": 1598785,
-      "imdb_id": "tt39228706",
-      "titulo_original": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
-      "titulo_ingles": "Milky☆Subway: The Galactic Limited Express - the Movie",
-      "ano": 2026,
-      "data_lancamento": "2026-02-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "Seis delinquentes precisam limpar um trem como parte de um programa de serviços comunitários. Até que o trem decola de repente e provoca um verdadeiro caos.",
-      "elenco": [
-        "寺澤百花",
-        "Anna Nagase",
-        "Mikako Komatsu",
-        "Hisako Kanemoto",
-        "Makoto Koichi",
-        "Koki Uchiyama",
-        "Yoshitaka Yamaya",
-        "藤原由林"
-      ],
-      "diretor": "亀山陽平",
-      "generos": [
-        "Animação",
-        "Ação",
-        "Aventura",
-        "Comédia",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/p2wClSPUcs0NidsNBueaTBmGkJd.jpg",
-      "pais": [
-        "JP"
-      ],
-      "idiomas": [
-        "ja"
-      ],
-      "duracao": 46,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1598785/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39228706/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Milky%E2%98%86Subway%3A%20The%20Galactic%20Limited%20Express%20-%20the%20Movie",
-        "metacritic": "https://www.metacritic.com/search/Milky%E2%98%86Subway%3A%20The%20Galactic%20Limited%20Express%20-%20the%20Movie/"
       }
     },
     {
