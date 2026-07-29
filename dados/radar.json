@@ -1,39 +1,40 @@
 {
   "versao": 1,
-  "gerado_em": "2026-07-28T11:32:49.653Z",
+  "gerado_em": "2026-07-29T11:37:59.989Z",
   "filmes": [
     {
-      "tmdb_id": 1659155,
-      "imdb_id": "tt41111628",
-      "titulo_original": "Los creyentes",
-      "titulo_ingles": "The Truthers",
+      "tmdb_id": 969681,
+      "imdb_id": "tt22084616",
+      "titulo_original": "Spider-Man: Brand New Day",
+      "titulo_ingles": "Spider-Man: Brand New Day",
       "ano": 2026,
-      "data_lancamento": "2026-07-24",
+      "data_lancamento": "2026-07-28",
       "data_qualificacao": "",
-      "sinopse_pt": "Após a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
+      "sinopse_pt": "É um novo dia para Peter Parker. Combatendo o crime em tempo integral como Homem-Aranha em um mundo que não se lembra mais dele e lidando com a pressão de ver seus antigos amigos seguirem em frente sem sua presença, Peter passa por uma mudança que talvez nem ele tenha o poder de controlar. Mas essa transformação também pode ser a única coisa capaz de deter uma surpreendente nova ameaça à cidade e às pessoas que ele ama: um poderoso vilão que ninguém sequer consegue enxergar.",
       "elenco": [
-        "Jose Coronado",
-        "Stéphanie Magnin",
-        "Fanny Gautier",
-        "Alberto Olmo",
-        "Israel Ruiz",
-        "Olaya Lopez",
-        "Armando Pita"
+        "Tom Holland",
+        "Zendaya",
+        "Sadie Sink",
+        "Jacob Batalon",
+        "Jon Bernthal",
+        "Tramell Tillman",
+        "Michael Mando",
+        "Mark Ruffalo"
       ],
-      "diretor": "Roger Gual",
+      "diretor": "Destin Daniel Cretton",
       "generos": [
-        "Thriller",
-        "Drama",
-        "Mistério"
+        "Ficção científica",
+        "Ação",
+        "Aventura"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg",
       "pais": [
-        "ES"
+        "US"
       ],
       "idiomas": [
-        "es"
+        "en"
       ],
-      "duracao": 106,
+      "duracao": 143,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -45,25 +46,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=BR"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt41111628/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Truthers",
-        "metacritic": "https://www.metacritic.com/search/The%20Truthers/"
+        "imdb": "https://www.imdb.com/title/tt22084616/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spider-Man%3A%20Brand%20New%20Day",
+        "metacritic": "https://www.metacritic.com/search/Spider-Man%3A%20Brand%20New%20Day/"
       }
     },
     {
@@ -121,6 +109,11 @@
             "logo_url": "https://image.tmdb.org/t/p/w92/h5DcR0J2EESLitnhR8xLG1QymTE.jpg"
           },
           {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+          },
+          {
             "nome": "Paramount+ Amazon Channel",
             "tipo": "assinatura",
             "logo_url": "https://image.tmdb.org/t/p/w92/hExO4PtimLIYn3kBOrzsejNv7cT.jpg"
@@ -137,6 +130,126 @@
         "imdb": "https://www.imdb.com/title/tt18259538/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Avatar%20Aang%3A%20The%20Last%20Airbender",
         "metacritic": "https://www.metacritic.com/search/Avatar%20Aang%3A%20The%20Last%20Airbender/"
+      }
+    },
+    {
+      "tmdb_id": 1659155,
+      "imdb_id": "tt41111628",
+      "titulo_original": "Los creyentes",
+      "titulo_ingles": "The Truthers",
+      "ano": 2026,
+      "data_lancamento": "2026-07-24",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
+      "elenco": [
+        "Jose Coronado",
+        "Stéphanie Magnin",
+        "Fanny Gautier",
+        "Alberto Olmo",
+        "Israel Ruiz",
+        "Mabel del Pozo",
+        "Celine Fortenbacher",
+        "Olaya Lopez"
+      ],
+      "diretor": "Roger Gual",
+      "generos": [
+        "Thriller",
+        "Drama",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
+      "pais": [
+        "ES"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 106,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt41111628/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Truthers",
+        "metacritic": "https://www.metacritic.com/search/The%20Truthers/"
+      }
+    },
+    {
+      "tmdb_id": 1469342,
+      "imdb_id": "tt36629665",
+      "titulo_original": "Her Private Hell",
+      "titulo_ingles": "Her Private Hell",
+      "ano": 2026,
+      "data_lancamento": "2026-07-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Sophie Thatcher",
+        "Charles Melton",
+        "Havana Rose Liu",
+        "Kristine Froseth",
+        "忽那汐里",
+        "山田 葵",
+        "Dougray Scott",
+        "Diego Calva"
+      ],
+      "diretor": "Nicolas Winding Refn",
+      "generos": [
+        "Ficção científica",
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/62gkeidbflMmVmav17G7xJiGMA4.jpg",
+      "pais": [
+        "US",
+        "DK",
+        "GB"
+      ],
+      "idiomas": [
+        "en",
+        "ja"
+      ],
+      "duracao": 110,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 38,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 38,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36629665/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Her%20Private%20Hell",
+        "metacritic": "https://www.metacritic.com/search/Her%20Private%20Hell/"
       }
     },
     {
@@ -200,111 +313,6 @@
         "imdb": "https://www.imdb.com/title/tt33499146/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dink",
         "metacritic": "https://www.metacritic.com/search/The%20Dink/"
-      }
-    },
-    {
-      "tmdb_id": 1496491,
-      "imdb_id": "tt37846373",
-      "titulo_original": "De la Comédie-Française",
-      "titulo_ingles": "Comédie-Française",
-      "ano": 2026,
-      "data_lancamento": "2026-07-22",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Pauline Clément",
-        "Laurent Stocker",
-        "Julien Frison",
-        "Marina Hands",
-        "Adeline D'Hermy",
-        "Danièle Lebrun",
-        "Sefa Yeboah",
-        "Christian Hecq"
-      ],
-      "diretor": "Bertrand Usclat, Martin Darondeau",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bfjG4eH78KOnpVNlEH8wneMHXLv.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 75,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37846373/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Com%C3%A9die-Fran%C3%A7aise",
-        "metacritic": "https://www.metacritic.com/search/Com%C3%A9die-Fran%C3%A7aise/"
-      }
-    },
-    {
-      "tmdb_id": 1723460,
-      "imdb_id": "tt43619305",
-      "titulo_original": "A Toxic Love Story",
-      "titulo_ingles": "A Toxic Love Story",
-      "ano": 2026,
-      "data_lancamento": "2026-07-22",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma série de e-mails ameaçadores se transforma em um plano de vingança envolvendo um marechal americano recém-casado e sua ex-namorada neste documentário sobre crimes reais.",
-      "elenco": [],
-      "diretor": "Alexandra Lacey",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/1WUHK5GFZYw1la8jUFtGQRkOVba.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en",
-        "pt"
-      ],
-      "duracao": 89,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1723460-a-toxic-love-story/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43619305/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Toxic%20Love%20Story",
-        "metacritic": "https://www.metacritic.com/search/A%20Toxic%20Love%20Story/"
       }
     },
     {
@@ -373,6 +381,111 @@
       }
     },
     {
+      "tmdb_id": 1723460,
+      "imdb_id": "tt43619305",
+      "titulo_original": "A Toxic Love Story",
+      "titulo_ingles": "A Toxic Love Story",
+      "ano": 2026,
+      "data_lancamento": "2026-07-22",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma série de e-mails ameaçadores se transforma em um plano de vingança envolvendo um marechal americano recém-casado e sua ex-namorada neste documentário sobre crimes reais.",
+      "elenco": [],
+      "diretor": "Alexandra Lacey",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/1WUHK5GFZYw1la8jUFtGQRkOVba.jpg",
+      "pais": [
+        "GB"
+      ],
+      "idiomas": [
+        "en",
+        "pt"
+      ],
+      "duracao": 89,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1723460-a-toxic-love-story/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43619305/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Toxic%20Love%20Story",
+        "metacritic": "https://www.metacritic.com/search/A%20Toxic%20Love%20Story/"
+      }
+    },
+    {
+      "tmdb_id": 1496491,
+      "imdb_id": "tt37846373",
+      "titulo_original": "De la Comédie-Française",
+      "titulo_ingles": "Comédie-Française",
+      "ano": 2026,
+      "data_lancamento": "2026-07-22",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Pauline Clément",
+        "Laurent Stocker",
+        "Julien Frison",
+        "Marina Hands",
+        "Adeline D'Hermy",
+        "Danièle Lebrun",
+        "Sefa Yeboah",
+        "Christian Hecq"
+      ],
+      "diretor": "Bertrand Usclat, Martin Darondeau",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bfjG4eH78KOnpVNlEH8wneMHXLv.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 75,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37846373/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Com%C3%A9die-Fran%C3%A7aise",
+        "metacritic": "https://www.metacritic.com/search/Com%C3%A9die-Fran%C3%A7aise/"
+      }
+    },
+    {
       "tmdb_id": 949838,
       "imdb_id": "tt36304003",
       "titulo_original": "72 HOURS",
@@ -434,6 +547,71 @@
         "imdb": "https://www.imdb.com/title/tt36304003/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=72%20HOURS",
         "metacritic": "https://www.metacritic.com/search/72%20HOURS/"
+      }
+    },
+    {
+      "tmdb_id": 1630409,
+      "imdb_id": "tt39749953",
+      "titulo_original": "คนเดือดทวงแค้น",
+      "titulo_ingles": "The Debt Collector",
+      "ano": 2026,
+      "data_lancamento": "2026-07-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "Assombrado pela culpa após a prisão, um ex-cobrador de dívidas corre contra uma doença terminal, retornando ao seu antigo mundo para vingar as vítimas dos agiotas.",
+      "elenco": [
+        "ณเดชน์ คูกิมิยะ",
+        "พิทยา แซ่ฉั่ว",
+        "ชัยวัฒน์ ทองแสง",
+        "Nuanprang Treechit",
+        "Jonathan Holman",
+        "พลอยปภัส ฝนแก้วศิวพร",
+        "Kunkanit Khumkrong",
+        "Nuttanun Kunnawatt"
+      ],
+      "diretor": "สุรพงษ์ เพลินแสง",
+      "generos": [
+        "Ação",
+        "Thriller",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qBKdfIV8YeReAYyzebW7R14vWhe.jpg",
+      "pais": [
+        "TH"
+      ],
+      "idiomas": [
+        "th"
+      ],
+      "duracao": 134,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1630409/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39749953/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Debt%20Collector",
+        "metacritic": "https://www.metacritic.com/search/The%20Debt%20Collector/"
       }
     },
     {
@@ -562,6 +740,59 @@
       }
     },
     {
+      "tmdb_id": 1491920,
+      "imdb_id": "tt36103784",
+      "titulo_original": "功夫女足",
+      "titulo_ingles": "Kung Fu Soccer",
+      "ano": 2026,
+      "data_lancamento": "2026-07-11",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "张小斐",
+        "迪丽热巴",
+        "张艺兴",
+        "劉嘉玲",
+        "佐藤健",
+        "艾米",
+        "雪野",
+        "蔡思貝"
+      ],
+      "diretor": "Stephen Chow",
+      "generos": [
+        "Drama",
+        "Comédia",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
+      "pais": [
+        "HK",
+        "CN"
+      ],
+      "idiomas": [
+        "zh"
+      ],
+      "duracao": 106,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36103784/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kung%20Fu%20Soccer",
+        "metacritic": "https://www.metacritic.com/search/Kung%20Fu%20Soccer/"
+      }
+    },
+    {
       "tmdb_id": 1616674,
       "imdb_id": "tt39370887",
       "titulo_original": "Aku Sebelum Aku",
@@ -624,59 +855,6 @@
         "imdb": "https://www.imdb.com/title/tt39370887/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Me%20Before%20Me",
         "metacritic": "https://www.metacritic.com/search/Me%20Before%20Me/"
-      }
-    },
-    {
-      "tmdb_id": 1491920,
-      "imdb_id": "tt36103784",
-      "titulo_original": "功夫女足",
-      "titulo_ingles": "Kung Fu Soccer",
-      "ano": 2026,
-      "data_lancamento": "2026-07-11",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "张小斐",
-        "迪丽热巴",
-        "张艺兴",
-        "劉嘉玲",
-        "佐藤健",
-        "艾米",
-        "雪野",
-        "蔡思貝"
-      ],
-      "diretor": "Stephen Chow",
-      "generos": [
-        "Drama",
-        "Comédia",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
-      "pais": [
-        "HK",
-        "CN"
-      ],
-      "idiomas": [
-        "zh"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36103784/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kung%20Fu%20Soccer",
-        "metacritic": "https://www.metacritic.com/search/Kung%20Fu%20Soccer/"
       }
     },
     {
@@ -1075,6 +1253,60 @@
         "imdb": "https://www.imdb.com/title/tt41295042/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Piece%20Heroines",
         "metacritic": "https://www.metacritic.com/search/One%20Piece%20Heroines/"
+      }
+    },
+    {
+      "tmdb_id": 1155818,
+      "imdb_id": "tt28089784",
+      "titulo_original": "ਸਤਲੁਜ",
+      "titulo_ingles": "Satluj",
+      "ano": 2026,
+      "data_lancamento": "2026-07-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Diljit Dosanjh",
+        "Arjun Rampal",
+        "Suvinder Vicky",
+        "Geetika Vidya",
+        "Kanwaljit Singh",
+        "Saurabh Sachdeva",
+        "Jagjeet Sandhu",
+        "Nassar"
+      ],
+      "diretor": "Honey Trehan",
+      "generos": [
+        "Crime",
+        "Drama",
+        "História"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/7ia3nAM4q9sBy8g3SVEVgRAcsKd.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "pa",
+        "hi",
+        "en"
+      ],
+      "duracao": 164,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt28089784/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Satluj",
+        "metacritic": "https://www.metacritic.com/search/Satluj/"
       }
     },
     {
@@ -1580,58 +1812,6 @@
       }
     },
     {
-      "tmdb_id": 1612018,
-      "imdb_id": "tt39316472",
-      "titulo_original": "Jackass: Best and Last",
-      "titulo_ingles": "Jackass: Best and Last",
-      "ano": 2026,
-      "data_lancamento": "2026-06-25",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Johnny Knoxville",
-        "Steve-O",
-        "Chris Pontius",
-        "Jason 'Wee Man' Acuña",
-        "Dave England",
-        "Preston Lacy",
-        "Ehren McGhehey",
-        "Bam Margera"
-      ],
-      "diretor": "Jeff Tremaine",
-      "generos": [
-        "Ação",
-        "Comédia",
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qCLF1Bp3HiLAZsdd1H1e04RtbSJ.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 92,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 63,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 63,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39316472/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jackass%3A%20Best%20and%20Last",
-        "metacritic": "https://www.metacritic.com/search/Jackass%3A%20Best%20and%20Last/"
-      }
-    },
-    {
       "tmdb_id": 1321008,
       "imdb_id": "tt32315584",
       "titulo_original": "Black Box",
@@ -1732,6 +1912,58 @@
         "imdb": "https://www.imdb.com/title/tt28540171/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Welcome%20to%20the%20Jungle",
         "metacritic": "https://www.metacritic.com/search/Welcome%20to%20the%20Jungle/"
+      }
+    },
+    {
+      "tmdb_id": 1612018,
+      "imdb_id": "tt39316472",
+      "titulo_original": "Jackass: Best and Last",
+      "titulo_ingles": "Jackass: Best and Last",
+      "ano": 2026,
+      "data_lancamento": "2026-06-25",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Johnny Knoxville",
+        "Steve-O",
+        "Chris Pontius",
+        "Jason 'Wee Man' Acuña",
+        "Dave England",
+        "Preston Lacy",
+        "Ehren McGhehey",
+        "Bam Margera"
+      ],
+      "diretor": "Jeff Tremaine",
+      "generos": [
+        "Ação",
+        "Comédia",
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qCLF1Bp3HiLAZsdd1H1e04RtbSJ.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 92,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 63,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 63,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39316472/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jackass%3A%20Best%20and%20Last",
+        "metacritic": "https://www.metacritic.com/search/Jackass%3A%20Best%20and%20Last/"
       }
     },
     {
@@ -1955,6 +2187,69 @@
       }
     },
     {
+      "tmdb_id": 1397385,
+      "imdb_id": "tt34888871",
+      "titulo_original": "Little Brother",
+      "titulo_ingles": "Little Brother",
+      "ano": 2026,
+      "data_lancamento": "2026-06-18",
+      "data_qualificacao": "",
+      "sinopse_pt": "A vida de um corretor de imóveis todo regrado vira de cabeça para baixo quando seu \"irmãozinho\" caótico reaparece de repente.",
+      "elenco": [
+        "John Cena",
+        "Eric André",
+        "Michelle Monaghan",
+        "Christopher Meloni",
+        "Sherry Cola",
+        "Ego Nwodim",
+        "Caleb Hearon",
+        "Bryce Gheisar"
+      ],
+      "diretor": "Matt Spicer",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/ghPZXHqe3CamVjoTUUuGvE0zrRV.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 101,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 52,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 52,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1397385-little-brother/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34888871/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Little%20Brother",
+        "metacritic": "https://www.metacritic.com/search/Little%20Brother/"
+      }
+    },
+    {
       "tmdb_id": 1279493,
       "imdb_id": "tt32321803",
       "titulo_original": "The Get Out",
@@ -2056,69 +2351,6 @@
         "imdb": "https://www.imdb.com/title/tt15532464/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Strung",
         "metacritic": "https://www.metacritic.com/search/Strung/"
-      }
-    },
-    {
-      "tmdb_id": 1397385,
-      "imdb_id": "tt34888871",
-      "titulo_original": "Little Brother",
-      "titulo_ingles": "Little Brother",
-      "ano": 2026,
-      "data_lancamento": "2026-06-18",
-      "data_qualificacao": "",
-      "sinopse_pt": "A vida de um corretor de imóveis todo regrado vira de cabeça para baixo quando seu \"irmãozinho\" caótico reaparece de repente.",
-      "elenco": [
-        "John Cena",
-        "Eric André",
-        "Michelle Monaghan",
-        "Christopher Meloni",
-        "Sherry Cola",
-        "Ego Nwodim",
-        "Caleb Hearon",
-        "Bryce Gheisar"
-      ],
-      "diretor": "Matt Spicer",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/ghPZXHqe3CamVjoTUUuGvE0zrRV.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 101,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 52,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 52,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1397385-little-brother/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34888871/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Little%20Brother",
-        "metacritic": "https://www.metacritic.com/search/Little%20Brother/"
       }
     },
     {
@@ -2248,58 +2480,6 @@
       }
     },
     {
-      "tmdb_id": 1061798,
-      "imdb_id": "tt36955518",
-      "titulo_original": "Jim Queen",
-      "titulo_ingles": "Jim Queen",
-      "ano": 2026,
-      "data_lancamento": "2026-06-17",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alex Ramirès",
-        "Jéremy Gillet",
-        "Shirley Souagnon",
-        "François Sagat",
-        "Elisabeth Wiener",
-        "Harald Marlot",
-        "Alexandre Brik",
-        "Philippe Katerine"
-      ],
-      "diretor": "Nicolas Athané, Marco Nguyen",
-      "generos": [
-        "Animação",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 85,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36955518/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
-        "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
-      }
-    },
-    {
       "tmdb_id": 1483319,
       "imdb_id": "tt39172310",
       "titulo_original": "Shana",
@@ -2348,6 +2528,58 @@
         "imdb": "https://www.imdb.com/title/tt39172310/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Shana",
         "metacritic": "https://www.metacritic.com/search/Shana/"
+      }
+    },
+    {
+      "tmdb_id": 1061798,
+      "imdb_id": "tt36955518",
+      "titulo_original": "Jim Queen",
+      "titulo_ingles": "Jim Queen",
+      "ano": 2026,
+      "data_lancamento": "2026-06-17",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alex Ramirès",
+        "Jéremy Gillet",
+        "Shirley Souagnon",
+        "François Sagat",
+        "Elisabeth Wiener",
+        "Harald Marlot",
+        "Alexandre Brik",
+        "Philippe Katerine"
+      ],
+      "diretor": "Marco Nguyen, Nicolas Athané",
+      "generos": [
+        "Animação",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
+      "pais": [
+        "FR",
+        "BE"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 85,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36955518/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
+        "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
       }
     },
     {
@@ -2519,6 +2751,71 @@
       }
     },
     {
+      "tmdb_id": 1501018,
+      "imdb_id": "tt36963493",
+      "titulo_original": "Une Famille De Bâtards",
+      "titulo_ingles": "A Family of Bastards",
+      "ano": 2026,
+      "data_lancamento": "2026-06-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Hakim Jemili",
+        "Benjamin Tranié",
+        "Laura Felpin",
+        "Kad Merad",
+        "Florence Foresti",
+        "David Ayala",
+        "Ouassini Embarek",
+        "Alexandre Kominek"
+      ],
+      "diretor": "Mourad Winter",
+      "generos": [
+        "Comédia",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
+      "pais": [
+        "FR",
+        "US"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 105,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1501018-une-famille-de-batards/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36963493/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Family%20of%20Bastards",
+        "metacritic": "https://www.metacritic.com/search/A%20Family%20of%20Bastards/"
+      }
+    },
+    {
       "tmdb_id": 1511549,
       "imdb_id": "tt36956284",
       "titulo_original": "Ancora più sexy",
@@ -2639,71 +2936,6 @@
       }
     },
     {
-      "tmdb_id": 1501018,
-      "imdb_id": "tt36963493",
-      "titulo_original": "Une Famille De Bâtards",
-      "titulo_ingles": "A Family of Bastards",
-      "ano": 2026,
-      "data_lancamento": "2026-06-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Hakim Jemili",
-        "Benjamin Tranié",
-        "Laura Felpin",
-        "Kad Merad",
-        "Florence Foresti",
-        "David Ayala",
-        "Ouassini Embarek",
-        "Alexandre Kominek"
-      ],
-      "diretor": "Mourad Winter",
-      "generos": [
-        "Comédia",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
-      "pais": [
-        "FR",
-        "US"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 105,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1501018-une-famille-de-batards/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36963493/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Family%20of%20Bastards",
-        "metacritic": "https://www.metacritic.com/search/A%20Family%20of%20Bastards/"
-      }
-    },
-    {
       "tmdb_id": 1699155,
       "imdb_id": "tt42863533",
       "titulo_original": "Maternal Instinct",
@@ -2756,124 +2988,6 @@
         "imdb": "https://www.imdb.com/title/tt42863533/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Maternal%20Instinct",
         "metacritic": "https://www.metacritic.com/search/Maternal%20Instinct/"
-      }
-    },
-    {
-      "tmdb_id": 1668499,
-      "imdb_id": "tt42575634",
-      "titulo_original": "Le Vertige",
-      "titulo_ingles": "Vertiginous",
-      "ano": 2026,
-      "data_lancamento": "2026-06-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alain Chabat",
-        "Jonathan Cohen",
-        "Anaïs Demoustier",
-        "Jean-Marie Winling",
-        "Jean-Christophe Le Guennan",
-        "Oscar Vercken de Vreuschmen",
-        "Coco Dupieux",
-        "Anna-Marie Filippi"
-      ],
-      "diretor": "Quentin Dupieux",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qO8nc3cSjzGduaC0deh8gBRKK9Z.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt42575634/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vertiginous",
-        "metacritic": "https://www.metacritic.com/search/Vertiginous/"
-      }
-    },
-    {
-      "tmdb_id": 1556616,
-      "imdb_id": "tt38897659",
-      "titulo_original": "Yaz Evi",
-      "titulo_ingles": "Summer House",
-      "ano": 2026,
-      "data_lancamento": "2026-06-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "Selin, 21 anos, de repente volta para o verão de 96 e se torna a melhor amiga de sua mãe. Ao ajudá-la a escolher seu pai em um triângulo amoroso, ela descobre que os sonhos que sua mãe abandonou moldaram as relações dela no presente. Ao presenciar um romance de verão apaixonante e a magia dos anos 90, Selin incentiva a mãe a correr atrás de seus sonhos. Nostálgico, romântico e irresistível.",
-      "elenco": [
-        "Mina Demirtaş",
-        "Derya Pınar Ak",
-        "Onur Seyit Yaran",
-        "Çağdaş Onur Öztürk",
-        "Kamil Güler",
-        "Selma Ergeç",
-        "Nehir Erdoğan",
-        "Tugay Erdoğan"
-      ],
-      "diretor": "Erdem Tepegöz",
-      "generos": [
-        "Romance",
-        "Família",
-        "Drama",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/thYgwU7wrT1mb3SJklkmJnAzxTS.jpg",
-      "pais": [
-        "TR"
-      ],
-      "idiomas": [
-        "tr"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1556616-yaz-evi/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38897659/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Summer%20House",
-        "metacritic": "https://www.metacritic.com/search/Summer%20House/"
       }
     },
     {
@@ -3113,9 +3227,19 @@
             "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
           },
           {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
+          },
+          {
             "nome": "Amazon Video",
             "tipo": "aluguel",
             "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
           },
           {
             "nome": "Amazon Video",
@@ -3129,73 +3253,6 @@
         "imdb": "https://www.imdb.com/title/tt36352591/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=You%2C%20Me%20%26%20Tuscany",
         "metacritic": "https://www.metacritic.com/search/You%2C%20Me%20%26%20Tuscany/"
-      }
-    },
-    {
-      "tmdb_id": 1390300,
-      "imdb_id": "tt34685692",
-      "titulo_original": "Over Your Dead Body",
-      "titulo_ingles": "Over Your Dead Body",
-      "ano": 2026,
-      "data_lancamento": "2026-03-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma comédia de humor ácido com um toque de suspense, dirigida por Jorma Taccone e estrelada por um casal disfuncional, Dan e Lisa, que se refugiam em uma cabana isolada com o objetivo secreto de se assassinarem. Seus elaborados planos para se matarem são interrompidos quando foragidos e um agente penitenciário corrupto atrapalham sua fuga.",
-      "elenco": [
-        "Samara Weaving",
-        "Jason Segel",
-        "Timothy Olyphant",
-        "Juliette Lewis",
-        "Keith Jardine",
-        "Paul Guilfoyle",
-        "Jake Curran",
-        "Nikolai Kinski"
-      ],
-      "diretor": "Jorma Taccone",
-      "generos": [
-        "Ação",
-        "Comédia",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/i9tMHmhq8m1c4xOJofn7lqzXDvj.jpg",
-      "pais": [
-        "US",
-        "NO",
-        "FI"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 52,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 52,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1390300-over-your-dead-body/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34685692/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Over%20Your%20Dead%20Body",
-        "metacritic": "https://www.metacritic.com/search/Over%20Your%20Dead%20Body/"
       }
     },
     {
