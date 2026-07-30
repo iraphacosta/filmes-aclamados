@@ -1,7 +1,59 @@
 {
   "versao": 1,
-  "gerado_em": "2026-07-29T11:37:59.989Z",
+  "gerado_em": "2026-07-30T11:27:13.389Z",
   "filmes": [
+    {
+      "tmdb_id": 1481343,
+      "imdb_id": "tt36958312",
+      "titulo_original": "The Devil's Mouth",
+      "titulo_ingles": "The Devil's Mouth",
+      "ano": 2026,
+      "data_lancamento": "2026-07-29",
+      "data_qualificacao": "",
+      "sinopse_pt": "Cinco amigos exploram as cavernas da Boca do Diabo, na Tailândia, para uma última aventura antes de começar a vida real. Mas logo descobrem que há algo mortal à espreita embaixo d'água.... veloz, silencioso e letal. Na escuridão sufocante, a confiança se desfaz, o pânico se espalha e cada passo errado se torna uma luta pela sobrevivência.",
+      "elenco": [
+        "Kathryn Newton",
+        "Lana Condor",
+        "Nico Hiraga",
+        "Gavin Casalegno",
+        "Tommi Rose",
+        "Tayme Thapthimthong",
+        "สหจักร บุญธนกิจ",
+        "Harrison Luna"
+      ],
+      "diretor": "Jeff Wadlow",
+      "generos": [
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/kchMolHk6l6rPo460y4MQMzF2j9.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "th"
+      ],
+      "duracao": 106,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36958312/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Devil's%20Mouth",
+        "metacritic": "https://www.metacritic.com/search/The%20Devil's%20Mouth/"
+      }
+    },
     {
       "tmdb_id": 969681,
       "imdb_id": "tt22084616",
@@ -486,70 +538,6 @@
       }
     },
     {
-      "tmdb_id": 949838,
-      "imdb_id": "tt36304003",
-      "titulo_original": "72 HOURS",
-      "titulo_ingles": "72 HOURS",
-      "ano": 2026,
-      "data_lancamento": "2026-07-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "Para salvar a carreira, um executivo quarentão vai a uma despedida de solteiro com um grupo de jovens, depois de ser adicionado por engano ao chat deles.",
-      "elenco": [
-        "Kevin Hart",
-        "Marcello Hernández",
-        "Mason Gooding",
-        "Kam Patterson",
-        "Ben Marshall",
-        "Zach Cherry",
-        "Michael Mando",
-        "Teyana Taylor"
-      ],
-      "diretor": "Tim Story",
-      "generos": [
-        "Comédia",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vLSogm0b4KokW3qLKEjZ6JwyCJ0.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 102,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/949838-72-hours/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36304003/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=72%20HOURS",
-        "metacritic": "https://www.metacritic.com/search/72%20HOURS/"
-      }
-    },
-    {
       "tmdb_id": 1630409,
       "imdb_id": "tt39749953",
       "titulo_original": "คนเดือดทวงแค้น",
@@ -612,6 +600,70 @@
         "imdb": "https://www.imdb.com/title/tt39749953/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Debt%20Collector",
         "metacritic": "https://www.metacritic.com/search/The%20Debt%20Collector/"
+      }
+    },
+    {
+      "tmdb_id": 949838,
+      "imdb_id": "tt36304003",
+      "titulo_original": "72 HOURS",
+      "titulo_ingles": "72 HOURS",
+      "ano": 2026,
+      "data_lancamento": "2026-07-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "Para salvar a carreira, um executivo quarentão vai a uma despedida de solteiro com um grupo de jovens, depois de ser adicionado por engano ao chat deles.",
+      "elenco": [
+        "Kevin Hart",
+        "Marcello Hernández",
+        "Mason Gooding",
+        "Kam Patterson",
+        "Ben Marshall",
+        "Zach Cherry",
+        "Michael Mando",
+        "Teyana Taylor"
+      ],
+      "diretor": "Tim Story",
+      "generos": [
+        "Comédia",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vLSogm0b4KokW3qLKEjZ6JwyCJ0.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 102,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/949838-72-hours/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36304003/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=72%20HOURS",
+        "metacritic": "https://www.metacritic.com/search/72%20HOURS/"
       }
     },
     {
@@ -858,6 +910,55 @@
       }
     },
     {
+      "tmdb_id": 1381202,
+      "imdb_id": "tt33372918",
+      "titulo_original": "The Outer Threat",
+      "titulo_ingles": "The Outer Threat",
+      "ano": 2026,
+      "data_lancamento": "2026-07-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Constance Wu",
+        "Mark O'Brien",
+        "William Fichtner",
+        "Isaac Smelcer-Zhang",
+        "Oscar Hsu",
+        "Murray Furrow"
+      ],
+      "diretor": "William Woods",
+      "generos": [
+        "Ficção científica",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jspztckSybRKigzz5IFueP8qptV.jpg",
+      "pais": [
+        "CA"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 94,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33372918/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Outer%20Threat",
+        "metacritic": "https://www.metacritic.com/search/The%20Outer%20Threat/"
+      }
+    },
+    {
       "tmdb_id": 1715492,
       "imdb_id": "tt43595399",
       "titulo_original": "Shipwrecked: Nightmare at Sea",
@@ -918,59 +1019,6 @@
         "imdb": "https://www.imdb.com/title/tt43595399/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Shipwrecked%3A%20Nightmare%20at%20Sea",
         "metacritic": "https://www.metacritic.com/search/Shipwrecked%3A%20Nightmare%20at%20Sea/"
-      }
-    },
-    {
-      "tmdb_id": 1108427,
-      "imdb_id": "tt27419466",
-      "titulo_original": "Moana",
-      "titulo_ingles": "Moana",
-      "ano": 2026,
-      "data_lancamento": "2026-07-08",
-      "data_qualificacao": "",
-      "sinopse_pt": "Na Polinésia Antiga, quando uma terrível maldição contraída por Maui chega à ilha de um impetuoso chefe, sua filha obstinada responde ao chamado do Oceano para procurar o semideus e consertar as coisas. Adaptação live-action do filme de animação da Disney de 2016 'Moana'",
-      "elenco": [
-        "Catherine Lagaʻaia",
-        "Dwayne Johnson",
-        "Rena Owen",
-        "John Tui",
-        "Frankie Adams",
-        "Jemaine Clement",
-        "Emma Puahi-Shapazian",
-        "Amaya Masoli"
-      ],
-      "diretor": "Thomas Kail",
-      "generos": [
-        "Família",
-        "Fantasia",
-        "Comédia",
-        "Aventura"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/oSaX0pUmNz9UNcpyFZ3xqIgQqeS.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 115,
-      "rt_critica": 31,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 31,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt27419466/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Moana",
-        "metacritic": "https://www.metacritic.com/search/Moana/"
       }
     },
     {
@@ -1088,6 +1136,59 @@
         "imdb": "https://www.imdb.com/title/tt39385949/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Nothing%20to%20Lose",
         "metacritic": "https://www.metacritic.com/search/Nothing%20to%20Lose/"
+      }
+    },
+    {
+      "tmdb_id": 1108427,
+      "imdb_id": "tt27419466",
+      "titulo_original": "Moana",
+      "titulo_ingles": "Moana",
+      "ano": 2026,
+      "data_lancamento": "2026-07-08",
+      "data_qualificacao": "",
+      "sinopse_pt": "Na Polinésia Antiga, quando uma terrível maldição contraída por Maui chega à ilha de um impetuoso chefe, sua filha obstinada responde ao chamado do Oceano para procurar o semideus e consertar as coisas. Adaptação live-action do filme de animação da Disney de 2016 'Moana'",
+      "elenco": [
+        "Catherine Lagaʻaia",
+        "Dwayne Johnson",
+        "Rena Owen",
+        "John Tui",
+        "Frankie Adams",
+        "Jemaine Clement",
+        "Emma Puahi-Shapazian",
+        "Amaya Masoli"
+      ],
+      "diretor": "Thomas Kail",
+      "generos": [
+        "Família",
+        "Fantasia",
+        "Comédia",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/oSaX0pUmNz9UNcpyFZ3xqIgQqeS.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 115,
+      "rt_critica": 31,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 31,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt27419466/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Moana",
+        "metacritic": "https://www.metacritic.com/search/Moana/"
       }
     },
     {
@@ -1256,6 +1357,60 @@
       }
     },
     {
+      "tmdb_id": 1705729,
+      "imdb_id": "tt34584846",
+      "titulo_original": "Man of War",
+      "titulo_ingles": "Man of War",
+      "ano": 2026,
+      "data_lancamento": "2026-07-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Quando uma agente humanitária desaparece nas primeiras horas da guerra na Ucrânia, um ex-agente da Marinha dos Estados Unidos e da CIA entra no país devastado para trazê-la de volta.",
+      "elenco": [
+        "LaMonica Garrett",
+        "Andrew Howard",
+        "Linds Edwards",
+        "Rosmary Yaneva",
+        "Jason Patric",
+        "Daniel Bernhardt",
+        "Antoni Davidov",
+        "François Coetzer"
+      ],
+      "diretor": "William Kaufman",
+      "generos": [
+        "Ação",
+        "Thriller",
+        "Guerra"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "bg",
+        "en",
+        "ru"
+      ],
+      "duracao": 111,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34584846/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Man%20of%20War",
+        "metacritic": "https://www.metacritic.com/search/Man%20of%20War/"
+      }
+    },
+    {
       "tmdb_id": 1155818,
       "imdb_id": "tt28089784",
       "titulo_original": "ਸਤਲੁਜ",
@@ -1417,60 +1572,6 @@
         "imdb": "https://www.imdb.com/title/tt43140642/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Simpsley",
         "metacritic": "https://www.metacritic.com/search/Simpsley/"
-      }
-    },
-    {
-      "tmdb_id": 1705729,
-      "imdb_id": "tt34584846",
-      "titulo_original": "Man of War",
-      "titulo_ingles": "Man of War",
-      "ano": 2026,
-      "data_lancamento": "2026-07-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "Quando uma agente humanitária desaparece nas primeiras horas da guerra na Ucrânia, um ex-agente da Marinha dos Estados Unidos e da CIA entra no país devastado para trazê-la de volta.",
-      "elenco": [
-        "LaMonica Garrett",
-        "Andrew Howard",
-        "Linds Edwards",
-        "Rosmary Yaneva",
-        "Jason Patric",
-        "Daniel Bernhardt",
-        "Antoni Davidov",
-        "François Coetzer"
-      ],
-      "diretor": "William Kaufman",
-      "generos": [
-        "Ação",
-        "Thriller",
-        "Guerra"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "bg",
-        "en",
-        "ru"
-      ],
-      "duracao": 111,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34584846/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Man%20of%20War",
-        "metacritic": "https://www.metacritic.com/search/Man%20of%20War/"
       }
     },
     {
@@ -1812,57 +1913,6 @@
       }
     },
     {
-      "tmdb_id": 1321008,
-      "imdb_id": "tt32315584",
-      "titulo_original": "Black Box",
-      "titulo_ingles": "Black Box",
-      "ano": 2026,
-      "data_lancamento": "2026-06-25",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um voo doméstico de rotina se transforma em um voo infernal por meio de uma série de fenômenos inexplicáveis ​​e terror puro. Encontros surreais confundem as fronteiras entre a realidade e o pesadelo. Os passageiros lutam contra todas as probabilidades em uma tentativa de sobreviver enquanto combatem estranhas falhas tecnológicas, eventos sobrenaturais acelerados e influências alienígenas.",
-      "elenco": [
-        "Tom Brittney",
-        "Holly White",
-        "Betsy Blue-English",
-        "Dane Whyte O'Hara",
-        "Kaja Chan",
-        "Georgina Leonidas",
-        "Hanneke Talbot",
-        "Anton Trendafilov"
-      ],
-      "diretor": "Steven Quale",
-      "generos": [
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 85,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32315584/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Black%20Box",
-        "metacritic": "https://www.metacritic.com/search/Black%20Box/"
-      }
-    },
-    {
       "tmdb_id": 1169516,
       "imdb_id": "tt28540171",
       "titulo_original": "Welcome to the Jungle",
@@ -1912,6 +1962,57 @@
         "imdb": "https://www.imdb.com/title/tt28540171/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Welcome%20to%20the%20Jungle",
         "metacritic": "https://www.metacritic.com/search/Welcome%20to%20the%20Jungle/"
+      }
+    },
+    {
+      "tmdb_id": 1321008,
+      "imdb_id": "tt32315584",
+      "titulo_original": "Black Box",
+      "titulo_ingles": "Black Box",
+      "ano": 2026,
+      "data_lancamento": "2026-06-25",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um voo doméstico de rotina se transforma em um voo infernal por meio de uma série de fenômenos inexplicáveis ​​e terror puro. Encontros surreais confundem as fronteiras entre a realidade e o pesadelo. Os passageiros lutam contra todas as probabilidades em uma tentativa de sobreviver enquanto combatem estranhas falhas tecnológicas, eventos sobrenaturais acelerados e influências alienígenas.",
+      "elenco": [
+        "Tom Brittney",
+        "Holly White",
+        "Betsy Blue-English",
+        "Dane Whyte O'Hara",
+        "Kaja Chan",
+        "Georgina Leonidas",
+        "Hanneke Talbot",
+        "Anton Trendafilov"
+      ],
+      "diretor": "Steven Quale",
+      "generos": [
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 85,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32315584/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Black%20Box",
+        "metacritic": "https://www.metacritic.com/search/Black%20Box/"
       }
     },
     {
@@ -2880,62 +2981,6 @@
       }
     },
     {
-      "tmdb_id": 1020047,
-      "imdb_id": "tt1333644",
-      "titulo_original": "In the Hand of Dante",
-      "titulo_ingles": "In the Hand of Dante",
-      "ano": 2026,
-      "data_lancamento": "2026-06-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um manuscrito do poema “A Divina Comédia”, de Dante Alighieri, passa das mãos de um padre para as de um chefe da máfia em Nova Iorque, onde é levado por Nick Tosches depois de lhe ter sido pedido que verificasse a sua autenticidade.",
-      "elenco": [
-        "Oscar Isaac",
-        "Gal Gadot",
-        "Gerard Butler",
-        "John Malkovich",
-        "Louis Cancelmi",
-        "Sabrina Impacciatore",
-        "Franco Nero",
-        "Benjamin Clementine"
-      ],
-      "diretor": "Julian Schnabel",
-      "generos": [
-        "Drama",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/kvJJK0EoC4rCtovBMoq2A6eeATL.jpg",
-      "pais": [
-        "CL",
-        "IT",
-        "GB",
-        "US"
-      ],
-      "idiomas": [
-        "es",
-        "en",
-        "it"
-      ],
-      "duracao": 153,
-      "rt_critica": 29,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 29,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt1333644/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=In%20the%20Hand%20of%20Dante",
-        "metacritic": "https://www.metacritic.com/search/In%20the%20Hand%20of%20Dante/"
-      }
-    },
-    {
       "tmdb_id": 1699155,
       "imdb_id": "tt42863533",
       "titulo_original": "Maternal Instinct",
@@ -3175,84 +3220,69 @@
       }
     },
     {
-      "tmdb_id": 1455079,
-      "imdb_id": "tt36352591",
-      "titulo_original": "You, Me & Tuscany",
-      "titulo_ingles": "You, Me & Tuscany",
+      "tmdb_id": 1633263,
+      "imdb_id": "tt39602729",
+      "titulo_original": "Wonderful Nightmare",
+      "titulo_ingles": "Wonderful Nightmare",
       "ano": 2026,
-      "data_lancamento": "2026-04-09",
+      "data_lancamento": "2026-04-04",
       "data_qualificacao": "",
-      "sinopse_pt": "Depois de perder o emprego e o apartamento no mesmo dia, Anna toma a decisão mais impulsiva da sua vida: se instalar na vila de um homem que mal conhece, no coração da Toscana. Quando a mãe dele aparece na porta, Anna entra em pânico e inventa que é sua noiva. O plano começa a desmoronar quando Michael, o primo charmoso, chega para o fim de semana e Anna percebe que sustentar a mentira pode ser bem mais complicado do que ela esperava.",
+      "sinopse_pt": "A protagonista leva uma vida de luxo e sucesso profissional, mas a sua morte inesperada vira tudo de cabeça para baixo. Ao chegar \"do outro lado\", é constatado que houve um equívoco com o seu destino. Para reparar o erro e ganhar uma segunda chance, ela é enviada de volta à vida mortal, mas com uma condição: ela terá que assumir a rotina de uma mulher comum, pobre, casada e mãe de dois filhos.",
       "elenco": [
-        "Halle Bailey",
-        "Regé-Jean Page",
-        "Marco Calvani",
-        "Lorenzo de Moor",
-        "Aziza Scott",
-        "Nia Vardalos",
-        "Isabella Ferrari",
-        "Emanuele Pacca"
+        "Kim Molina",
+        "Jerald Napoles",
+        "Al Tantay",
+        "Althea Ruedas",
+        "Achilles Wenceslao",
+        "Candy Pangilinan",
+        "Yumi Lacsamana",
+        "Quinn Carrillo"
       ],
-      "diretor": "Kat Coiro",
+      "diretor": "RC Delos Reyes",
       "generos": [
+        "Comédia",
         "Romance",
-        "Comédia"
+        "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/i21UWr8sC65vN0Q8EY7H6PjTpv5.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/yF2VjrEfU3C4hNCz4gCwKqXuy3J.jpg",
       "pais": [
-        "US",
-        "IT"
+        "PH"
       ],
       "idiomas": [
         "en",
-        "it"
+        "tl"
       ],
-      "duracao": 104,
+      "duracao": 122,
       "rt_critica": null,
       "rt_publico": null,
-      "metacritic": 53,
+      "metacritic": null,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
       "atual_rt": null,
-      "atual_metacritic": 53,
+      "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "streaming",
         "servicos": [
           {
-            "nome": "Claro tv+",
+            "nome": "Netflix",
             "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
           },
           {
-            "nome": "Apple TV Store",
-            "tipo": "aluguel",
-            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
-          },
-          {
-            "nome": "Amazon Video",
-            "tipo": "aluguel",
-            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
-          },
-          {
-            "nome": "Apple TV Store",
-            "tipo": "compra",
-            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
-          },
-          {
-            "nome": "Amazon Video",
-            "tipo": "compra",
-            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
           }
         ],
-        "link_br": "https://www.themoviedb.org/movie/1455079-you-me-tuscany/watch?locale=BR"
+        "link_br": "https://www.themoviedb.org/movie/1633263-wonderful-nightmare/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36352591/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=You%2C%20Me%20%26%20Tuscany",
-        "metacritic": "https://www.metacritic.com/search/You%2C%20Me%20%26%20Tuscany/"
+        "imdb": "https://www.imdb.com/title/tt39602729/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Wonderful%20Nightmare",
+        "metacritic": "https://www.metacritic.com/search/Wonderful%20Nightmare/"
       }
     },
     {
@@ -3359,89 +3389,6 @@
         "imdb": "https://www.imdb.com/title/tt12706836/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Shell",
         "metacritic": "https://www.metacritic.com/search/Shell/"
-      }
-    },
-    {
-      "tmdb_id": 1053583,
-      "imdb_id": "tt31419483",
-      "titulo_original": "8",
-      "titulo_ingles": "8",
-      "ano": 2025,
-      "data_lancamento": "2025-03-21",
-      "data_qualificacao": "",
-      "sinopse_pt": "Octavio e Adela nasceram no mesmo dia, 14 de abril de 1931. Ao longo das oito décadas seguintes, suas vidas se entrelaçarão por meio de intensos encontros e desentendimentos em oito episódios. Uma apaixonante história de amor entre uma mulher corajosa e guerreira e um homem confrontado com suas contradições. Eles terão que enfrentar a realidade de famílias em lados opostos de um país que caminha lentamente para uma Guerra Civil, tendo como pano de fundo a história da Espanha e da Europa.",
-      "elenco": [
-        "Ana Rujas",
-        "Javier Rey",
-        "Tamar Novas",
-        "Loreto Mauleón",
-        "Carla Díaz",
-        "María Isasi",
-        "Mateo Medina",
-        "Oriol Riera"
-      ],
-      "diretor": "Julio Medem",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/gPiWuUqNY6GEHcoJPQcKjsENO85.jpg",
-      "pais": [
-        "ES"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 126,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Claro tv+",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
-          },
-          {
-            "nome": "Reserva Imovision Amazon Channel",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rvepVasXaE7VFNNXR9pm0tGMu97.jpg"
-          },
-          {
-            "nome": "Apple TV Store",
-            "tipo": "aluguel",
-            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
-          },
-          {
-            "nome": "Amazon Video",
-            "tipo": "aluguel",
-            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
-          },
-          {
-            "nome": "Apple TV Store",
-            "tipo": "compra",
-            "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
-          },
-          {
-            "nome": "Amazon Video",
-            "tipo": "compra",
-            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1053583-8/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt31419483/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=8",
-        "metacritic": "https://www.metacritic.com/search/8/"
       }
     },
     {
