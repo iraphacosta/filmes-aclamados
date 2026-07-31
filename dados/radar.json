@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-07-30T11:27:13.389Z",
+  "gerado_em": "2026-07-31T11:37:47.745Z",
   "filmes": [
     {
       "tmdb_id": 1481343,
@@ -26,7 +26,7 @@
         "Terror",
         "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/kchMolHk6l6rPo460y4MQMzF2j9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2CZecxLrTSmzngWqIGganSMg6gK.jpg",
       "pais": [
         "US"
       ],
@@ -46,7 +46,20 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1481343-the-devil-s-mouth/watch?locale=BR"
       },
       "links": {
         "imdb": "https://www.imdb.com/title/tt36958312/",
@@ -174,6 +187,16 @@
             "nome": "Paramount Plus Premium",
             "tipo": "assinatura",
             "logo_url": "https://image.tmdb.org/t/p/w92/fts6X10Jn4QT0X6ac3udKEn2tJA.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qR6FKvnPBx2O37FDg8PNM7efwF3.jpg"
           }
         ],
         "link_br": "https://www.themoviedb.org/movie/980431-avatar-aang-the-last-airbender/watch?locale=BR"
@@ -792,59 +815,6 @@
       }
     },
     {
-      "tmdb_id": 1491920,
-      "imdb_id": "tt36103784",
-      "titulo_original": "功夫女足",
-      "titulo_ingles": "Kung Fu Soccer",
-      "ano": 2026,
-      "data_lancamento": "2026-07-11",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "张小斐",
-        "迪丽热巴",
-        "张艺兴",
-        "劉嘉玲",
-        "佐藤健",
-        "艾米",
-        "雪野",
-        "蔡思貝"
-      ],
-      "diretor": "Stephen Chow",
-      "generos": [
-        "Drama",
-        "Comédia",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
-      "pais": [
-        "HK",
-        "CN"
-      ],
-      "idiomas": [
-        "zh"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36103784/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kung%20Fu%20Soccer",
-        "metacritic": "https://www.metacritic.com/search/Kung%20Fu%20Soccer/"
-      }
-    },
-    {
       "tmdb_id": 1616674,
       "imdb_id": "tt39370887",
       "titulo_original": "Aku Sebelum Aku",
@@ -907,6 +877,59 @@
         "imdb": "https://www.imdb.com/title/tt39370887/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Me%20Before%20Me",
         "metacritic": "https://www.metacritic.com/search/Me%20Before%20Me/"
+      }
+    },
+    {
+      "tmdb_id": 1491920,
+      "imdb_id": "tt36103784",
+      "titulo_original": "功夫女足",
+      "titulo_ingles": "Kung Fu Soccer",
+      "ano": 2026,
+      "data_lancamento": "2026-07-11",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "张小斐",
+        "迪丽热巴",
+        "张艺兴",
+        "劉嘉玲",
+        "佐藤健",
+        "艾米",
+        "雪野",
+        "蔡思貝"
+      ],
+      "diretor": "Stephen Chow",
+      "generos": [
+        "Drama",
+        "Comédia",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
+      "pais": [
+        "HK",
+        "CN"
+      ],
+      "idiomas": [
+        "zh"
+      ],
+      "duracao": 106,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36103784/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kung%20Fu%20Soccer",
+        "metacritic": "https://www.metacritic.com/search/Kung%20Fu%20Soccer/"
       }
     },
     {
@@ -1019,6 +1042,59 @@
         "imdb": "https://www.imdb.com/title/tt43595399/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Shipwrecked%3A%20Nightmare%20at%20Sea",
         "metacritic": "https://www.metacritic.com/search/Shipwrecked%3A%20Nightmare%20at%20Sea/"
+      }
+    },
+    {
+      "tmdb_id": 1108427,
+      "imdb_id": "tt27419466",
+      "titulo_original": "Moana",
+      "titulo_ingles": "Moana",
+      "ano": 2026,
+      "data_lancamento": "2026-07-08",
+      "data_qualificacao": "",
+      "sinopse_pt": "Na Polinésia Antiga, quando uma terrível maldição contraída por Maui chega à ilha de um impetuoso chefe, sua filha obstinada responde ao chamado do Oceano para procurar o semideus e consertar as coisas. Adaptação live-action do filme de animação da Disney de 2016 'Moana'",
+      "elenco": [
+        "Catherine Lagaʻaia",
+        "Dwayne Johnson",
+        "Rena Owen",
+        "John Tui",
+        "Frankie Adams",
+        "Jemaine Clement",
+        "Emma Puahi-Shapazian",
+        "Amaya Masoli"
+      ],
+      "diretor": "Thomas Kail",
+      "generos": [
+        "Família",
+        "Fantasia",
+        "Comédia",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/e0ImfFh3aQ9P0PS81DudN9TZTmA.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 115,
+      "rt_critica": 31,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 31,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt27419466/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Moana",
+        "metacritic": "https://www.metacritic.com/search/Moana/"
       }
     },
     {
@@ -1136,59 +1212,6 @@
         "imdb": "https://www.imdb.com/title/tt39385949/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Nothing%20to%20Lose",
         "metacritic": "https://www.metacritic.com/search/Nothing%20to%20Lose/"
-      }
-    },
-    {
-      "tmdb_id": 1108427,
-      "imdb_id": "tt27419466",
-      "titulo_original": "Moana",
-      "titulo_ingles": "Moana",
-      "ano": 2026,
-      "data_lancamento": "2026-07-08",
-      "data_qualificacao": "",
-      "sinopse_pt": "Na Polinésia Antiga, quando uma terrível maldição contraída por Maui chega à ilha de um impetuoso chefe, sua filha obstinada responde ao chamado do Oceano para procurar o semideus e consertar as coisas. Adaptação live-action do filme de animação da Disney de 2016 'Moana'",
-      "elenco": [
-        "Catherine Lagaʻaia",
-        "Dwayne Johnson",
-        "Rena Owen",
-        "John Tui",
-        "Frankie Adams",
-        "Jemaine Clement",
-        "Emma Puahi-Shapazian",
-        "Amaya Masoli"
-      ],
-      "diretor": "Thomas Kail",
-      "generos": [
-        "Família",
-        "Fantasia",
-        "Comédia",
-        "Aventura"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/oSaX0pUmNz9UNcpyFZ3xqIgQqeS.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 115,
-      "rt_critica": 31,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 31,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt27419466/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Moana",
-        "metacritic": "https://www.metacritic.com/search/Moana/"
       }
     },
     {
@@ -1357,60 +1380,6 @@
       }
     },
     {
-      "tmdb_id": 1705729,
-      "imdb_id": "tt34584846",
-      "titulo_original": "Man of War",
-      "titulo_ingles": "Man of War",
-      "ano": 2026,
-      "data_lancamento": "2026-07-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "Quando uma agente humanitária desaparece nas primeiras horas da guerra na Ucrânia, um ex-agente da Marinha dos Estados Unidos e da CIA entra no país devastado para trazê-la de volta.",
-      "elenco": [
-        "LaMonica Garrett",
-        "Andrew Howard",
-        "Linds Edwards",
-        "Rosmary Yaneva",
-        "Jason Patric",
-        "Daniel Bernhardt",
-        "Antoni Davidov",
-        "François Coetzer"
-      ],
-      "diretor": "William Kaufman",
-      "generos": [
-        "Ação",
-        "Thriller",
-        "Guerra"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "bg",
-        "en",
-        "ru"
-      ],
-      "duracao": 111,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34584846/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Man%20of%20War",
-        "metacritic": "https://www.metacritic.com/search/Man%20of%20War/"
-      }
-    },
-    {
       "tmdb_id": 1155818,
       "imdb_id": "tt28089784",
       "titulo_original": "ਸਤਲੁਜ",
@@ -1465,36 +1434,40 @@
       }
     },
     {
-      "tmdb_id": 1645603,
-      "imdb_id": "tt33296064",
-      "titulo_original": "Night of the Living Dead",
-      "titulo_ingles": "Night of the Living Dead",
+      "tmdb_id": 1705729,
+      "imdb_id": "tt34584846",
+      "titulo_original": "Man of War",
+      "titulo_ingles": "Man of War",
       "ano": 2026,
       "data_lancamento": "2026-07-03",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Quando uma agente humanitária desaparece nas primeiras horas da guerra na Ucrânia, um ex-agente da Marinha dos Estados Unidos e da CIA entra no país devastado para trazê-la de volta.",
       "elenco": [
-        "Vivica A. Fox",
-        "Brittany Underwood",
-        "Robert Carradine",
-        "Dee Wallace",
-        "Eva Ceja",
-        "Jared Cohn",
-        "Raphael Gabai",
-        "Richard Gabai"
+        "LaMonica Garrett",
+        "Andrew Howard",
+        "Linds Edwards",
+        "Rosmary Yaneva",
+        "Jason Patric",
+        "Daniel Bernhardt",
+        "Antoni Davidov",
+        "François Coetzer"
       ],
-      "diretor": "Christopher Ray",
+      "diretor": "William Kaufman",
       "generos": [
-        "Terror"
+        "Ação",
+        "Thriller",
+        "Guerra"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
-        "en"
+        "bg",
+        "en",
+        "ru"
       ],
-      "duracao": 87,
+      "duracao": 111,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1509,9 +1482,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt33296064/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Night%20of%20the%20Living%20Dead",
-        "metacritic": "https://www.metacritic.com/search/Night%20of%20the%20Living%20Dead/"
+        "imdb": "https://www.imdb.com/title/tt34584846/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Man%20of%20War",
+        "metacritic": "https://www.metacritic.com/search/Man%20of%20War/"
       }
     },
     {
@@ -1572,6 +1545,56 @@
         "imdb": "https://www.imdb.com/title/tt43140642/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Simpsley",
         "metacritic": "https://www.metacritic.com/search/Simpsley/"
+      }
+    },
+    {
+      "tmdb_id": 1645603,
+      "imdb_id": "tt33296064",
+      "titulo_original": "Night of the Living Dead",
+      "titulo_ingles": "Night of the Living Dead",
+      "ano": 2026,
+      "data_lancamento": "2026-07-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Vivica A. Fox",
+        "Brittany Underwood",
+        "Robert Carradine",
+        "Dee Wallace",
+        "Eva Ceja",
+        "Jared Cohn",
+        "Raphael Gabai",
+        "Richard Gabai"
+      ],
+      "diretor": "Christopher Ray",
+      "generos": [
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 87,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33296064/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Night%20of%20the%20Living%20Dead",
+        "metacritic": "https://www.metacritic.com/search/Night%20of%20the%20Living%20Dead/"
       }
     },
     {
@@ -1913,6 +1936,58 @@
       }
     },
     {
+      "tmdb_id": 1612018,
+      "imdb_id": "tt39316472",
+      "titulo_original": "Jackass: Best and Last",
+      "titulo_ingles": "Jackass: Best and Last",
+      "ano": 2026,
+      "data_lancamento": "2026-06-25",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Johnny Knoxville",
+        "Steve-O",
+        "Chris Pontius",
+        "Jason 'Wee Man' Acuña",
+        "Dave England",
+        "Preston Lacy",
+        "Ehren McGhehey",
+        "Bam Margera"
+      ],
+      "diretor": "Jeff Tremaine",
+      "generos": [
+        "Ação",
+        "Comédia",
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qCLF1Bp3HiLAZsdd1H1e04RtbSJ.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 92,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 63,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 63,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39316472/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jackass%3A%20Best%20and%20Last",
+        "metacritic": "https://www.metacritic.com/search/Jackass%3A%20Best%20and%20Last/"
+      }
+    },
+    {
       "tmdb_id": 1169516,
       "imdb_id": "tt28540171",
       "titulo_original": "Welcome to the Jungle",
@@ -2013,58 +2088,6 @@
         "imdb": "https://www.imdb.com/title/tt32315584/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Black%20Box",
         "metacritic": "https://www.metacritic.com/search/Black%20Box/"
-      }
-    },
-    {
-      "tmdb_id": 1612018,
-      "imdb_id": "tt39316472",
-      "titulo_original": "Jackass: Best and Last",
-      "titulo_ingles": "Jackass: Best and Last",
-      "ano": 2026,
-      "data_lancamento": "2026-06-25",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Johnny Knoxville",
-        "Steve-O",
-        "Chris Pontius",
-        "Jason 'Wee Man' Acuña",
-        "Dave England",
-        "Preston Lacy",
-        "Ehren McGhehey",
-        "Bam Margera"
-      ],
-      "diretor": "Jeff Tremaine",
-      "generos": [
-        "Ação",
-        "Comédia",
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qCLF1Bp3HiLAZsdd1H1e04RtbSJ.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 92,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 63,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 63,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39316472/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jackass%3A%20Best%20and%20Last",
-        "metacritic": "https://www.metacritic.com/search/Jackass%3A%20Best%20and%20Last/"
       }
     },
     {
@@ -2185,57 +2208,6 @@
       }
     },
     {
-      "tmdb_id": 1392469,
-      "imdb_id": "tt35064672",
-      "titulo_original": "कॉकटेल २",
-      "titulo_ingles": "Cocktail 2",
-      "ano": 2026,
-      "data_lancamento": "2026-06-19",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "कृति सैनॉन",
-        "Shahid Kapoor",
-        "రష్మిక మందన్న",
-        "Mark Bennington",
-        "Tiku Talsania",
-        "Neelu Kohli",
-        "Suparna Marwah",
-        "Kanan Arunachalam"
-      ],
-      "diretor": "Homi Adajania",
-      "generos": [
-        "Romance",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 149,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35064672/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Cocktail%202",
-        "metacritic": "https://www.metacritic.com/search/Cocktail%202/"
-      }
-    },
-    {
       "tmdb_id": 1413976,
       "imdb_id": "tt35309713",
       "titulo_original": "Citizen Vigilante",
@@ -2285,6 +2257,57 @@
         "imdb": "https://www.imdb.com/title/tt35309713/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Citizen%20Vigilante",
         "metacritic": "https://www.metacritic.com/search/Citizen%20Vigilante/"
+      }
+    },
+    {
+      "tmdb_id": 1392469,
+      "imdb_id": "tt35064672",
+      "titulo_original": "कॉकटेल २",
+      "titulo_ingles": "Cocktail 2",
+      "ano": 2026,
+      "data_lancamento": "2026-06-19",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "कृति सैनॉन",
+        "Shahid Kapoor",
+        "రష్మిక మందన్న",
+        "Mark Bennington",
+        "Tiku Talsania",
+        "Neelu Kohli",
+        "Suparna Marwah",
+        "Kanan Arunachalam"
+      ],
+      "diretor": "Homi Adajania",
+      "generos": [
+        "Romance",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 149,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35064672/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Cocktail%202",
+        "metacritic": "https://www.metacritic.com/search/Cocktail%202/"
       }
     },
     {
@@ -2452,6 +2475,58 @@
         "imdb": "https://www.imdb.com/title/tt15532464/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Strung",
         "metacritic": "https://www.metacritic.com/search/Strung/"
+      }
+    },
+    {
+      "tmdb_id": 1061798,
+      "imdb_id": "tt36955518",
+      "titulo_original": "Jim Queen",
+      "titulo_ingles": "Jim Queen",
+      "ano": 2026,
+      "data_lancamento": "2026-06-17",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Alex Ramirès",
+        "Jéremy Gillet",
+        "Shirley Souagnon",
+        "François Sagat",
+        "Elisabeth Wiener",
+        "Harald Marlot",
+        "Alexandre Brik",
+        "Philippe Katerine"
+      ],
+      "diretor": "Marco Nguyen, Nicolas Athané",
+      "generos": [
+        "Animação",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
+      "pais": [
+        "FR",
+        "BE"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 85,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36955518/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
+        "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
       }
     },
     {
@@ -2632,58 +2707,6 @@
       }
     },
     {
-      "tmdb_id": 1061798,
-      "imdb_id": "tt36955518",
-      "titulo_original": "Jim Queen",
-      "titulo_ingles": "Jim Queen",
-      "ano": 2026,
-      "data_lancamento": "2026-06-17",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Alex Ramirès",
-        "Jéremy Gillet",
-        "Shirley Souagnon",
-        "François Sagat",
-        "Elisabeth Wiener",
-        "Harald Marlot",
-        "Alexandre Brik",
-        "Philippe Katerine"
-      ],
-      "diretor": "Marco Nguyen, Nicolas Athané",
-      "generos": [
-        "Animação",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 85,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36955518/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jim%20Queen",
-        "metacritic": "https://www.metacritic.com/search/Jim%20Queen/"
-      }
-    },
-    {
       "tmdb_id": 1431804,
       "imdb_id": "tt33219707",
       "titulo_original": "40 Dates and 40 Nights",
@@ -2852,71 +2875,6 @@
       }
     },
     {
-      "tmdb_id": 1501018,
-      "imdb_id": "tt36963493",
-      "titulo_original": "Une Famille De Bâtards",
-      "titulo_ingles": "A Family of Bastards",
-      "ano": 2026,
-      "data_lancamento": "2026-06-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Hakim Jemili",
-        "Benjamin Tranié",
-        "Laura Felpin",
-        "Kad Merad",
-        "Florence Foresti",
-        "David Ayala",
-        "Ouassini Embarek",
-        "Alexandre Kominek"
-      ],
-      "diretor": "Mourad Winter",
-      "generos": [
-        "Comédia",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/zuiZDJcjlNWB6EcXHer06u9BQke.jpg",
-      "pais": [
-        "FR",
-        "US"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 105,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1501018-une-famille-de-batards/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36963493/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Family%20of%20Bastards",
-        "metacritic": "https://www.metacritic.com/search/A%20Family%20of%20Bastards/"
-      }
-    },
-    {
       "tmdb_id": 1511549,
       "imdb_id": "tt36956284",
       "titulo_original": "Ancora più sexy",
@@ -2978,61 +2936,6 @@
         "imdb": "https://www.imdb.com/title/tt36956284/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Still%20Sexy",
         "metacritic": "https://www.metacritic.com/search/Still%20Sexy/"
-      }
-    },
-    {
-      "tmdb_id": 1699155,
-      "imdb_id": "tt42863533",
-      "titulo_original": "Maternal Instinct",
-      "titulo_ingles": "Maternal Instinct",
-      "ano": 2026,
-      "data_lancamento": "2026-06-11",
-      "data_qualificacao": "",
-      "sinopse_pt": "A polícia aborda uma mulher que diz ter acabado de dar à luz. Mas o bebê e o sangue não são dela. Mentiras sinistras vêm à tona neste documentário sobre um crime real.",
-      "elenco": [],
-      "diretor": "Jessica Dimmock",
-      "generos": [
-        "Documentário",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/2eqYzlkd9pH2ygGB7cD8fWANZvS.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1699155-maternal-instinct/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt42863533/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Maternal%20Instinct",
-        "metacritic": "https://www.metacritic.com/search/Maternal%20Instinct/"
       }
     },
     {
@@ -3286,6 +3189,58 @@
       }
     },
     {
+      "tmdb_id": 1145899,
+      "imdb_id": "tt33029380",
+      "titulo_original": "Marsupilami",
+      "titulo_ingles": "Marsupilami",
+      "ano": 2026,
+      "data_lancamento": "2026-02-04",
+      "data_qualificacao": "",
+      "sinopse_pt": "Para salvar seu emprego, David aceita transportar um pacote misterioso da América do Sul, mas tudo sai do controle quando um bebê marsupilami é libertado em um cruzeiro. Em meio à confusão, ele vive uma aventura caótica ao lado da ex, do filho e de um colega atrapalhado, redescobrindo a importância dos laços familiares.",
+      "elenco": [
+        "Philippe Lacheau",
+        "Jamel Debbouze",
+        "Tarek Boudali",
+        "Élodie Fontan",
+        "Julien Arruti",
+        "Jean Reno",
+        "Corentin Guillot",
+        "Gérard Jugnot"
+      ],
+      "diretor": "Philippe Lacheau",
+      "generos": [
+        "Aventura",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vGzmitzUQrDkAghLETCgLk4WMmD.jpg",
+      "pais": [
+        "FR",
+        "BE"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 99,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33029380/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Marsupilami",
+        "metacritic": "https://www.metacritic.com/search/Marsupilami/"
+      }
+    },
+    {
       "tmdb_id": 1365683,
       "imdb_id": "tt33586629",
       "titulo_original": "Primavera",
@@ -3389,6 +3344,71 @@
         "imdb": "https://www.imdb.com/title/tt12706836/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Shell",
         "metacritic": "https://www.metacritic.com/search/Shell/"
+      }
+    },
+    {
+      "tmdb_id": 1359607,
+      "imdb_id": "tt36592985",
+      "titulo_original": "小林さんちのメイドラゴン さみしがりやの竜",
+      "titulo_ingles": "Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved",
+      "ano": 2025,
+      "data_lancamento": "2025-06-27",
+      "data_qualificacao": "",
+      "sinopse_pt": "Quando o pai de Kanna retorna para levá-la ao Mundo dos Dragões em face de uma guerra iminente, ela fica dividida entre seu dever e seus amigos, enquanto uma força oculta ameaça destruir os dois mundos.",
+      "elenco": [
+        "Maria Naganawa",
+        "Mutsumi Tamura",
+        "桑原由気",
+        "高田憂希",
+        "Minami Takahashi",
+        "杉浦しおり",
+        "Daisuke Ono",
+        "Yuichi Nakamura"
+      ],
+      "diretor": "石原立也",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Fantasia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/pqVtCXwhTUyH3U6h4Su56FTTPgQ.jpg",
+      "pais": [
+        "JP"
+      ],
+      "idiomas": [
+        "ja"
+      ],
+      "duracao": 104,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Crunchyroll",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"
+          },
+          {
+            "nome": "Crunchyroll Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pgjz7bzfBq4nFDu8JJDLBoUVAX8.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1359607/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36592985/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Miss%20Kobayashi's%20Dragon%20Maid%3A%20A%20lonely%20dragon%20wants%20to%20be%20loved",
+        "metacritic": "https://www.metacritic.com/search/Miss%20Kobayashi's%20Dragon%20Maid%3A%20A%20lonely%20dragon%20wants%20to%20be%20loved/"
       }
     },
     {
