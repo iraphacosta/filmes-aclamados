@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-08-03T12:41:01.376Z",
+  "gerado_em": "2026-08-04T11:37:11.246Z",
   "filmes": [
     {
       "tmdb_id": 1307118,
@@ -23,9 +23,9 @@
       ],
       "diretor": "Kate Dolan",
       "generos": [
-        "Thriller",
+        "Terror",
         "Ficção científica",
-        "Terror"
+        "Thriller"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
       "pais": [
@@ -138,7 +138,7 @@
         "สหจักร บุญธนกิจ",
         "Harrison Luna"
       ],
-      "diretor": "Jeff Wadlow, Farhan Rana Rajpoot",
+      "diretor": "Jeff Wadlow",
       "generos": [
         "Terror",
         "Thriller"
@@ -456,6 +456,61 @@
       }
     },
     {
+      "tmdb_id": 1723460,
+      "imdb_id": "tt43619305",
+      "titulo_original": "A Toxic Love Story",
+      "titulo_ingles": "A Toxic Love Story",
+      "ano": 2026,
+      "data_lancamento": "2026-07-22",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma série de e-mails ameaçadores se transforma em um plano de vingança envolvendo um marechal americano recém-casado e sua ex-namorada neste documentário sobre crimes reais.",
+      "elenco": [],
+      "diretor": "Alexandra Lacey",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/1WUHK5GFZYw1la8jUFtGQRkOVba.jpg",
+      "pais": [
+        "GB"
+      ],
+      "idiomas": [
+        "en",
+        "pt"
+      ],
+      "duracao": 89,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1723460-a-toxic-love-story/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43619305/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Toxic%20Love%20Story",
+        "metacritic": "https://www.metacritic.com/search/A%20Toxic%20Love%20Story/"
+      }
+    },
+    {
       "tmdb_id": 1487861,
       "imdb_id": "tt37042085",
       "titulo_original": "Elize: Sombras de uma Mulher",
@@ -518,61 +573,6 @@
         "imdb": "https://www.imdb.com/title/tt37042085/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Elize%3A%20Shadows%20of%20a%20Woman",
         "metacritic": "https://www.metacritic.com/search/Elize%3A%20Shadows%20of%20a%20Woman/"
-      }
-    },
-    {
-      "tmdb_id": 1723460,
-      "imdb_id": "tt43619305",
-      "titulo_original": "A Toxic Love Story",
-      "titulo_ingles": "A Toxic Love Story",
-      "ano": 2026,
-      "data_lancamento": "2026-07-22",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma série de e-mails ameaçadores se transforma em um plano de vingança envolvendo um marechal americano recém-casado e sua ex-namorada neste documentário sobre crimes reais.",
-      "elenco": [],
-      "diretor": "Alexandra Lacey",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/1WUHK5GFZYw1la8jUFtGQRkOVba.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en",
-        "pt"
-      ],
-      "duracao": 89,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1723460-a-toxic-love-story/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43619305/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Toxic%20Love%20Story",
-        "metacritic": "https://www.metacritic.com/search/A%20Toxic%20Love%20Story/"
       }
     },
     {
@@ -880,6 +880,59 @@
       }
     },
     {
+      "tmdb_id": 1491920,
+      "imdb_id": "tt36103784",
+      "titulo_original": "功夫女足",
+      "titulo_ingles": "Kung Fu Soccer",
+      "ano": 2026,
+      "data_lancamento": "2026-07-11",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "张小斐",
+        "迪丽热巴",
+        "张艺兴",
+        "劉嘉玲",
+        "佐藤健",
+        "艾米",
+        "雪野",
+        "蔡思貝"
+      ],
+      "diretor": "Stephen Chow",
+      "generos": [
+        "Drama",
+        "Comédia",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
+      "pais": [
+        "HK",
+        "CN"
+      ],
+      "idiomas": [
+        "zh"
+      ],
+      "duracao": 106,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36103784/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kung%20Fu%20Soccer",
+        "metacritic": "https://www.metacritic.com/search/Kung%20Fu%20Soccer/"
+      }
+    },
+    {
       "tmdb_id": 1616674,
       "imdb_id": "tt39370887",
       "titulo_original": "Aku Sebelum Aku",
@@ -945,110 +998,6 @@
       }
     },
     {
-      "tmdb_id": 1491920,
-      "imdb_id": "tt36103784",
-      "titulo_original": "功夫女足",
-      "titulo_ingles": "Kung Fu Soccer",
-      "ano": 2026,
-      "data_lancamento": "2026-07-11",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "张小斐",
-        "迪丽热巴",
-        "张艺兴",
-        "劉嘉玲",
-        "佐藤健",
-        "艾米",
-        "雪野",
-        "蔡思貝"
-      ],
-      "diretor": "Stephen Chow",
-      "generos": [
-        "Drama",
-        "Comédia",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
-      "pais": [
-        "HK",
-        "CN"
-      ],
-      "idiomas": [
-        "zh"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36103784/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kung%20Fu%20Soccer",
-        "metacritic": "https://www.metacritic.com/search/Kung%20Fu%20Soccer/"
-      }
-    },
-    {
-      "tmdb_id": 1381202,
-      "imdb_id": "tt33372918",
-      "titulo_original": "The Outer Threat",
-      "titulo_ingles": "The Outer Threat",
-      "ano": 2026,
-      "data_lancamento": "2026-07-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Constance Wu",
-        "Mark O'Brien",
-        "William Fichtner",
-        "Isaac Smelcer-Zhang",
-        "Oscar Hsu",
-        "Murray Furrow",
-        "Callista  Crowe",
-        "Stephanie Aubertin"
-      ],
-      "diretor": "William Woods",
-      "generos": [
-        "Ficção científica",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jspztckSybRKigzz5IFueP8qptV.jpg",
-      "pais": [
-        "CA"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 94,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33372918/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Outer%20Threat",
-        "metacritic": "https://www.metacritic.com/search/The%20Outer%20Threat/"
-      }
-    },
-    {
       "tmdb_id": 1484913,
       "imdb_id": "tt39632269",
       "titulo_original": "Ikka",
@@ -1110,6 +1059,57 @@
         "imdb": "https://www.imdb.com/title/tt39632269/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ikka",
         "metacritic": "https://www.metacritic.com/search/Ikka/"
+      }
+    },
+    {
+      "tmdb_id": 1381202,
+      "imdb_id": "tt33372918",
+      "titulo_original": "The Outer Threat",
+      "titulo_ingles": "The Outer Threat",
+      "ano": 2026,
+      "data_lancamento": "2026-07-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Constance Wu",
+        "Mark O'Brien",
+        "William Fichtner",
+        "Isaac Smelcer-Zhang",
+        "Oscar Hsu",
+        "Murray Furrow",
+        "Callista  Crowe",
+        "Stephanie Aubertin"
+      ],
+      "diretor": "William Woods",
+      "generos": [
+        "Ficção científica",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jspztckSybRKigzz5IFueP8qptV.jpg",
+      "pais": [
+        "CA"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 94,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33372918/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Outer%20Threat",
+        "metacritic": "https://www.metacritic.com/search/The%20Outer%20Threat/"
       }
     },
     {
@@ -1571,60 +1571,6 @@
       }
     },
     {
-      "tmdb_id": 1705729,
-      "imdb_id": "tt34584846",
-      "titulo_original": "Man of War",
-      "titulo_ingles": "Man of War",
-      "ano": 2026,
-      "data_lancamento": "2026-07-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "Quando uma agente humanitária desaparece nas primeiras horas da guerra na Ucrânia, um ex-agente da Marinha dos Estados Unidos e da CIA entra no país devastado para trazê-la de volta.",
-      "elenco": [
-        "LaMonica Garrett",
-        "Andrew Howard",
-        "Linds Edwards",
-        "Rosmary Yaneva",
-        "Jason Patric",
-        "Daniel Bernhardt",
-        "Antoni Davidov",
-        "François Coetzer"
-      ],
-      "diretor": "William Kaufman",
-      "generos": [
-        "Ação",
-        "Thriller",
-        "Guerra"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "bg",
-        "en",
-        "ru"
-      ],
-      "duracao": 111,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34584846/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Man%20of%20War",
-        "metacritic": "https://www.metacritic.com/search/Man%20of%20War/"
-      }
-    },
-    {
       "tmdb_id": 1155818,
       "imdb_id": "tt28089784",
       "titulo_original": "ਸਤਲੁਜ",
@@ -1676,6 +1622,60 @@
         "imdb": "https://www.imdb.com/title/tt28089784/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Satluj",
         "metacritic": "https://www.metacritic.com/search/Satluj/"
+      }
+    },
+    {
+      "tmdb_id": 1705729,
+      "imdb_id": "tt34584846",
+      "titulo_original": "Man of War",
+      "titulo_ingles": "Man of War",
+      "ano": 2026,
+      "data_lancamento": "2026-07-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Quando uma agente humanitária desaparece nas primeiras horas da guerra na Ucrânia, um ex-agente da Marinha dos Estados Unidos e da CIA entra no país devastado para trazê-la de volta.",
+      "elenco": [
+        "LaMonica Garrett",
+        "Andrew Howard",
+        "Linds Edwards",
+        "Rosmary Yaneva",
+        "Jason Patric",
+        "Daniel Bernhardt",
+        "Antoni Davidov",
+        "François Coetzer"
+      ],
+      "diretor": "William Kaufman",
+      "generos": [
+        "Ação",
+        "Thriller",
+        "Guerra"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "bg",
+        "en",
+        "ru"
+      ],
+      "duracao": 111,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34584846/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Man%20of%20War",
+        "metacritic": "https://www.metacritic.com/search/Man%20of%20War/"
       }
     },
     {
@@ -1839,6 +1839,60 @@
         "imdb": "https://www.imdb.com/title/tt30217600/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Bay",
         "metacritic": "https://www.metacritic.com/search/The%20Bay/"
+      }
+    },
+    {
+      "tmdb_id": 964849,
+      "imdb_id": "tt34383465",
+      "titulo_original": "Yön lapsi",
+      "titulo_ingles": "Nightborn",
+      "ano": 2026,
+      "data_lancamento": "2026-07-01",
+      "data_qualificacao": "",
+      "sinopse_pt": "Em uma floresta na Finlândia, Saga e seu marido, Jon, iniciam um novo capítulo de suas vidas ao se tornarem pais. Porém, a alegria de Saga é ofuscada por uma suspeita perturbadora sobre o recém-nascido. Sem que Jon saiba, ela passa a enfrentar sozinha uma verdade inquietante, o que acaba criando um abismo entre o casal.",
+      "elenco": [
+        "Rupert Grint",
+        "Seidi Haarla",
+        "Pamela Tola",
+        "Pirkko Saisio",
+        "Rebecca Lacey",
+        "John Thomson",
+        "Silvia Saloranta",
+        "Satu Tuuli Karhu"
+      ],
+      "diretor": "Hanna Bergholm",
+      "generos": [
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bLSrV2Him731C9tDCRuHq2drit5.jpg",
+      "pais": [
+        "FI",
+        "LT",
+        "FR",
+        "GB"
+      ],
+      "idiomas": [
+        "en",
+        "fi"
+      ],
+      "duracao": 92,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34383465/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Nightborn",
+        "metacritic": "https://www.metacritic.com/search/Nightborn/"
       }
     },
     {
@@ -2117,57 +2171,6 @@
       }
     },
     {
-      "tmdb_id": 1321008,
-      "imdb_id": "tt32315584",
-      "titulo_original": "Black Box",
-      "titulo_ingles": "Black Box",
-      "ano": 2026,
-      "data_lancamento": "2026-06-25",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um voo doméstico de rotina se transforma em um voo infernal por meio de uma série de fenômenos inexplicáveis ​​e terror puro. Encontros surreais confundem as fronteiras entre a realidade e o pesadelo. Os passageiros lutam contra todas as probabilidades em uma tentativa de sobreviver enquanto combatem estranhas falhas tecnológicas, eventos sobrenaturais acelerados e influências alienígenas.",
-      "elenco": [
-        "Tom Brittney",
-        "Holly White",
-        "Betsy Blue-English",
-        "Dane Whyte O'Hara",
-        "Kaja Chan",
-        "Georgina Leonidas",
-        "Hanneke Talbot",
-        "Anton Trendafilov"
-      ],
-      "diretor": "Steven Quale",
-      "generos": [
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 85,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32315584/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Black%20Box",
-        "metacritic": "https://www.metacritic.com/search/Black%20Box/"
-      }
-    },
-    {
       "tmdb_id": 1612018,
       "imdb_id": "tt39316472",
       "titulo_original": "Jackass: Best and Last",
@@ -2217,6 +2220,57 @@
         "imdb": "https://www.imdb.com/title/tt39316472/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jackass%3A%20Best%20and%20Last",
         "metacritic": "https://www.metacritic.com/search/Jackass%3A%20Best%20and%20Last/"
+      }
+    },
+    {
+      "tmdb_id": 1321008,
+      "imdb_id": "tt32315584",
+      "titulo_original": "Black Box",
+      "titulo_ingles": "Black Box",
+      "ano": 2026,
+      "data_lancamento": "2026-06-25",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um voo doméstico de rotina se transforma em um voo infernal por meio de uma série de fenômenos inexplicáveis ​​e terror puro. Encontros surreais confundem as fronteiras entre a realidade e o pesadelo. Os passageiros lutam contra todas as probabilidades em uma tentativa de sobreviver enquanto combatem estranhas falhas tecnológicas, eventos sobrenaturais acelerados e influências alienígenas.",
+      "elenco": [
+        "Tom Brittney",
+        "Holly White",
+        "Betsy Blue-English",
+        "Dane Whyte O'Hara",
+        "Kaja Chan",
+        "Georgina Leonidas",
+        "Hanneke Talbot",
+        "Anton Trendafilov"
+      ],
+      "diretor": "Steven Quale",
+      "generos": [
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 85,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32315584/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Black%20Box",
+        "metacritic": "https://www.metacritic.com/search/Black%20Box/"
       }
     },
     {
@@ -2389,6 +2443,58 @@
       }
     },
     {
+      "tmdb_id": 1413976,
+      "imdb_id": "tt35309713",
+      "titulo_original": "Citizen Vigilante",
+      "titulo_ingles": "Citizen Vigilante",
+      "ano": 2026,
+      "data_lancamento": "2026-06-19",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um homem faz justiça com suas próprias mãos, perseguindo criminosos. Sua cruzada como vigilante faz dele uma estrela da mídia social, mas isso o coloca em conflito com o chefe de polícia local.",
+      "elenco": [
+        "Armie Hammer",
+        "Costas Mandylor",
+        "Désirée Giorgetti",
+        "Steffen Mennekes",
+        "Neb Chupin",
+        "Mukit Abdul Hamid",
+        "Fares Mongi",
+        "Hila Harush"
+      ],
+      "diretor": "Uwe Boll",
+      "generos": [
+        "Thriller",
+        "Ação",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+      "pais": [
+        "DE",
+        "HR",
+        "US"
+      ],
+      "idiomas": [],
+      "duracao": 89,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35309713/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Citizen%20Vigilante",
+        "metacritic": "https://www.metacritic.com/search/Citizen%20Vigilante/"
+      }
+    },
+    {
       "tmdb_id": 1392469,
       "imdb_id": "tt35064672",
       "titulo_original": "कॉकटेल २",
@@ -2440,38 +2546,37 @@
       }
     },
     {
-      "tmdb_id": 1413976,
-      "imdb_id": "tt35309713",
-      "titulo_original": "Citizen Vigilante",
-      "titulo_ingles": "Citizen Vigilante",
+      "tmdb_id": 880067,
+      "imdb_id": "tt15532464",
+      "titulo_original": "Strung",
+      "titulo_ingles": "Strung",
       "ano": 2026,
-      "data_lancamento": "2026-06-19",
+      "data_lancamento": "2026-06-18",
       "data_qualificacao": "",
-      "sinopse_pt": "Um homem faz justiça com suas próprias mãos, perseguindo criminosos. Sua cruzada como vigilante faz dele uma estrela da mídia social, mas isso o coloca em conflito com o chefe de polícia local.",
+      "sinopse_pt": "Uma violinista talentosa, cujo novo e prestigioso papel como professora de música para uma família enigmática e de elite se transforma em uma batalha psicológica por sua segurança e sanidade.",
       "elenco": [
-        "Armie Hammer",
-        "Costas Mandylor",
-        "Désirée Giorgetti",
-        "Steffen Mennekes",
-        "Neb Chupin",
-        "Mukit Abdul Hamid",
-        "Fares Mongi",
-        "Hila Harush"
+        "Chlöe Bailey",
+        "Lynn Whitfield",
+        "Lucien Laviscount",
+        "Anna Diop",
+        "Romy Woods",
+        "Coco Jones",
+        "Pardison Fontaine",
+        "Lebo Mashile"
       ],
-      "diretor": "Uwe Boll",
+      "diretor": "Malcolm D. Lee",
       "generos": [
-        "Thriller",
-        "Ação",
-        "Crime"
+        "Mistério",
+        "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
       "pais": [
-        "DE",
-        "HR",
         "US"
       ],
-      "idiomas": [],
-      "duracao": 89,
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 119,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2486,9 +2591,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt35309713/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Citizen%20Vigilante",
-        "metacritic": "https://www.metacritic.com/search/Citizen%20Vigilante/"
+        "imdb": "https://www.imdb.com/title/tt15532464/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Strung",
+        "metacritic": "https://www.metacritic.com/search/Strung/"
       }
     },
     {
@@ -2542,57 +2647,6 @@
         "imdb": "https://www.imdb.com/title/tt32321803/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Get%20Out",
         "metacritic": "https://www.metacritic.com/search/The%20Get%20Out/"
-      }
-    },
-    {
-      "tmdb_id": 880067,
-      "imdb_id": "tt15532464",
-      "titulo_original": "Strung",
-      "titulo_ingles": "Strung",
-      "ano": 2026,
-      "data_lancamento": "2026-06-18",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma violinista talentosa, cujo novo e prestigioso papel como professora de música para uma família enigmática e de elite se transforma em uma batalha psicológica por sua segurança e sanidade.",
-      "elenco": [
-        "Chlöe Bailey",
-        "Lynn Whitfield",
-        "Lucien Laviscount",
-        "Anna Diop",
-        "Romy Woods",
-        "Coco Jones",
-        "Pardison Fontaine",
-        "Lebo Mashile"
-      ],
-      "diretor": "Malcolm D. Lee",
-      "generos": [
-        "Mistério",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 119,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt15532464/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Strung",
-        "metacritic": "https://www.metacritic.com/search/Strung/"
       }
     },
     {
@@ -2656,117 +2710,6 @@
         "imdb": "https://www.imdb.com/title/tt34888871/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Little%20Brother",
         "metacritic": "https://www.metacritic.com/search/Little%20Brother/"
-      }
-    },
-    {
-      "tmdb_id": 1483319,
-      "imdb_id": "tt39172310",
-      "titulo_original": "Shana",
-      "titulo_ingles": "Shana",
-      "ano": 2026,
-      "data_lancamento": "2026-06-17",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Eva Huault",
-        "Noémie Lvovsky",
-        "Inès Gherib",
-        "Anaïs Monah",
-        "Bettina de Van",
-        "Sékouba Doucouré",
-        "Solal Bouloudnine",
-        "Sarah Benabdallah"
-      ],
-      "diretor": "Lila Pinell",
-      "generos": [
-        "Drama",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/pXgr7YW8TKKOCigWM7VY7MB7bm3.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 83,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39172310/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Shana",
-        "metacritic": "https://www.metacritic.com/search/Shana/"
-      }
-    },
-    {
-      "tmdb_id": 1716513,
-      "imdb_id": "tt43140112",
-      "titulo_original": "Extreme Makeover: Homer Edition",
-      "titulo_ingles": "Extreme Makeover: Homer Edition",
-      "ano": 2026,
-      "data_lancamento": "2026-06-17",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Dan Castellaneta",
-        "Julie Kavner",
-        "Nancy Cartwright",
-        "Yeardley Smith",
-        "Harry Shearer",
-        "Hank Azaria",
-        "Betty Gilpin",
-        "Jon Hamm"
-      ],
-      "diretor": "Matthew Nastuk, Timothy Bailey",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Família"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vim76mMXig00YRxN2iGYJASoGkP.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 48,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1716513-extreme-makeover-homer-edition/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43140112/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Extreme%20Makeover%3A%20Homer%20Edition",
-        "metacritic": "https://www.metacritic.com/search/Extreme%20Makeover%3A%20Homer%20Edition/"
       }
     },
     {
@@ -2884,6 +2827,72 @@
         "imdb": "https://www.imdb.com/title/tt38128726/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Stop!%20That!%20Train!",
         "metacritic": "https://www.metacritic.com/search/Stop!%20That!%20Train!/"
+      }
+    },
+    {
+      "tmdb_id": 1396749,
+      "imdb_id": "tt40815155",
+      "titulo_original": "와일드 씽",
+      "titulo_ingles": "Wild Sing",
+      "ano": 2026,
+      "data_lancamento": "2026-06-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Vinte anos depois que um escândalo separou um popular trio de K‑pop dos anos 1990, os integrantes se reúnem para um show especial. Isso se conseguirem se aturar, é claro.",
+      "elenco": [
+        "강동원",
+        "엄태구",
+        "박지현",
+        "Oh Jung Se",
+        "신하균",
+        "강기영",
+        "박정원",
+        "권형석"
+      ],
+      "diretor": "손재곤",
+      "generos": [
+        "Comédia",
+        "Música"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/s4IUDzLZJb4CosgEXcmouY32Jfg.jpg",
+      "pais": [
+        "KR"
+      ],
+      "idiomas": [
+        "ko",
+        "en",
+        "es"
+      ],
+      "duracao": 109,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1396749/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt40815155/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Wild%20Sing",
+        "metacritic": "https://www.metacritic.com/search/Wild%20Sing/"
       }
     },
     {
