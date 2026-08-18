@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-08-17T10:03:05.383Z",
+  "gerado_em": "2026-08-18T09:55:18.587Z",
   "filmes": [
     {
       "tmdb_id": 1493400,
@@ -211,7 +211,8 @@
       ],
       "idiomas": [
         "zh",
-        "ar"
+        "ar",
+        "en"
       ],
       "duracao": 140,
       "rt_critica": null,
@@ -378,58 +379,6 @@
       }
     },
     {
-      "tmdb_id": 1458215,
-      "imdb_id": "tt36415524",
-      "titulo_original": "The Gentleman Thief",
-      "titulo_ingles": "The Gentleman Thief",
-      "ano": 2026,
-      "data_lancamento": "2026-07-31",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um ladrão aposentado precisa proteger seu irmão impulsivo de um desastre quando um roubo de um iate de 100 milhões de dólares se transforma em uma perigosa teia de enganos. Antigos inimigos ressurgem à medida que os riscos aumentam, forçando-o a usar todos os truques que conhece para sobreviver.",
-      "elenco": [
-        "John Travolta",
-        "Lukas Haas",
-        "Rebecca De Mornay",
-        "Natali Yura",
-        "Emily Skinner",
-        "Sam Asghari",
-        "Quavo",
-        "DJ Khaled"
-      ],
-      "diretor": "Randall Emmett",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36415524/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Gentleman%20Thief",
-        "metacritic": "https://www.metacritic.com/search/The%20Gentleman%20Thief/"
-      }
-    },
-    {
       "tmdb_id": 1307118,
       "imdb_id": "tt32654916",
       "titulo_original": "Soulm8te",
@@ -479,6 +428,58 @@
         "imdb": "https://www.imdb.com/title/tt32654916/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Soulm8te",
         "metacritic": "https://www.metacritic.com/search/Soulm8te/"
+      }
+    },
+    {
+      "tmdb_id": 1458215,
+      "imdb_id": "tt36415524",
+      "titulo_original": "The Gentleman Thief",
+      "titulo_ingles": "The Gentleman Thief",
+      "ano": 2026,
+      "data_lancamento": "2026-07-31",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um ladrão aposentado precisa proteger seu irmão impulsivo de um desastre quando um roubo de um iate de 100 milhões de dólares se transforma em uma perigosa teia de enganos. Antigos inimigos ressurgem à medida que os riscos aumentam, forçando-o a usar todos os truques que conhece para sobreviver.",
+      "elenco": [
+        "John Travolta",
+        "Lukas Haas",
+        "Rebecca De Mornay",
+        "Natali Yura",
+        "Emily Skinner",
+        "Sam Asghari",
+        "Quavo",
+        "DJ Khaled"
+      ],
+      "diretor": "Randall Emmett",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36415524/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Gentleman%20Thief",
+        "metacritic": "https://www.metacritic.com/search/The%20Gentleman%20Thief/"
       }
     },
     {
@@ -612,6 +613,71 @@
       }
     },
     {
+      "tmdb_id": 1659155,
+      "imdb_id": "tt41111628",
+      "titulo_original": "Los creyentes",
+      "titulo_ingles": "The Truthers",
+      "ano": 2026,
+      "data_lancamento": "2026-07-24",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
+      "elenco": [
+        "Jose Coronado",
+        "Stéphanie Magnin",
+        "Fanny Gautier",
+        "Alberto Olmo",
+        "Israel Ruiz",
+        "Mabel del Pozo",
+        "Celine Fortenbacher",
+        "Olaya Lopez"
+      ],
+      "diretor": "Roger Gual",
+      "generos": [
+        "Thriller",
+        "Drama",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
+      "pais": [
+        "ES"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 106,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt41111628/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Truthers",
+        "metacritic": "https://www.metacritic.com/search/The%20Truthers/"
+      }
+    },
+    {
       "tmdb_id": 980431,
       "imdb_id": "tt18259538",
       "titulo_original": "Avatar Aang: The Last Airbender",
@@ -695,71 +761,6 @@
       }
     },
     {
-      "tmdb_id": 1659155,
-      "imdb_id": "tt41111628",
-      "titulo_original": "Los creyentes",
-      "titulo_ingles": "The Truthers",
-      "ano": 2026,
-      "data_lancamento": "2026-07-24",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
-      "elenco": [
-        "Jose Coronado",
-        "Stéphanie Magnin",
-        "Fanny Gautier",
-        "Alberto Olmo",
-        "Israel Ruiz",
-        "Mabel del Pozo",
-        "Celine Fortenbacher",
-        "Olaya Lopez"
-      ],
-      "diretor": "Roger Gual",
-      "generos": [
-        "Thriller",
-        "Drama",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
-      "pais": [
-        "ES"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt41111628/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Truthers",
-        "metacritic": "https://www.metacritic.com/search/The%20Truthers/"
-      }
-    },
-    {
       "tmdb_id": 1185806,
       "imdb_id": "tt29356163",
       "titulo_original": "PAW Patrol: The Dino Movie",
@@ -811,6 +812,61 @@
         "imdb": "https://www.imdb.com/title/tt29356163/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=PAW%20Patrol%3A%20The%20Dino%20Movie",
         "metacritic": "https://www.metacritic.com/search/PAW%20Patrol%3A%20The%20Dino%20Movie/"
+      }
+    },
+    {
+      "tmdb_id": 1469342,
+      "imdb_id": "tt36629665",
+      "titulo_original": "Her Private Hell",
+      "titulo_ingles": "Her Private Hell",
+      "ano": 2026,
+      "data_lancamento": "2026-07-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "Enquanto uma névoa misteriosa envolve uma metrópole futurista e libera uma presença mortal e indescritível, uma jovem atormentada parte em busca de seu pai. Nessa jornada, seu destino se cruza com o de um soldado americano que está em uma viagem desesperada para resgatar sua filha do inferno.",
+      "elenco": [
+        "Sophie Thatcher",
+        "Charles Melton",
+        "Havana Rose Liu",
+        "Kristine Froseth",
+        "忽那汐里",
+        "山田 葵",
+        "Dougray Scott",
+        "Diego Calva"
+      ],
+      "diretor": "Nicolas Winding Refn",
+      "generos": [
+        "Ficção científica",
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/62gkeidbflMmVmav17G7xJiGMA4.jpg",
+      "pais": [
+        "US",
+        "DK",
+        "GB"
+      ],
+      "idiomas": [
+        "en",
+        "ja"
+      ],
+      "duracao": 110,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 38,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 38,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36629665/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Her%20Private%20Hell",
+        "metacritic": "https://www.metacritic.com/search/Her%20Private%20Hell/"
       }
     },
     {
@@ -876,61 +932,6 @@
         "imdb": "https://www.imdb.com/title/tt43617119/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Love%20in%20Slow%20Motion",
         "metacritic": "https://www.metacritic.com/search/Love%20in%20Slow%20Motion/"
-      }
-    },
-    {
-      "tmdb_id": 1469342,
-      "imdb_id": "tt36629665",
-      "titulo_original": "Her Private Hell",
-      "titulo_ingles": "Her Private Hell",
-      "ano": 2026,
-      "data_lancamento": "2026-07-23",
-      "data_qualificacao": "",
-      "sinopse_pt": "Enquanto uma névoa misteriosa envolve uma metrópole futurista e libera uma presença mortal e indescritível, uma jovem atormentada parte em busca de seu pai. Nessa jornada, seu destino se cruza com o de um soldado americano que está em uma viagem desesperada para resgatar sua filha do inferno.",
-      "elenco": [
-        "Sophie Thatcher",
-        "Charles Melton",
-        "Havana Rose Liu",
-        "Kristine Froseth",
-        "忽那汐里",
-        "山田 葵",
-        "Dougray Scott",
-        "Diego Calva"
-      ],
-      "diretor": "Nicolas Winding Refn",
-      "generos": [
-        "Ficção científica",
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/62gkeidbflMmVmav17G7xJiGMA4.jpg",
-      "pais": [
-        "US",
-        "DK",
-        "GB"
-      ],
-      "idiomas": [
-        "en",
-        "ja"
-      ],
-      "duracao": 110,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 38,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 38,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36629665/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Her%20Private%20Hell",
-        "metacritic": "https://www.metacritic.com/search/Her%20Private%20Hell/"
       }
     },
     {
@@ -1426,6 +1427,56 @@
       }
     },
     {
+      "tmdb_id": 1731494,
+      "imdb_id": "tt43677301",
+      "titulo_original": "The Odyssey: The Making of an Epic",
+      "titulo_ingles": "The Odyssey: The Making of an Epic",
+      "ano": 2026,
+      "data_lancamento": "2026-07-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Christopher Nolan",
+        "Matt Damon",
+        "Robert Pattinson",
+        "Zendaya",
+        "Tom Holland",
+        "Emma Thomas",
+        "Nilo Otero",
+        "Andrew Jackson"
+      ],
+      "diretor": "",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/nEWsCyE488tG85P8Cg3HbVbMvqQ.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 23,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43677301/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Odyssey%3A%20The%20Making%20of%20an%20Epic",
+        "metacritic": "https://www.metacritic.com/search/The%20Odyssey%3A%20The%20Making%20of%20an%20Epic/"
+      }
+    },
+    {
       "tmdb_id": 1616674,
       "imdb_id": "tt39370887",
       "titulo_original": "Aku Sebelum Aku",
@@ -1544,58 +1595,6 @@
       }
     },
     {
-      "tmdb_id": 1404304,
-      "imdb_id": "tt35051162",
-      "titulo_original": "The Isolate Thief",
-      "titulo_ingles": "The Isolate Thief",
-      "ano": 2026,
-      "data_lancamento": "2026-07-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma mulher esconde ouro roubado de bandidos que controlam seu posto remoto enquanto enfrentam o inverno, onde a sobrevivência depende de engenhosidade e lealdade.",
-      "elenco": [
-        "Mackenzie Foy",
-        "Odeya Rush",
-        "Sean Bean",
-        "Joe Pantoliano",
-        "Jack Kesy",
-        "Ty Simpkins",
-        "Martin Sensmeier",
-        "Bryan Martin"
-      ],
-      "diretor": "John Suits",
-      "generos": [
-        "Faroeste",
-        "Ação",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 95,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35051162/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Isolate%20Thief",
-        "metacritic": "https://www.metacritic.com/search/The%20Isolate%20Thief/"
-      }
-    },
-    {
       "tmdb_id": 1381202,
       "imdb_id": "tt33372918",
       "titulo_original": "The Outer Threat",
@@ -1644,59 +1643,6 @@
         "imdb": "https://www.imdb.com/title/tt33372918/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Outer%20Threat",
         "metacritic": "https://www.metacritic.com/search/The%20Outer%20Threat/"
-      }
-    },
-    {
-      "tmdb_id": 1633056,
-      "imdb_id": "tt43515101",
-      "titulo_original": "八仙！",
-      "titulo_ingles": "All Wishes Come True!",
-      "ano": 2026,
-      "data_lancamento": "2026-07-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "陈浩",
-        "李绍哲",
-        "立冬",
-        "Huang Guo",
-        "Dong Tianyi",
-        "Yu Pengli",
-        "Huang Yushuo",
-        "Zhang Yunqi"
-      ],
-      "diretor": "牟正洋",
-      "generos": [
-        "Comédia",
-        "Animação",
-        "Fantasia",
-        "Aventura"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-      "pais": [
-        "CN"
-      ],
-      "idiomas": [
-        "zh"
-      ],
-      "duracao": 143,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43515101/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=All%20Wishes%20Come%20True!",
-        "metacritic": "https://www.metacritic.com/search/All%20Wishes%20Come%20True!/"
       }
     },
     {
@@ -1760,6 +1706,59 @@
         "imdb": "https://www.imdb.com/title/tt43595399/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Shipwrecked%3A%20Nightmare%20at%20Sea",
         "metacritic": "https://www.metacritic.com/search/Shipwrecked%3A%20Nightmare%20at%20Sea/"
+      }
+    },
+    {
+      "tmdb_id": 1633056,
+      "imdb_id": "tt43515101",
+      "titulo_original": "八仙！",
+      "titulo_ingles": "All Wishes Come True!",
+      "ano": 2026,
+      "data_lancamento": "2026-07-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "陈浩",
+        "李绍哲",
+        "立冬",
+        "Huang Guo",
+        "Dong Tianyi",
+        "Yu Pengli",
+        "Huang Yushuo",
+        "Zhang Yunqi"
+      ],
+      "diretor": "牟正洋",
+      "generos": [
+        "Comédia",
+        "Animação",
+        "Fantasia",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
+      "pais": [
+        "CN"
+      ],
+      "idiomas": [
+        "zh"
+      ],
+      "duracao": 143,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43515101/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=All%20Wishes%20Come%20True!",
+        "metacritic": "https://www.metacritic.com/search/All%20Wishes%20Come%20True!/"
       }
     },
     {
@@ -1827,6 +1826,58 @@
       }
     },
     {
+      "tmdb_id": 1404304,
+      "imdb_id": "tt35051162",
+      "titulo_original": "The Isolate Thief",
+      "titulo_ingles": "The Isolate Thief",
+      "ano": 2026,
+      "data_lancamento": "2026-07-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma mulher esconde ouro roubado de bandidos que controlam seu posto remoto enquanto enfrentam o inverno, onde a sobrevivência depende de engenhosidade e lealdade.",
+      "elenco": [
+        "Mackenzie Foy",
+        "Odeya Rush",
+        "Sean Bean",
+        "Joe Pantoliano",
+        "Jack Kesy",
+        "Ty Simpkins",
+        "Martin Sensmeier",
+        "Bryan Martin"
+      ],
+      "diretor": "John Suits",
+      "generos": [
+        "Faroeste",
+        "Ação",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 95,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35051162/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Isolate%20Thief",
+        "metacritic": "https://www.metacritic.com/search/The%20Isolate%20Thief/"
+      }
+    },
+    {
       "tmdb_id": 1108427,
       "imdb_id": "tt27419466",
       "titulo_original": "Moana",
@@ -1877,59 +1928,6 @@
         "imdb": "https://www.imdb.com/title/tt27419466/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Moana",
         "metacritic": "https://www.metacritic.com/search/Moana/"
-      }
-    },
-    {
-      "tmdb_id": 1492288,
-      "imdb_id": "tt43136887",
-      "titulo_original": "La chaleur",
-      "titulo_ingles": "La chaleur",
-      "ano": 2026,
-      "data_lancamento": "2026-07-08",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Hadrien Hussein",
-        "Tristan Richard",
-        "Martina La Manna",
-        "Noé Houssard",
-        "Zakariya Gouram",
-        "Cécile Ducrocq",
-        "Marguerite Demoustier",
-        "Rida Elmanawehly"
-      ],
-      "diretor": "Stéphane Demoustier",
-      "generos": [
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/8IcgFgUKHWnVamGPSXQQ8cLHjew.jpg",
-      "pais": [
-        "FR",
-        "BE",
-        "IT"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43136887/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=La%20chaleur",
-        "metacritic": "https://www.metacritic.com/search/La%20chaleur/"
       }
     },
     {
@@ -1994,6 +1992,59 @@
         "imdb": "https://www.imdb.com/title/tt39385949/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Nothing%20to%20Lose",
         "metacritic": "https://www.metacritic.com/search/Nothing%20to%20Lose/"
+      }
+    },
+    {
+      "tmdb_id": 1492288,
+      "imdb_id": "tt43136887",
+      "titulo_original": "La chaleur",
+      "titulo_ingles": "La chaleur",
+      "ano": 2026,
+      "data_lancamento": "2026-07-08",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Hadrien Hussein",
+        "Tristan Richard",
+        "Martina La Manna",
+        "Noé Houssard",
+        "Zakariya Gouram",
+        "Cécile Ducrocq",
+        "Marguerite Demoustier",
+        "Rida Elmanawehly"
+      ],
+      "diretor": "Stéphane Demoustier",
+      "generos": [
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/8IcgFgUKHWnVamGPSXQQ8cLHjew.jpg",
+      "pais": [
+        "FR",
+        "BE",
+        "IT"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43136887/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=La%20chaleur",
+        "metacritic": "https://www.metacritic.com/search/La%20chaleur/"
       }
     },
     {
@@ -2162,58 +2213,6 @@
       }
     },
     {
-      "tmdb_id": 1698863,
-      "imdb_id": "tt41605854",
-      "titulo_original": "The Odyssey",
-      "titulo_ingles": "The Odyssey",
-      "ano": 2026,
-      "data_lancamento": "2026-07-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Myrom Kingery",
-        "Morgan Flanagan",
-        "Patrick Byrnes",
-        "Dominic Keating",
-        "Llana Barron",
-        "Jordan Iverach",
-        "Tony Wood",
-        "Ashton Rogers"
-      ],
-      "diretor": "Marcel Walz",
-      "generos": [
-        "Aventura",
-        "Fantasia",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 86,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt41605854/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Odyssey",
-        "metacritic": "https://www.metacritic.com/search/The%20Odyssey/"
-      }
-    },
-    {
       "tmdb_id": 1725116,
       "imdb_id": "tt43140642",
       "titulo_original": "Simpsley",
@@ -2325,6 +2324,58 @@
         "imdb": "https://www.imdb.com/title/tt34584846/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Man%20of%20War",
         "metacritic": "https://www.metacritic.com/search/Man%20of%20War/"
+      }
+    },
+    {
+      "tmdb_id": 1698863,
+      "imdb_id": "tt41605854",
+      "titulo_original": "The Odyssey",
+      "titulo_ingles": "The Odyssey",
+      "ano": 2026,
+      "data_lancamento": "2026-07-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Myrom Kingery",
+        "Morgan Flanagan",
+        "Patrick Byrnes",
+        "Dominic Keating",
+        "Llana Barron",
+        "Jordan Iverach",
+        "Tony Wood",
+        "Ashton Rogers"
+      ],
+      "diretor": "Marcel Walz",
+      "generos": [
+        "Aventura",
+        "Fantasia",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/xBHCRB7zLIW41w8QskfwJhm32YF.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 86,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt41605854/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Odyssey",
+        "metacritic": "https://www.metacritic.com/search/The%20Odyssey/"
       }
     },
     {
@@ -2599,37 +2650,40 @@
       }
     },
     {
-      "tmdb_id": 947502,
-      "imdb_id": "tt27672817",
-      "titulo_original": "In Waves",
-      "titulo_ingles": "In Waves",
+      "tmdb_id": 964849,
+      "imdb_id": "tt34383465",
+      "titulo_original": "Yön lapsi",
+      "titulo_ingles": "Nightborn",
       "ano": 2026,
       "data_lancamento": "2026-07-01",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Em uma floresta na Finlândia, Saga e seu marido, Jon, iniciam um novo capítulo de suas vidas ao se tornarem pais. Porém, a alegria de Saga é ofuscada por uma suspeita perturbadora sobre o recém-nascido. Sem que Jon saiba, ela passa a enfrentar sozinha uma verdade inquietante, o que acaba criando um abismo entre o casal.",
       "elenco": [
-        "Rio Vega",
-        "Lyna Khoudri",
-        "Paul Kircher",
-        "Birane Ba",
-        "Gauthier Battoue"
+        "Rupert Grint",
+        "Seidi Haarla",
+        "Pamela Tola",
+        "Pirkko Saisio",
+        "Rebecca Lacey",
+        "John Thomson",
+        "Silvia Saloranta",
+        "Satu Tuuli Karhu"
       ],
-      "diretor": "Phuong Mai Nguyen",
+      "diretor": "Hanna Bergholm",
       "generos": [
-        "Animação",
-        "Romance",
-        "Drama"
+        "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/3z3gZ6faikQ81EM19zTX4lHfpwL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bLSrV2Him731C9tDCRuHq2drit5.jpg",
       "pais": [
+        "FI",
+        "LT",
         "FR",
-        "BE",
-        "US"
+        "GB"
       ],
       "idiomas": [
-        "fr"
+        "en",
+        "fi"
       ],
-      "duracao": 91,
+      "duracao": 92,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2644,75 +2698,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt27672817/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=In%20Waves",
-        "metacritic": "https://www.metacritic.com/search/In%20Waves/"
-      }
-    },
-    {
-      "tmdb_id": 1202033,
-      "imdb_id": "tt32278481",
-      "titulo_original": "Enola Holmes 3",
-      "titulo_ingles": "Enola Holmes 3",
-      "ano": 2026,
-      "data_lancamento": "2026-06-30",
-      "data_qualificacao": "",
-      "sinopse_pt": "Em busca de aventura, a detetive Enola Holmes vai a Malta, mas o desaparecimento de Sherlock atrapalha seus planos e ela se vê envolvida em um caso desafiador.",
-      "elenco": [
-        "Millie Bobby Brown",
-        "Henry Cavill",
-        "Helena Bonham Carter",
-        "Louis Partridge",
-        "Himesh Patel",
-        "Sharon Duncan-Brewster",
-        "Hattie Morahan",
-        "Susan Wokoma"
-      ],
-      "diretor": "Philip Barantini",
-      "generos": [
-        "Aventura",
-        "Crime",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/dxqsd2iYZGzZafGxFWbHaDFACMp.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "mt"
-      ],
-      "duracao": 109,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 60,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 60,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1202033-enola-holmes-3/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32278481/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Enola%20Holmes%203",
-        "metacritic": "https://www.metacritic.com/search/Enola%20Holmes%203/"
+        "imdb": "https://www.imdb.com/title/tt34383465/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Nightborn",
+        "metacritic": "https://www.metacritic.com/search/Nightborn/"
       }
     },
     {
