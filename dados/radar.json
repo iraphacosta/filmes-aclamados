@@ -1,7 +1,69 @@
 {
   "versao": 1,
-  "gerado_em": "2026-08-19T09:55:49.197Z",
+  "gerado_em": "2026-08-20T09:57:33.478Z",
   "filmes": [
+    {
+      "tmdb_id": 1493400,
+      "imdb_id": "tt6743524",
+      "titulo_original": "Camp Rock 3",
+      "titulo_ingles": "Camp Rock 3",
+      "ano": 2026,
+      "data_lancamento": "2026-08-13",
+      "data_qualificacao": "",
+      "sinopse_pt": "O Connect 3 perde sua banda de abertura para uma grande turnê de reunião e decide retornar ao amado Camp Rock para descobrir o próximo grande talento. Enquanto os campistas disputam a chance de abrir os shows de sua banda favorita, as tensões aumentam e as amizades são testadas, levando a alianças inesperadas, revelações e romances.",
+      "elenco": [
+        "Liamani Segura",
+        "Malachi Barton",
+        "Lumi Pollack",
+        "Hudson Stone",
+        "Casey Trotter",
+        "Brooklynn Pitts",
+        "Joe Jonas",
+        "Nick Jonas"
+      ],
+      "diretor": "Veronica Rodriguez",
+      "generos": [
+        "Música",
+        "Comédia",
+        "Drama",
+        "Cinema TV"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+      "pais": [
+        "US",
+        "CA"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 93,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1493400-camp-rock-3/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt6743524/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Camp%20Rock%203",
+        "metacritic": "https://www.metacritic.com/search/Camp%20Rock%203/"
+      }
+    },
     {
       "tmdb_id": 1504358,
       "imdb_id": "tt36590417",
@@ -65,68 +127,6 @@
         "imdb": "https://www.imdb.com/title/tt36590417/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Don't%20Say%20Good%20Luck",
         "metacritic": "https://www.metacritic.com/search/Don't%20Say%20Good%20Luck/"
-      }
-    },
-    {
-      "tmdb_id": 1493400,
-      "imdb_id": "tt6743524",
-      "titulo_original": "Camp Rock 3",
-      "titulo_ingles": "Camp Rock 3",
-      "ano": 2026,
-      "data_lancamento": "2026-08-13",
-      "data_qualificacao": "",
-      "sinopse_pt": "O Connect 3 perde sua banda de abertura para uma grande turnê de reunião e decide retornar ao amado Camp Rock para descobrir o próximo grande talento. Enquanto os campistas disputam a chance de abrir os shows de sua banda favorita, as tensões aumentam e as amizades são testadas, levando a alianças inesperadas, revelações e romances.",
-      "elenco": [
-        "Liamani Segura",
-        "Malachi Barton",
-        "Lumi Pollack",
-        "Hudson Stone",
-        "Casey Trotter",
-        "Brooklynn Pitts",
-        "Joe Jonas",
-        "Nick Jonas"
-      ],
-      "diretor": "Veronica Rodriguez",
-      "generos": [
-        "Música",
-        "Comédia",
-        "Drama",
-        "Cinema TV"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-      "pais": [
-        "US",
-        "CA"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 93,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1493400-camp-rock-3/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt6743524/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Camp%20Rock%203",
-        "metacritic": "https://www.metacritic.com/search/Camp%20Rock%203/"
       }
     },
     {
@@ -613,6 +613,122 @@
       }
     },
     {
+      "tmdb_id": 1433367,
+      "imdb_id": "tt37853455",
+      "titulo_original": "One Night Only",
+      "titulo_ingles": "One Night Only",
+      "ano": 2026,
+      "data_lancamento": "2026-07-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Allie e Owen são dois desconhecidos que se encontram em Nova York na única noite do ano em que relações sexuais são permitidas por lei. Abandonados por seus parceiros, a busca deles por conexão emocional toma rumos inesperados",
+      "elenco": [
+        "Monica Barbaro",
+        "Callum Turner",
+        "Maya Hawke",
+        "King Princess",
+        "Molly Ringwald",
+        "LeVar Burton",
+        "Charlie Gillespie",
+        "Quintessa Swindell"
+      ],
+      "diretor": "Will Gluck",
+      "generos": [
+        "Comédia",
+        "Romance"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/61fSMjhMoBgoXvKOlz3AvMM6CHT.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 102,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 43,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 43,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37853455/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Night%20Only",
+        "metacritic": "https://www.metacritic.com/search/One%20Night%20Only/"
+      }
+    },
+    {
+      "tmdb_id": 1659155,
+      "imdb_id": "tt41111628",
+      "titulo_original": "Los creyentes",
+      "titulo_ingles": "The Truthers",
+      "ano": 2026,
+      "data_lancamento": "2026-07-24",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
+      "elenco": [
+        "Jose Coronado",
+        "Stéphanie Magnin",
+        "Fanny Gautier",
+        "Alberto Olmo",
+        "Israel Ruiz",
+        "Mabel del Pozo",
+        "Celine Fortenbacher",
+        "Olaya Lopez"
+      ],
+      "diretor": "Roger Gual",
+      "generos": [
+        "Thriller",
+        "Drama",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
+      "pais": [
+        "ES"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 106,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt41111628/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Truthers",
+        "metacritic": "https://www.metacritic.com/search/The%20Truthers/"
+      }
+    },
+    {
       "tmdb_id": 980431,
       "imdb_id": "tt18259538",
       "titulo_original": "Avatar Aang: The Last Airbender",
@@ -696,71 +812,6 @@
       }
     },
     {
-      "tmdb_id": 1659155,
-      "imdb_id": "tt41111628",
-      "titulo_original": "Los creyentes",
-      "titulo_ingles": "The Truthers",
-      "ano": 2026,
-      "data_lancamento": "2026-07-24",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
-      "elenco": [
-        "Jose Coronado",
-        "Stéphanie Magnin",
-        "Fanny Gautier",
-        "Alberto Olmo",
-        "Israel Ruiz",
-        "Mabel del Pozo",
-        "Celine Fortenbacher",
-        "Olaya Lopez"
-      ],
-      "diretor": "Roger Gual",
-      "generos": [
-        "Thriller",
-        "Drama",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
-      "pais": [
-        "ES"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt41111628/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Truthers",
-        "metacritic": "https://www.metacritic.com/search/The%20Truthers/"
-      }
-    },
-    {
       "tmdb_id": 1185806,
       "imdb_id": "tt29356163",
       "titulo_original": "PAW Patrol: The Dino Movie",
@@ -812,6 +863,61 @@
         "imdb": "https://www.imdb.com/title/tt29356163/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=PAW%20Patrol%3A%20The%20Dino%20Movie",
         "metacritic": "https://www.metacritic.com/search/PAW%20Patrol%3A%20The%20Dino%20Movie/"
+      }
+    },
+    {
+      "tmdb_id": 1469342,
+      "imdb_id": "tt36629665",
+      "titulo_original": "Her Private Hell",
+      "titulo_ingles": "Her Private Hell",
+      "ano": 2026,
+      "data_lancamento": "2026-07-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "Enquanto uma névoa misteriosa envolve uma metrópole futurista e libera uma presença mortal e indescritível, uma jovem atormentada parte em busca de seu pai. Nessa jornada, seu destino se cruza com o de um soldado americano que está em uma viagem desesperada para resgatar sua filha do inferno.",
+      "elenco": [
+        "Sophie Thatcher",
+        "Charles Melton",
+        "Havana Rose Liu",
+        "Kristine Froseth",
+        "忽那汐里",
+        "山田 葵",
+        "Dougray Scott",
+        "Diego Calva"
+      ],
+      "diretor": "Nicolas Winding Refn",
+      "generos": [
+        "Ficção científica",
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/62gkeidbflMmVmav17G7xJiGMA4.jpg",
+      "pais": [
+        "US",
+        "DK",
+        "GB"
+      ],
+      "idiomas": [
+        "en",
+        "ja"
+      ],
+      "duracao": 110,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 38,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 38,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36629665/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Her%20Private%20Hell",
+        "metacritic": "https://www.metacritic.com/search/Her%20Private%20Hell/"
       }
     },
     {
@@ -943,91 +1049,33 @@
       }
     },
     {
-      "tmdb_id": 1469342,
-      "imdb_id": "tt36629665",
-      "titulo_original": "Her Private Hell",
-      "titulo_ingles": "Her Private Hell",
+      "tmdb_id": 1723460,
+      "imdb_id": "tt43619305",
+      "titulo_original": "A Toxic Love Story",
+      "titulo_ingles": "A Toxic Love Story",
       "ano": 2026,
-      "data_lancamento": "2026-07-23",
+      "data_lancamento": "2026-07-22",
       "data_qualificacao": "",
-      "sinopse_pt": "Enquanto uma névoa misteriosa envolve uma metrópole futurista e libera uma presença mortal e indescritível, uma jovem atormentada parte em busca de seu pai. Nessa jornada, seu destino se cruza com o de um soldado americano que está em uma viagem desesperada para resgatar sua filha do inferno.",
+      "sinopse_pt": "Uma série de e-mails ameaçadores se transforma em um plano de vingança envolvendo um marechal americano recém-casado e sua ex-namorada neste documentário sobre crimes reais.",
       "elenco": [
-        "Sophie Thatcher",
-        "Charles Melton",
-        "Havana Rose Liu",
-        "Kristine Froseth",
-        "忽那汐里",
-        "山田 葵",
-        "Dougray Scott",
-        "Diego Calva"
+        "Amanda Wear",
+        "Gavin Marck",
+        "Katia Plotnikoff",
+        "Lainey Baldwin"
       ],
-      "diretor": "Nicolas Winding Refn",
+      "diretor": "Alexandra Lacey",
       "generos": [
-        "Ficção científica",
-        "Terror",
-        "Thriller"
+        "Documentário"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/62gkeidbflMmVmav17G7xJiGMA4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1WUHK5GFZYw1la8jUFtGQRkOVba.jpg",
       "pais": [
-        "US",
-        "DK",
         "GB"
       ],
       "idiomas": [
         "en",
-        "ja"
+        "pt"
       ],
-      "duracao": 110,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 38,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 38,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36629665/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Her%20Private%20Hell",
-        "metacritic": "https://www.metacritic.com/search/Her%20Private%20Hell/"
-      }
-    },
-    {
-      "tmdb_id": 1496491,
-      "imdb_id": "tt37846373",
-      "titulo_original": "De la Comédie-Française",
-      "titulo_ingles": "Comédie-Française",
-      "ano": 2026,
-      "data_lancamento": "2026-07-22",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Pauline Clément",
-        "Laurent Stocker",
-        "Julien Frison",
-        "Marina Hands",
-        "Adeline D'Hermy",
-        "Danièle Lebrun",
-        "Sefa Yeboah",
-        "Christian Hecq"
-      ],
-      "diretor": "Bertrand Usclat, Martin Darondeau",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bfjG4eH78KOnpVNlEH8wneMHXLv.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 75,
+      "duracao": 91,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1039,12 +1087,25 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1723460-a-toxic-love-story/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt37846373/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Com%C3%A9die-Fran%C3%A7aise",
-        "metacritic": "https://www.metacritic.com/search/Com%C3%A9die-Fran%C3%A7aise/"
+        "imdb": "https://www.imdb.com/title/tt43619305/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Toxic%20Love%20Story",
+        "metacritic": "https://www.metacritic.com/search/A%20Toxic%20Love%20Story/"
       }
     },
     {
@@ -1113,33 +1174,36 @@
       }
     },
     {
-      "tmdb_id": 1723460,
-      "imdb_id": "tt43619305",
-      "titulo_original": "A Toxic Love Story",
-      "titulo_ingles": "A Toxic Love Story",
+      "tmdb_id": 1496491,
+      "imdb_id": "tt37846373",
+      "titulo_original": "De la Comédie-Française",
+      "titulo_ingles": "Comédie-Française",
       "ano": 2026,
       "data_lancamento": "2026-07-22",
       "data_qualificacao": "",
-      "sinopse_pt": "Uma série de e-mails ameaçadores se transforma em um plano de vingança envolvendo um marechal americano recém-casado e sua ex-namorada neste documentário sobre crimes reais.",
+      "sinopse_pt": "",
       "elenco": [
-        "Amanda Wear",
-        "Gavin Marck",
-        "Katia Plotnikoff",
-        "Lainey Baldwin"
+        "Pauline Clément",
+        "Laurent Stocker",
+        "Julien Frison",
+        "Marina Hands",
+        "Adeline D'Hermy",
+        "Danièle Lebrun",
+        "Sefa Yeboah",
+        "Christian Hecq"
       ],
-      "diretor": "Alexandra Lacey",
+      "diretor": "Bertrand Usclat, Martin Darondeau",
       "generos": [
-        "Documentário"
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/1WUHK5GFZYw1la8jUFtGQRkOVba.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bfjG4eH78KOnpVNlEH8wneMHXLv.jpg",
       "pais": [
-        "GB"
+        "FR"
       ],
       "idiomas": [
-        "en",
-        "pt"
+        "fr"
       ],
-      "duracao": 91,
+      "duracao": 75,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1150,6 +1214,57 @@
       "pico_metacritic": null,
       "atual_rt": null,
       "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37846373/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Com%C3%A9die-Fran%C3%A7aise",
+        "metacritic": "https://www.metacritic.com/search/Com%C3%A9die-Fran%C3%A7aise/"
+      }
+    },
+    {
+      "tmdb_id": 949838,
+      "imdb_id": "tt36304003",
+      "titulo_original": "72 HOURS",
+      "titulo_ingles": "72 HOURS",
+      "ano": 2026,
+      "data_lancamento": "2026-07-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "Para salvar a carreira, um executivo quarentão vai a uma despedida de solteiro com um grupo de jovens, depois de ser adicionado por engano ao chat deles.",
+      "elenco": [
+        "Kevin Hart",
+        "Marcello Hernández",
+        "Mason Gooding",
+        "Kam Patterson",
+        "Ben Marshall",
+        "Zach Cherry",
+        "Michael Mando",
+        "Teyana Taylor"
+      ],
+      "diretor": "Tim Story",
+      "generos": [
+        "Comédia",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vLSogm0b4KokW3qLKEjZ6JwyCJ0.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 105,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 41,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 41,
       "disponibilidade_br": {
         "estado": "streaming",
         "servicos": [
@@ -1164,12 +1279,12 @@
             "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
           }
         ],
-        "link_br": "https://www.themoviedb.org/movie/1723460-a-toxic-love-story/watch?locale=BR"
+        "link_br": "https://www.themoviedb.org/movie/949838-72-hours/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt43619305/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Toxic%20Love%20Story",
-        "metacritic": "https://www.metacritic.com/search/A%20Toxic%20Love%20Story/"
+        "imdb": "https://www.imdb.com/title/tt36304003/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=72%20HOURS",
+        "metacritic": "https://www.metacritic.com/search/72%20HOURS/"
       }
     },
     {
@@ -1238,67 +1353,53 @@
       }
     },
     {
-      "tmdb_id": 949838,
-      "imdb_id": "tt36304003",
-      "titulo_original": "72 HOURS",
-      "titulo_ingles": "72 HOURS",
+      "tmdb_id": 1727780,
+      "imdb_id": "tt28638842",
+      "titulo_original": "Borderline",
+      "titulo_ingles": "Borderline",
       "ano": 2026,
-      "data_lancamento": "2026-07-20",
+      "data_lancamento": "2026-07-17",
       "data_qualificacao": "",
-      "sinopse_pt": "Para salvar a carreira, um executivo quarentão vai a uma despedida de solteiro com um grupo de jovens, depois de ser adicionado por engano ao chat deles.",
+      "sinopse_pt": "",
       "elenco": [
-        "Kevin Hart",
-        "Marcello Hernández",
-        "Mason Gooding",
-        "Kam Patterson",
-        "Ben Marshall",
-        "Zach Cherry",
-        "Michael Mando",
-        "Teyana Taylor"
+        "Marissa Arguijo",
+        "Michael-Eoin Stanney",
+        "Marcus Jean Pirae",
+        "Dominic Hernandez",
+        "Nigel Vonas",
+        "Oscar Alejandro"
       ],
-      "diretor": "Tim Story",
+      "diretor": "Ryan Jordan",
       "generos": [
-        "Comédia",
-        "Crime"
+        "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vLSogm0b4KokW3qLKEjZ6JwyCJ0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
       "pais": [
-        "US"
+        "US",
+        "MX"
       ],
       "idiomas": [
-        "en"
+        "en",
+        "la"
       ],
-      "duracao": 105,
+      "duracao": 94,
       "rt_critica": null,
       "rt_publico": null,
-      "metacritic": 41,
+      "metacritic": null,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
       "atual_rt": null,
-      "atual_metacritic": 41,
+      "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/949838-72-hours/watch?locale=BR"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36304003/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=72%20HOURS",
-        "metacritic": "https://www.metacritic.com/search/72%20HOURS/"
+        "imdb": "https://www.imdb.com/title/tt28638842/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Borderline",
+        "metacritic": "https://www.metacritic.com/search/Borderline/"
       }
     },
     {
@@ -1477,59 +1578,6 @@
       }
     },
     {
-      "tmdb_id": 1491920,
-      "imdb_id": "tt36103784",
-      "titulo_original": "功夫女足",
-      "titulo_ingles": "Kung Fu Soccer",
-      "ano": 2026,
-      "data_lancamento": "2026-07-11",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "张小斐",
-        "迪丽热巴",
-        "张艺兴",
-        "劉嘉玲",
-        "佐藤健",
-        "艾米",
-        "雪野",
-        "蔡思貝"
-      ],
-      "diretor": "Stephen Chow",
-      "generos": [
-        "Drama",
-        "Comédia",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
-      "pais": [
-        "HK",
-        "CN"
-      ],
-      "idiomas": [
-        "zh"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36103784/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kung%20Fu%20Soccer",
-        "metacritic": "https://www.metacritic.com/search/Kung%20Fu%20Soccer/"
-      }
-    },
-    {
       "tmdb_id": 1616674,
       "imdb_id": "tt39370887",
       "titulo_original": "Aku Sebelum Aku",
@@ -1595,153 +1643,39 @@
       }
     },
     {
-      "tmdb_id": 1484913,
-      "imdb_id": "tt39632269",
-      "titulo_original": "Ikka",
-      "titulo_ingles": "Ikka",
+      "tmdb_id": 1491920,
+      "imdb_id": "tt36103784",
+      "titulo_original": "功夫女足",
+      "titulo_ingles": "Kung Fu Soccer",
       "ano": 2026,
-      "data_lancamento": "2026-07-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Com a vida de uma pessoa querida em jogo, um advogado renomado precisa defender um homem que acredita ser culpado, enquanto luta contra a própria consciência.",
-      "elenco": [
-        "सनी द्योल",
-        "Akshaye Khanna",
-        "Tillotama Shome",
-        "दीया मिर्ज़ा",
-        "Sanjeeda Sheikh",
-        "Jyoti Mukherjee",
-        "Akansha Ranjan Kapoor",
-        "Shishir Sharma"
-      ],
-      "diretor": "Siddharth P. Malhotra",
-      "generos": [
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/gbg2dqK1zIvvSyTMaCJ4g22Pl9l.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 140,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1484913-ikka/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39632269/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ikka",
-        "metacritic": "https://www.metacritic.com/search/Ikka/"
-      }
-    },
-    {
-      "tmdb_id": 1404304,
-      "imdb_id": "tt35051162",
-      "titulo_original": "The Isolate Thief",
-      "titulo_ingles": "The Isolate Thief",
-      "ano": 2026,
-      "data_lancamento": "2026-07-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma mulher esconde ouro roubado de bandidos que controlam seu posto remoto enquanto enfrentam o inverno, onde a sobrevivência depende de engenhosidade e lealdade.",
-      "elenco": [
-        "Mackenzie Foy",
-        "Odeya Rush",
-        "Sean Bean",
-        "Joe Pantoliano",
-        "Jack Kesy",
-        "Ty Simpkins",
-        "Martin Sensmeier",
-        "Bryan Martin"
-      ],
-      "diretor": "John Suits",
-      "generos": [
-        "Faroeste",
-        "Ação",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 95,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35051162/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Isolate%20Thief",
-        "metacritic": "https://www.metacritic.com/search/The%20Isolate%20Thief/"
-      }
-    },
-    {
-      "tmdb_id": 1381202,
-      "imdb_id": "tt33372918",
-      "titulo_original": "The Outer Threat",
-      "titulo_ingles": "The Outer Threat",
-      "ano": 2026,
-      "data_lancamento": "2026-07-10",
+      "data_lancamento": "2026-07-11",
       "data_qualificacao": "",
       "sinopse_pt": "",
       "elenco": [
-        "Constance Wu",
-        "Mark O'Brien",
-        "William Fichtner",
-        "Isaac Smelcer-Zhang",
-        "Oscar Hsu",
-        "Murray Furrow",
-        "Callista  Crowe",
-        "Stephanie Aubertin"
+        "张小斐",
+        "迪丽热巴",
+        "张艺兴",
+        "劉嘉玲",
+        "佐藤健",
+        "艾米",
+        "雪野",
+        "蔡思貝"
       ],
-      "diretor": "William Woods",
+      "diretor": "Stephen Chow",
       "generos": [
-        "Ficção científica",
-        "Thriller"
+        "Drama",
+        "Comédia",
+        "Ação"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jspztckSybRKigzz5IFueP8qptV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
       "pais": [
-        "CA"
+        "HK",
+        "CN"
       ],
       "idiomas": [
-        "en"
+        "zh"
       ],
-      "duracao": 94,
+      "duracao": 106,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1756,9 +1690,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt33372918/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Outer%20Threat",
-        "metacritic": "https://www.metacritic.com/search/The%20Outer%20Threat/"
+        "imdb": "https://www.imdb.com/title/tt36103784/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kung%20Fu%20Soccer",
+        "metacritic": "https://www.metacritic.com/search/Kung%20Fu%20Soccer/"
       }
     },
     {
@@ -1878,40 +1812,38 @@
       }
     },
     {
-      "tmdb_id": 1108427,
-      "imdb_id": "tt27419466",
-      "titulo_original": "Moana",
-      "titulo_ingles": "Moana",
+      "tmdb_id": 1484913,
+      "imdb_id": "tt39632269",
+      "titulo_original": "Ikka",
+      "titulo_ingles": "Ikka",
       "ano": 2026,
-      "data_lancamento": "2026-07-08",
+      "data_lancamento": "2026-07-10",
       "data_qualificacao": "",
-      "sinopse_pt": "Na Polinésia Antiga, quando uma terrível maldição contraída por Maui chega à ilha de um impetuoso chefe, sua filha obstinada responde ao chamado do Oceano para procurar o semideus e consertar as coisas. Adaptação live-action do filme de animação da Disney de 2016 'Moana'",
+      "sinopse_pt": "Com a vida de uma pessoa querida em jogo, um advogado renomado precisa defender um homem que acredita ser culpado, enquanto luta contra a própria consciência.",
       "elenco": [
-        "Catherine Lagaʻaia",
-        "Dwayne Johnson",
-        "Rena Owen",
-        "John Tui",
-        "Frankie Adams",
-        "Jemaine Clement",
-        "Emma Puahi-Shapazian",
-        "Amaya Masoli"
+        "सनी द्योल",
+        "Akshaye Khanna",
+        "Tillotama Shome",
+        "दीया मिर्ज़ा",
+        "Sanjeeda Sheikh",
+        "Jyoti Mukherjee",
+        "Akansha Ranjan Kapoor",
+        "Shishir Sharma"
       ],
-      "diretor": "Thomas Kail",
+      "diretor": "Siddharth P. Malhotra",
       "generos": [
-        "Família",
-        "Fantasia",
-        "Comédia",
-        "Aventura"
+        "Drama",
+        "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eEsiTi19EYBluPQliS3CMnBgqTj.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gbg2dqK1zIvvSyTMaCJ4g22Pl9l.jpg",
       "pais": [
-        "US"
+        "IN"
       ],
       "idiomas": [
-        "en"
+        "hi"
       ],
-      "duracao": 115,
-      "rt_critica": 31,
+      "duracao": 140,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -1919,15 +1851,131 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 31,
+      "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "cinema"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1484913-ikka/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt27419466/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Moana",
-        "metacritic": "https://www.metacritic.com/search/Moana/"
+        "imdb": "https://www.imdb.com/title/tt39632269/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ikka",
+        "metacritic": "https://www.metacritic.com/search/Ikka/"
+      }
+    },
+    {
+      "tmdb_id": 1381202,
+      "imdb_id": "tt33372918",
+      "titulo_original": "The Outer Threat",
+      "titulo_ingles": "The Outer Threat",
+      "ano": 2026,
+      "data_lancamento": "2026-07-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Constance Wu",
+        "Mark O'Brien",
+        "William Fichtner",
+        "Isaac Smelcer-Zhang",
+        "Oscar Hsu",
+        "Murray Furrow",
+        "Callista  Crowe",
+        "Stephanie Aubertin"
+      ],
+      "diretor": "William Woods",
+      "generos": [
+        "Ficção científica",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jspztckSybRKigzz5IFueP8qptV.jpg",
+      "pais": [
+        "CA"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 94,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33372918/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Outer%20Threat",
+        "metacritic": "https://www.metacritic.com/search/The%20Outer%20Threat/"
+      }
+    },
+    {
+      "tmdb_id": 1404304,
+      "imdb_id": "tt35051162",
+      "titulo_original": "The Isolate Thief",
+      "titulo_ingles": "The Isolate Thief",
+      "ano": 2026,
+      "data_lancamento": "2026-07-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma mulher esconde ouro roubado de bandidos que controlam seu posto remoto enquanto enfrentam o inverno, onde a sobrevivência depende de engenhosidade e lealdade.",
+      "elenco": [
+        "Mackenzie Foy",
+        "Odeya Rush",
+        "Sean Bean",
+        "Joe Pantoliano",
+        "Jack Kesy",
+        "Ty Simpkins",
+        "Martin Sensmeier",
+        "Bryan Martin"
+      ],
+      "diretor": "John Suits",
+      "generos": [
+        "Faroeste",
+        "Ação",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 95,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35051162/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Isolate%20Thief",
+        "metacritic": "https://www.metacritic.com/search/The%20Isolate%20Thief/"
       }
     },
     {
@@ -2045,6 +2093,59 @@
         "imdb": "https://www.imdb.com/title/tt39385949/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Nothing%20to%20Lose",
         "metacritic": "https://www.metacritic.com/search/Nothing%20to%20Lose/"
+      }
+    },
+    {
+      "tmdb_id": 1108427,
+      "imdb_id": "tt27419466",
+      "titulo_original": "Moana",
+      "titulo_ingles": "Moana",
+      "ano": 2026,
+      "data_lancamento": "2026-07-08",
+      "data_qualificacao": "",
+      "sinopse_pt": "Na Polinésia Antiga, quando uma terrível maldição contraída por Maui chega à ilha de um impetuoso chefe, sua filha obstinada responde ao chamado do Oceano para procurar o semideus e consertar as coisas. Adaptação live-action do filme de animação da Disney de 2016 'Moana'",
+      "elenco": [
+        "Catherine Lagaʻaia",
+        "Dwayne Johnson",
+        "Rena Owen",
+        "John Tui",
+        "Frankie Adams",
+        "Jemaine Clement",
+        "Emma Puahi-Shapazian",
+        "Amaya Masoli"
+      ],
+      "diretor": "Thomas Kail",
+      "generos": [
+        "Família",
+        "Fantasia",
+        "Comédia",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eEsiTi19EYBluPQliS3CMnBgqTj.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 115,
+      "rt_critica": 31,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 31,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt27419466/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Moana",
+        "metacritic": "https://www.metacritic.com/search/Moana/"
       }
     },
     {
@@ -2213,6 +2314,56 @@
       }
     },
     {
+      "tmdb_id": 1645603,
+      "imdb_id": "tt33296064",
+      "titulo_original": "Night of the Living Dead",
+      "titulo_ingles": "Night of the Living Dead",
+      "ano": 2026,
+      "data_lancamento": "2026-07-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Vivica A. Fox",
+        "Brittany Underwood",
+        "Robert Carradine",
+        "Dee Wallace",
+        "Eva Ceja",
+        "Jared Cohn",
+        "Raphael Gabai",
+        "Richard Gabai"
+      ],
+      "diretor": "Christopher Ray",
+      "generos": [
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 87,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33296064/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Night%20of%20the%20Living%20Dead",
+        "metacritic": "https://www.metacritic.com/search/Night%20of%20the%20Living%20Dead/"
+      }
+    },
+    {
       "tmdb_id": 1698863,
       "imdb_id": "tt41605854",
       "titulo_original": "The Odyssey",
@@ -2262,120 +2413,6 @@
         "imdb": "https://www.imdb.com/title/tt41605854/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Odyssey",
         "metacritic": "https://www.metacritic.com/search/The%20Odyssey/"
-      }
-    },
-    {
-      "tmdb_id": 1705729,
-      "imdb_id": "tt34584846",
-      "titulo_original": "Man of War",
-      "titulo_ingles": "Man of War",
-      "ano": 2026,
-      "data_lancamento": "2026-07-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "Quando uma agente humanitária desaparece nas primeiras horas da guerra na Ucrânia, um ex-agente da Marinha dos Estados Unidos e da CIA entra no país devastado para trazê-la de volta.",
-      "elenco": [
-        "LaMonica Garrett",
-        "Andrew Howard",
-        "Linds Edwards",
-        "Rosmary Yaneva",
-        "Jason Patric",
-        "Daniel Bernhardt",
-        "Antoni Davidov",
-        "François Coetzer"
-      ],
-      "diretor": "William Kaufman",
-      "generos": [
-        "Ação",
-        "Thriller",
-        "Guerra"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "bg",
-        "en",
-        "ru"
-      ],
-      "duracao": 111,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34584846/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Man%20of%20War",
-        "metacritic": "https://www.metacritic.com/search/Man%20of%20War/"
-      }
-    },
-    {
-      "tmdb_id": 1725116,
-      "imdb_id": "tt43140642",
-      "titulo_original": "Simpsley",
-      "titulo_ingles": "Simpsley",
-      "ano": 2026,
-      "data_lancamento": "2026-07-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Dan Castellaneta",
-        "Julie Kavner",
-        "Nancy Cartwright",
-        "Yeardley Smith",
-        "Hank Azaria",
-        "Harry Shearer",
-        "Tress MacNeille",
-        "Alex Désert"
-      ],
-      "diretor": "Debbie Bruce Mahan",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 24,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1725116-simpsley/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43140642/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Simpsley",
-        "metacritic": "https://www.metacritic.com/search/Simpsley/"
       }
     },
     {
@@ -2430,56 +2467,6 @@
         "imdb": "https://www.imdb.com/title/tt28089784/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Satluj",
         "metacritic": "https://www.metacritic.com/search/Satluj/"
-      }
-    },
-    {
-      "tmdb_id": 1645603,
-      "imdb_id": "tt33296064",
-      "titulo_original": "Night of the Living Dead",
-      "titulo_ingles": "Night of the Living Dead",
-      "ano": 2026,
-      "data_lancamento": "2026-07-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Vivica A. Fox",
-        "Brittany Underwood",
-        "Robert Carradine",
-        "Dee Wallace",
-        "Eva Ceja",
-        "Jared Cohn",
-        "Raphael Gabai",
-        "Richard Gabai"
-      ],
-      "diretor": "Christopher Ray",
-      "generos": [
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 87,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33296064/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Night%20of%20the%20Living%20Dead",
-        "metacritic": "https://www.metacritic.com/search/Night%20of%20the%20Living%20Dead/"
       }
     },
     {
@@ -2597,110 +2584,6 @@
         "imdb": "https://www.imdb.com/title/tt41983440/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=23%20000%20Lives",
         "metacritic": "https://www.metacritic.com/search/23%20000%20Lives/"
-      }
-    },
-    {
-      "tmdb_id": 1430698,
-      "imdb_id": "tt30217600",
-      "titulo_original": "The Bay",
-      "titulo_ingles": "The Bay",
-      "ano": 2026,
-      "data_lancamento": "2026-07-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Francesca Eastwood",
-        "Dani Oliveros",
-        "Alexander Wraith",
-        "Ta'imua",
-        "Calan Scherer",
-        "Destiny Benner"
-      ],
-      "diretor": "Phil Volken",
-      "generos": [
-        "Thriller",
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
-      "pais": [
-        "US",
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 87,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt30217600/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Bay",
-        "metacritic": "https://www.metacritic.com/search/The%20Bay/"
-      }
-    },
-    {
-      "tmdb_id": 964849,
-      "imdb_id": "tt34383465",
-      "titulo_original": "Yön lapsi",
-      "titulo_ingles": "Nightborn",
-      "ano": 2026,
-      "data_lancamento": "2026-07-01",
-      "data_qualificacao": "",
-      "sinopse_pt": "Em uma floresta na Finlândia, Saga e seu marido, Jon, iniciam um novo capítulo de suas vidas ao se tornarem pais. Porém, a alegria de Saga é ofuscada por uma suspeita perturbadora sobre o recém-nascido. Sem que Jon saiba, ela passa a enfrentar sozinha uma verdade inquietante, o que acaba criando um abismo entre o casal.",
-      "elenco": [
-        "Rupert Grint",
-        "Seidi Haarla",
-        "Pamela Tola",
-        "Pirkko Saisio",
-        "Rebecca Lacey",
-        "John Thomson",
-        "Silvia Saloranta",
-        "Satu Tuuli Karhu"
-      ],
-      "diretor": "Hanna Bergholm",
-      "generos": [
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bLSrV2Him731C9tDCRuHq2drit5.jpg",
-      "pais": [
-        "FI",
-        "LT",
-        "FR",
-        "GB"
-      ],
-      "idiomas": [
-        "en",
-        "fi"
-      ],
-      "duracao": 92,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34383465/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Nightborn",
-        "metacritic": "https://www.metacritic.com/search/Nightborn/"
       }
     },
     {
@@ -2936,6 +2819,58 @@
         "imdb": "https://www.imdb.com/title/tt23865918/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Peddi",
         "metacritic": "https://www.metacritic.com/search/Peddi/"
+      }
+    },
+    {
+      "tmdb_id": 1375646,
+      "imdb_id": "tt34385135",
+      "titulo_original": "군체",
+      "titulo_ingles": "Colony",
+      "ano": 2026,
+      "data_lancamento": "2026-05-21",
+      "data_qualificacao": "",
+      "sinopse_pt": "De repente, um vírus que sofre mutações rápidas é liberado em uma conferência de biologia, forçando o isolamento imediato do local. A contaminação se espalha rapidamente, e os infectados não apenas atacam, eles evoluem de formas imprevisíveis e cada vez mais perigosas. Presos nesse confinamento, um grupo de sobreviventes precisa lutar pela própria vida enquanto, a cada minuto, as regras do jogo mudam.",
+      "elenco": [
+        "Gianna Jun",
+        "Koo Kyo-hwan",
+        "Ji Chang-wook",
+        "Kim Shin-rok",
+        "Shin Hyun-been",
+        "Go Soo",
+        "이중옥",
+        "Kim Jong-tae"
+      ],
+      "diretor": "Yeon Sang-ho",
+      "generos": [
+        "Ação",
+        "Terror",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/5tQ8kDNk00HPuVb43pZH1BmcNWQ.jpg",
+      "pais": [
+        "KR"
+      ],
+      "idiomas": [
+        "ko"
+      ],
+      "duracao": 122,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 57,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 57,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34385135/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Colony",
+        "metacritic": "https://www.metacritic.com/search/Colony/"
       }
     },
     {
@@ -3204,6 +3139,56 @@
       }
     },
     {
+      "tmdb_id": 1523145,
+      "imdb_id": "tt38190257",
+      "titulo_original": "Твоё сердце будет разбито",
+      "titulo_ingles": "Your Heart Will Be Broken",
+      "ano": 2026,
+      "data_lancamento": "2026-03-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "A adolescente Polina tenta recomeçar a vida em uma nova cidade, mas logo se torna alvo de bullying na escola. Tudo muda quando Bars, o aluno mais temido e misterioso do colégio, oferece proteção em troca de que ela siga suas próprias regras. O que começa com um “fake dating” logo evolui para uma relação intensa e emocionalmente complexa, marcada por dependência, vulnerabilidade e uma crescente necessidade de pertencimento.",
+      "elenco": [
+        "Даниэль Вегас",
+        "Вероника Журавлёва",
+        "Иван Трушин",
+        "Максим Сапрыкин",
+        "Аля Майер",
+        "Евгения Лоза",
+        "Павел Кузьмин",
+        "Александра Тихонова"
+      ],
+      "diretor": "Михаил Вайнберг",
+      "generos": [
+        "Romance"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/lsa8cLHVMPcKiSV5blNOqHTpQil.jpg",
+      "pais": [
+        "RU"
+      ],
+      "idiomas": [
+        "ru"
+      ],
+      "duracao": 105,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38190257/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Your%20Heart%20Will%20Be%20Broken",
+        "metacritic": "https://www.metacritic.com/search/Your%20Heart%20Will%20Be%20Broken/"
+      }
+    },
+    {
       "tmdb_id": 1263532,
       "imdb_id": "tt32358025",
       "titulo_original": "Corrida dos Bichos",
@@ -3375,36 +3360,38 @@
       }
     },
     {
-      "tmdb_id": 1091196,
-      "imdb_id": "tt35504398",
-      "titulo_original": "On vous croit",
-      "titulo_ingles": "We Believe You",
+      "tmdb_id": 1440171,
+      "imdb_id": "tt28090350",
+      "titulo_original": "Una quinta portuguesa",
+      "titulo_ingles": "The Portuguese House",
       "ano": 2025,
-      "data_lancamento": "2025-11-12",
+      "data_lancamento": "2025-05-09",
       "data_qualificacao": "",
-      "sinopse_pt": "Hoje, Alice está perante um juiz, sabendo que não há margem para erro. Ela precisa falar por seus filhos e confrontar o pai deles, já que sua custódia está sendo questionada. Será que ela conseguirá fazer as vozes deles serem ouvidas e protegê-los antes que seja tarde demais?",
+      "sinopse_pt": "O desaparecimento da esposa deixa Fernando, um pacato professor de Geografia, completamente devastado. Sem rumo, ele assume a identidade de outro homem e passa a trabalhar como jardineiro em uma quinta portuguesa onde desenvolve uma amizade inesperada com a dona da casa, dando início a uma nova vida que não lhe pertence.",
       "elenco": [
-        "Myriem Akheddiou",
-        "Laurent Capelluto",
-        "Natali Broods",
-        "Ulysse Goffin",
-        "Adèle Pinckaers",
-        "Alisa Laub",
-        "Marion de Nanteuil",
-        "Mounir Bennaoum"
+        "Manolo Solo",
+        "Maria de Medeiros",
+        "Бранка Катић",
+        "Rita Cabaço",
+        "Xavi Mira",
+        "Morgan Blasco",
+        "Gonçalo Dantas",
+        "Rui Morisson"
       ],
-      "diretor": "Arnaud Dufeys, Charlotte Devillers",
+      "diretor": "Avelina Prat",
       "generos": [
         "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/3YX2WS2QqoirzOPvLwKg4N4biLc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iaRrZtVzbOlBaS0gexJGUgVci0C.jpg",
       "pais": [
-        "BE"
+        "ES",
+        "PT"
       ],
       "idiomas": [
-        "fr"
+        "pt",
+        "es"
       ],
-      "duracao": 78,
+      "duracao": 114,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -3419,9 +3406,9 @@
         "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt35504398/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=We%20Believe%20You",
-        "metacritic": "https://www.metacritic.com/search/We%20Believe%20You/"
+        "imdb": "https://www.imdb.com/title/tt28090350/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Portuguese%20House",
+        "metacritic": "https://www.metacritic.com/search/The%20Portuguese%20House/"
       }
     },
     {
