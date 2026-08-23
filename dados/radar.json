@@ -1,7 +1,73 @@
 {
   "versao": 1,
-  "gerado_em": "2026-08-22T09:48:27.917Z",
+  "gerado_em": "2026-08-23T09:50:10.713Z",
   "filmes": [
+    {
+      "tmdb_id": 1621552,
+      "imdb_id": "tt39390497",
+      "titulo_original": "La captura",
+      "titulo_ingles": "Facing El Chapo",
+      "ano": 2026,
+      "data_lancamento": "2026-08-21",
+      "data_qualificacao": "",
+      "sinopse_pt": "Dois policiais mexicanos precisam sobreviver às últimas horas de seu turno após cruzarem o caminho de um chefe de cartel implacável.",
+      "elenco": [
+        "Alfonso Herrera",
+        "Noé Hernández",
+        "Héctor Kotsifakis",
+        "Juan Pablo Cruz García",
+        "Paola Fernández",
+        "Antonio Fortier",
+        "Allan Durell",
+        "Gerardo Trejoluna"
+      ],
+      "diretor": "Chava Cartas",
+      "generos": [
+        "Crime",
+        "Ação",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/8JL52sl5g11JwNAqC6APVqNyNha.jpg",
+      "pais": [
+        "MX"
+      ],
+      "idiomas": [
+        "pt",
+        "es"
+      ],
+      "duracao": 91,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39390497/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Facing%20El%20Chapo",
+        "metacritic": "https://www.metacritic.com/search/Facing%20El%20Chapo/"
+      }
+    },
     {
       "tmdb_id": 1291595,
       "imdb_id": "tt32393988",
@@ -179,58 +245,6 @@
         "imdb": "https://www.imdb.com/title/tt6743524/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Camp%20Rock%203",
         "metacritic": "https://www.metacritic.com/search/Camp%20Rock%203/"
-      }
-    },
-    {
-      "tmdb_id": 1101383,
-      "imdb_id": "tt27165187",
-      "titulo_original": "The End of Oak Street",
-      "titulo_ingles": "The End of Oak Street",
-      "ano": 2026,
-      "data_lancamento": "2026-08-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após um misterioso evento cósmico abalar o bairro Oak Street e o transportar dos subúrbios para um lugar desconhecido, a família Platt descobre que sua sobrevivência vai depender da união entre todos para enfrentar um ambiente agora irreconhecível.",
-      "elenco": [
-        "Anne Hathaway",
-        "Ewan McGregor",
-        "Christian Convery",
-        "Maisy Stella",
-        "Jordan Alexa Davis",
-        "P.J. Byrne",
-        "Bethany Anne Lind",
-        "Emily Kuroda"
-      ],
-      "diretor": "David Robert Mitchell",
-      "generos": [
-        "Ficção científica",
-        "Mistério",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4uuHvSqtAqbFFl0ZgOMx3xbGw1J.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 100,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt27165187/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20End%20of%20Oak%20Street",
-        "metacritic": "https://www.metacritic.com/search/The%20End%20of%20Oak%20Street/"
       }
     },
     {
@@ -485,6 +499,57 @@
       }
     },
     {
+      "tmdb_id": 1323244,
+      "imdb_id": "tt29512655",
+      "titulo_original": "Rage of Stars",
+      "titulo_ingles": "Rage of Stars",
+      "ano": 2026,
+      "data_lancamento": "2026-08-06",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Andrea Tivadar",
+        "Jord Knotter",
+        "Jack McEvoy",
+        "Elijah Rowen",
+        "Małgorzata Klara",
+        "Mayu Gralińska Sakai",
+        "Jakub Ormaniec"
+      ],
+      "diretor": "Łukasz Róg",
+      "generos": [
+        "Ação",
+        "Ficção científica",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+      "pais": [
+        "PL"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 106,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt29512655/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Rage%20of%20Stars",
+        "metacritic": "https://www.metacritic.com/search/Rage%20of%20Stars/"
+      }
+    },
+    {
       "tmdb_id": 1146148,
       "imdb_id": "tt21435186",
       "titulo_original": "Sorry, Charlie",
@@ -564,58 +629,6 @@
       }
     },
     {
-      "tmdb_id": 1458215,
-      "imdb_id": "tt36415524",
-      "titulo_original": "The Gentleman Thief",
-      "titulo_ingles": "The Gentleman Thief",
-      "ano": 2026,
-      "data_lancamento": "2026-07-31",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um ladrão aposentado precisa proteger seu irmão impulsivo de um desastre quando um roubo de um iate de 100 milhões de dólares se transforma em uma perigosa teia de enganos. Antigos inimigos ressurgem à medida que os riscos aumentam, forçando-o a usar todos os truques que conhece para sobreviver.",
-      "elenco": [
-        "John Travolta",
-        "Lukas Haas",
-        "Rebecca De Mornay",
-        "Natali Yura",
-        "Emily Skinner",
-        "Sam Asghari",
-        "Quavo",
-        "DJ Khaled"
-      ],
-      "diretor": "Randall Emmett",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36415524/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Gentleman%20Thief",
-        "metacritic": "https://www.metacritic.com/search/The%20Gentleman%20Thief/"
-      }
-    },
-    {
       "tmdb_id": 1307118,
       "imdb_id": "tt32654916",
       "titulo_original": "Soulm8te",
@@ -665,6 +678,58 @@
         "imdb": "https://www.imdb.com/title/tt32654916/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Soulm8te",
         "metacritic": "https://www.metacritic.com/search/Soulm8te/"
+      }
+    },
+    {
+      "tmdb_id": 1458215,
+      "imdb_id": "tt36415524",
+      "titulo_original": "The Gentleman Thief",
+      "titulo_ingles": "The Gentleman Thief",
+      "ano": 2026,
+      "data_lancamento": "2026-07-31",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um ladrão aposentado precisa proteger seu irmão impulsivo de um desastre quando um roubo de um iate de 100 milhões de dólares se transforma em uma perigosa teia de enganos. Antigos inimigos ressurgem à medida que os riscos aumentam, forçando-o a usar todos os truques que conhece para sobreviver.",
+      "elenco": [
+        "John Travolta",
+        "Lukas Haas",
+        "Rebecca De Mornay",
+        "Natali Yura",
+        "Emily Skinner",
+        "Sam Asghari",
+        "Quavo",
+        "DJ Khaled"
+      ],
+      "diretor": "Randall Emmett",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36415524/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Gentleman%20Thief",
+        "metacritic": "https://www.metacritic.com/search/The%20Gentleman%20Thief/"
       }
     },
     {
@@ -730,6 +795,70 @@
         "imdb": "https://www.imdb.com/title/tt42839367/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snoopy%20Presents%3A%20There's%20No%20Place%20Like%20Home%2C%20Snoopy",
         "metacritic": "https://www.metacritic.com/search/Snoopy%20Presents%3A%20There's%20No%20Place%20Like%20Home%2C%20Snoopy/"
+      }
+    },
+    {
+      "tmdb_id": 1616131,
+      "imdb_id": "tt37961750",
+      "titulo_original": "Un hijo propio",
+      "titulo_ingles": "A Child of My Own",
+      "ano": 2026,
+      "data_lancamento": "2026-07-30",
+      "data_qualificacao": "",
+      "sinopse_pt": "Desesperada para ter um filho e pressionada pela família e pela sociedade, uma mulher finge estar grávida e acaba envolvida em um crime neste documentário impactante.",
+      "elenco": [
+        "Ana Celeste",
+        "Armando Espitia",
+        "Ángeles Cruz",
+        "Mayra Sérbulo",
+        "Luisa Guzmán",
+        "Casio Figueroa",
+        "Alejandro Porter",
+        "Azucena Acevedo"
+      ],
+      "diretor": "Maite Alberdi",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/iBD5kzk6XMyQEuV4m4A6OotqcSK.jpg",
+      "pais": [
+        "CL",
+        "MX"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 96,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1616131-un-hijo-propio/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37961750/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Child%20of%20My%20Own",
+        "metacritic": "https://www.metacritic.com/search/A%20Child%20of%20My%20Own/"
       }
     },
     {
@@ -849,6 +978,71 @@
       }
     },
     {
+      "tmdb_id": 1659155,
+      "imdb_id": "tt41111628",
+      "titulo_original": "Los creyentes",
+      "titulo_ingles": "The Truthers",
+      "ano": 2026,
+      "data_lancamento": "2026-07-24",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
+      "elenco": [
+        "Jose Coronado",
+        "Stéphanie Magnin",
+        "Fanny Gautier",
+        "Alberto Olmo",
+        "Israel Ruiz",
+        "Mabel del Pozo",
+        "Celine Fortenbacher",
+        "Olaya Lopez"
+      ],
+      "diretor": "Roger Gual",
+      "generos": [
+        "Thriller",
+        "Drama",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
+      "pais": [
+        "ES"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 106,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt41111628/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Truthers",
+        "metacritic": "https://www.metacritic.com/search/The%20Truthers/"
+      }
+    },
+    {
       "tmdb_id": 980431,
       "imdb_id": "tt18259538",
       "titulo_original": "Avatar Aang: The Last Airbender",
@@ -929,71 +1123,6 @@
         "imdb": "https://www.imdb.com/title/tt18259538/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Avatar%20Aang%3A%20The%20Last%20Airbender",
         "metacritic": "https://www.metacritic.com/search/Avatar%20Aang%3A%20The%20Last%20Airbender/"
-      }
-    },
-    {
-      "tmdb_id": 1659155,
-      "imdb_id": "tt41111628",
-      "titulo_original": "Los creyentes",
-      "titulo_ingles": "The Truthers",
-      "ano": 2026,
-      "data_lancamento": "2026-07-24",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
-      "elenco": [
-        "Jose Coronado",
-        "Stéphanie Magnin",
-        "Fanny Gautier",
-        "Alberto Olmo",
-        "Israel Ruiz",
-        "Mabel del Pozo",
-        "Celine Fortenbacher",
-        "Olaya Lopez"
-      ],
-      "diretor": "Roger Gual",
-      "generos": [
-        "Thriller",
-        "Drama",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
-      "pais": [
-        "ES"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt41111628/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Truthers",
-        "metacritic": "https://www.metacritic.com/search/The%20Truthers/"
       }
     },
     {
@@ -1106,6 +1235,69 @@
       }
     },
     {
+      "tmdb_id": 1361774,
+      "imdb_id": "tt33499146",
+      "titulo_original": "The Dink",
+      "titulo_ingles": "The Dink",
+      "ano": 2026,
+      "data_lancamento": "2026-07-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "Dusty \"O Martelo\" Boyd, um tenista profissional decadente, precisa muito de uma vitória. Em uma missão para salvar um country club em dificuldades e conquistar o respeito de seu pai, Dusty quebra um voto sagrado e faz o impensável: joga pickleball.",
+      "elenco": [
+        "Jake Johnson",
+        "Mary Steenburgen",
+        "Chloe Fineman",
+        "Aaron Chen",
+        "Patton Oswalt",
+        "Andy Roddick",
+        "John McEnroe",
+        "Ben Stiller"
+      ],
+      "diretor": "Josh Greenbaum",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/lIQGvXrP76yQ3bKiUkYTqGTXFcM.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 103,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 57,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 57,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Apple TV",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/mcbz1LgtErU9p4UdbZ0rG6RTWHX.jpg"
+          },
+          {
+            "nome": "Apple TV Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/mHrYMgnZIp6lgW2aXg7ix9zGOnA.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1361774-the-dink/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33499146/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dink",
+        "metacritic": "https://www.metacritic.com/search/The%20Dink/"
+      }
+    },
+    {
       "tmdb_id": 1620682,
       "imdb_id": "tt43617119",
       "titulo_original": "أحبك من زمان",
@@ -1171,129 +1363,6 @@
       }
     },
     {
-      "tmdb_id": 1361774,
-      "imdb_id": "tt33499146",
-      "titulo_original": "The Dink",
-      "titulo_ingles": "The Dink",
-      "ano": 2026,
-      "data_lancamento": "2026-07-23",
-      "data_qualificacao": "",
-      "sinopse_pt": "Dusty \"O Martelo\" Boyd, um tenista profissional decadente, precisa muito de uma vitória. Em uma missão para salvar um country club em dificuldades e conquistar o respeito de seu pai, Dusty quebra um voto sagrado e faz o impensável: joga pickleball.",
-      "elenco": [
-        "Jake Johnson",
-        "Mary Steenburgen",
-        "Chloe Fineman",
-        "Aaron Chen",
-        "Patton Oswalt",
-        "Andy Roddick",
-        "John McEnroe",
-        "Ben Stiller"
-      ],
-      "diretor": "Josh Greenbaum",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/lIQGvXrP76yQ3bKiUkYTqGTXFcM.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 103,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 57,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 57,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Apple TV",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/mcbz1LgtErU9p4UdbZ0rG6RTWHX.jpg"
-          },
-          {
-            "nome": "Apple TV Amazon Channel",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/mHrYMgnZIp6lgW2aXg7ix9zGOnA.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1361774-the-dink/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33499146/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dink",
-        "metacritic": "https://www.metacritic.com/search/The%20Dink/"
-      }
-    },
-    {
-      "tmdb_id": 1723460,
-      "imdb_id": "tt43619305",
-      "titulo_original": "A Toxic Love Story",
-      "titulo_ingles": "A Toxic Love Story",
-      "ano": 2026,
-      "data_lancamento": "2026-07-22",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma série de e-mails ameaçadores se transforma em um plano de vingança envolvendo um marechal americano recém-casado e sua ex-namorada neste documentário sobre crimes reais.",
-      "elenco": [
-        "Amanda Wear",
-        "Gavin Marck",
-        "Katia Plotnikoff",
-        "Lainey Baldwin"
-      ],
-      "diretor": "Alexandra Lacey",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/1WUHK5GFZYw1la8jUFtGQRkOVba.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en",
-        "pt"
-      ],
-      "duracao": 91,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1723460-a-toxic-love-story/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43619305/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Toxic%20Love%20Story",
-        "metacritic": "https://www.metacritic.com/search/A%20Toxic%20Love%20Story/"
-      }
-    },
-    {
       "tmdb_id": 1487861,
       "imdb_id": "tt37042085",
       "titulo_original": "Elize: Sombras de uma Mulher",
@@ -1356,6 +1425,66 @@
         "imdb": "https://www.imdb.com/title/tt37042085/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Elize%3A%20Shadows%20of%20a%20Woman",
         "metacritic": "https://www.metacritic.com/search/Elize%3A%20Shadows%20of%20a%20Woman/"
+      }
+    },
+    {
+      "tmdb_id": 1723460,
+      "imdb_id": "tt43619305",
+      "titulo_original": "A Toxic Love Story",
+      "titulo_ingles": "A Toxic Love Story",
+      "ano": 2026,
+      "data_lancamento": "2026-07-22",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma série de e-mails ameaçadores se transforma em um plano de vingança envolvendo um marechal americano recém-casado e sua ex-namorada neste documentário sobre crimes reais.",
+      "elenco": [
+        "Amanda Wear",
+        "Gavin Marck",
+        "Katia Plotnikoff",
+        "Lainey Baldwin"
+      ],
+      "diretor": "Alexandra Lacey",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/1WUHK5GFZYw1la8jUFtGQRkOVba.jpg",
+      "pais": [
+        "GB"
+      ],
+      "idiomas": [
+        "en",
+        "pt"
+      ],
+      "duracao": 91,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1723460-a-toxic-love-story/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43619305/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Toxic%20Love%20Story",
+        "metacritic": "https://www.metacritic.com/search/A%20Toxic%20Love%20Story/"
       }
     },
     {
@@ -1608,9 +1737,9 @@
       ],
       "diretor": "Kimmy Gatewood",
       "generos": [
+        "Fantasia",
         "Cinema TV",
         "Família",
-        "Fantasia",
         "Aventura"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/2IdGPF5ALnkPbDBqxuzjdTuCOFC.jpg",
@@ -1881,123 +2010,6 @@
       }
     },
     {
-      "tmdb_id": 1633056,
-      "imdb_id": "tt43515101",
-      "titulo_original": "八仙！",
-      "titulo_ingles": "All Wishes Come True!",
-      "ano": 2026,
-      "data_lancamento": "2026-07-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "陈浩",
-        "李绍哲",
-        "立冬",
-        "Huang Guo",
-        "Dong Tianyi",
-        "Yu Pengli",
-        "Huang Yushuo",
-        "Zhang Yunqi"
-      ],
-      "diretor": "牟正洋",
-      "generos": [
-        "Comédia",
-        "Animação",
-        "Fantasia",
-        "Aventura"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-      "pais": [
-        "CN"
-      ],
-      "idiomas": [
-        "zh"
-      ],
-      "duracao": 143,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43515101/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=All%20Wishes%20Come%20True!",
-        "metacritic": "https://www.metacritic.com/search/All%20Wishes%20Come%20True!/"
-      }
-    },
-    {
-      "tmdb_id": 1484913,
-      "imdb_id": "tt39632269",
-      "titulo_original": "Ikka",
-      "titulo_ingles": "Ikka",
-      "ano": 2026,
-      "data_lancamento": "2026-07-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Com a vida de uma pessoa querida em jogo, um advogado renomado precisa defender um homem que acredita ser culpado, enquanto luta contra a própria consciência.",
-      "elenco": [
-        "सनी द्योल",
-        "Akshaye Khanna",
-        "Tillotama Shome",
-        "दीया मिर्ज़ा",
-        "Sanjeeda Sheikh",
-        "Jyoti Mukherjee",
-        "Akansha Ranjan Kapoor",
-        "Shishir Sharma"
-      ],
-      "diretor": "Siddharth P. Malhotra",
-      "generos": [
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/gbg2dqK1zIvvSyTMaCJ4g22Pl9l.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 140,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1484913-ikka/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39632269/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ikka",
-        "metacritic": "https://www.metacritic.com/search/Ikka/"
-      }
-    },
-    {
       "tmdb_id": 1404304,
       "imdb_id": "tt35051162",
       "titulo_original": "The Isolate Thief",
@@ -2101,6 +2113,59 @@
       }
     },
     {
+      "tmdb_id": 1633056,
+      "imdb_id": "tt43515101",
+      "titulo_original": "八仙！",
+      "titulo_ingles": "All Wishes Come True!",
+      "ano": 2026,
+      "data_lancamento": "2026-07-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "陈浩",
+        "李绍哲",
+        "立冬",
+        "Huang Guo",
+        "Dong Tianyi",
+        "Yu Pengli",
+        "Huang Yushuo",
+        "Zhang Yunqi"
+      ],
+      "diretor": "牟正洋",
+      "generos": [
+        "Comédia",
+        "Animação",
+        "Fantasia",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
+      "pais": [
+        "CN"
+      ],
+      "idiomas": [
+        "zh"
+      ],
+      "duracao": 143,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43515101/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=All%20Wishes%20Come%20True!",
+        "metacritic": "https://www.metacritic.com/search/All%20Wishes%20Come%20True!/"
+      }
+    },
+    {
       "tmdb_id": 1715492,
       "imdb_id": "tt43595399",
       "titulo_original": "Shipwrecked: Nightmare at Sea",
@@ -2164,40 +2229,38 @@
       }
     },
     {
-      "tmdb_id": 1108427,
-      "imdb_id": "tt27419466",
-      "titulo_original": "Moana",
-      "titulo_ingles": "Moana",
+      "tmdb_id": 1484913,
+      "imdb_id": "tt39632269",
+      "titulo_original": "Ikka",
+      "titulo_ingles": "Ikka",
       "ano": 2026,
-      "data_lancamento": "2026-07-08",
+      "data_lancamento": "2026-07-10",
       "data_qualificacao": "",
-      "sinopse_pt": "Na Polinésia Antiga, quando uma terrível maldição contraída por Maui chega à ilha de um impetuoso chefe, sua filha obstinada responde ao chamado do Oceano para procurar o semideus e consertar as coisas. Adaptação live-action do filme de animação da Disney de 2016 'Moana'",
+      "sinopse_pt": "Com a vida de uma pessoa querida em jogo, um advogado renomado precisa defender um homem que acredita ser culpado, enquanto luta contra a própria consciência.",
       "elenco": [
-        "Catherine Lagaʻaia",
-        "Dwayne Johnson",
-        "Rena Owen",
-        "John Tui",
-        "Frankie Adams",
-        "Jemaine Clement",
-        "Emma Puahi-Shapazian",
-        "Amaya Masoli"
+        "सनी द्योल",
+        "Akshaye Khanna",
+        "Tillotama Shome",
+        "दीया मिर्ज़ा",
+        "Sanjeeda Sheikh",
+        "Jyoti Mukherjee",
+        "Akansha Ranjan Kapoor",
+        "Shishir Sharma"
       ],
-      "diretor": "Thomas Kail",
+      "diretor": "Siddharth P. Malhotra",
       "generos": [
-        "Família",
-        "Fantasia",
-        "Comédia",
-        "Aventura"
+        "Drama",
+        "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eEsiTi19EYBluPQliS3CMnBgqTj.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gbg2dqK1zIvvSyTMaCJ4g22Pl9l.jpg",
       "pais": [
-        "US"
+        "IN"
       ],
       "idiomas": [
-        "en"
+        "hi"
       ],
-      "duracao": 115,
-      "rt_critica": 31,
+      "duracao": 140,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -2205,15 +2268,28 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 31,
+      "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "cinema"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1484913-ikka/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt27419466/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Moana",
-        "metacritic": "https://www.metacritic.com/search/Moana/"
+        "imdb": "https://www.imdb.com/title/tt39632269/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ikka",
+        "metacritic": "https://www.metacritic.com/search/Ikka/"
       }
     },
     {
@@ -2334,6 +2410,59 @@
       }
     },
     {
+      "tmdb_id": 1108427,
+      "imdb_id": "tt27419466",
+      "titulo_original": "Moana",
+      "titulo_ingles": "Moana",
+      "ano": 2026,
+      "data_lancamento": "2026-07-08",
+      "data_qualificacao": "",
+      "sinopse_pt": "Na Polinésia Antiga, quando uma terrível maldição contraída por Maui chega à ilha de um impetuoso chefe, sua filha obstinada responde ao chamado do Oceano para procurar o semideus e consertar as coisas. Adaptação live-action do filme de animação da Disney de 2016 'Moana'",
+      "elenco": [
+        "Catherine Lagaʻaia",
+        "Dwayne Johnson",
+        "Rena Owen",
+        "John Tui",
+        "Frankie Adams",
+        "Jemaine Clement",
+        "Emma Puahi-Shapazian",
+        "Amaya Masoli"
+      ],
+      "diretor": "Thomas Kail",
+      "generos": [
+        "Família",
+        "Fantasia",
+        "Comédia",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eEsiTi19EYBluPQliS3CMnBgqTj.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 115,
+      "rt_critica": 32,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 32,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt27419466/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Moana",
+        "metacritic": "https://www.metacritic.com/search/Moana/"
+      }
+    },
+    {
       "tmdb_id": 1566481,
       "imdb_id": "tt42483037",
       "titulo_original": "Marave",
@@ -2380,122 +2509,6 @@
         "imdb": "https://www.imdb.com/title/tt42483037/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Marave",
         "metacritic": "https://www.metacritic.com/search/Marave/"
-      }
-    },
-    {
-      "tmdb_id": 1212763,
-      "imdb_id": "tt31170389",
-      "titulo_original": "Evil Dead Burn",
-      "titulo_ingles": "Evil Dead Burn",
-      "ano": 2026,
-      "data_lancamento": "2026-07-07",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após a perda do marido, uma mulher busca consolo com seus sogros em sua casa isolada. À medida que, um a um, eles são transformados em Deadites — transformando o encontro em uma reunião familiar infernal —, ela descobre que os votos que fez em vida... continuam vivos mesmo após a morte.",
-      "elenco": [
-        "Souheila Yacoub",
-        "Tandi Wright",
-        "Hunter Doohan",
-        "Luciane Buchanan",
-        "Erroll Shand",
-        "Maude Davey",
-        "George Pullar",
-        "Greta van den Brink"
-      ],
-      "diretor": "Sébastien Vaniček",
-      "generos": [
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/fteLdvfRnltfLjAEnsl5E3vImnW.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "fr"
-      ],
-      "duracao": 117,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt31170389/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Evil%20Dead%20Burn",
-        "metacritic": "https://www.metacritic.com/search/Evil%20Dead%20Burn/"
-      }
-    },
-    {
-      "tmdb_id": 1659389,
-      "imdb_id": "tt41295042",
-      "titulo_original": "ONE PIECE HEROINES",
-      "titulo_ingles": "One Piece Heroines",
-      "ano": 2026,
-      "data_lancamento": "2026-07-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "Nami compra um par de sapatos, mas volta à loja com os pés machucados. O estilista Lebno se oferece para refazê-los, com uma condição: Nami terá que desfilar para ele.",
-      "elenco": [
-        "Akemi Okamura",
-        "Yuriko Yamaguchi",
-        "Maaya Sakamoto",
-        "Takehito Koyasu",
-        "Mayumi Tanaka",
-        "Hiroaki Hirata",
-        "水島裕",
-        "西原久美子"
-      ],
-      "diretor": "鎌谷悠",
-      "generos": [
-        "Animação",
-        "Ação",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/hbRXvcckbdKMhCea1JalPnSQQge.jpg",
-      "pais": [
-        "JP"
-      ],
-      "idiomas": [
-        "ja"
-      ],
-      "duracao": 24,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1659389-one-piece-heroines/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt41295042/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Piece%20Heroines",
-        "metacritic": "https://www.metacritic.com/search/One%20Piece%20Heroines/"
       }
     },
     {
@@ -3129,7 +3142,8 @@
         "US"
       ],
       "idiomas": [
-        "en"
+        "en",
+        "de"
       ],
       "duracao": 130,
       "rt_critica": null,
