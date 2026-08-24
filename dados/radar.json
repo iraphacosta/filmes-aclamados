@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-08-23T09:50:10.713Z",
+  "gerado_em": "2026-08-24T10:08:22.670Z",
   "filmes": [
     {
       "tmdb_id": 1621552,
@@ -85,7 +85,7 @@
         "Brandon Perea",
         "Maisie Richardson-Sellers",
         "Joseph Lopez",
-        "Laura Gordon"
+        "Robina Beard"
       ],
       "diretor": "Jacob Chase",
       "generos": [
@@ -117,6 +117,195 @@
         "imdb": "https://www.imdb.com/title/tt32393988/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Insidious%3A%20Out%20of%20the%20Further",
         "metacritic": "https://www.metacritic.com/search/Insidious%3A%20Out%20of%20the%20Further/"
+      }
+    },
+    {
+      "tmdb_id": 1688804,
+      "imdb_id": "tt32889884",
+      "titulo_original": "Freefall: A Reckoning for Boeing",
+      "titulo_ingles": "Freefall: A Reckoning for Boeing",
+      "ano": 2026,
+      "data_lancamento": "2026-08-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "Este documentário chocante revela como a política de corte de custos da Boeing e a ocultação de informações gerou falhas fatais de segurança.",
+      "elenco": [
+        "John Barnett",
+        "Rob Turkewitz",
+        "Sam Mohawk",
+        "Roy Irvin",
+        "Sam Salehpour",
+        "Merle Meyers",
+        "Jim McNerney",
+        "David G. Bradley"
+      ],
+      "diretor": "Rory Kennedy",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/c4xTdrb3mCRFcv6iIKyyySLGD75.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 93,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1688804-freefall-a-reckoning-for-boeing/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32889884/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Freefall%3A%20A%20Reckoning%20for%20Boeing",
+        "metacritic": "https://www.metacritic.com/search/Freefall%3A%20A%20Reckoning%20for%20Boeing/"
+      }
+    },
+    {
+      "tmdb_id": 1589248,
+      "imdb_id": "tt38662472",
+      "titulo_original": "Mein bester Freund, seine Freundin und ich",
+      "titulo_ingles": "My Best Friend, His Girlfriend and Me",
+      "ano": 2026,
+      "data_lancamento": "2026-08-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "Olli e Matze, inseparáveis desde a escola, são amigos, colegas de trabalho e até dividem o apartamento. Só que, agora, Rebecca chegou. E ela vai mudar tudo.",
+      "elenco": [
+        "Kostja Ullmann",
+        "Janina Uhse",
+        "David Kross",
+        "Ferdinand Hofer",
+        "Clara Immel",
+        "Mira Huber",
+        "Larissa Sirah Herden",
+        "Anna Herrmann"
+      ],
+      "diretor": "Marco Petry",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/zyTqoS4eXC5vf3g61CuoxIr6Tyn.jpg",
+      "pais": [
+        "DE"
+      ],
+      "idiomas": [
+        "de"
+      ],
+      "duracao": 98,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1589248-mein-bester-freund-seine-freundin-und-ich/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38662472/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Best%20Friend%2C%20His%20Girlfriend%20and%20Me",
+        "metacritic": "https://www.metacritic.com/search/My%20Best%20Friend%2C%20His%20Girlfriend%20and%20Me/"
+      }
+    },
+    {
+      "tmdb_id": 1493400,
+      "imdb_id": "tt6743524",
+      "titulo_original": "Camp Rock 3",
+      "titulo_ingles": "Camp Rock 3",
+      "ano": 2026,
+      "data_lancamento": "2026-08-13",
+      "data_qualificacao": "",
+      "sinopse_pt": "O Connect 3 perde sua banda de abertura para uma grande turnê de reunião e decide retornar ao amado Camp Rock para descobrir o próximo grande talento. Enquanto os campistas disputam a chance de abrir os shows de sua banda favorita, as tensões aumentam e as amizades são testadas, levando a alianças inesperadas, revelações e romances.",
+      "elenco": [
+        "Liamani Segura",
+        "Malachi Barton",
+        "Lumi Pollack",
+        "Hudson Stone",
+        "Casey Trotter",
+        "Brooklynn Pitts",
+        "Sherry Cola",
+        "Maria Canals-Barrera"
+      ],
+      "diretor": "Veronica Rodriguez",
+      "generos": [
+        "Música",
+        "Comédia",
+        "Drama",
+        "Cinema TV",
+        "Romance"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+      "pais": [
+        "US",
+        "CA"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 93,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1493400-camp-rock-3/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt6743524/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Camp%20Rock%203",
+        "metacritic": "https://www.metacritic.com/search/Camp%20Rock%203/"
       }
     },
     {
@@ -182,69 +371,6 @@
         "imdb": "https://www.imdb.com/title/tt36590417/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Don't%20Say%20Good%20Luck",
         "metacritic": "https://www.metacritic.com/search/Don't%20Say%20Good%20Luck/"
-      }
-    },
-    {
-      "tmdb_id": 1493400,
-      "imdb_id": "tt6743524",
-      "titulo_original": "Camp Rock 3",
-      "titulo_ingles": "Camp Rock 3",
-      "ano": 2026,
-      "data_lancamento": "2026-08-13",
-      "data_qualificacao": "",
-      "sinopse_pt": "O Connect 3 perde sua banda de abertura para uma grande turnê de reunião e decide retornar ao amado Camp Rock para descobrir o próximo grande talento. Enquanto os campistas disputam a chance de abrir os shows de sua banda favorita, as tensões aumentam e as amizades são testadas, levando a alianças inesperadas, revelações e romances.",
-      "elenco": [
-        "Liamani Segura",
-        "Malachi Barton",
-        "Lumi Pollack",
-        "Hudson Stone",
-        "Casey Trotter",
-        "Brooklynn Pitts",
-        "Joe Jonas",
-        "Nick Jonas"
-      ],
-      "diretor": "Veronica Rodriguez",
-      "generos": [
-        "Música",
-        "Comédia",
-        "Drama",
-        "Cinema TV",
-        "Romance"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-      "pais": [
-        "US",
-        "CA"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 93,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1493400-camp-rock-3/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt6743524/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Camp%20Rock%203",
-        "metacritic": "https://www.metacritic.com/search/Camp%20Rock%203/"
       }
     },
     {
@@ -629,6 +755,58 @@
       }
     },
     {
+      "tmdb_id": 1458215,
+      "imdb_id": "tt36415524",
+      "titulo_original": "The Gentleman Thief",
+      "titulo_ingles": "The Gentleman Thief",
+      "ano": 2026,
+      "data_lancamento": "2026-07-31",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um ladrão aposentado precisa proteger seu irmão impulsivo de um desastre quando um roubo de um iate de 100 milhões de dólares se transforma em uma perigosa teia de enganos. Antigos inimigos ressurgem à medida que os riscos aumentam, forçando-o a usar todos os truques que conhece para sobreviver.",
+      "elenco": [
+        "John Travolta",
+        "Lukas Haas",
+        "Rebecca De Mornay",
+        "Natali Yura",
+        "Emily Skinner",
+        "Sam Asghari",
+        "Quavo",
+        "DJ Khaled"
+      ],
+      "diretor": "Randall Emmett",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36415524/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Gentleman%20Thief",
+        "metacritic": "https://www.metacritic.com/search/The%20Gentleman%20Thief/"
+      }
+    },
+    {
       "tmdb_id": 1307118,
       "imdb_id": "tt32654916",
       "titulo_original": "Soulm8te",
@@ -681,38 +859,37 @@
       }
     },
     {
-      "tmdb_id": 1458215,
-      "imdb_id": "tt36415524",
-      "titulo_original": "The Gentleman Thief",
-      "titulo_ingles": "The Gentleman Thief",
+      "tmdb_id": 1616131,
+      "imdb_id": "tt37961750",
+      "titulo_original": "Un hijo propio",
+      "titulo_ingles": "A Child of My Own",
       "ano": 2026,
-      "data_lancamento": "2026-07-31",
+      "data_lancamento": "2026-07-30",
       "data_qualificacao": "",
-      "sinopse_pt": "Um ladrão aposentado precisa proteger seu irmão impulsivo de um desastre quando um roubo de um iate de 100 milhões de dólares se transforma em uma perigosa teia de enganos. Antigos inimigos ressurgem à medida que os riscos aumentam, forçando-o a usar todos os truques que conhece para sobreviver.",
+      "sinopse_pt": "Desesperada para ter um filho e pressionada pela família e pela sociedade, uma mulher finge estar grávida e acaba envolvida em um crime neste documentário impactante.",
       "elenco": [
-        "John Travolta",
-        "Lukas Haas",
-        "Rebecca De Mornay",
-        "Natali Yura",
-        "Emily Skinner",
-        "Sam Asghari",
-        "Quavo",
-        "DJ Khaled"
+        "Ana Celeste",
+        "Armando Espitia",
+        "Luisa Guzmán",
+        "Ángeles Cruz",
+        "Mayra Sérbulo",
+        "Mayra Batalla",
+        "Alejandro Porter",
+        "Yamile Pando"
       ],
-      "diretor": "Randall Emmett",
+      "diretor": "Maite Alberdi",
       "generos": [
-        "Ação",
-        "Crime",
-        "Thriller"
+        "Documentário"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iBD5kzk6XMyQEuV4m4A6OotqcSK.jpg",
       "pais": [
-        "US"
+        "CL",
+        "MX"
       ],
       "idiomas": [
-        "en"
+        "es"
       ],
-      "duracao": 97,
+      "duracao": 96,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -724,12 +901,25 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1616131-un-hijo-propio/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36415524/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Gentleman%20Thief",
-        "metacritic": "https://www.metacritic.com/search/The%20Gentleman%20Thief/"
+        "imdb": "https://www.imdb.com/title/tt37961750/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Child%20of%20My%20Own",
+        "metacritic": "https://www.metacritic.com/search/A%20Child%20of%20My%20Own/"
       }
     },
     {
@@ -795,70 +985,6 @@
         "imdb": "https://www.imdb.com/title/tt42839367/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snoopy%20Presents%3A%20There's%20No%20Place%20Like%20Home%2C%20Snoopy",
         "metacritic": "https://www.metacritic.com/search/Snoopy%20Presents%3A%20There's%20No%20Place%20Like%20Home%2C%20Snoopy/"
-      }
-    },
-    {
-      "tmdb_id": 1616131,
-      "imdb_id": "tt37961750",
-      "titulo_original": "Un hijo propio",
-      "titulo_ingles": "A Child of My Own",
-      "ano": 2026,
-      "data_lancamento": "2026-07-30",
-      "data_qualificacao": "",
-      "sinopse_pt": "Desesperada para ter um filho e pressionada pela família e pela sociedade, uma mulher finge estar grávida e acaba envolvida em um crime neste documentário impactante.",
-      "elenco": [
-        "Ana Celeste",
-        "Armando Espitia",
-        "Ángeles Cruz",
-        "Mayra Sérbulo",
-        "Luisa Guzmán",
-        "Casio Figueroa",
-        "Alejandro Porter",
-        "Azucena Acevedo"
-      ],
-      "diretor": "Maite Alberdi",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/iBD5kzk6XMyQEuV4m4A6OotqcSK.jpg",
-      "pais": [
-        "CL",
-        "MX"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 96,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1616131-un-hijo-propio/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37961750/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Child%20of%20My%20Own",
-        "metacritic": "https://www.metacritic.com/search/A%20Child%20of%20My%20Own/"
       }
     },
     {
@@ -978,71 +1104,6 @@
       }
     },
     {
-      "tmdb_id": 1659155,
-      "imdb_id": "tt41111628",
-      "titulo_original": "Los creyentes",
-      "titulo_ingles": "The Truthers",
-      "ano": 2026,
-      "data_lancamento": "2026-07-24",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
-      "elenco": [
-        "Jose Coronado",
-        "Stéphanie Magnin",
-        "Fanny Gautier",
-        "Alberto Olmo",
-        "Israel Ruiz",
-        "Mabel del Pozo",
-        "Celine Fortenbacher",
-        "Olaya Lopez"
-      ],
-      "diretor": "Roger Gual",
-      "generos": [
-        "Thriller",
-        "Drama",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
-      "pais": [
-        "ES"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt41111628/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Truthers",
-        "metacritic": "https://www.metacritic.com/search/The%20Truthers/"
-      }
-    },
-    {
       "tmdb_id": 980431,
       "imdb_id": "tt18259538",
       "titulo_original": "Avatar Aang: The Last Airbender",
@@ -1126,6 +1187,71 @@
       }
     },
     {
+      "tmdb_id": 1659155,
+      "imdb_id": "tt41111628",
+      "titulo_original": "Los creyentes",
+      "titulo_ingles": "The Truthers",
+      "ano": 2026,
+      "data_lancamento": "2026-07-24",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
+      "elenco": [
+        "Jose Coronado",
+        "Stéphanie Magnin",
+        "Fanny Gautier",
+        "Alberto Olmo",
+        "Israel Ruiz",
+        "Mabel del Pozo",
+        "Celine Fortenbacher",
+        "Olaya Lopez"
+      ],
+      "diretor": "Roger Gual",
+      "generos": [
+        "Thriller",
+        "Drama",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
+      "pais": [
+        "ES"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 106,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt41111628/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Truthers",
+        "metacritic": "https://www.metacritic.com/search/The%20Truthers/"
+      }
+    },
+    {
       "tmdb_id": 1185806,
       "imdb_id": "tt29356163",
       "titulo_original": "PAW Patrol: The Dino Movie",
@@ -1177,61 +1303,6 @@
         "imdb": "https://www.imdb.com/title/tt29356163/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=PAW%20Patrol%3A%20The%20Dino%20Movie",
         "metacritic": "https://www.metacritic.com/search/PAW%20Patrol%3A%20The%20Dino%20Movie/"
-      }
-    },
-    {
-      "tmdb_id": 1469342,
-      "imdb_id": "tt36629665",
-      "titulo_original": "Her Private Hell",
-      "titulo_ingles": "Her Private Hell",
-      "ano": 2026,
-      "data_lancamento": "2026-07-23",
-      "data_qualificacao": "",
-      "sinopse_pt": "Enquanto uma névoa misteriosa envolve uma metrópole futurista e libera uma presença mortal e indescritível, uma jovem atormentada parte em busca de seu pai. Nessa jornada, seu destino se cruza com o de um soldado americano que está em uma viagem desesperada para resgatar sua filha do inferno.",
-      "elenco": [
-        "Sophie Thatcher",
-        "Charles Melton",
-        "Havana Rose Liu",
-        "Kristine Froseth",
-        "忽那汐里",
-        "山田 葵",
-        "Dougray Scott",
-        "Diego Calva"
-      ],
-      "diretor": "Nicolas Winding Refn",
-      "generos": [
-        "Ficção científica",
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/62gkeidbflMmVmav17G7xJiGMA4.jpg",
-      "pais": [
-        "US",
-        "DK",
-        "GB"
-      ],
-      "idiomas": [
-        "en",
-        "ja"
-      ],
-      "duracao": 110,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 38,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 38,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36629665/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Her%20Private%20Hell",
-        "metacritic": "https://www.metacritic.com/search/Her%20Private%20Hell/"
       }
     },
     {
@@ -1363,6 +1434,172 @@
       }
     },
     {
+      "tmdb_id": 1469342,
+      "imdb_id": "tt36629665",
+      "titulo_original": "Her Private Hell",
+      "titulo_ingles": "Her Private Hell",
+      "ano": 2026,
+      "data_lancamento": "2026-07-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "Enquanto uma névoa misteriosa envolve uma metrópole futurista e libera uma presença mortal e indescritível, uma jovem atormentada parte em busca de seu pai. Nessa jornada, seu destino se cruza com o de um soldado americano que está em uma viagem desesperada para resgatar sua filha do inferno.",
+      "elenco": [
+        "Sophie Thatcher",
+        "Charles Melton",
+        "Havana Rose Liu",
+        "Kristine Froseth",
+        "忽那汐里",
+        "山田 葵",
+        "Dougray Scott",
+        "Diego Calva"
+      ],
+      "diretor": "Nicolas Winding Refn",
+      "generos": [
+        "Ficção científica",
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/62gkeidbflMmVmav17G7xJiGMA4.jpg",
+      "pais": [
+        "US",
+        "DK",
+        "GB"
+      ],
+      "idiomas": [
+        "en",
+        "ja"
+      ],
+      "duracao": 110,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 38,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 38,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36629665/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Her%20Private%20Hell",
+        "metacritic": "https://www.metacritic.com/search/Her%20Private%20Hell/"
+      }
+    },
+    {
+      "tmdb_id": 1235877,
+      "imdb_id": "tt33379543",
+      "titulo_original": "ஜன நாயகன்",
+      "titulo_ingles": "Jana Nayagan",
+      "ano": 2026,
+      "data_lancamento": "2026-07-22",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "விஜய்",
+        "పూజా హెగ్డే",
+        "बॉबी द्योल",
+        "Mamitha Baiju",
+        "ప్రియమణి",
+        "ప్రకాష్ రాజ్",
+        "கௌதம் மேனன்",
+        "Narain"
+      ],
+      "diretor": "H. Vinoth",
+      "generos": [
+        "Ação",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "ta"
+      ],
+      "duracao": 183,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33379543/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jana%20Nayagan",
+        "metacritic": "https://www.metacritic.com/search/Jana%20Nayagan/"
+      }
+    },
+    {
+      "tmdb_id": 1723460,
+      "imdb_id": "tt43619305",
+      "titulo_original": "A Toxic Love Story",
+      "titulo_ingles": "A Toxic Love Story",
+      "ano": 2026,
+      "data_lancamento": "2026-07-22",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma série de e-mails ameaçadores se transforma em um plano de vingança envolvendo um marechal americano recém-casado e sua ex-namorada neste documentário sobre crimes reais.",
+      "elenco": [
+        "Amanda Wear",
+        "Gavin Marck",
+        "Katia Plotnikoff",
+        "Lainey Baldwin"
+      ],
+      "diretor": "Alexandra Lacey",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/1WUHK5GFZYw1la8jUFtGQRkOVba.jpg",
+      "pais": [
+        "GB"
+      ],
+      "idiomas": [
+        "en",
+        "pt"
+      ],
+      "duracao": 91,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1723460-a-toxic-love-story/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43619305/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Toxic%20Love%20Story",
+        "metacritic": "https://www.metacritic.com/search/A%20Toxic%20Love%20Story/"
+      }
+    },
+    {
       "tmdb_id": 1487861,
       "imdb_id": "tt37042085",
       "titulo_original": "Elize: Sombras de uma Mulher",
@@ -1428,66 +1665,6 @@
       }
     },
     {
-      "tmdb_id": 1723460,
-      "imdb_id": "tt43619305",
-      "titulo_original": "A Toxic Love Story",
-      "titulo_ingles": "A Toxic Love Story",
-      "ano": 2026,
-      "data_lancamento": "2026-07-22",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma série de e-mails ameaçadores se transforma em um plano de vingança envolvendo um marechal americano recém-casado e sua ex-namorada neste documentário sobre crimes reais.",
-      "elenco": [
-        "Amanda Wear",
-        "Gavin Marck",
-        "Katia Plotnikoff",
-        "Lainey Baldwin"
-      ],
-      "diretor": "Alexandra Lacey",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/1WUHK5GFZYw1la8jUFtGQRkOVba.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en",
-        "pt"
-      ],
-      "duracao": 91,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1723460-a-toxic-love-story/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43619305/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Toxic%20Love%20Story",
-        "metacritic": "https://www.metacritic.com/search/A%20Toxic%20Love%20Story/"
-      }
-    },
-    {
       "tmdb_id": 1496491,
       "imdb_id": "tt37846373",
       "titulo_original": "De la Comédie-Française",
@@ -1535,6 +1712,70 @@
         "imdb": "https://www.imdb.com/title/tt37846373/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Com%C3%A9die-Fran%C3%A7aise",
         "metacritic": "https://www.metacritic.com/search/Com%C3%A9die-Fran%C3%A7aise/"
+      }
+    },
+    {
+      "tmdb_id": 949838,
+      "imdb_id": "tt36304003",
+      "titulo_original": "72 HOURS",
+      "titulo_ingles": "72 HOURS",
+      "ano": 2026,
+      "data_lancamento": "2026-07-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "Para salvar a carreira, um executivo quarentão vai a uma despedida de solteiro com um grupo de jovens, depois de ser adicionado por engano ao chat deles.",
+      "elenco": [
+        "Kevin Hart",
+        "Marcello Hernández",
+        "Mason Gooding",
+        "Kam Patterson",
+        "Ben Marshall",
+        "Zach Cherry",
+        "Michael Mando",
+        "Teyana Taylor"
+      ],
+      "diretor": "Tim Story",
+      "generos": [
+        "Comédia",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vLSogm0b4KokW3qLKEjZ6JwyCJ0.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 105,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 41,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 41,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/949838-72-hours/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36304003/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=72%20HOURS",
+        "metacritic": "https://www.metacritic.com/search/72%20HOURS/"
       }
     },
     {
@@ -1600,70 +1841,6 @@
         "imdb": "https://www.imdb.com/title/tt39749953/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Debt%20Collector",
         "metacritic": "https://www.metacritic.com/search/The%20Debt%20Collector/"
-      }
-    },
-    {
-      "tmdb_id": 949838,
-      "imdb_id": "tt36304003",
-      "titulo_original": "72 HOURS",
-      "titulo_ingles": "72 HOURS",
-      "ano": 2026,
-      "data_lancamento": "2026-07-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "Para salvar a carreira, um executivo quarentão vai a uma despedida de solteiro com um grupo de jovens, depois de ser adicionado por engano ao chat deles.",
-      "elenco": [
-        "Kevin Hart",
-        "Marcello Hernández",
-        "Mason Gooding",
-        "Kam Patterson",
-        "Ben Marshall",
-        "Zach Cherry",
-        "Michael Mando",
-        "Teyana Taylor"
-      ],
-      "diretor": "Tim Story",
-      "generos": [
-        "Comédia",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vLSogm0b4KokW3qLKEjZ6JwyCJ0.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 105,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 41,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 41,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/949838-72-hours/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36304003/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=72%20HOURS",
-        "metacritic": "https://www.metacritic.com/search/72%20HOURS/"
       }
     },
     {
@@ -2010,58 +2187,6 @@
       }
     },
     {
-      "tmdb_id": 1404304,
-      "imdb_id": "tt35051162",
-      "titulo_original": "The Isolate Thief",
-      "titulo_ingles": "The Isolate Thief",
-      "ano": 2026,
-      "data_lancamento": "2026-07-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma mulher esconde ouro roubado de bandidos que controlam seu posto remoto enquanto enfrentam o inverno, onde a sobrevivência depende de engenhosidade e lealdade.",
-      "elenco": [
-        "Mackenzie Foy",
-        "Odeya Rush",
-        "Sean Bean",
-        "Joe Pantoliano",
-        "Jack Kesy",
-        "Ty Simpkins",
-        "Martin Sensmeier",
-        "Bryan Martin"
-      ],
-      "diretor": "John Suits",
-      "generos": [
-        "Faroeste",
-        "Ação",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 95,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35051162/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Isolate%20Thief",
-        "metacritic": "https://www.metacritic.com/search/The%20Isolate%20Thief/"
-      }
-    },
-    {
       "tmdb_id": 1381202,
       "imdb_id": "tt33372918",
       "titulo_original": "The Outer Threat",
@@ -2239,7 +2364,7 @@
       "sinopse_pt": "Com a vida de uma pessoa querida em jogo, um advogado renomado precisa defender um homem que acredita ser culpado, enquanto luta contra a própria consciência.",
       "elenco": [
         "सनी द्योल",
-        "Akshaye Khanna",
+        "अक्षय खन्ना",
         "Tillotama Shome",
         "दीया मिर्ज़ा",
         "Sanjeeda Sheikh",
@@ -2290,6 +2415,58 @@
         "imdb": "https://www.imdb.com/title/tt39632269/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ikka",
         "metacritic": "https://www.metacritic.com/search/Ikka/"
+      }
+    },
+    {
+      "tmdb_id": 1404304,
+      "imdb_id": "tt35051162",
+      "titulo_original": "The Isolate Thief",
+      "titulo_ingles": "The Isolate Thief",
+      "ano": 2026,
+      "data_lancamento": "2026-07-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma mulher esconde ouro roubado de bandidos que controlam seu posto remoto enquanto enfrentam o inverno, onde a sobrevivência depende de engenhosidade e lealdade.",
+      "elenco": [
+        "Mackenzie Foy",
+        "Odeya Rush",
+        "Sean Bean",
+        "Joe Pantoliano",
+        "Jack Kesy",
+        "Ty Simpkins",
+        "Martin Sensmeier",
+        "Bryan Martin"
+      ],
+      "diretor": "John Suits",
+      "generos": [
+        "Faroeste",
+        "Ação",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 95,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35051162/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Isolate%20Thief",
+        "metacritic": "https://www.metacritic.com/search/The%20Isolate%20Thief/"
       }
     },
     {
@@ -2346,70 +2523,6 @@
       }
     },
     {
-      "tmdb_id": 1710008,
-      "imdb_id": "tt39385949",
-      "titulo_original": "Jusqu'au bout",
-      "titulo_ingles": "Nothing to Lose",
-      "ano": 2026,
-      "data_lancamento": "2026-07-08",
-      "data_qualificacao": "",
-      "sinopse_pt": "Ela fez de tudo para se tornar mãe; por isso, quando seu filho pequeno adoece, Jada não medirá esforços para encontrar um doador e salvá-lo — custe o que custar.",
-      "elenco": [
-        "Nawell Madani",
-        "Guillaume Gouix",
-        "Nicolas Briançon",
-        "David Salles",
-        "Aissatou Diallo Sagna",
-        "Manmathan Basky",
-        "Majida Ghomari",
-        "Steve Tientcheu"
-      ],
-      "diretor": "Nawell Madani, Ludovic Colbeau-Justin",
-      "generos": [
-        "Ação",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/h18Yg7onsoRDsOlkGhIiMCUT9W8.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 102,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1710008-jusqu-au-bout/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39385949/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Nothing%20to%20Lose",
-        "metacritic": "https://www.metacritic.com/search/Nothing%20to%20Lose/"
-      }
-    },
-    {
       "tmdb_id": 1108427,
       "imdb_id": "tt27419466",
       "titulo_original": "Moana",
@@ -2460,55 +2573,6 @@
         "imdb": "https://www.imdb.com/title/tt27419466/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Moana",
         "metacritic": "https://www.metacritic.com/search/Moana/"
-      }
-    },
-    {
-      "tmdb_id": 1566481,
-      "imdb_id": "tt42483037",
-      "titulo_original": "Marave",
-      "titulo_ingles": "Marave",
-      "ano": 2026,
-      "data_lancamento": "2026-07-07",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Redouane Bougheraba",
-        "Ramzy Bedia",
-        "Ava Baya",
-        "Tony Gatlif",
-        "Gustave Kervern"
-      ],
-      "diretor": "Nathanaël Guedj, Adrien Piquet-Gauthier",
-      "generos": [
-        "Comédia",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/7BtD77o0O3v2jlIXpGrR4GKGtMk.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 92,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt42483037/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Marave",
-        "metacritic": "https://www.metacritic.com/search/Marave/"
       }
     },
     {
@@ -3045,72 +3109,6 @@
         "imdb": "https://www.imdb.com/title/tt29516222/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Deep%20Water",
         "metacritic": "https://www.metacritic.com/search/Deep%20Water/"
-      }
-    },
-    {
-      "tmdb_id": 1633263,
-      "imdb_id": "tt39602729",
-      "titulo_original": "Wonderful Nightmare",
-      "titulo_ingles": "Wonderful Nightmare",
-      "ano": 2026,
-      "data_lancamento": "2026-04-04",
-      "data_qualificacao": "",
-      "sinopse_pt": "A protagonista leva uma vida de luxo e sucesso profissional, mas a sua morte inesperada vira tudo de cabeça para baixo. Ao chegar \"do outro lado\", é constatado que houve um equívoco com o seu destino. Para reparar o erro e ganhar uma segunda chance, ela é enviada de volta à vida mortal, mas com uma condição: ela terá que assumir a rotina de uma mulher comum, pobre, casada e mãe de dois filhos.",
-      "elenco": [
-        "Kim Molina",
-        "Jerald Napoles",
-        "Al Tantay",
-        "Althea Ruedas",
-        "Achilles Wenceslao",
-        "Candy Pangilinan",
-        "Yumi Lacsamana",
-        "Quinn Carrillo"
-      ],
-      "diretor": "RC Delos Reyes",
-      "generos": [
-        "Comédia",
-        "Romance",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/yF2VjrEfU3C4hNCz4gCwKqXuy3J.jpg",
-      "pais": [
-        "PH"
-      ],
-      "idiomas": [
-        "en",
-        "tl"
-      ],
-      "duracao": 122,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1633263-wonderful-nightmare/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39602729/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Wonderful%20Nightmare",
-        "metacritic": "https://www.metacritic.com/search/Wonderful%20Nightmare/"
       }
     },
     {
