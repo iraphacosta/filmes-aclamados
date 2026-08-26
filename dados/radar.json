@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-08-25T09:58:24.579Z",
+  "gerado_em": "2026-08-26T10:04:04.104Z",
   "filmes": [
     {
       "tmdb_id": 1621552,
@@ -69,6 +69,56 @@
       }
     },
     {
+      "tmdb_id": 1341138,
+      "imdb_id": "tt33305867",
+      "titulo_original": "Spa Weekend",
+      "titulo_ingles": "Spa Weekend",
+      "ano": 2026,
+      "data_lancamento": "2026-08-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "Três amigas planejam um fim de semana de descanso em um spa de luxo, mas tudo sai do controle quando a integrante mais imprevisível do grupo aparece sem avisar. Entre massagens, bebidas e decisões duvidosas, o que era para ser uma escapada relaxante se transforma no fim de semana mais caótico e divertido de suas vidas.",
+      "elenco": [
+        "Leslie Mann",
+        "Michelle Buteau",
+        "Anna Faris",
+        "Isla Fisher",
+        "Adam Demos",
+        "Dominic Ona-Ariki",
+        "Erika Heynatz",
+        "Courtney Clarke"
+      ],
+      "diretor": "Jon Lucas, Scott Moore",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vmCmJq3Bx9PfuOy6pRrCrq2GdvR.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33305867/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spa%20Weekend",
+        "metacritic": "https://www.metacritic.com/search/Spa%20Weekend/"
+      }
+    },
+    {
       "tmdb_id": 1291595,
       "imdb_id": "tt32393988",
       "titulo_original": "Insidious: Out of the Further",
@@ -117,69 +167,6 @@
         "imdb": "https://www.imdb.com/title/tt32393988/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Insidious%3A%20Out%20of%20the%20Further",
         "metacritic": "https://www.metacritic.com/search/Insidious%3A%20Out%20of%20the%20Further/"
-      }
-    },
-    {
-      "tmdb_id": 1688804,
-      "imdb_id": "tt32889884",
-      "titulo_original": "Freefall: A Reckoning for Boeing",
-      "titulo_ingles": "Freefall: A Reckoning for Boeing",
-      "ano": 2026,
-      "data_lancamento": "2026-08-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "Este documentário chocante revela como a política de corte de custos da Boeing e a ocultação de informações gerou falhas fatais de segurança.",
-      "elenco": [
-        "John Barnett",
-        "Rob Turkewitz",
-        "Sam Mohawk",
-        "Roy Irvin",
-        "Sam Salehpour",
-        "Merle Meyers",
-        "Jim McNerney",
-        "David G. Bradley"
-      ],
-      "diretor": "Rory Kennedy",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/c4xTdrb3mCRFcv6iIKyyySLGD75.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 95,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1688804-freefall-a-reckoning-for-boeing/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32889884/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Freefall%3A%20A%20Reckoning%20for%20Boeing",
-        "metacritic": "https://www.metacritic.com/search/Freefall%3A%20A%20Reckoning%20for%20Boeing/"
       }
     },
     {
@@ -246,41 +233,36 @@
       }
     },
     {
-      "tmdb_id": 1493400,
-      "imdb_id": "tt6743524",
-      "titulo_original": "Camp Rock 3",
-      "titulo_ingles": "Camp Rock 3",
+      "tmdb_id": 1688804,
+      "imdb_id": "tt32889884",
+      "titulo_original": "Freefall: A Reckoning for Boeing",
+      "titulo_ingles": "Freefall: A Reckoning for Boeing",
       "ano": 2026,
-      "data_lancamento": "2026-08-13",
+      "data_lancamento": "2026-08-14",
       "data_qualificacao": "",
-      "sinopse_pt": "O Connect 3 perde sua banda de abertura para uma grande turnê de reunião e decide retornar ao amado Camp Rock para descobrir o próximo grande talento. Enquanto os campistas disputam a chance de abrir os shows de sua banda favorita, as tensões aumentam e as amizades são testadas, levando a alianças inesperadas, revelações e romances.",
+      "sinopse_pt": "Este documentário chocante revela como a política de corte de custos da Boeing e a ocultação de informações gerou falhas fatais de segurança.",
       "elenco": [
-        "Liamani Segura",
-        "Malachi Barton",
-        "Lumi Pollack",
-        "Hudson Stone",
-        "Casey Trotter",
-        "Brooklynn Pitts",
-        "Sherry Cola",
-        "Maria Canals-Barrera"
+        "John Barnett",
+        "Rob Turkewitz",
+        "Sam Mohawk",
+        "Roy Irvin",
+        "Sam Salehpour",
+        "Merle Meyers",
+        "Jim McNerney",
+        "David G. Bradley"
       ],
-      "diretor": "Veronica Rodriguez",
+      "diretor": "Rory Kennedy",
       "generos": [
-        "Música",
-        "Comédia",
-        "Drama",
-        "Cinema TV",
-        "Romance"
+        "Documentário"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/c4xTdrb3mCRFcv6iIKyyySLGD75.jpg",
       "pais": [
-        "US",
-        "CA"
+        "US"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 93,
+      "duracao": 95,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -295,17 +277,22 @@
         "estado": "streaming",
         "servicos": [
           {
-            "nome": "Disney Plus",
+            "nome": "Netflix",
             "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
           }
         ],
-        "link_br": "https://www.themoviedb.org/movie/1493400-camp-rock-3/watch?locale=BR"
+        "link_br": "https://www.themoviedb.org/movie/1688804-freefall-a-reckoning-for-boeing/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt6743524/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Camp%20Rock%203",
-        "metacritic": "https://www.metacritic.com/search/Camp%20Rock%203/"
+        "imdb": "https://www.imdb.com/title/tt32889884/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Freefall%3A%20A%20Reckoning%20for%20Boeing",
+        "metacritic": "https://www.metacritic.com/search/Freefall%3A%20A%20Reckoning%20for%20Boeing/"
       }
     },
     {
@@ -371,6 +358,69 @@
         "imdb": "https://www.imdb.com/title/tt36590417/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Don't%20Say%20Good%20Luck",
         "metacritic": "https://www.metacritic.com/search/Don't%20Say%20Good%20Luck/"
+      }
+    },
+    {
+      "tmdb_id": 1493400,
+      "imdb_id": "tt6743524",
+      "titulo_original": "Camp Rock 3",
+      "titulo_ingles": "Camp Rock 3",
+      "ano": 2026,
+      "data_lancamento": "2026-08-13",
+      "data_qualificacao": "",
+      "sinopse_pt": "O Connect 3 perde sua banda de abertura para uma grande turnê de reunião e decide retornar ao amado Camp Rock para descobrir o próximo grande talento. Enquanto os campistas disputam a chance de abrir os shows de sua banda favorita, as tensões aumentam e as amizades são testadas, levando a alianças inesperadas, revelações e romances.",
+      "elenco": [
+        "Liamani Segura",
+        "Malachi Barton",
+        "Lumi Pollack",
+        "Hudson Stone",
+        "Casey Trotter",
+        "Brooklynn Pitts",
+        "Sherry Cola",
+        "Maria Canals-Barrera"
+      ],
+      "diretor": "Veronica Rodriguez",
+      "generos": [
+        "Música",
+        "Comédia",
+        "Drama",
+        "Cinema TV",
+        "Romance"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+      "pais": [
+        "US",
+        "CA"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 93,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1493400-camp-rock-3/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt6743524/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Camp%20Rock%203",
+        "metacritic": "https://www.metacritic.com/search/Camp%20Rock%203/"
       }
     },
     {
@@ -910,70 +960,6 @@
       }
     },
     {
-      "tmdb_id": 1616131,
-      "imdb_id": "tt37961750",
-      "titulo_original": "Un hijo propio",
-      "titulo_ingles": "A Child of My Own",
-      "ano": 2026,
-      "data_lancamento": "2026-07-30",
-      "data_qualificacao": "",
-      "sinopse_pt": "Desesperada para ter um filho e pressionada pela família e pela sociedade, uma mulher finge estar grávida e acaba envolvida em um crime neste documentário impactante.",
-      "elenco": [
-        "Ana Celeste",
-        "Armando Espitia",
-        "Luisa Guzmán",
-        "Ángeles Cruz",
-        "Mayra Sérbulo",
-        "Mayra Batalla",
-        "Alejandro Porter",
-        "Yamile Pando"
-      ],
-      "diretor": "Maite Alberdi",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/iBD5kzk6XMyQEuV4m4A6OotqcSK.jpg",
-      "pais": [
-        "CL",
-        "MX"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 96,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1616131-un-hijo-propio/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37961750/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Child%20of%20My%20Own",
-        "metacritic": "https://www.metacritic.com/search/A%20Child%20of%20My%20Own/"
-      }
-    },
-    {
       "tmdb_id": 1698575,
       "imdb_id": "tt42839367",
       "titulo_original": "Snoopy Presents: There's No Place Like Home, Snoopy",
@@ -1036,6 +1022,70 @@
         "imdb": "https://www.imdb.com/title/tt42839367/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snoopy%20Presents%3A%20There's%20No%20Place%20Like%20Home%2C%20Snoopy",
         "metacritic": "https://www.metacritic.com/search/Snoopy%20Presents%3A%20There's%20No%20Place%20Like%20Home%2C%20Snoopy/"
+      }
+    },
+    {
+      "tmdb_id": 1616131,
+      "imdb_id": "tt37961750",
+      "titulo_original": "Un hijo propio",
+      "titulo_ingles": "A Child of My Own",
+      "ano": 2026,
+      "data_lancamento": "2026-07-30",
+      "data_qualificacao": "",
+      "sinopse_pt": "Desesperada para ter um filho e pressionada pela família e pela sociedade, uma mulher finge estar grávida e acaba envolvida em um crime neste documentário impactante.",
+      "elenco": [
+        "Ana Celeste",
+        "Armando Espitia",
+        "Luisa Guzmán",
+        "Ángeles Cruz",
+        "Mayra Sérbulo",
+        "Mayra Batalla",
+        "Alejandro Porter",
+        "Yamile Pando"
+      ],
+      "diretor": "Maite Alberdi",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/iBD5kzk6XMyQEuV4m4A6OotqcSK.jpg",
+      "pais": [
+        "CL",
+        "MX"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 96,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1616131-un-hijo-propio/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37961750/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Child%20of%20My%20Own",
+        "metacritic": "https://www.metacritic.com/search/A%20Child%20of%20My%20Own/"
       }
     },
     {
@@ -1220,57 +1270,6 @@
       }
     },
     {
-      "tmdb_id": 1381202,
-      "imdb_id": "tt33372918",
-      "titulo_original": "The Outer Threat",
-      "titulo_ingles": "The Outer Threat",
-      "ano": 2026,
-      "data_lancamento": "2026-07-24",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Constance Wu",
-        "Mark O'Brien",
-        "William Fichtner",
-        "Isaac Smelcer-Zhang",
-        "Oscar Hsu",
-        "Murray Furrow",
-        "Callista  Crowe",
-        "Stephanie Aubertin"
-      ],
-      "diretor": "William Woods",
-      "generos": [
-        "Ficção científica",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jspztckSybRKigzz5IFueP8qptV.jpg",
-      "pais": [
-        "CA"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 94,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33372918/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Outer%20Threat",
-        "metacritic": "https://www.metacritic.com/search/The%20Outer%20Threat/"
-      }
-    },
-    {
       "tmdb_id": 980431,
       "imdb_id": "tt18259538",
       "titulo_original": "Avatar Aang: The Last Airbender",
@@ -1354,6 +1353,57 @@
       }
     },
     {
+      "tmdb_id": 1381202,
+      "imdb_id": "tt33372918",
+      "titulo_original": "The Outer Threat",
+      "titulo_ingles": "The Outer Threat",
+      "ano": 2026,
+      "data_lancamento": "2026-07-24",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Constance Wu",
+        "Mark O'Brien",
+        "William Fichtner",
+        "Isaac Smelcer-Zhang",
+        "Oscar Hsu",
+        "Murray Furrow",
+        "Callista  Crowe",
+        "Stephanie Aubertin"
+      ],
+      "diretor": "William Woods",
+      "generos": [
+        "Ficção científica",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jspztckSybRKigzz5IFueP8qptV.jpg",
+      "pais": [
+        "CA"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 94,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33372918/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Outer%20Threat",
+        "metacritic": "https://www.metacritic.com/search/The%20Outer%20Threat/"
+      }
+    },
+    {
       "tmdb_id": 1185806,
       "imdb_id": "tt29356163",
       "titulo_original": "PAW Patrol: The Dino Movie",
@@ -1405,61 +1455,6 @@
         "imdb": "https://www.imdb.com/title/tt29356163/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=PAW%20Patrol%3A%20The%20Dino%20Movie",
         "metacritic": "https://www.metacritic.com/search/PAW%20Patrol%3A%20The%20Dino%20Movie/"
-      }
-    },
-    {
-      "tmdb_id": 1469342,
-      "imdb_id": "tt36629665",
-      "titulo_original": "Her Private Hell",
-      "titulo_ingles": "Her Private Hell",
-      "ano": 2026,
-      "data_lancamento": "2026-07-23",
-      "data_qualificacao": "",
-      "sinopse_pt": "Enquanto uma névoa misteriosa envolve uma metrópole futurista e libera uma presença mortal e indescritível, uma jovem atormentada parte em busca de seu pai. Nessa jornada, seu destino se cruza com o de um soldado americano que está em uma viagem desesperada para resgatar sua filha do inferno.",
-      "elenco": [
-        "Sophie Thatcher",
-        "Charles Melton",
-        "Havana Rose Liu",
-        "Kristine Froseth",
-        "忽那汐里",
-        "山田 葵",
-        "Dougray Scott",
-        "Diego Calva"
-      ],
-      "diretor": "Nicolas Winding Refn",
-      "generos": [
-        "Ficção científica",
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/62gkeidbflMmVmav17G7xJiGMA4.jpg",
-      "pais": [
-        "US",
-        "DK",
-        "GB"
-      ],
-      "idiomas": [
-        "en",
-        "ja"
-      ],
-      "duracao": 110,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 38,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 38,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36629665/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Her%20Private%20Hell",
-        "metacritic": "https://www.metacritic.com/search/Her%20Private%20Hell/"
       }
     },
     {
@@ -1588,6 +1583,61 @@
         "imdb": "https://www.imdb.com/title/tt43617119/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Love%20in%20Slow%20Motion",
         "metacritic": "https://www.metacritic.com/search/Love%20in%20Slow%20Motion/"
+      }
+    },
+    {
+      "tmdb_id": 1469342,
+      "imdb_id": "tt36629665",
+      "titulo_original": "Her Private Hell",
+      "titulo_ingles": "Her Private Hell",
+      "ano": 2026,
+      "data_lancamento": "2026-07-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "Enquanto uma névoa misteriosa envolve uma metrópole futurista e libera uma presença mortal e indescritível, uma jovem atormentada parte em busca de seu pai. Nessa jornada, seu destino se cruza com o de um soldado americano que está em uma viagem desesperada para resgatar sua filha do inferno.",
+      "elenco": [
+        "Sophie Thatcher",
+        "Charles Melton",
+        "Havana Rose Liu",
+        "Kristine Froseth",
+        "忽那汐里",
+        "山田 葵",
+        "Dougray Scott",
+        "Diego Calva"
+      ],
+      "diretor": "Nicolas Winding Refn",
+      "generos": [
+        "Ficção científica",
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/62gkeidbflMmVmav17G7xJiGMA4.jpg",
+      "pais": [
+        "US",
+        "DK",
+        "GB"
+      ],
+      "idiomas": [
+        "en",
+        "ja"
+      ],
+      "duracao": 110,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 38,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 38,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36629665/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Her%20Private%20Hell",
+        "metacritic": "https://www.metacritic.com/search/Her%20Private%20Hell/"
       }
     },
     {
@@ -2171,6 +2221,59 @@
       }
     },
     {
+      "tmdb_id": 1491920,
+      "imdb_id": "tt36103784",
+      "titulo_original": "功夫女足",
+      "titulo_ingles": "Kung Fu Soccer",
+      "ano": 2026,
+      "data_lancamento": "2026-07-11",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "张小斐",
+        "迪丽热巴",
+        "张艺兴",
+        "劉嘉玲",
+        "佐藤健",
+        "艾米",
+        "雪野",
+        "蔡思貝"
+      ],
+      "diretor": "Stephen Chow",
+      "generos": [
+        "Drama",
+        "Comédia",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
+      "pais": [
+        "HK",
+        "CN"
+      ],
+      "idiomas": [
+        "zh"
+      ],
+      "duracao": 106,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36103784/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kung%20Fu%20Soccer",
+        "metacritic": "https://www.metacritic.com/search/Kung%20Fu%20Soccer/"
+      }
+    },
+    {
       "tmdb_id": 1616674,
       "imdb_id": "tt39370887",
       "titulo_original": "Aku Sebelum Aku",
@@ -2233,175 +2336,6 @@
         "imdb": "https://www.imdb.com/title/tt39370887/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Me%20Before%20Me",
         "metacritic": "https://www.metacritic.com/search/Me%20Before%20Me/"
-      }
-    },
-    {
-      "tmdb_id": 1491920,
-      "imdb_id": "tt36103784",
-      "titulo_original": "功夫女足",
-      "titulo_ingles": "Kung Fu Soccer",
-      "ano": 2026,
-      "data_lancamento": "2026-07-11",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "张小斐",
-        "迪丽热巴",
-        "张艺兴",
-        "劉嘉玲",
-        "佐藤健",
-        "艾米",
-        "雪野",
-        "蔡思貝"
-      ],
-      "diretor": "Stephen Chow",
-      "generos": [
-        "Drama",
-        "Comédia",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
-      "pais": [
-        "HK",
-        "CN"
-      ],
-      "idiomas": [
-        "zh"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36103784/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kung%20Fu%20Soccer",
-        "metacritic": "https://www.metacritic.com/search/Kung%20Fu%20Soccer/"
-      }
-    },
-    {
-      "tmdb_id": 1715492,
-      "imdb_id": "tt43595399",
-      "titulo_original": "Shipwrecked: Nightmare at Sea",
-      "titulo_ingles": "Shipwrecked: Nightmare at Sea",
-      "ano": 2026,
-      "data_lancamento": "2026-07-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Imagens inéditas e relatos de sobreviventes reconstituem o naufrágio de um cruzeiro de luxo em 2012 e o desastre que se seguiu, neste documentário imersivo.",
-      "elenco": [
-        "John Scimone",
-        "Meghan Scimone",
-        "Patricia Sandoval",
-        "Nicholas Taliaferro",
-        "Stefania Vincenzi",
-        "Manrico Giampedroni",
-        "Rose Metcalf",
-        "Francesco Schettino"
-      ],
-      "diretor": "Chiara Messineo",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4LuFhKoO1NXZiB7R3Cu4Eiw1GWR.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 90,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1715492-shipwrecked-nightmare-at-sea/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43595399/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Shipwrecked%3A%20Nightmare%20at%20Sea",
-        "metacritic": "https://www.metacritic.com/search/Shipwrecked%3A%20Nightmare%20at%20Sea/"
-      }
-    },
-    {
-      "tmdb_id": 1633056,
-      "imdb_id": "tt43515101",
-      "titulo_original": "八仙！",
-      "titulo_ingles": "All Wishes Come True!",
-      "ano": 2026,
-      "data_lancamento": "2026-07-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "陈浩",
-        "李绍哲",
-        "立冬",
-        "Huang Guo",
-        "Dong Tianyi",
-        "Yu Pengli",
-        "Huang Yushuo",
-        "Zhang Yunqi"
-      ],
-      "diretor": "牟正洋",
-      "generos": [
-        "Comédia",
-        "Animação",
-        "Fantasia",
-        "Aventura"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-      "pais": [
-        "CN"
-      ],
-      "idiomas": [
-        "zh"
-      ],
-      "duracao": 143,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43515101/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=All%20Wishes%20Come%20True!",
-        "metacritic": "https://www.metacritic.com/search/All%20Wishes%20Come%20True!/"
       }
     },
     {
@@ -2521,40 +2455,40 @@
       }
     },
     {
-      "tmdb_id": 1108427,
-      "imdb_id": "tt27419466",
-      "titulo_original": "Moana",
-      "titulo_ingles": "Moana",
+      "tmdb_id": 1633056,
+      "imdb_id": "tt43515101",
+      "titulo_original": "八仙！",
+      "titulo_ingles": "All Wishes Come True!",
       "ano": 2026,
-      "data_lancamento": "2026-07-08",
+      "data_lancamento": "2026-07-10",
       "data_qualificacao": "",
-      "sinopse_pt": "Na Polinésia Antiga, quando uma terrível maldição contraída por Maui chega à ilha de um impetuoso chefe, sua filha obstinada responde ao chamado do Oceano para procurar o semideus e consertar as coisas. Adaptação live-action do filme de animação da Disney de 2016 'Moana'",
+      "sinopse_pt": "",
       "elenco": [
-        "Catherine Lagaʻaia",
-        "Dwayne Johnson",
-        "Rena Owen",
-        "John Tui",
-        "Frankie Adams",
-        "Jemaine Clement",
-        "Emma Puahi-Shapazian",
-        "Amaya Masoli"
+        "陈浩",
+        "李绍哲",
+        "立冬",
+        "Huang Guo",
+        "Dong Tianyi",
+        "Yu Pengli",
+        "Huang Yushuo",
+        "Zhang Yunqi"
       ],
-      "diretor": "Thomas Kail",
+      "diretor": "牟正洋",
       "generos": [
-        "Família",
-        "Fantasia",
         "Comédia",
+        "Animação",
+        "Fantasia",
         "Aventura"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eEsiTi19EYBluPQliS3CMnBgqTj.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
       "pais": [
-        "US"
+        "CN"
       ],
       "idiomas": [
-        "en"
+        "zh"
       ],
-      "duracao": 115,
-      "rt_critica": 32,
+      "duracao": 143,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -2562,15 +2496,78 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 32,
+      "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "cinema"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt27419466/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Moana",
-        "metacritic": "https://www.metacritic.com/search/Moana/"
+        "imdb": "https://www.imdb.com/title/tt43515101/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=All%20Wishes%20Come%20True!",
+        "metacritic": "https://www.metacritic.com/search/All%20Wishes%20Come%20True!/"
+      }
+    },
+    {
+      "tmdb_id": 1715492,
+      "imdb_id": "tt43595399",
+      "titulo_original": "Shipwrecked: Nightmare at Sea",
+      "titulo_ingles": "Shipwrecked: Nightmare at Sea",
+      "ano": 2026,
+      "data_lancamento": "2026-07-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "Imagens inéditas e relatos de sobreviventes reconstituem o naufrágio de um cruzeiro de luxo em 2012 e o desastre que se seguiu, neste documentário imersivo.",
+      "elenco": [
+        "John Scimone",
+        "Meghan Scimone",
+        "Patricia Sandoval",
+        "Nicholas Taliaferro",
+        "Stefania Vincenzi",
+        "Manrico Giampedroni",
+        "Rose Metcalf",
+        "Francesco Schettino"
+      ],
+      "diretor": "Chiara Messineo",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4LuFhKoO1NXZiB7R3Cu4Eiw1GWR.jpg",
+      "pais": [
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 90,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1715492-shipwrecked-nightmare-at-sea/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43595399/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Shipwrecked%3A%20Nightmare%20at%20Sea",
+        "metacritic": "https://www.metacritic.com/search/Shipwrecked%3A%20Nightmare%20at%20Sea/"
       }
     },
     {
@@ -2688,6 +2685,58 @@
         "imdb": "https://www.imdb.com/title/tt41983440/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=23%20000%20Lives",
         "metacritic": "https://www.metacritic.com/search/23%20000%20Lives/"
+      }
+    },
+    {
+      "tmdb_id": 1560520,
+      "imdb_id": "tt32333324",
+      "titulo_original": "Batman: Knightfall Part 1: Knightfall",
+      "titulo_ingles": "Batman: Knightfall Part 1: Knightfall",
+      "ano": 2026,
+      "data_lancamento": "2026-06-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "O Asilo Arkham foi destruído, e todos os seus detentos foram soltos em Gotham City. Enquanto corre contra o tempo para capturar alguns de seus maiores inimigos, Batman é levado ao limite de suas capacidades físicas e mentais, rumo a um confronto final contra uma nova ameaça: o homem chamado Bane!",
+      "elenco": [
+        "Anson Mount",
+        "Michael Mando",
+        "Pablo Schreiber",
+        "Jeff Bennett",
+        "Luis Bermudez",
+        "Bruce Boxleitner",
+        "Jessica Camacho",
+        "Anthony Crivello"
+      ],
+      "diretor": "Jeff Wamester",
+      "generos": [
+        "Animação",
+        "Ação",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 79,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32333324/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Batman%3A%20Knightfall%20Part%201%3A%20Knightfall",
+        "metacritic": "https://www.metacritic.com/search/Batman%3A%20Knightfall%20Part%201%3A%20Knightfall/"
       }
     },
     {
@@ -3156,11 +3205,6 @@
         "estado": "streaming",
         "servicos": [
           {
-            "nome": "Claro tv+",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/7EpFKOCMrlo3bjsyBMrec64c7Wb.jpg"
-          },
-          {
             "nome": "Apple TV Store",
             "tipo": "aluguel",
             "logo_url": "https://image.tmdb.org/t/p/w92/SPnB1qiCkYfirS2it3hZORwGVn.jpg"
@@ -3354,60 +3398,6 @@
         "imdb": "https://www.imdb.com/title/tt33029380/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Marsupilami",
         "metacritic": "https://www.metacritic.com/search/Marsupilami/"
-      }
-    },
-    {
-      "tmdb_id": 1365683,
-      "imdb_id": "tt33586629",
-      "titulo_original": "Primavera",
-      "titulo_ingles": "Primavera",
-      "ano": 2025,
-      "data_lancamento": "2025-12-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "Veneza, século XVIII. Cecília cresceu entre as paredes do Ospedale della Pietà, o orfanato que também é lar da orquestra mais respeitada do mundo. Violinista extraordinária, ela se apresenta atrás de uma grade para os ricos padroeiros da instituição. Nunca além disso. Até que um novo professor de violino chega e muda tudo. Seu nome é Antonio Vivaldi.",
-      "elenco": [
-        "Tecla Insolia",
-        "Michele Riondino",
-        "Fabrizia Sacchi",
-        "Andrea Pennacchi",
-        "Valentina Bellè",
-        "Stefano Accorsi",
-        "Alessandro Bressanello",
-        "Miko Jarry"
-      ],
-      "diretor": "Damiano Michieletto",
-      "generos": [
-        "Música",
-        "Drama",
-        "História"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/mTVR33Bz1eaCfsdYeRDZvU9vnoW.jpg",
-      "pais": [
-        "FR",
-        "IT"
-      ],
-      "idiomas": [
-        "fr",
-        "it"
-      ],
-      "duracao": 111,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33586629/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Primavera",
-        "metacritic": "https://www.metacritic.com/search/Primavera/"
       }
     },
     {
