@@ -1,7 +1,163 @@
 {
   "versao": 1,
-  "gerado_em": "2026-08-28T20:57:41.644Z",
+  "gerado_em": "2026-08-29T14:36:24.625Z",
   "filmes": [
+    {
+      "tmdb_id": 860508,
+      "imdb_id": "tt11561116",
+      "titulo_original": "The Whisper Man",
+      "titulo_ingles": "The Whisper Man",
+      "ano": 2026,
+      "data_lancamento": "2026-08-27",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após o desaparecimento do filho, um viúvo precisa pedir ajuda ao próprio pai: um detetive aposentado que prendeu o assassino em série ligado a esse novo caso.",
+      "elenco": [
+        "Adam Scott",
+        "Robert De Niro",
+        "Michelle Monaghan",
+        "Acston Luca Porto",
+        "Michael Keaton",
+        "Owen Teague",
+        "Hamish Linklater",
+        "Will Brill"
+      ],
+      "diretor": "James Ashcroft",
+      "generos": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/umlg3mqkny7opAfPtBLUGYwZ8xF.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 114,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt11561116/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Whisper%20Man",
+        "metacritic": "https://www.metacritic.com/search/The%20Whisper%20Man/"
+      }
+    },
+    {
+      "tmdb_id": 1213243,
+      "imdb_id": "tt27530512",
+      "titulo_original": "ಟಾಕ್ಸಿಕ್",
+      "titulo_ingles": "Toxic: A Fairy Tale for Grown-ups",
+      "ano": 2026,
+      "data_lancamento": "2026-08-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Yash",
+        "कियारा आडवाणी",
+        "நயன்தாரா",
+        "हुमा क़ुरैशी",
+        "Tara Sutaria",
+        "Rukmini Vasanth",
+        "Sudev Nair",
+        "Akshay Oberoi"
+      ],
+      "diretor": "Geethu Mohandas",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "kn"
+      ],
+      "duracao": 195,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt27530512/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups",
+        "metacritic": "https://www.metacritic.com/search/Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups/"
+      }
+    },
+    {
+      "tmdb_id": 1384216,
+      "imdb_id": "tt21285562",
+      "titulo_original": "The Dog Stars",
+      "titulo_ingles": "The Dog Stars",
+      "ano": 2026,
+      "data_lancamento": "2026-08-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após a população mundial ter sido devastada por uma pandemia, um homem vive uma existência solitária em um hangar de aviões no Colorado com seu cachorro e um pistoleiro taciturno com quem fez amizade. Quando uma transmissão misteriosa surge no rádio enquanto ele pilota seu velho Cessna, isso desencadeia uma busca pela origem do som.",
+      "elenco": [
+        "Jacob Elordi",
+        "Margaret Qualley",
+        "Josh Brolin",
+        "Guy Pearce",
+        "Allison Janney",
+        "Benedict Wong",
+        "Ewen Bremner",
+        "James Craze"
+      ],
+      "diretor": "Ridley Scott",
+      "generos": [
+        "Ficção científica",
+        "Aventura",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/1C2qbfUW3lTzb8vpZeG8pjYzW3Q.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 118,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt21285562/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dog%20Stars",
+        "metacritic": "https://www.metacritic.com/search/The%20Dog%20Stars/"
+      }
+    },
     {
       "tmdb_id": 1516698,
       "imdb_id": "tt37654096",
@@ -65,58 +221,6 @@
         "imdb": "https://www.imdb.com/title/tt37654096/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Sunrise",
         "metacritic": "https://www.metacritic.com/search/The%20Last%20Sunrise/"
-      }
-    },
-    {
-      "tmdb_id": 1384216,
-      "imdb_id": "tt21285562",
-      "titulo_original": "The Dog Stars",
-      "titulo_ingles": "The Dog Stars",
-      "ano": 2026,
-      "data_lancamento": "2026-08-26",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após a população mundial ter sido devastada por uma pandemia, um homem vive uma existência solitária em um hangar de aviões no Colorado com seu cachorro e um pistoleiro taciturno com quem fez amizade. Quando uma transmissão misteriosa surge no rádio enquanto ele pilota seu velho Cessna, isso desencadeia uma busca pela origem do som.",
-      "elenco": [
-        "Jacob Elordi",
-        "Margaret Qualley",
-        "Josh Brolin",
-        "Guy Pearce",
-        "Allison Janney",
-        "Benedict Wong",
-        "Ewen Bremner",
-        "James Craze"
-      ],
-      "diretor": "Ridley Scott",
-      "generos": [
-        "Ficção científica",
-        "Aventura",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/1C2qbfUW3lTzb8vpZeG8pjYzW3Q.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 118,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt21285562/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dog%20Stars",
-        "metacritic": "https://www.metacritic.com/search/The%20Dog%20Stars/"
       }
     },
     {
@@ -388,6 +492,59 @@
         "imdb": "https://www.imdb.com/title/tt32393988/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Insidious%3A%20Out%20of%20the%20Further",
         "metacritic": "https://www.metacritic.com/search/Insidious%3A%20Out%20of%20the%20Further/"
+      }
+    },
+    {
+      "tmdb_id": 1676318,
+      "imdb_id": "tt37540328",
+      "titulo_original": "Back to the 90s",
+      "titulo_ingles": "Back to the 90s",
+      "ano": 2026,
+      "data_lancamento": "2026-08-18",
+      "data_qualificacao": "",
+      "sinopse_pt": "Quando uma falha misteriosa manda uma boy band para o ano de 1995, poucos dias antes da apresentação mais importante de suas vidas, os cinco amigos correm contra o tempo para voltar. Mas conexões inesperadas surgem e o passado os envolve cada vez mais, fazendo com que voltar para casa signifique enfrentar o que estão dispostos a deixar para trás e quem eles realmente são uns para os outros.",
+      "elenco": [
+        "Jacob Rott",
+        "Luis Freitag",
+        "Bene Schulz",
+        "Julien Brown",
+        "Tim Schäcker",
+        "Anja Pichler",
+        "Luise Aschenbrenner",
+        "Sidney Fahlisch"
+      ],
+      "diretor": "Facundo Scalerandi",
+      "generos": [
+        "Romance",
+        "Comédia",
+        "Música"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/pKgzdwNqFPKJNcibY37klP6ySqE.jpg",
+      "pais": [
+        "DE",
+        "MT"
+      ],
+      "idiomas": [
+        "de"
+      ],
+      "duracao": 92,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37540328/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Back%20to%20the%2090s",
+        "metacritic": "https://www.metacritic.com/search/Back%20to%20the%2090s/"
       }
     },
     {
@@ -1076,58 +1233,6 @@
       }
     },
     {
-      "tmdb_id": 1458215,
-      "imdb_id": "tt36415524",
-      "titulo_original": "The Gentleman Thief",
-      "titulo_ingles": "The Gentleman Thief",
-      "ano": 2026,
-      "data_lancamento": "2026-07-31",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um ladrão aposentado precisa proteger seu irmão impulsivo de um desastre quando um roubo de um iate de 100 milhões de dólares se transforma em uma perigosa teia de enganos. Antigos inimigos ressurgem à medida que os riscos aumentam, forçando-o a usar todos os truques que conhece para sobreviver.",
-      "elenco": [
-        "John Travolta",
-        "Lukas Haas",
-        "Rebecca De Mornay",
-        "Natali Yura",
-        "Emily Skinner",
-        "Sam Asghari",
-        "Quavo",
-        "DJ Khaled"
-      ],
-      "diretor": "Randall Emmett",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36415524/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Gentleman%20Thief",
-        "metacritic": "https://www.metacritic.com/search/The%20Gentleman%20Thief/"
-      }
-    },
-    {
       "tmdb_id": 1307118,
       "imdb_id": "tt32654916",
       "titulo_original": "Soulm8te",
@@ -1177,6 +1282,58 @@
         "imdb": "https://www.imdb.com/title/tt32654916/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Soulm8te",
         "metacritic": "https://www.metacritic.com/search/Soulm8te/"
+      }
+    },
+    {
+      "tmdb_id": 1458215,
+      "imdb_id": "tt36415524",
+      "titulo_original": "The Gentleman Thief",
+      "titulo_ingles": "The Gentleman Thief",
+      "ano": 2026,
+      "data_lancamento": "2026-07-31",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um ladrão aposentado precisa proteger seu irmão impulsivo de um desastre quando um roubo de um iate de 100 milhões de dólares se transforma em uma perigosa teia de enganos. Antigos inimigos ressurgem à medida que os riscos aumentam, forçando-o a usar todos os truques que conhece para sobreviver.",
+      "elenco": [
+        "John Travolta",
+        "Lukas Haas",
+        "Rebecca De Mornay",
+        "Natali Yura",
+        "Emily Skinner",
+        "Sam Asghari",
+        "Quavo",
+        "DJ Khaled"
+      ],
+      "diretor": "Randall Emmett",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36415524/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Gentleman%20Thief",
+        "metacritic": "https://www.metacritic.com/search/The%20Gentleman%20Thief/"
       }
     },
     {
@@ -1309,54 +1466,6 @@
       }
     },
     {
-      "tmdb_id": 1466662,
-      "imdb_id": "tt39462979",
-      "titulo_original": "Le Triangle d'or",
-      "titulo_ingles": "Madame",
-      "ano": 2026,
-      "data_lancamento": "2026-07-29",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Malou Khebizi",
-        "Soundos Mosbah",
-        "Ziad Bakri",
-        "Kassem Al Khoja"
-      ],
-      "diretor": "Hélène Rosselet-Ruiz",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/gKuRnWDee2OvvzdQf1kI4vqcnhq.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr",
-        "ar"
-      ],
-      "duracao": 87,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39462979/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Madame",
-        "metacritic": "https://www.metacritic.com/search/Madame/"
-      }
-    },
-    {
       "tmdb_id": 1481343,
       "imdb_id": "tt36958312",
       "titulo_original": "The Devil's Mouth",
@@ -1422,6 +1531,54 @@
       }
     },
     {
+      "tmdb_id": 1466662,
+      "imdb_id": "tt39462979",
+      "titulo_original": "Le Triangle d'or",
+      "titulo_ingles": "Madame",
+      "ano": 2026,
+      "data_lancamento": "2026-07-29",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Malou Khebizi",
+        "Soundos Mosbah",
+        "Ziad Bakri",
+        "Kassem Al Khoja"
+      ],
+      "diretor": "Hélène Rosselet-Ruiz",
+      "generos": [
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/gKuRnWDee2OvvzdQf1kI4vqcnhq.jpg",
+      "pais": [
+        "FR",
+        "BE"
+      ],
+      "idiomas": [
+        "fr",
+        "ar"
+      ],
+      "duracao": 87,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39462979/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Madame",
+        "metacritic": "https://www.metacritic.com/search/Madame/"
+      }
+    },
+    {
       "tmdb_id": 1433367,
       "imdb_id": "tt37853455",
       "titulo_original": "One Night Only",
@@ -1470,6 +1627,71 @@
         "imdb": "https://www.imdb.com/title/tt37853455/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Night%20Only",
         "metacritic": "https://www.metacritic.com/search/One%20Night%20Only/"
+      }
+    },
+    {
+      "tmdb_id": 1659155,
+      "imdb_id": "tt41111628",
+      "titulo_original": "Los creyentes",
+      "titulo_ingles": "The Truthers",
+      "ano": 2026,
+      "data_lancamento": "2026-07-24",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
+      "elenco": [
+        "Jose Coronado",
+        "Stéphanie Magnin",
+        "Fanny Gautier",
+        "Alberto Olmo",
+        "Israel Ruiz",
+        "Mabel del Pozo",
+        "Celine Fortenbacher",
+        "Olaya Lopez"
+      ],
+      "diretor": "Roger Gual",
+      "generos": [
+        "Thriller",
+        "Drama",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
+      "pais": [
+        "ES"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 106,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt41111628/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Truthers",
+        "metacritic": "https://www.metacritic.com/search/The%20Truthers/"
       }
     },
     {
@@ -1556,71 +1778,6 @@
       }
     },
     {
-      "tmdb_id": 1659155,
-      "imdb_id": "tt41111628",
-      "titulo_original": "Los creyentes",
-      "titulo_ingles": "The Truthers",
-      "ano": 2026,
-      "data_lancamento": "2026-07-24",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
-      "elenco": [
-        "Jose Coronado",
-        "Stéphanie Magnin",
-        "Fanny Gautier",
-        "Alberto Olmo",
-        "Israel Ruiz",
-        "Mabel del Pozo",
-        "Celine Fortenbacher",
-        "Olaya Lopez"
-      ],
-      "diretor": "Roger Gual",
-      "generos": [
-        "Thriller",
-        "Drama",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
-      "pais": [
-        "ES"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt41111628/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Truthers",
-        "metacritic": "https://www.metacritic.com/search/The%20Truthers/"
-      }
-    },
-    {
       "tmdb_id": 1185806,
       "imdb_id": "tt29356163",
       "titulo_original": "PAW Patrol: The Dino Movie",
@@ -1672,6 +1829,69 @@
         "imdb": "https://www.imdb.com/title/tt29356163/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=PAW%20Patrol%3A%20The%20Dino%20Movie",
         "metacritic": "https://www.metacritic.com/search/PAW%20Patrol%3A%20The%20Dino%20Movie/"
+      }
+    },
+    {
+      "tmdb_id": 1361774,
+      "imdb_id": "tt33499146",
+      "titulo_original": "The Dink",
+      "titulo_ingles": "The Dink",
+      "ano": 2026,
+      "data_lancamento": "2026-07-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "Dusty \"O Martelo\" Boyd, um tenista profissional decadente, precisa muito de uma vitória. Em uma missão para salvar um country club em dificuldades e conquistar o respeito de seu pai, Dusty quebra um voto sagrado e faz o impensável: joga pickleball.",
+      "elenco": [
+        "Jake Johnson",
+        "Mary Steenburgen",
+        "Chloe Fineman",
+        "Aaron Chen",
+        "Patton Oswalt",
+        "Andy Roddick",
+        "John McEnroe",
+        "Ben Stiller"
+      ],
+      "diretor": "Josh Greenbaum",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/lIQGvXrP76yQ3bKiUkYTqGTXFcM.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 103,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 57,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 57,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Apple TV",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/mcbz1LgtErU9p4UdbZ0rG6RTWHX.jpg"
+          },
+          {
+            "nome": "Apple TV Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/mHrYMgnZIp6lgW2aXg7ix9zGOnA.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1361774-the-dink/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33499146/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dink",
+        "metacritic": "https://www.metacritic.com/search/The%20Dink/"
       }
     },
     {
@@ -1795,170 +2015,6 @@
       }
     },
     {
-      "tmdb_id": 1361774,
-      "imdb_id": "tt33499146",
-      "titulo_original": "The Dink",
-      "titulo_ingles": "The Dink",
-      "ano": 2026,
-      "data_lancamento": "2026-07-23",
-      "data_qualificacao": "",
-      "sinopse_pt": "Dusty \"O Martelo\" Boyd, um tenista profissional decadente, precisa muito de uma vitória. Em uma missão para salvar um country club em dificuldades e conquistar o respeito de seu pai, Dusty quebra um voto sagrado e faz o impensável: joga pickleball.",
-      "elenco": [
-        "Jake Johnson",
-        "Mary Steenburgen",
-        "Chloe Fineman",
-        "Aaron Chen",
-        "Patton Oswalt",
-        "Andy Roddick",
-        "John McEnroe",
-        "Ben Stiller"
-      ],
-      "diretor": "Josh Greenbaum",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/lIQGvXrP76yQ3bKiUkYTqGTXFcM.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 103,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 57,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 57,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Apple TV",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/mcbz1LgtErU9p4UdbZ0rG6RTWHX.jpg"
-          },
-          {
-            "nome": "Apple TV Amazon Channel",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/mHrYMgnZIp6lgW2aXg7ix9zGOnA.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1361774-the-dink/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33499146/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dink",
-        "metacritic": "https://www.metacritic.com/search/The%20Dink/"
-      }
-    },
-    {
-      "tmdb_id": 1496491,
-      "imdb_id": "tt37846373",
-      "titulo_original": "De la Comédie-Française",
-      "titulo_ingles": "Comédie-Française",
-      "ano": 2026,
-      "data_lancamento": "2026-07-22",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Pauline Clément",
-        "Laurent Stocker",
-        "Julien Frison",
-        "Marina Hands",
-        "Adeline D'Hermy",
-        "Danièle Lebrun",
-        "Sefa Yeboah",
-        "Christian Hecq"
-      ],
-      "diretor": "Bertrand Usclat, Martin Darondeau",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bfjG4eH78KOnpVNlEH8wneMHXLv.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 75,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37846373/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Com%C3%A9die-Fran%C3%A7aise",
-        "metacritic": "https://www.metacritic.com/search/Com%C3%A9die-Fran%C3%A7aise/"
-      }
-    },
-    {
-      "tmdb_id": 1235877,
-      "imdb_id": "tt33379543",
-      "titulo_original": "ஜன நாயகன்",
-      "titulo_ingles": "Jana Nayagan",
-      "ano": 2026,
-      "data_lancamento": "2026-07-22",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "விஜய்",
-        "పూజా హెగ్డే",
-        "बॉबी द्योल",
-        "Mamitha Baiju",
-        "ప్రియమణి",
-        "ప్రకాష్ రాజ్",
-        "கௌதம் மேனன்",
-        "Narain"
-      ],
-      "diretor": "H. Vinoth",
-      "generos": [
-        "Ação",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "ta"
-      ],
-      "duracao": 183,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33379543/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jana%20Nayagan",
-        "metacritic": "https://www.metacritic.com/search/Jana%20Nayagan/"
-      }
-    },
-    {
       "tmdb_id": 1487861,
       "imdb_id": "tt37042085",
       "titulo_original": "Elize: Sombras de uma Mulher",
@@ -2024,6 +2080,57 @@
       }
     },
     {
+      "tmdb_id": 1235877,
+      "imdb_id": "tt33379543",
+      "titulo_original": "ஜன நாயகன்",
+      "titulo_ingles": "Jana Nayagan",
+      "ano": 2026,
+      "data_lancamento": "2026-07-22",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "விஜய்",
+        "పూజా హెగ్డే",
+        "बॉबी द्योल",
+        "Mamitha Baiju",
+        "ప్రియమణి",
+        "ప్రకాష్ రాజ్",
+        "கௌதம் மேனன்",
+        "Narain"
+      ],
+      "diretor": "H. Vinoth",
+      "generos": [
+        "Ação",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "ta"
+      ],
+      "duracao": 183,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33379543/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jana%20Nayagan",
+        "metacritic": "https://www.metacritic.com/search/Jana%20Nayagan/"
+      }
+    },
+    {
       "tmdb_id": 1723460,
       "imdb_id": "tt43619305",
       "titulo_original": "A Toxic Love Story",
@@ -2081,6 +2188,56 @@
         "imdb": "https://www.imdb.com/title/tt43619305/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Toxic%20Love%20Story",
         "metacritic": "https://www.metacritic.com/search/A%20Toxic%20Love%20Story/"
+      }
+    },
+    {
+      "tmdb_id": 1496491,
+      "imdb_id": "tt37846373",
+      "titulo_original": "De la Comédie-Française",
+      "titulo_ingles": "Comédie-Française",
+      "ano": 2026,
+      "data_lancamento": "2026-07-22",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Pauline Clément",
+        "Laurent Stocker",
+        "Julien Frison",
+        "Marina Hands",
+        "Adeline D'Hermy",
+        "Danièle Lebrun",
+        "Sefa Yeboah",
+        "Christian Hecq"
+      ],
+      "diretor": "Bertrand Usclat, Martin Darondeau",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bfjG4eH78KOnpVNlEH8wneMHXLv.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 75,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37846373/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Com%C3%A9die-Fran%C3%A7aise",
+        "metacritic": "https://www.metacritic.com/search/Com%C3%A9die-Fran%C3%A7aise/"
       }
     },
     {
@@ -2385,174 +2542,6 @@
         "imdb": "https://www.imdb.com/title/tt36619926/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Heartstopper%20Forever",
         "metacritic": "https://www.metacritic.com/search/Heartstopper%20Forever/"
-      }
-    },
-    {
-      "tmdb_id": 1731494,
-      "imdb_id": "tt43677301",
-      "titulo_original": "The Odyssey: The Making of an Epic",
-      "titulo_ingles": "The Odyssey: The Making of an Epic",
-      "ano": 2026,
-      "data_lancamento": "2026-07-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Christopher Nolan",
-        "Matt Damon",
-        "Robert Pattinson",
-        "Zendaya",
-        "Tom Holland",
-        "Emma Thomas",
-        "Nilo Otero",
-        "Andrew Jackson"
-      ],
-      "diretor": "",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/nEWsCyE488tG85P8Cg3HbVbMvqQ.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 23,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43677301/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Odyssey%3A%20The%20Making%20of%20an%20Epic",
-        "metacritic": "https://www.metacritic.com/search/The%20Odyssey%3A%20The%20Making%20of%20an%20Epic/"
-      }
-    },
-    {
-      "tmdb_id": 1491920,
-      "imdb_id": "tt36103784",
-      "titulo_original": "功夫女足",
-      "titulo_ingles": "Kung Fu Soccer",
-      "ano": 2026,
-      "data_lancamento": "2026-07-11",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "张小斐",
-        "迪丽热巴",
-        "张艺兴",
-        "劉嘉玲",
-        "佐藤健",
-        "艾米",
-        "雪野",
-        "蔡思貝"
-      ],
-      "diretor": "Stephen Chow",
-      "generos": [
-        "Drama",
-        "Comédia",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
-      "pais": [
-        "HK",
-        "CN"
-      ],
-      "idiomas": [
-        "zh"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36103784/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kung%20Fu%20Soccer",
-        "metacritic": "https://www.metacritic.com/search/Kung%20Fu%20Soccer/"
-      }
-    },
-    {
-      "tmdb_id": 1616674,
-      "imdb_id": "tt39370887",
-      "titulo_original": "Aku Sebelum Aku",
-      "titulo_ingles": "Me Before Me",
-      "ano": 2026,
-      "data_lancamento": "2026-07-11",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um jovem estudante, às voltas com a pressão, o pânico e um pai exigente, usa um projeto escolar para descobrir que a verdade — e não troféus — pode finalmente libertá-lo.",
-      "elenco": [
-        "Bimasena",
-        "Ringgo Agus Rahman",
-        "Widuri Puteri",
-        "Prastiwi Dwiarti",
-        "Aming Sugandhi",
-        "Ronal Surapradja",
-        "Ashila Husnia Fitriani",
-        "Candil"
-      ],
-      "diretor": "Gina S. Noer",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jnq1i2obAreHlkfEZCswlKu1zvF.jpg",
-      "pais": [
-        "ID"
-      ],
-      "idiomas": [
-        "id",
-        "ja",
-        "su"
-      ],
-      "duracao": 127,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1616674-aku-sebelum-aku/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39370887/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Me%20Before%20Me",
-        "metacritic": "https://www.metacritic.com/search/Me%20Before%20Me/"
       }
     },
     {
