@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-08-30T14:28:40.805Z",
+  "gerado_em": "2026-08-31T17:08:44.790Z",
   "filmes": [
     {
       "tmdb_id": 1631807,
@@ -65,6 +65,71 @@
         "imdb": "https://www.imdb.com/title/tt37275992/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Secret%20Woman",
         "metacritic": "https://www.metacritic.com/search/The%20Secret%20Woman/"
+      }
+    },
+    {
+      "tmdb_id": 1471168,
+      "imdb_id": "tt43706402",
+      "titulo_original": "Barreda",
+      "titulo_ingles": "Barreda",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um filme de drama ficcional baseado em um dos crimes mais chocantes da história da Argentina. Em 1992, Ricardo Barreda, um dentista comum, assassinou brutalmente sua esposa, sua sogra e suas duas filhas adultas em sua casa. Fazendo-se de vítima, Ricardo Barreda provocou uma tempestade midiática e alimentou um escândalo nacional.",
+      "elenco": [
+        "Luis Machín",
+        "Carla Peterson",
+        "Mercedes Morán",
+        "Maite Lanata",
+        "Margarita Páez",
+        "Marcelo Subiotto",
+        "Paola Barrientos",
+        "Alberto Ajaka"
+      ],
+      "diretor": "Daniela Goggi",
+      "generos": [
+        "Drama",
+        "Crime",
+        "História"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
+      "pais": [
+        "AR"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 105,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43706402/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Barreda",
+        "metacritic": "https://www.metacritic.com/search/Barreda/"
       }
     },
     {
@@ -185,71 +250,6 @@
       }
     },
     {
-      "tmdb_id": 1516698,
-      "imdb_id": "tt37654096",
-      "titulo_original": "The Last Sunrise",
-      "titulo_ingles": "The Last Sunrise",
-      "ano": 2026,
-      "data_lancamento": "2026-08-26",
-      "data_qualificacao": "",
-      "sinopse_pt": "Ry é uma estudante universitária que convive com uma doença crônica. Durante uma viagem de férias para a ilha de Maiorca com a sua mãe, Ry se apaixona inesperadamente por Julián. À medida que aprende a se entregar ao presente, o agravamento de sua condição de saúde e segredos familiares guardados há anos ameaçam desmoronar tudo antes que o verão chegue ao fim.",
-      "elenco": [
-        "Maia Reficco",
-        "Eva Longoria",
-        "Fernando Lindez",
-        "Chloé Sweetlove",
-        "Andrés Velencoso",
-        "Stefanie Martini",
-        "Sabrina Bartlett",
-        "Àlex Peracaula"
-      ],
-      "diretor": "Carlson Young",
-      "generos": [
-        "Romance",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/aUP8lmnCvOUiG0n1ciXaeFEou3j.jpg",
-      "pais": [
-        "US",
-        "ES"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 107,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37654096/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Sunrise",
-        "metacritic": "https://www.metacritic.com/search/The%20Last%20Sunrise/"
-      }
-    },
-    {
       "tmdb_id": 1729723,
       "imdb_id": "tt43141030",
       "titulo_original": "Yellow Mirror",
@@ -355,6 +355,71 @@
       }
     },
     {
+      "tmdb_id": 1516698,
+      "imdb_id": "tt37654096",
+      "titulo_original": "The Last Sunrise",
+      "titulo_ingles": "The Last Sunrise",
+      "ano": 2026,
+      "data_lancamento": "2026-08-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "Ry é uma estudante universitária que convive com uma doença crônica. Durante uma viagem de férias para a ilha de Maiorca com a sua mãe, Ry se apaixona inesperadamente por Julián. À medida que aprende a se entregar ao presente, o agravamento de sua condição de saúde e segredos familiares guardados há anos ameaçam desmoronar tudo antes que o verão chegue ao fim.",
+      "elenco": [
+        "Maia Reficco",
+        "Fernando Lindez",
+        "Eva Longoria",
+        "Chloé Sweetlove",
+        "Andrés Velencoso",
+        "Stefanie Martini",
+        "Sabrina Bartlett",
+        "Àlex Peracaula"
+      ],
+      "diretor": "Carlson Young",
+      "generos": [
+        "Romance",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/aUP8lmnCvOUiG0n1ciXaeFEou3j.jpg",
+      "pais": [
+        "US",
+        "ES"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 107,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/8aBqoNeGGr0oSA85iopgNZUOTOc.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1516698-the-last-sunrise/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37654096/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Sunrise",
+        "metacritic": "https://www.metacritic.com/search/The%20Last%20Sunrise/"
+      }
+    },
+    {
       "tmdb_id": 1621552,
       "imdb_id": "tt39390497",
       "titulo_original": "La captura",
@@ -439,7 +504,7 @@
         "Erika Heynatz",
         "Courtney Clarke"
       ],
-      "diretor": "Jon Lucas, Scott Moore",
+      "diretor": "Scott Moore, Jon Lucas",
       "generos": [
         "Comédia"
       ],
@@ -701,6 +766,68 @@
       }
     },
     {
+      "tmdb_id": 1493400,
+      "imdb_id": "tt6743524",
+      "titulo_original": "Camp Rock 3",
+      "titulo_ingles": "Camp Rock 3",
+      "ano": 2026,
+      "data_lancamento": "2026-08-13",
+      "data_qualificacao": "",
+      "sinopse_pt": "O Connect 3 perde sua banda de abertura para uma grande turnê de reunião e decide retornar ao amado Camp Rock para descobrir o próximo grande talento. Enquanto os campistas disputam a chance de abrir os shows de sua banda favorita, as tensões aumentam e as amizades são testadas, levando a alianças inesperadas, revelações e romances.",
+      "elenco": [
+        "Liamani Segura",
+        "Malachi Barton",
+        "Lumi Pollack",
+        "Hudson Stone",
+        "Casey Trotter",
+        "Brooklynn Pitts",
+        "Sherry Cola",
+        "Maria Canals-Barrera"
+      ],
+      "diretor": "Veronica Rodriguez",
+      "generos": [
+        "Música",
+        "Comédia",
+        "Drama",
+        "Cinema TV"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+      "pais": [
+        "US",
+        "CA"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 93,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1493400-camp-rock-3/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt6743524/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Camp%20Rock%203",
+        "metacritic": "https://www.metacritic.com/search/Camp%20Rock%203/"
+      }
+    },
+    {
       "tmdb_id": 1504358,
       "imdb_id": "tt36590417",
       "titulo_original": "Don't Say Good Luck",
@@ -763,68 +890,6 @@
         "imdb": "https://www.imdb.com/title/tt36590417/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Don't%20Say%20Good%20Luck",
         "metacritic": "https://www.metacritic.com/search/Don't%20Say%20Good%20Luck/"
-      }
-    },
-    {
-      "tmdb_id": 1493400,
-      "imdb_id": "tt6743524",
-      "titulo_original": "Camp Rock 3",
-      "titulo_ingles": "Camp Rock 3",
-      "ano": 2026,
-      "data_lancamento": "2026-08-13",
-      "data_qualificacao": "",
-      "sinopse_pt": "O Connect 3 perde sua banda de abertura para uma grande turnê de reunião e decide retornar ao amado Camp Rock para descobrir o próximo grande talento. Enquanto os campistas disputam a chance de abrir os shows de sua banda favorita, as tensões aumentam e as amizades são testadas, levando a alianças inesperadas, revelações e romances.",
-      "elenco": [
-        "Liamani Segura",
-        "Malachi Barton",
-        "Lumi Pollack",
-        "Hudson Stone",
-        "Casey Trotter",
-        "Brooklynn Pitts",
-        "Sherry Cola",
-        "Maria Canals-Barrera"
-      ],
-      "diretor": "Veronica Rodriguez",
-      "generos": [
-        "Música",
-        "Comédia",
-        "Drama",
-        "Cinema TV"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-      "pais": [
-        "US",
-        "CA"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 93,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/97yvRBw1GzX7fXprcF80er19ot.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1493400-camp-rock-3/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt6743524/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Camp%20Rock%203",
-        "metacritic": "https://www.metacritic.com/search/Camp%20Rock%203/"
       }
     },
     {
@@ -1065,6 +1130,57 @@
       }
     },
     {
+      "tmdb_id": 1323244,
+      "imdb_id": "tt29512655",
+      "titulo_original": "Rage of Stars",
+      "titulo_ingles": "Rage of Stars",
+      "ano": 2026,
+      "data_lancamento": "2026-08-06",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Andrea Tivadar",
+        "Jord Knotter",
+        "Jack McEvoy",
+        "Elijah Rowen",
+        "Małgorzata Klara",
+        "Mayu Gralińska Sakai",
+        "Jakub Ormaniec"
+      ],
+      "diretor": "Łukasz Róg",
+      "generos": [
+        "Ação",
+        "Ficção científica",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+      "pais": [
+        "PL"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 106,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt29512655/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Rage%20of%20Stars",
+        "metacritic": "https://www.metacritic.com/search/Rage%20of%20Stars/"
+      }
+    },
+    {
       "tmdb_id": 1284041,
       "imdb_id": "tt32268156",
       "titulo_original": "The Last House",
@@ -1127,57 +1243,6 @@
         "imdb": "https://www.imdb.com/title/tt32268156/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20House",
         "metacritic": "https://www.metacritic.com/search/The%20Last%20House/"
-      }
-    },
-    {
-      "tmdb_id": 1323244,
-      "imdb_id": "tt29512655",
-      "titulo_original": "Rage of Stars",
-      "titulo_ingles": "Rage of Stars",
-      "ano": 2026,
-      "data_lancamento": "2026-08-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Andrea Tivadar",
-        "Jord Knotter",
-        "Jack McEvoy",
-        "Elijah Rowen",
-        "Małgorzata Klara",
-        "Mayu Gralińska Sakai",
-        "Jakub Ormaniec"
-      ],
-      "diretor": "Łukasz Róg",
-      "generos": [
-        "Ação",
-        "Ficção científica",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
-      "pais": [
-        "PL"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt29512655/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Rage%20of%20Stars",
-        "metacritic": "https://www.metacritic.com/search/Rage%20of%20Stars/"
       }
     },
     {
@@ -1260,58 +1325,6 @@
       }
     },
     {
-      "tmdb_id": 1458215,
-      "imdb_id": "tt36415524",
-      "titulo_original": "The Gentleman Thief",
-      "titulo_ingles": "The Gentleman Thief",
-      "ano": 2026,
-      "data_lancamento": "2026-07-31",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um ladrão aposentado precisa proteger seu irmão impulsivo de um desastre quando um roubo de um iate de 100 milhões de dólares se transforma em uma perigosa teia de enganos. Antigos inimigos ressurgem à medida que os riscos aumentam, forçando-o a usar todos os truques que conhece para sobreviver.",
-      "elenco": [
-        "John Travolta",
-        "Lukas Haas",
-        "Rebecca De Mornay",
-        "Natali Yura",
-        "Emily Skinner",
-        "Sam Asghari",
-        "Quavo",
-        "DJ Khaled"
-      ],
-      "diretor": "Randall Emmett",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36415524/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Gentleman%20Thief",
-        "metacritic": "https://www.metacritic.com/search/The%20Gentleman%20Thief/"
-      }
-    },
-    {
       "tmdb_id": 1307118,
       "imdb_id": "tt32654916",
       "titulo_original": "Soulm8te",
@@ -1361,6 +1374,58 @@
         "imdb": "https://www.imdb.com/title/tt32654916/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Soulm8te",
         "metacritic": "https://www.metacritic.com/search/Soulm8te/"
+      }
+    },
+    {
+      "tmdb_id": 1458215,
+      "imdb_id": "tt36415524",
+      "titulo_original": "The Gentleman Thief",
+      "titulo_ingles": "The Gentleman Thief",
+      "ano": 2026,
+      "data_lancamento": "2026-07-31",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um ladrão aposentado precisa proteger seu irmão impulsivo de um desastre quando um roubo de um iate de 100 milhões de dólares se transforma em uma perigosa teia de enganos. Antigos inimigos ressurgem à medida que os riscos aumentam, forçando-o a usar todos os truques que conhece para sobreviver.",
+      "elenco": [
+        "John Travolta",
+        "Lukas Haas",
+        "Rebecca De Mornay",
+        "Natali Yura",
+        "Emily Skinner",
+        "Sam Asghari",
+        "Quavo",
+        "DJ Khaled"
+      ],
+      "diretor": "Randall Emmett",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/oMutDMODnbCZf46w0dK4wncQmDB.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36415524/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Gentleman%20Thief",
+        "metacritic": "https://www.metacritic.com/search/The%20Gentleman%20Thief/"
       }
     },
     {
@@ -1924,61 +1989,6 @@
       }
     },
     {
-      "tmdb_id": 1469342,
-      "imdb_id": "tt36629665",
-      "titulo_original": "Her Private Hell",
-      "titulo_ingles": "Her Private Hell",
-      "ano": 2026,
-      "data_lancamento": "2026-07-23",
-      "data_qualificacao": "",
-      "sinopse_pt": "Enquanto uma névoa misteriosa envolve uma metrópole futurista e libera uma presença mortal e indescritível, uma jovem atormentada parte em busca de seu pai. Nessa jornada, seu destino se cruza com o de um soldado americano que está em uma viagem desesperada para resgatar sua filha do inferno.",
-      "elenco": [
-        "Sophie Thatcher",
-        "Charles Melton",
-        "Havana Rose Liu",
-        "Kristine Froseth",
-        "忽那汐里",
-        "山田 葵",
-        "Dougray Scott",
-        "Diego Calva"
-      ],
-      "diretor": "Nicolas Winding Refn",
-      "generos": [
-        "Ficção científica",
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/62gkeidbflMmVmav17G7xJiGMA4.jpg",
-      "pais": [
-        "US",
-        "DK",
-        "GB"
-      ],
-      "idiomas": [
-        "en",
-        "ja"
-      ],
-      "duracao": 110,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 44,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 44,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36629665/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Her%20Private%20Hell",
-        "metacritic": "https://www.metacritic.com/search/Her%20Private%20Hell/"
-      }
-    },
-    {
       "tmdb_id": 1361774,
       "imdb_id": "tt33499146",
       "titulo_original": "The Dink",
@@ -2039,6 +2049,61 @@
         "imdb": "https://www.imdb.com/title/tt33499146/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dink",
         "metacritic": "https://www.metacritic.com/search/The%20Dink/"
+      }
+    },
+    {
+      "tmdb_id": 1469342,
+      "imdb_id": "tt36629665",
+      "titulo_original": "Her Private Hell",
+      "titulo_ingles": "Her Private Hell",
+      "ano": 2026,
+      "data_lancamento": "2026-07-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "Enquanto uma névoa misteriosa envolve uma metrópole futurista e libera uma presença mortal e indescritível, uma jovem atormentada parte em busca de seu pai. Nessa jornada, seu destino se cruza com o de um soldado americano que está em uma viagem desesperada para resgatar sua filha do inferno.",
+      "elenco": [
+        "Sophie Thatcher",
+        "Charles Melton",
+        "Havana Rose Liu",
+        "Kristine Froseth",
+        "忽那汐里",
+        "山田 葵",
+        "Dougray Scott",
+        "Diego Calva"
+      ],
+      "diretor": "Nicolas Winding Refn",
+      "generos": [
+        "Ficção científica",
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/62gkeidbflMmVmav17G7xJiGMA4.jpg",
+      "pais": [
+        "US",
+        "DK",
+        "GB"
+      ],
+      "idiomas": [
+        "en",
+        "ja"
+      ],
+      "duracao": 110,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": 44,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": 44,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36629665/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Her%20Private%20Hell",
+        "metacritic": "https://www.metacritic.com/search/Her%20Private%20Hell/"
       }
     },
     {
@@ -2104,6 +2169,66 @@
         "imdb": "https://www.imdb.com/title/tt37042085/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Elize%3A%20Shadows%20of%20a%20Woman",
         "metacritic": "https://www.metacritic.com/search/Elize%3A%20Shadows%20of%20a%20Woman/"
+      }
+    },
+    {
+      "tmdb_id": 1723460,
+      "imdb_id": "tt43619305",
+      "titulo_original": "A Toxic Love Story",
+      "titulo_ingles": "A Toxic Love Story",
+      "ano": 2026,
+      "data_lancamento": "2026-07-22",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma série de e-mails ameaçadores se transforma em um plano de vingança envolvendo um marechal americano recém-casado e sua ex-namorada neste documentário sobre crimes reais.",
+      "elenco": [
+        "Amanda Wear",
+        "Gavin Marck",
+        "Katia Plotnikoff",
+        "Lainey Baldwin"
+      ],
+      "diretor": "Alexandra Lacey",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/1WUHK5GFZYw1la8jUFtGQRkOVba.jpg",
+      "pais": [
+        "GB"
+      ],
+      "idiomas": [
+        "en",
+        "pt"
+      ],
+      "duracao": 91,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1723460-a-toxic-love-story/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43619305/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Toxic%20Love%20Story",
+        "metacritic": "https://www.metacritic.com/search/A%20Toxic%20Love%20Story/"
       }
     },
     {
@@ -2205,66 +2330,6 @@
         "imdb": "https://www.imdb.com/title/tt37846373/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Com%C3%A9die-Fran%C3%A7aise",
         "metacritic": "https://www.metacritic.com/search/Com%C3%A9die-Fran%C3%A7aise/"
-      }
-    },
-    {
-      "tmdb_id": 1723460,
-      "imdb_id": "tt43619305",
-      "titulo_original": "A Toxic Love Story",
-      "titulo_ingles": "A Toxic Love Story",
-      "ano": 2026,
-      "data_lancamento": "2026-07-22",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma série de e-mails ameaçadores se transforma em um plano de vingança envolvendo um marechal americano recém-casado e sua ex-namorada neste documentário sobre crimes reais.",
-      "elenco": [
-        "Amanda Wear",
-        "Gavin Marck",
-        "Katia Plotnikoff",
-        "Lainey Baldwin"
-      ],
-      "diretor": "Alexandra Lacey",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/1WUHK5GFZYw1la8jUFtGQRkOVba.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en",
-        "pt"
-      ],
-      "duracao": 91,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/dpR8r13zWDeUR0QkzWidrdMxa56.jpg"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1723460-a-toxic-love-story/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43619305/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Toxic%20Love%20Story",
-        "metacritic": "https://www.metacritic.com/search/A%20Toxic%20Love%20Story/"
       }
     },
     {
@@ -2394,56 +2459,6 @@
         "imdb": "https://www.imdb.com/title/tt39749953/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Debt%20Collector",
         "metacritic": "https://www.metacritic.com/search/The%20Debt%20Collector/"
-      }
-    },
-    {
-      "tmdb_id": 1727780,
-      "imdb_id": "tt28638842",
-      "titulo_original": "Borderline",
-      "titulo_ingles": "Borderline",
-      "ano": 2026,
-      "data_lancamento": "2026-07-17",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Marissa Arguijo",
-        "Michael-Eoin Stanney",
-        "Marcus Jean Pirae",
-        "Dominic Hernandez",
-        "Nigel Vonas",
-        "Oscar Alejandro"
-      ],
-      "diretor": "Ryan Jordan",
-      "generos": [
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
-      "pais": [
-        "US",
-        "MX"
-      ],
-      "idiomas": [
-        "en",
-        "la"
-      ],
-      "duracao": 94,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt28638842/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Borderline",
-        "metacritic": "https://www.metacritic.com/search/Borderline/"
       }
     },
     {
