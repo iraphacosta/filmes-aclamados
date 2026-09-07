@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-09-06T12:59:12.726Z",
+  "gerado_em": "2026-09-07T15:07:44.820Z",
   "filmes": [
     {
       "tmdb_id": 1506560,
@@ -100,7 +100,7 @@
         "Comédia",
         "Guerra"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/7tlkTHxcTSlrPYURo0VuglaLPXv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
       "pais": [
         "US"
       ],
@@ -108,7 +108,7 @@
         "en",
         "ru"
       ],
-      "duracao": 110,
+      "duracao": 111,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": 59,
@@ -261,6 +261,71 @@
       }
     },
     {
+      "tmdb_id": 1471168,
+      "imdb_id": "tt43706402",
+      "titulo_original": "Barreda",
+      "titulo_ingles": "Barreda",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um filme de drama ficcional baseado em um dos crimes mais chocantes da história da Argentina. Em 1992, Ricardo Barreda, um dentista comum, assassinou brutalmente sua esposa, sua sogra e suas duas filhas adultas em sua casa. Fazendo-se de vítima, Ricardo Barreda provocou uma tempestade midiática e alimentou um escândalo nacional.",
+      "elenco": [
+        "Luis Machín",
+        "Carla Peterson",
+        "Mercedes Morán",
+        "Maite Lanata",
+        "Margarita Páez",
+        "Marcelo Subiotto",
+        "Paola Barrientos",
+        "Alberto Ajaka"
+      ],
+      "diretor": "Daniela Goggi",
+      "generos": [
+        "Drama",
+        "Crime",
+        "História"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
+      "pais": [
+        "AR"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 105,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43706402/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Barreda",
+        "metacritic": "https://www.metacritic.com/search/Barreda/"
+      }
+    },
+    {
       "tmdb_id": 1631807,
       "imdb_id": "tt37275992",
       "titulo_original": "Den hemmelige kvinde",
@@ -377,71 +442,6 @@
       }
     },
     {
-      "tmdb_id": 1471168,
-      "imdb_id": "tt43706402",
-      "titulo_original": "Barreda",
-      "titulo_ingles": "Barreda",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um filme de drama ficcional baseado em um dos crimes mais chocantes da história da Argentina. Em 1992, Ricardo Barreda, um dentista comum, assassinou brutalmente sua esposa, sua sogra e suas duas filhas adultas em sua casa. Fazendo-se de vítima, Ricardo Barreda provocou uma tempestade midiática e alimentou um escândalo nacional.",
-      "elenco": [
-        "Luis Machín",
-        "Carla Peterson",
-        "Mercedes Morán",
-        "Maite Lanata",
-        "Margarita Páez",
-        "Marcelo Subiotto",
-        "Paola Barrientos",
-        "Alberto Ajaka"
-      ],
-      "diretor": "Daniela Goggi",
-      "generos": [
-        "Drama",
-        "Crime",
-        "História"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
-      "pais": [
-        "AR"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 105,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43706402/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Barreda",
-        "metacritic": "https://www.metacritic.com/search/Barreda/"
-      }
-    },
-    {
       "tmdb_id": 860508,
       "imdb_id": "tt11561116",
       "titulo_original": "The Whisper Man",
@@ -474,7 +474,7 @@
         "en"
       ],
       "duracao": 114,
-      "rt_critica": null,
+      "rt_critica": 45,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -482,7 +482,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 45,
       "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "streaming",
@@ -507,56 +507,54 @@
       }
     },
     {
-      "tmdb_id": 1514026,
-      "imdb_id": "tt37281055",
-      "titulo_original": "Buddy",
-      "titulo_ingles": "Buddy",
+      "tmdb_id": 1384216,
+      "imdb_id": "tt21285562",
+      "titulo_original": "The Dog Stars",
+      "titulo_ingles": "The Dog Stars",
       "ano": 2026,
-      "data_lancamento": "2026-08-27",
+      "data_lancamento": "2026-08-26",
       "data_qualificacao": "",
-      "sinopse_pt": "Lembra-se do BUDDY — o unicórnio laranja-vivo e estrela daquele programa infantil clássico que levava alegria e lições de vida para a sua sala de estar? No mundo colorido de “It’s Buddy!”, um grupo de crianças passa os dias cantando, dançando e ajudando Buddy a espalhar felicidade. Mas, quando uma criança se recusa a participar da brincadeira, Buddy não gosta nada disso, e rachaduras começam a surgir nesse mundo aparentemente perfeito.",
+      "sinopse_pt": "Após a população mundial ter sido devastada por uma pandemia, um homem vive uma existência solitária em um hangar de aviões no Colorado com seu cachorro e um pistoleiro taciturno com quem fez amizade. Quando uma transmissão misteriosa surge no rádio enquanto ele pilota seu velho Cessna, isso desencadeia uma busca pela origem do som.",
       "elenco": [
-        "Cristin Milioti",
-        "Delaney Quinn",
-        "Topher Grace",
-        "Keegan-Michael Key",
-        "Michael Shannon",
-        "Patton Oswalt",
-        "Clint Howard",
-        "Eric Bauza"
+        "Jacob Elordi",
+        "Margaret Qualley",
+        "Josh Brolin",
+        "Guy Pearce",
+        "Allison Janney",
+        "Benedict Wong",
+        "Ewen Bremner",
+        "James Craze"
       ],
-      "diretor": "Casper Kelly",
+      "diretor": "Ridley Scott",
       "generos": [
-        "Terror",
-        "Comédia"
+        "Ficção científica",
+        "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1C2qbfUW3lTzb8vpZeG8pjYzW3Q.jpg",
       "pais": [
-        "US",
-        "IL"
+        "US"
       ],
       "idiomas": [
-        "en",
-        "es"
+        "en"
       ],
-      "duracao": 95,
-      "rt_critica": null,
+      "duracao": 118,
+      "rt_critica": 40,
       "rt_publico": null,
-      "metacritic": 64,
+      "metacritic": 49,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 64,
+      "atual_rt": 40,
+      "atual_metacritic": 49,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt37281055/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Buddy",
-        "metacritic": "https://www.metacritic.com/search/Buddy/"
+        "imdb": "https://www.imdb.com/title/tt21285562/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dog%20Stars",
+        "metacritic": "https://www.metacritic.com/search/The%20Dog%20Stars/"
       }
     },
     {
@@ -612,54 +610,56 @@
       }
     },
     {
-      "tmdb_id": 1384216,
-      "imdb_id": "tt21285562",
-      "titulo_original": "The Dog Stars",
-      "titulo_ingles": "The Dog Stars",
+      "tmdb_id": 1213243,
+      "imdb_id": "tt27530512",
+      "titulo_original": "ಟಾಕ್ಸಿಕ್",
+      "titulo_ingles": "Toxic: A Fairy Tale for Grown-ups",
       "ano": 2026,
       "data_lancamento": "2026-08-26",
       "data_qualificacao": "",
-      "sinopse_pt": "Após a população mundial ter sido devastada por uma pandemia, um homem vive uma existência solitária em um hangar de aviões no Colorado com seu cachorro e um pistoleiro taciturno com quem fez amizade. Quando uma transmissão misteriosa surge no rádio enquanto ele pilota seu velho Cessna, isso desencadeia uma busca pela origem do som.",
+      "sinopse_pt": "",
       "elenco": [
-        "Jacob Elordi",
-        "Margaret Qualley",
-        "Josh Brolin",
-        "Guy Pearce",
-        "Allison Janney",
-        "Benedict Wong",
-        "Ewen Bremner",
-        "James Craze"
+        "Yash",
+        "कियारा आडवाणी",
+        "நயன்தாரா",
+        "हुमा क़ुरैशी",
+        "Tara Sutaria",
+        "ರುಕ್ಮಿಣಿ ವಸಂತ",
+        "Sudev Nair",
+        "Akshay Oberoi"
       ],
-      "diretor": "Ridley Scott",
+      "diretor": "Geethu Mohandas",
       "generos": [
-        "Ficção científica",
+        "Ação",
+        "Crime",
         "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/1C2qbfUW3lTzb8vpZeG8pjYzW3Q.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
       "pais": [
-        "US"
+        "IN"
       ],
       "idiomas": [
+        "kn",
         "en"
       ],
-      "duracao": 118,
+      "duracao": 192,
       "rt_critica": null,
       "rt_publico": null,
-      "metacritic": 49,
+      "metacritic": null,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
       "atual_rt": null,
-      "atual_metacritic": 49,
+      "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt21285562/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dog%20Stars",
-        "metacritic": "https://www.metacritic.com/search/The%20Dog%20Stars/"
+        "imdb": "https://www.imdb.com/title/tt27530512/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups",
+        "metacritic": "https://www.metacritic.com/search/Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups/"
       }
     },
     {
@@ -725,111 +725,6 @@
         "imdb": "https://www.imdb.com/title/tt37654096/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Sunrise",
         "metacritic": "https://www.metacritic.com/search/The%20Last%20Sunrise/"
-      }
-    },
-    {
-      "tmdb_id": 1213243,
-      "imdb_id": "tt27530512",
-      "titulo_original": "ಟಾಕ್ಸಿಕ್",
-      "titulo_ingles": "Toxic: A Fairy Tale for Grown-ups",
-      "ano": 2026,
-      "data_lancamento": "2026-08-26",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Yash",
-        "कियारा आडवाणी",
-        "நயன்தாரா",
-        "हुमा क़ुरैशी",
-        "Tara Sutaria",
-        "ರುಕ್ಮಿಣಿ ವಸಂತ",
-        "Sudev Nair",
-        "Akshay Oberoi"
-      ],
-      "diretor": "Geethu Mohandas",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "kn",
-        "en"
-      ],
-      "duracao": 192,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt27530512/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups",
-        "metacritic": "https://www.metacritic.com/search/Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups/"
-      }
-    },
-    {
-      "tmdb_id": 1508168,
-      "imdb_id": "tt37535100",
-      "titulo_original": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
-      "titulo_ingles": "Bethlehem Kudumba Unit",
-      "ano": 2026,
-      "data_lancamento": "2026-08-21",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Nivin Pauly",
-        "Mamitha Baiju",
-        "സംഗീത് പ്രതാപ്",
-        "Suresh Krishna",
-        "Shyam Mohan",
-        "Bindu Panicker",
-        "Roshan Shanavas",
-        "Srindaa"
-      ],
-      "diretor": "Girish A D",
-      "generos": [
-        "Romance",
-        "Comédia",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "ml"
-      ],
-      "duracao": 155,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37535100/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Bethlehem%20Kudumba%20Unit",
-        "metacritic": "https://www.metacritic.com/search/Bethlehem%20Kudumba%20Unit/"
       }
     },
     {
@@ -899,6 +794,58 @@
       }
     },
     {
+      "tmdb_id": 1508168,
+      "imdb_id": "tt37535100",
+      "titulo_original": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+      "titulo_ingles": "Bethlehem Kudumba Unit",
+      "ano": 2026,
+      "data_lancamento": "2026-08-21",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Nivin Pauly",
+        "Mamitha Baiju",
+        "സംഗീത് പ്രതാപ്",
+        "Suresh Krishna",
+        "Shyam Mohan",
+        "Bindu Panicker",
+        "Roshan Shanavas",
+        "Srindaa"
+      ],
+      "diretor": "Girish A D",
+      "generos": [
+        "Romance",
+        "Comédia",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "ml"
+      ],
+      "duracao": 155,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37535100/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Bethlehem%20Kudumba%20Unit",
+        "metacritic": "https://www.metacritic.com/search/Bethlehem%20Kudumba%20Unit/"
+      }
+    },
+    {
       "tmdb_id": 1341138,
       "imdb_id": "tt33305867",
       "titulo_original": "Spa Weekend",
@@ -917,7 +864,7 @@
         "Erika Heynatz",
         "Courtney Clarke"
       ],
-      "diretor": "Jon Lucas, Scott Moore",
+      "diretor": "Scott Moore, Jon Lucas",
       "generos": [
         "Comédia"
       ],
@@ -1168,6 +1115,59 @@
       }
     },
     {
+      "tmdb_id": 1226699,
+      "imdb_id": "tt35060353",
+      "titulo_original": "The Wrong Girls",
+      "titulo_ingles": "The Wrong Girls",
+      "ano": 2026,
+      "data_lancamento": "2026-08-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Kristen Stewart",
+        "Alia Shawkat",
+        "LaKeith Stanfield",
+        "Zack Fox",
+        "Tony Hale",
+        "Chris Estrada",
+        "Thomas La Barbera Christensen",
+        "Thor Knai"
+      ],
+      "diretor": "Dylan Meyer",
+      "generos": [
+        "Comédia",
+        "Crime",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "da"
+      ],
+      "duracao": 99,
+      "rt_critica": 61,
+      "rt_publico": null,
+      "metacritic": 59,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 61,
+      "atual_metacritic": 59,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35060353/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Wrong%20Girls",
+        "metacritic": "https://www.metacritic.com/search/The%20Wrong%20Girls/"
+      }
+    },
+    {
       "tmdb_id": 1589248,
       "imdb_id": "tt38662472",
       "titulo_original": "Mein bester Freund, seine Freundin und ich",
@@ -1228,111 +1228,6 @@
         "imdb": "https://www.imdb.com/title/tt38662472/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Best%20Friend%2C%20His%20Girlfriend%20and%20Me",
         "metacritic": "https://www.metacritic.com/search/My%20Best%20Friend%2C%20His%20Girlfriend%20and%20Me/"
-      }
-    },
-    {
-      "tmdb_id": 1226699,
-      "imdb_id": "tt35060353",
-      "titulo_original": "The Wrong Girls",
-      "titulo_ingles": "The Wrong Girls",
-      "ano": 2026,
-      "data_lancamento": "2026-08-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Kristen Stewart",
-        "Alia Shawkat",
-        "LaKeith Stanfield",
-        "Zack Fox",
-        "Tony Hale",
-        "Chris Estrada",
-        "Thomas La Barbera Christensen",
-        "Thor Knai"
-      ],
-      "diretor": "Dylan Meyer",
-      "generos": [
-        "Comédia",
-        "Crime",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "da"
-      ],
-      "duracao": 99,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 59,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 59,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35060353/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Wrong%20Girls",
-        "metacritic": "https://www.metacritic.com/search/The%20Wrong%20Girls/"
-      }
-    },
-    {
-      "tmdb_id": 192139,
-      "imdb_id": "tt33070884",
-      "titulo_original": "The Brink of War",
-      "titulo_ingles": "The Brink of War",
-      "ano": 2026,
-      "data_lancamento": "2026-08-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "O presidente Ronald Reagan corre contra o tempo para salvar um acordo com o líder soviético Mikhail Gorbachev que poderia desmantelar os arsenais nucleares ou desencadear um desastre. Com a pressão aumentando de todos os lados, cada palavra dita aproxima o mundo da paz... ou da destruição.",
-      "elenco": [
-        "Jeff Daniels",
-        "Jared Harris",
-        "J.K. Simmons",
-        "Hope Davis",
-        "Бранка Катић",
-        "Aya Cash",
-        "Guy Burnet",
-        "Adrian Rawlins"
-      ],
-      "diretor": "Michael Russell Gunn",
-      "generos": [
-        "Drama",
-        "História"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vCIQeQ2ynVqEjIvtbOXGnKtcgAX.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "ru"
-      ],
-      "duracao": 119,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 51,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 51,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33070884/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Brink%20of%20War",
-        "metacritic": "https://www.metacritic.com/search/The%20Brink%20of%20War/"
       }
     },
     {
@@ -1398,38 +1293,37 @@
       }
     },
     {
-      "tmdb_id": 1504358,
-      "imdb_id": "tt36590417",
-      "titulo_original": "Don't Say Good Luck",
-      "titulo_ingles": "Don't Say Good Luck",
+      "tmdb_id": 1564831,
+      "imdb_id": "tt39368153",
+      "titulo_original": "Tombé du ciel",
+      "titulo_ingles": "Tombé du ciel",
       "ano": 2026,
-      "data_lancamento": "2026-08-13",
+      "data_lancamento": "2026-08-12",
       "data_qualificacao": "",
-      "sinopse_pt": "Sophie Birenbaum está pronta para brilhar no musical da escola. Mas a situação complica quando ela precisa enfrentar mais drama dentro de casa do que em cima do palco.",
+      "sinopse_pt": "",
       "elenco": [
-        "Sunny Sandler",
-        "Melanie Lynskey",
-        "Max Greenfield",
-        "Stephanie Beatriz",
-        "Bebe Neuwirth",
-        "Steve Buscemi",
-        "Matan Friedman",
-        "Eitan Friedman"
+        "Ilyes Djadel",
+        "Jamel Debbouze",
+        "Josiane Balasko",
+        "Fred Testot",
+        "Ted Etienne",
+        "Ludovic Berthillot",
+        "Laurence Porteil",
+        "Michel Bompoil"
       ],
-      "diretor": "Julia Hart",
+      "diretor": "Mohamed Hamidi",
       "generos": [
         "Comédia",
-        "Música",
-        "Drama"
+        "Família"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/l6cwkNbPIOdjvFwm7XZTI2EZhZu.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg",
       "pais": [
-        "US"
+        "FR"
       ],
       "idiomas": [
-        "en"
+        "fr"
       ],
-      "duracao": 96,
+      "duracao": 0,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1441,25 +1335,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1504358-don-t-say-good-luck/watch?locale=BR"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36590417/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Don't%20Say%20Good%20Luck",
-        "metacritic": "https://www.metacritic.com/search/Don't%20Say%20Good%20Luck/"
+        "imdb": "https://www.imdb.com/title/tt39368153/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Tomb%C3%A9%20du%20ciel",
+        "metacritic": "https://www.metacritic.com/search/Tomb%C3%A9%20du%20ciel/"
       }
     },
     {
@@ -1530,57 +1411,6 @@
       }
     },
     {
-      "tmdb_id": 1564831,
-      "imdb_id": "tt39368153",
-      "titulo_original": "Tombé du ciel",
-      "titulo_ingles": "Tombé du ciel",
-      "ano": 2026,
-      "data_lancamento": "2026-08-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Ilyes Djadel",
-        "Jamel Debbouze",
-        "Josiane Balasko",
-        "Fred Testot",
-        "Ted Etienne",
-        "Ludovic Berthillot",
-        "Laurence Porteil",
-        "Michel Bompoil"
-      ],
-      "diretor": "Mohamed Hamidi",
-      "generos": [
-        "Comédia",
-        "Família"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39368153/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Tomb%C3%A9%20du%20ciel",
-        "metacritic": "https://www.metacritic.com/search/Tomb%C3%A9%20du%20ciel/"
-      }
-    },
-    {
       "tmdb_id": 1391021,
       "imdb_id": "tt34386754",
       "titulo_original": "欢迎来龙餐馆",
@@ -1631,72 +1461,6 @@
         "imdb": "https://www.imdb.com/title/tt34386754/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Once%20Upon%20a%20Time%20in%20the%20Middle%20East",
         "metacritic": "https://www.metacritic.com/search/Once%20Upon%20a%20Time%20in%20the%20Middle%20East/"
-      }
-    },
-    {
-      "tmdb_id": 1679730,
-      "imdb_id": "tt42186253",
-      "titulo_original": "THE RIBBON HERO リボンヒーロー",
-      "titulo_ingles": "THE RIBBON HERO",
-      "ano": 2026,
-      "data_lancamento": "2026-08-07",
-      "data_qualificacao": "",
-      "sinopse_pt": "Depois da destruição causada pelo monstruoso Nergal, Safira desperta seus poderes como a Princesa Cavaleira e decide lutar para salvar seu novo lar.",
-      "elenco": [
-        "Saaya",
-        "小林星蘭",
-        "Koki Uchiyama",
-        "新谷真弓",
-        "壤晴彦",
-        "Yoshimasa Hosoya",
-        "月ノ美兎",
-        "手塚祐介"
-      ],
-      "diretor": "五十嵐祐貴",
-      "generos": [
-        "Animação",
-        "Fantasia",
-        "Drama",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/sLjm1n06TuQnwT0XJp9YcvIMq44.jpg",
-      "pais": [
-        "JP"
-      ],
-      "idiomas": [
-        "ja"
-      ],
-      "duracao": 112,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1679730-the-ribbon-hero/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt42186253/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=THE%20RIBBON%20HERO",
-        "metacritic": "https://www.metacritic.com/search/THE%20RIBBON%20HERO/"
       }
     },
     {
@@ -1812,6 +1576,175 @@
       }
     },
     {
+      "tmdb_id": 1679730,
+      "imdb_id": "tt42186253",
+      "titulo_original": "THE RIBBON HERO リボンヒーロー",
+      "titulo_ingles": "THE RIBBON HERO",
+      "ano": 2026,
+      "data_lancamento": "2026-08-07",
+      "data_qualificacao": "",
+      "sinopse_pt": "Depois da destruição causada pelo monstruoso Nergal, Safira desperta seus poderes como a Princesa Cavaleira e decide lutar para salvar seu novo lar.",
+      "elenco": [
+        "Saaya",
+        "小林星蘭",
+        "Koki Uchiyama",
+        "新谷真弓",
+        "壤晴彦",
+        "Yoshimasa Hosoya",
+        "月ノ美兎",
+        "手塚祐介"
+      ],
+      "diretor": "五十嵐祐貴",
+      "generos": [
+        "Animação",
+        "Fantasia",
+        "Drama",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/sLjm1n06TuQnwT0XJp9YcvIMq44.jpg",
+      "pais": [
+        "JP"
+      ],
+      "idiomas": [
+        "ja"
+      ],
+      "duracao": 112,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1679730-the-ribbon-hero/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt42186253/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=THE%20RIBBON%20HERO",
+        "metacritic": "https://www.metacritic.com/search/THE%20RIBBON%20HERO/"
+      }
+    },
+    {
+      "tmdb_id": 675871,
+      "imdb_id": "tt8820258",
+      "titulo_original": "Super Troopers 3",
+      "titulo_ingles": "Super Troopers 3",
+      "ano": 2026,
+      "data_lancamento": "2026-08-06",
+      "data_qualificacao": "",
+      "sinopse_pt": "Cinco policiais federais estão fazendo o inferno nas estradas e se veem conduzindo situações engraçadas enquanto tentam evitar sua extinção.",
+      "elenco": [
+        "Jay Chandrasekhar",
+        "Kevin Heffernan",
+        "Steve Lemme",
+        "Paul Soter",
+        "Erik Stolhanske",
+        "Hannah Simone",
+        "Marisa Coughlan",
+        "Nat Faxon"
+      ],
+      "diretor": "Jay Chandrasekhar",
+      "generos": [
+        "Comédia",
+        "Crime",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 100,
+      "rt_critica": 51,
+      "rt_publico": null,
+      "metacritic": 37,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 51,
+      "atual_metacritic": 37,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt8820258/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Super%20Troopers%203",
+        "metacritic": "https://www.metacritic.com/search/Super%20Troopers%203/"
+      }
+    },
+    {
+      "tmdb_id": 1323244,
+      "imdb_id": "tt29512655",
+      "titulo_original": "Rage of Stars",
+      "titulo_ingles": "Rage of Stars",
+      "ano": 2026,
+      "data_lancamento": "2026-08-06",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Andrea Tivadar",
+        "Jord Knotter",
+        "Jack McEvoy",
+        "Elijah Rowen",
+        "Małgorzata Klara",
+        "Mayu Gralińska Sakai",
+        "Jakub Ormaniec"
+      ],
+      "diretor": "Łukasz Róg",
+      "generos": [
+        "Ação",
+        "Ficção científica",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+      "pais": [
+        "PL"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 106,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt29512655/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Rage%20of%20Stars",
+        "metacritic": "https://www.metacritic.com/search/Rage%20of%20Stars/"
+      }
+    },
+    {
       "tmdb_id": 1284041,
       "imdb_id": "tt32268156",
       "titulo_original": "The Last House",
@@ -1874,57 +1807,6 @@
         "imdb": "https://www.imdb.com/title/tt32268156/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20House",
         "metacritic": "https://www.metacritic.com/search/The%20Last%20House/"
-      }
-    },
-    {
-      "tmdb_id": 1323244,
-      "imdb_id": "tt29512655",
-      "titulo_original": "Rage of Stars",
-      "titulo_ingles": "Rage of Stars",
-      "ano": 2026,
-      "data_lancamento": "2026-08-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Andrea Tivadar",
-        "Jord Knotter",
-        "Jack McEvoy",
-        "Elijah Rowen",
-        "Małgorzata Klara",
-        "Mayu Gralińska Sakai",
-        "Jakub Ormaniec"
-      ],
-      "diretor": "Łukasz Róg",
-      "generos": [
-        "Ação",
-        "Ficção científica",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
-      "pais": [
-        "PL"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt29512655/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Rage%20of%20Stars",
-        "metacritic": "https://www.metacritic.com/search/Rage%20of%20Stars/"
       }
     },
     {
@@ -2042,7 +1924,7 @@
         "en"
       ],
       "duracao": 86,
-      "rt_critica": null,
+      "rt_critica": 25,
       "rt_publico": null,
       "metacritic": 34,
       "imdb_publico": null,
@@ -2050,7 +1932,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 25,
       "atual_metacritic": 34,
       "disponibilidade_br": {
         "estado": "cinema"
@@ -2059,6 +1941,58 @@
         "imdb": "https://www.imdb.com/title/tt36893729/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ice%20Cream%20Man",
         "metacritic": "https://www.metacritic.com/search/Ice%20Cream%20Man/"
+      }
+    },
+    {
+      "tmdb_id": 1458215,
+      "imdb_id": "tt36415524",
+      "titulo_original": "The Gentleman Thief",
+      "titulo_ingles": "The Gentleman Thief",
+      "ano": 2026,
+      "data_lancamento": "2026-07-31",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um ladrão aposentado precisa proteger seu irmão impulsivo de um desastre quando um roubo de um iate de 100 milhões de dólares se transforma em uma perigosa teia de enganos. Antigos inimigos ressurgem à medida que os riscos aumentam, forçando-o a usar todos os truques que conhece para sobreviver.",
+      "elenco": [
+        "John Travolta",
+        "Lukas Haas",
+        "Rebecca De Mornay",
+        "Natali Yura",
+        "Emily Skinner",
+        "Sam Asghari",
+        "Quavo",
+        "DJ Khaled"
+      ],
+      "diretor": "Randall Emmett",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/yuTkWjQa83RtCZMjYg2crzUonTu.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36415524/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Gentleman%20Thief",
+        "metacritic": "https://www.metacritic.com/search/The%20Gentleman%20Thief/"
       }
     },
     {
@@ -2114,38 +2048,37 @@
       }
     },
     {
-      "tmdb_id": 1458215,
-      "imdb_id": "tt36415524",
-      "titulo_original": "The Gentleman Thief",
-      "titulo_ingles": "The Gentleman Thief",
+      "tmdb_id": 1616131,
+      "imdb_id": "tt37961750",
+      "titulo_original": "Un hijo propio",
+      "titulo_ingles": "A Child of My Own",
       "ano": 2026,
-      "data_lancamento": "2026-07-31",
+      "data_lancamento": "2026-07-30",
       "data_qualificacao": "",
-      "sinopse_pt": "Um ladrão aposentado precisa proteger seu irmão impulsivo de um desastre quando um roubo de um iate de 100 milhões de dólares se transforma em uma perigosa teia de enganos. Antigos inimigos ressurgem à medida que os riscos aumentam, forçando-o a usar todos os truques que conhece para sobreviver.",
+      "sinopse_pt": "Desesperada para ter um filho e pressionada pela família e pela sociedade, uma mulher finge estar grávida e acaba envolvida em um crime neste documentário impactante.",
       "elenco": [
-        "John Travolta",
-        "Lukas Haas",
-        "Rebecca De Mornay",
-        "Natali Yura",
-        "Emily Skinner",
-        "Sam Asghari",
-        "Quavo",
-        "DJ Khaled"
+        "Ana Celeste",
+        "Armando Espitia",
+        "Luisa Guzmán",
+        "Ángeles Cruz",
+        "Mayra Sérbulo",
+        "Mayra Batalla",
+        "Alejandro Porter",
+        "Yamile Pando"
       ],
-      "diretor": "Randall Emmett",
+      "diretor": "Maite Alberdi",
       "generos": [
-        "Ação",
-        "Crime",
-        "Thriller"
+        "Documentário"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/yuTkWjQa83RtCZMjYg2crzUonTu.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iBD5kzk6XMyQEuV4m4A6OotqcSK.jpg",
       "pais": [
-        "US"
+        "CL",
+        "MX"
       ],
       "idiomas": [
-        "en"
+        "es"
       ],
-      "duracao": 97,
+      "duracao": 96,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2157,12 +2090,25 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1616131-un-hijo-propio/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36415524/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Gentleman%20Thief",
-        "metacritic": "https://www.metacritic.com/search/The%20Gentleman%20Thief/"
+        "imdb": "https://www.imdb.com/title/tt37961750/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Child%20of%20My%20Own",
+        "metacritic": "https://www.metacritic.com/search/A%20Child%20of%20My%20Own/"
       }
     },
     {
@@ -2231,37 +2177,34 @@
       }
     },
     {
-      "tmdb_id": 1616131,
-      "imdb_id": "tt37961750",
-      "titulo_original": "Un hijo propio",
-      "titulo_ingles": "A Child of My Own",
+      "tmdb_id": 1466662,
+      "imdb_id": "tt39462979",
+      "titulo_original": "Le Triangle d'or",
+      "titulo_ingles": "Madame",
       "ano": 2026,
-      "data_lancamento": "2026-07-30",
+      "data_lancamento": "2026-07-29",
       "data_qualificacao": "",
-      "sinopse_pt": "Desesperada para ter um filho e pressionada pela família e pela sociedade, uma mulher finge estar grávida e acaba envolvida em um crime neste documentário impactante.",
+      "sinopse_pt": "",
       "elenco": [
-        "Ana Celeste",
-        "Armando Espitia",
-        "Luisa Guzmán",
-        "Ángeles Cruz",
-        "Mayra Sérbulo",
-        "Mayra Batalla",
-        "Alejandro Porter",
-        "Yamile Pando"
+        "Malou Khebizi",
+        "Soundos Mosbah",
+        "Ziad Bakri",
+        "Kassem Al Khoja"
       ],
-      "diretor": "Maite Alberdi",
+      "diretor": "Hélène Rosselet-Ruiz",
       "generos": [
-        "Documentário"
+        "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/iBD5kzk6XMyQEuV4m4A6OotqcSK.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gKuRnWDee2OvvzdQf1kI4vqcnhq.jpg",
       "pais": [
-        "CL",
-        "MX"
+        "FR",
+        "BE"
       ],
       "idiomas": [
-        "es"
+        "fr",
+        "ar"
       ],
-      "duracao": 96,
+      "duracao": 87,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2273,25 +2216,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1616131-un-hijo-propio/watch?locale=BR"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt37961750/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Child%20of%20My%20Own",
-        "metacritic": "https://www.metacritic.com/search/A%20Child%20of%20My%20Own/"
+        "imdb": "https://www.imdb.com/title/tt39462979/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Madame",
+        "metacritic": "https://www.metacritic.com/search/Madame/"
       }
     },
     {
@@ -2349,54 +2279,6 @@
       }
     },
     {
-      "tmdb_id": 1466662,
-      "imdb_id": "tt39462979",
-      "titulo_original": "Le Triangle d'or",
-      "titulo_ingles": "Madame",
-      "ano": 2026,
-      "data_lancamento": "2026-07-29",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Malou Khebizi",
-        "Soundos Mosbah",
-        "Ziad Bakri",
-        "Kassem Al Khoja"
-      ],
-      "diretor": "Hélène Rosselet-Ruiz",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/gKuRnWDee2OvvzdQf1kI4vqcnhq.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr",
-        "ar"
-      ],
-      "duracao": 87,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39462979/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Madame",
-        "metacritic": "https://www.metacritic.com/search/Madame/"
-      }
-    },
-    {
       "tmdb_id": 1481343,
       "imdb_id": "tt36958312",
       "titulo_original": "The Devil's Mouth",
@@ -2429,7 +2311,7 @@
         "th"
       ],
       "duracao": 106,
-      "rt_critica": null,
+      "rt_critica": 40,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -2437,7 +2319,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 40,
       "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "streaming",
@@ -2493,7 +2375,7 @@
         "en"
       ],
       "duracao": 102,
-      "rt_critica": null,
+      "rt_critica": 43,
       "rt_publico": null,
       "metacritic": 43,
       "imdb_publico": null,
@@ -2501,7 +2383,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 43,
       "atual_metacritic": 43,
       "disponibilidade_br": {
         "estado": "cinema"
@@ -2510,6 +2392,71 @@
         "imdb": "https://www.imdb.com/title/tt37853455/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Night%20Only",
         "metacritic": "https://www.metacritic.com/search/One%20Night%20Only/"
+      }
+    },
+    {
+      "tmdb_id": 1659155,
+      "imdb_id": "tt41111628",
+      "titulo_original": "Los creyentes",
+      "titulo_ingles": "The Truthers",
+      "ano": 2026,
+      "data_lancamento": "2026-07-24",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
+      "elenco": [
+        "Jose Coronado",
+        "Stéphanie Magnin",
+        "Fanny Gautier",
+        "Alberto Olmo",
+        "Israel Ruiz",
+        "Mabel del Pozo",
+        "Celine Fortenbacher",
+        "Olaya Lopez"
+      ],
+      "diretor": "Roger Gual",
+      "generos": [
+        "Thriller",
+        "Drama",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
+      "pais": [
+        "ES"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 106,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt41111628/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Truthers",
+        "metacritic": "https://www.metacritic.com/search/The%20Truthers/"
       }
     },
     {
@@ -2596,38 +2543,38 @@
       }
     },
     {
-      "tmdb_id": 1659155,
-      "imdb_id": "tt41111628",
-      "titulo_original": "Los creyentes",
-      "titulo_ingles": "The Truthers",
+      "tmdb_id": 1620682,
+      "imdb_id": "tt43617119",
+      "titulo_original": "أحبك من زمان",
+      "titulo_ingles": "Love in Slow Motion",
       "ano": 2026,
-      "data_lancamento": "2026-07-24",
+      "data_lancamento": "2026-07-23",
       "data_qualificacao": "",
-      "sinopse_pt": "Após a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
+      "sinopse_pt": "Quando Jawad, o melhor amigo de Haya, fica noivo, o mundo de solteira convicta dela vira de cabeça para baixo — afinal, quem diria que o amor verdadeiro poderia estar escondido na \"friend zone\"?",
       "elenco": [
-        "Jose Coronado",
-        "Stéphanie Magnin",
-        "Fanny Gautier",
-        "Alberto Olmo",
-        "Israel Ruiz",
-        "Mabel del Pozo",
-        "Celine Fortenbacher",
-        "Olaya Lopez"
+        "نور الغندور",
+        "علي كاكولي",
+        "فاطمة الشريف",
+        "شوق الهادي",
+        "نهى نبيل",
+        "Elie Mitri",
+        "Mahira Abdel Aziz",
+        "Neshan Der Haroutiounian"
       ],
-      "diretor": "Roger Gual",
+      "diretor": "إيلي السمعان",
       "generos": [
-        "Thriller",
-        "Drama",
-        "Mistério"
+        "Romance",
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1xufFKDpVSxATQh0i7gsA4SjSl1.jpg",
       "pais": [
-        "ES"
+        "KW",
+        "LB"
       ],
       "idiomas": [
-        "es"
+        "ar"
       ],
-      "duracao": 106,
+      "duracao": 93,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2652,67 +2599,12 @@
             "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
           }
         ],
-        "link_br": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=BR"
+        "link_br": "https://www.themoviedb.org/movie/1620682/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt41111628/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Truthers",
-        "metacritic": "https://www.metacritic.com/search/The%20Truthers/"
-      }
-    },
-    {
-      "tmdb_id": 1185806,
-      "imdb_id": "tt29356163",
-      "titulo_original": "PAW Patrol: The Dino Movie",
-      "titulo_ingles": "PAW Patrol: The Dino Movie",
-      "ano": 2026,
-      "data_lancamento": "2026-07-23",
-      "data_qualificacao": "",
-      "sinopse_pt": "A Patrulha Canina para em uma misteriosa ilha de dinossauros, onde conhecem Rex, um filhote perdido. Quando a mineração imprudente de Humdinger provoca a erupção de um vulcão, a equipe enfrenta a maior missão de resgate para salvar a ilha.",
-      "elenco": [
-        "Carter Young",
-        "Mckenna Grace",
-        "Terry Crews",
-        "Meredith MacNeill",
-        "Ron Pardo",
-        "Jennifer Hudson",
-        "Hayden Chemberlen",
-        "Fortune Feimster"
-      ],
-      "diretor": "Cal Brunker",
-      "generos": [
-        "Animação",
-        "Aventura",
-        "Família",
-        "Fantasia",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bVwQR66OsPwCsUutfp3aNuaN1pW.jpg",
-      "pais": [
-        "CA",
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 88,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 47,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 47,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt29356163/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=PAW%20Patrol%3A%20The%20Dino%20Movie",
-        "metacritic": "https://www.metacritic.com/search/PAW%20Patrol%3A%20The%20Dino%20Movie/"
+        "imdb": "https://www.imdb.com/title/tt43617119/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Love%20in%20Slow%20Motion",
+        "metacritic": "https://www.metacritic.com/search/Love%20in%20Slow%20Motion/"
       }
     },
     {
@@ -2805,7 +2697,7 @@
         "en"
       ],
       "duracao": 125,
-      "rt_critica": null,
+      "rt_critica": 59,
       "rt_publico": null,
       "metacritic": 49,
       "imdb_publico": null,
@@ -2813,7 +2705,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 59,
       "atual_metacritic": 49,
       "disponibilidade_br": {
         "estado": "cinema"
@@ -3063,58 +2955,6 @@
       }
     },
     {
-      "tmdb_id": 1375646,
-      "imdb_id": "tt34385135",
-      "titulo_original": "군체",
-      "titulo_ingles": "Colony",
-      "ano": 2026,
-      "data_lancamento": "2026-05-21",
-      "data_qualificacao": "",
-      "sinopse_pt": "De repente, um vírus que sofre mutações rápidas é liberado em uma conferência de biologia, forçando o isolamento imediato do local. A contaminação se espalha rapidamente, e os infectados não apenas atacam, eles evoluem de formas imprevisíveis e cada vez mais perigosas. Presos nesse confinamento, um grupo de sobreviventes precisa lutar pela própria vida enquanto, a cada minuto, as regras do jogo mudam.",
-      "elenco": [
-        "Gianna Jun",
-        "Koo Kyo-hwan",
-        "Ji Chang-wook",
-        "Kim Shin-rok",
-        "Shin Hyun-been",
-        "Go Soo",
-        "이중옥",
-        "Kim Jong-tae"
-      ],
-      "diretor": "Yeon Sang-ho",
-      "generos": [
-        "Ação",
-        "Terror",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/5tQ8kDNk00HPuVb43pZH1BmcNWQ.jpg",
-      "pais": [
-        "KR"
-      ],
-      "idiomas": [
-        "ko"
-      ],
-      "duracao": 122,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 57,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 57,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34385135/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Colony",
-        "metacritic": "https://www.metacritic.com/search/Colony/"
-      }
-    },
-    {
       "tmdb_id": 1127384,
       "imdb_id": "tt29516222",
       "titulo_original": "Deep Water",
@@ -3191,8 +3031,8 @@
       ],
       "diretor": "Joshua Enck",
       "generos": [
-        "Drama",
-        "História"
+        "História",
+        "Drama"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/qZf42h6r8BSkVTCBtTXTELcgTV1.jpg",
       "pais": [
@@ -3243,6 +3083,56 @@
         "imdb": "https://www.imdb.com/title/tt33305882/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Great%20Awakening",
         "metacritic": "https://www.metacritic.com/search/A%20Great%20Awakening/"
+      }
+    },
+    {
+      "tmdb_id": 1523145,
+      "imdb_id": "tt38190257",
+      "titulo_original": "Твоё сердце будет разбито",
+      "titulo_ingles": "Your Heart Will Be Broken",
+      "ano": 2026,
+      "data_lancamento": "2026-03-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "A adolescente Polina tenta recomeçar a vida em uma nova cidade, mas logo se torna alvo de bullying na escola. Tudo muda quando Bars, o aluno mais temido e misterioso do colégio, oferece proteção em troca de que ela siga suas próprias regras. O que começa com um “fake dating” logo evolui para uma relação intensa e emocionalmente complexa, marcada por dependência, vulnerabilidade e uma crescente necessidade de pertencimento.",
+      "elenco": [
+        "Даниэль Вегас",
+        "Вероника Журавлёва",
+        "Иван Трушин",
+        "Максим Сапрыкин",
+        "Аля Майер",
+        "Евгения Лоза",
+        "Павел Кузьмин",
+        "Александра Тихонова"
+      ],
+      "diretor": "Михаил Вайнберг",
+      "generos": [
+        "Romance"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/lsa8cLHVMPcKiSV5blNOqHTpQil.jpg",
+      "pais": [
+        "RU"
+      ],
+      "idiomas": [
+        "ru"
+      ],
+      "duracao": 105,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38190257/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Your%20Heart%20Will%20Be%20Broken",
+        "metacritic": "https://www.metacritic.com/search/Your%20Heart%20Will%20Be%20Broken/"
       }
     },
     {
@@ -3308,6 +3198,124 @@
         "imdb": "https://www.imdb.com/title/tt32358025/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Beast%20Race",
         "metacritic": "https://www.metacritic.com/search/Beast%20Race/"
+      }
+    },
+    {
+      "tmdb_id": 1145899,
+      "imdb_id": "tt33029380",
+      "titulo_original": "Marsupilami",
+      "titulo_ingles": "Marsupilami",
+      "ano": 2026,
+      "data_lancamento": "2026-02-04",
+      "data_qualificacao": "",
+      "sinopse_pt": "Para salvar seu emprego, David aceita transportar um pacote misterioso da América do Sul, mas tudo sai do controle quando um bebê marsupilami é libertado em um cruzeiro. Em meio à confusão, ele vive uma aventura caótica ao lado da ex, do filho e de um colega atrapalhado, redescobrindo a importância dos laços familiares.",
+      "elenco": [
+        "Philippe Lacheau",
+        "Jamel Debbouze",
+        "Tarek Boudali",
+        "Élodie Fontan",
+        "Julien Arruti",
+        "Jean Reno",
+        "Corentin Guillot",
+        "Gérard Jugnot"
+      ],
+      "diretor": "Philippe Lacheau",
+      "generos": [
+        "Aventura",
+        "Comédia",
+        "Família"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vGzmitzUQrDkAghLETCgLk4WMmD.jpg",
+      "pais": [
+        "FR",
+        "BE"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 99,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33029380/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Marsupilami",
+        "metacritic": "https://www.metacritic.com/search/Marsupilami/"
+      }
+    },
+    {
+      "tmdb_id": 1489187,
+      "imdb_id": "tt33086385",
+      "titulo_original": "Сводишь с ума",
+      "titulo_ingles": "You Drive Me Crazy",
+      "ano": 2025,
+      "data_lancamento": "2025-10-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "Alisa muda-se para um apartamento espaçoso em São Petersburgo, onde o espelho começa a funcionar mal, mostrando ao jovem inquilino uma realidade paralela do mesmo apartamento. Só que não é Alisa quem vive nessa realidade paralela, mas sim o festeiro Ivan. Serão os jovens capazes de reconhecer o amor verdadeiro e de unir os seus mundos para se encontrarem na realidade e simplesmente se tocarem?",
+      "elenco": [
+        "Мила Ершова",
+        "Юрий Насонов",
+        "Антон Васильев",
+        "Антон Артемьев",
+        "Надя Иванова",
+        "Людмила Артемьева",
+        "Hilda Karmen",
+        "Михаил Локшин"
+      ],
+      "diretor": "Дарья Лебедева",
+      "generos": [
+        "Comédia",
+        "Romance",
+        "Fantasia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/ggrMFhEc50M2OmpxBeXNPOadpsZ.jpg",
+      "pais": [
+        "RU"
+      ],
+      "idiomas": [
+        "ru"
+      ],
+      "duracao": 99,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1489187/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33086385/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=You%20Drive%20Me%20Crazy",
+        "metacritic": "https://www.metacritic.com/search/You%20Drive%20Me%20Crazy/"
       }
     },
     {
