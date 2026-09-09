@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-09-08T13:43:49.580Z",
+  "gerado_em": "2026-09-09T13:48:15.946Z",
   "filmes": [
     {
       "tmdb_id": 1506560,
@@ -323,9 +323,9 @@
         "Pål Sverre Hagen",
         "Stina Ekblad",
         "Ingrid Bolsø Berdal",
+        "Thea Sofie Loch Næss",
         "Lars Simonsen",
-        "Ida Appel",
-        "Nina Christrup"
+        "Ida Appel"
       ],
       "diretor": "Barbara Topsøe-Rothenborg",
       "generos": [
@@ -439,6 +439,58 @@
       }
     },
     {
+      "tmdb_id": 1729723,
+      "imdb_id": "tt43141030",
+      "titulo_original": "Yellow Mirror",
+      "titulo_ingles": "Yellow Mirror",
+      "ano": 2026,
+      "data_lancamento": "2026-08-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um abajur com defeito revela uma verdade comovente sobre o que Homer acredita ser a realidade, e um tablet com inteligência artificial faz amizade com Maggie e passa a controlá-la. Os Simpsons lutam para achar a luz em meio a duas histórias sombrias, intrigantes e bizarras, neste episódio exclusivo da Disney+.",
+      "elenco": [
+        "Dan Castellaneta",
+        "Nancy Cartwright",
+        "Julie Kavner",
+        "Yeardley Smith",
+        "Patti Harrison",
+        "Demi Moore",
+        "Harry Shearer",
+        "Alex Désert"
+      ],
+      "diretor": "Matthew Faughnan",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 27,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43141030/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Mirror",
+        "metacritic": "https://www.metacritic.com/search/Yellow%20Mirror/"
+      }
+    },
+    {
       "tmdb_id": 1384216,
       "imdb_id": "tt21285562",
       "titulo_original": "The Dog Stars",
@@ -460,7 +512,8 @@
       "diretor": "Ridley Scott",
       "generos": [
         "Ficção científica",
-        "Drama"
+        "Drama",
+        "Aventura"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/1C2qbfUW3lTzb8vpZeG8pjYzW3Q.jpg",
       "pais": [
@@ -555,58 +608,6 @@
       }
     },
     {
-      "tmdb_id": 1729723,
-      "imdb_id": "tt43141030",
-      "titulo_original": "Yellow Mirror",
-      "titulo_ingles": "Yellow Mirror",
-      "ano": 2026,
-      "data_lancamento": "2026-08-26",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um abajur com defeito revela uma verdade comovente sobre o que Homer acredita ser a realidade, e um tablet com inteligência artificial faz amizade com Maggie e passa a controlá-la. Os Simpsons lutam para achar a luz em meio a duas histórias sombrias, intrigantes e bizarras, neste episódio exclusivo da Disney+.",
-      "elenco": [
-        "Dan Castellaneta",
-        "Nancy Cartwright",
-        "Julie Kavner",
-        "Yeardley Smith",
-        "Patti Harrison",
-        "Demi Moore",
-        "Harry Shearer",
-        "Alex Désert"
-      ],
-      "diretor": "Matthew Faughnan",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 27,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43141030/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Mirror",
-        "metacritic": "https://www.metacritic.com/search/Yellow%20Mirror/"
-      }
-    },
-    {
       "tmdb_id": 1213243,
       "imdb_id": "tt27530512",
       "titulo_original": "ಟಾಕ್ಸಿಕ್",
@@ -657,58 +658,6 @@
         "imdb": "https://www.imdb.com/title/tt27530512/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups",
         "metacritic": "https://www.metacritic.com/search/Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups/"
-      }
-    },
-    {
-      "tmdb_id": 1508168,
-      "imdb_id": "tt37535100",
-      "titulo_original": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
-      "titulo_ingles": "Bethlehem Kudumba Unit",
-      "ano": 2026,
-      "data_lancamento": "2026-08-21",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Nivin Pauly",
-        "Mamitha Baiju",
-        "സംഗീത് പ്രതാപ്",
-        "Suresh Krishna",
-        "Shyam Mohan",
-        "Bindu Panicker",
-        "Roshan Shanavas",
-        "Srindaa"
-      ],
-      "diretor": "Girish A D",
-      "generos": [
-        "Romance",
-        "Comédia",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "ml"
-      ],
-      "duracao": 155,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37535100/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Bethlehem%20Kudumba%20Unit",
-        "metacritic": "https://www.metacritic.com/search/Bethlehem%20Kudumba%20Unit/"
       }
     },
     {
@@ -775,6 +724,58 @@
         "imdb": "https://www.imdb.com/title/tt39390497/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Facing%20El%20Chapo",
         "metacritic": "https://www.metacritic.com/search/Facing%20El%20Chapo/"
+      }
+    },
+    {
+      "tmdb_id": 1508168,
+      "imdb_id": "tt37535100",
+      "titulo_original": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+      "titulo_ingles": "Bethlehem Kudumba Unit",
+      "ano": 2026,
+      "data_lancamento": "2026-08-21",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Nivin Pauly",
+        "Mamitha Baiju",
+        "സംഗീത് പ്രതാപ്",
+        "Suresh Krishna",
+        "Shyam Mohan",
+        "Bindu Panicker",
+        "Roshan Shanavas",
+        "Srindaa"
+      ],
+      "diretor": "Girish A D",
+      "generos": [
+        "Romance",
+        "Comédia",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "ml"
+      ],
+      "duracao": 155,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37535100/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Bethlehem%20Kudumba%20Unit",
+        "metacritic": "https://www.metacritic.com/search/Bethlehem%20Kudumba%20Unit/"
       }
     },
     {
@@ -984,6 +985,59 @@
       }
     },
     {
+      "tmdb_id": 1226699,
+      "imdb_id": "tt35060353",
+      "titulo_original": "The Wrong Girls",
+      "titulo_ingles": "The Wrong Girls",
+      "ano": 2026,
+      "data_lancamento": "2026-08-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Kristen Stewart",
+        "Alia Shawkat",
+        "LaKeith Stanfield",
+        "Zack Fox",
+        "Tony Hale",
+        "Chris Estrada",
+        "Thomas La Barbera Christensen",
+        "Thor Knai"
+      ],
+      "diretor": "Dylan Meyer",
+      "generos": [
+        "Comédia",
+        "Crime",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "da"
+      ],
+      "duracao": 99,
+      "rt_critica": 61,
+      "rt_publico": null,
+      "metacritic": 59,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 61,
+      "atual_metacritic": 59,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35060353/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Wrong%20Girls",
+        "metacritic": "https://www.metacritic.com/search/The%20Wrong%20Girls/"
+      }
+    },
+    {
       "tmdb_id": 1589248,
       "imdb_id": "tt38662472",
       "titulo_original": "Mein bester Freund, seine Freundin und ich",
@@ -1044,59 +1098,6 @@
         "imdb": "https://www.imdb.com/title/tt38662472/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Best%20Friend%2C%20His%20Girlfriend%20and%20Me",
         "metacritic": "https://www.metacritic.com/search/My%20Best%20Friend%2C%20His%20Girlfriend%20and%20Me/"
-      }
-    },
-    {
-      "tmdb_id": 1226699,
-      "imdb_id": "tt35060353",
-      "titulo_original": "The Wrong Girls",
-      "titulo_ingles": "The Wrong Girls",
-      "ano": 2026,
-      "data_lancamento": "2026-08-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Kristen Stewart",
-        "Alia Shawkat",
-        "LaKeith Stanfield",
-        "Zack Fox",
-        "Tony Hale",
-        "Chris Estrada",
-        "Thomas La Barbera Christensen",
-        "Thor Knai"
-      ],
-      "diretor": "Dylan Meyer",
-      "generos": [
-        "Comédia",
-        "Crime",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "da"
-      ],
-      "duracao": 99,
-      "rt_critica": 61,
-      "rt_publico": null,
-      "metacritic": 59,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 61,
-      "atual_metacritic": 59,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35060353/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Wrong%20Girls",
-        "metacritic": "https://www.metacritic.com/search/The%20Wrong%20Girls/"
       }
     },
     {
@@ -1985,60 +1986,6 @@
       }
     },
     {
-      "tmdb_id": 1514682,
-      "imdb_id": "tt37603783",
-      "titulo_original": "Above & Below",
-      "titulo_ingles": "Above & Below",
-      "ano": 2026,
-      "data_lancamento": "2026-07-29",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um grupo de amigos aproveita umas férias cheias de festas e mergulho até que um criminoso o ataca em alto mar, transformando-o em uma pesadelo.",
-      "elenco": [
-        "Laura Marano",
-        "Christina Ochoa",
-        "Mario Tardón",
-        "Antonio Banderas",
-        "Ramiro Alonso",
-        "Ryan Bertroche",
-        "Jess Liaudin",
-        "Diego Llinás"
-      ],
-      "diretor": "Jesse V. Johnson",
-      "generos": [
-        "Ação",
-        "Thriller",
-        "Terror",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/7bOuu1SRALGwsG2fLCTvRkCmQBj.jpg",
-      "pais": [
-        "US",
-        "ES"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 96,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37603783/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Above%20%26%20Below",
-        "metacritic": "https://www.metacritic.com/search/Above%20%26%20Below/"
-      }
-    },
-    {
       "tmdb_id": 1466662,
       "imdb_id": "tt39462979",
       "titulo_original": "Le Triangle d'or",
@@ -2152,6 +2099,60 @@
       }
     },
     {
+      "tmdb_id": 1514682,
+      "imdb_id": "tt37603783",
+      "titulo_original": "Above & Below",
+      "titulo_ingles": "Above & Below",
+      "ano": 2026,
+      "data_lancamento": "2026-07-29",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um grupo de amigos aproveita umas férias cheias de festas e mergulho até que um criminoso o ataca em alto mar, transformando-o em uma pesadelo.",
+      "elenco": [
+        "Laura Marano",
+        "Christina Ochoa",
+        "Mario Tardón",
+        "Antonio Banderas",
+        "Ramiro Alonso",
+        "Ryan Bertroche",
+        "Jess Liaudin",
+        "Diego Llinás"
+      ],
+      "diretor": "Jesse V. Johnson",
+      "generos": [
+        "Ação",
+        "Thriller",
+        "Terror",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/7bOuu1SRALGwsG2fLCTvRkCmQBj.jpg",
+      "pais": [
+        "US",
+        "ES"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 96,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37603783/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Above%20%26%20Below",
+        "metacritic": "https://www.metacritic.com/search/Above%20%26%20Below/"
+      }
+    },
+    {
       "tmdb_id": 1433367,
       "imdb_id": "tt37853455",
       "titulo_original": "One Night Only",
@@ -2182,17 +2183,17 @@
       "idiomas": [
         "en"
       ],
-      "duracao": 102,
+      "duracao": 103,
       "rt_critica": 43,
       "rt_publico": null,
-      "metacritic": 43,
+      "metacritic": 42,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
       "atual_rt": 43,
-      "atual_metacritic": 43,
+      "atual_metacritic": 42,
       "disponibilidade_br": {
         "estado": "cinema"
       },
@@ -2388,122 +2389,6 @@
       }
     },
     {
-      "tmdb_id": 1487861,
-      "imdb_id": "tt37042085",
-      "titulo_original": "Elize: Sombras de uma Mulher",
-      "titulo_ingles": "Elize: Shadows of a Woman",
-      "ano": 2026,
-      "data_lancamento": "2026-07-22",
-      "data_qualificacao": "",
-      "sinopse_pt": "Nesta adaptação de um crime chocante, uma mulher descobre as traições do marido e vê seu conto de fadas se transformar em um jogo violento.",
-      "elenco": [
-        "Lorena Comparato",
-        "Henrique Kimura",
-        "Denise Weinberg",
-        "Gustavo Falcão",
-        "Julia Shimura",
-        "Flora Sandyá",
-        "Edson Kameda",
-        "Miwa Yanagizawa"
-      ],
-      "diretor": "Vellas",
-      "generos": [
-        "Thriller",
-        "Crime",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/612ZyfilK8CVEEFphgPb3GOw0NF.jpg",
-      "pais": [
-        "BR"
-      ],
-      "idiomas": [
-        "pt"
-      ],
-      "duracao": 93,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1487861-elize-sombras-de-uma-mulher/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37042085/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Elize%3A%20Shadows%20of%20a%20Woman",
-        "metacritic": "https://www.metacritic.com/search/Elize%3A%20Shadows%20of%20a%20Woman/"
-      }
-    },
-    {
-      "tmdb_id": 1235877,
-      "imdb_id": "tt33379543",
-      "titulo_original": "ஜன நாயகன்",
-      "titulo_ingles": "Jana Nayagan",
-      "ano": 2026,
-      "data_lancamento": "2026-07-22",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "விஜய்",
-        "పూజా హెగ్డే",
-        "बॉबी द्योल",
-        "Mamitha Baiju",
-        "ప్రియమణి",
-        "ప్రకాష్ రాజ్",
-        "கௌதம் மேனன்",
-        "Narain"
-      ],
-      "diretor": "H. Vinoth",
-      "generos": [
-        "Ação",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "ta"
-      ],
-      "duracao": 183,
-      "rt_critica": 20,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 20,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33379543/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jana%20Nayagan",
-        "metacritic": "https://www.metacritic.com/search/Jana%20Nayagan/"
-      }
-    },
-    {
       "tmdb_id": 1723460,
       "imdb_id": "tt43619305",
       "titulo_original": "A Toxic Love Story",
@@ -2564,6 +2449,57 @@
       }
     },
     {
+      "tmdb_id": 1235877,
+      "imdb_id": "tt33379543",
+      "titulo_original": "ஜன நாயகன்",
+      "titulo_ingles": "Jana Nayagan",
+      "ano": 2026,
+      "data_lancamento": "2026-07-22",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "விஜய்",
+        "పూజా హెగ్డే",
+        "बॉबी द्योल",
+        "Mamitha Baiju",
+        "ప్రియమణి",
+        "ప్రకాష్ రాజ్",
+        "கௌதம் மேனன்",
+        "Narain"
+      ],
+      "diretor": "H. Vinoth",
+      "generos": [
+        "Ação",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "ta"
+      ],
+      "duracao": 183,
+      "rt_critica": 20,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 20,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33379543/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jana%20Nayagan",
+        "metacritic": "https://www.metacritic.com/search/Jana%20Nayagan/"
+      }
+    },
+    {
       "tmdb_id": 1496491,
       "imdb_id": "tt37846373",
       "titulo_original": "De la Comédie-Française",
@@ -2611,6 +2547,71 @@
         "imdb": "https://www.imdb.com/title/tt37846373/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Com%C3%A9die-Fran%C3%A7aise",
         "metacritic": "https://www.metacritic.com/search/Com%C3%A9die-Fran%C3%A7aise/"
+      }
+    },
+    {
+      "tmdb_id": 1630409,
+      "imdb_id": "tt39749953",
+      "titulo_original": "คนเดือดทวงแค้น",
+      "titulo_ingles": "The Debt Collector",
+      "ano": 2026,
+      "data_lancamento": "2026-07-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "Assombrado pela culpa após a prisão, um ex-cobrador de dívidas corre contra uma doença terminal, retornando ao seu antigo mundo para vingar as vítimas dos agiotas.",
+      "elenco": [
+        "ณเดชน์ คูกิมิยะ",
+        "พิทยา แซ่ฉั่ว",
+        "ชัยวัฒน์ ทองแสง",
+        "Nuanprang Treechit",
+        "Jonathan Holman",
+        "พลอยปภัส ฝนแก้วศิวพร",
+        "Kunkanit Khumkrong",
+        "Nuttanun Kunnawatt"
+      ],
+      "diretor": "สุรพงษ์ เพลินแสง",
+      "generos": [
+        "Ação",
+        "Thriller",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qBKdfIV8YeReAYyzebW7R14vWhe.jpg",
+      "pais": [
+        "TH"
+      ],
+      "idiomas": [
+        "th"
+      ],
+      "duracao": 134,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1630409/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39749953/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Debt%20Collector",
+        "metacritic": "https://www.metacritic.com/search/The%20Debt%20Collector/"
       }
     },
     {
@@ -2800,7 +2801,7 @@
         "강동원",
         "엄태구",
         "박지현",
-        "Oh Jung Se",
+        "Oh Jung-se",
         "신하균",
         "강기영",
         "박정원",
