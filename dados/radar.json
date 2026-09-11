@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-09-10T13:43:48.880Z",
+  "gerado_em": "2026-09-11T13:41:30.393Z",
   "filmes": [
     {
       "tmdb_id": 1440098,
@@ -24,7 +24,6 @@
       "diretor": "Óscar Pedraza",
       "generos": [
         "Romance",
-        "Drama",
         "Thriller"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/99OB0p7ah8wyTphLHrghSJXtmr5.jpg",
@@ -68,6 +67,58 @@
         "imdb": "https://www.imdb.com/title/tt36073210/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Drawn%20Together",
         "metacritic": "https://www.metacritic.com/search/Drawn%20Together/"
+      }
+    },
+    {
+      "tmdb_id": 1302904,
+      "imdb_id": "tt32588798",
+      "titulo_original": "Practical Magic 2",
+      "titulo_ingles": "Practical Magic 2",
+      "ano": 2026,
+      "data_lancamento": "2026-09-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen: todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
+      "elenco": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Joey King",
+        "Maisie Williams",
+        "Xolo Maridueña",
+        "Lee Pace",
+        "Dianne Wiest",
+        "Stockard Channing"
+      ],
+      "diretor": "Susanne Bier",
+      "generos": [
+        "Romance",
+        "Fantasia",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uoJvqWGs4702jnqOwe8RABSxT3L.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 130,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32588798/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
+        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
       }
     },
     {
@@ -261,71 +312,6 @@
       }
     },
     {
-      "tmdb_id": 1631807,
-      "imdb_id": "tt37275992",
-      "titulo_original": "Den hemmelige kvinde",
-      "titulo_ingles": "The Secret Woman",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma mulher com amnésia descobre que, na verdade, tem marido, filho e uma fortuna de família neste suspense baseado no best-seller de Anna Ekberg.",
-      "elenco": [
-        "Natalie Madueño",
-        "Claes Bang",
-        "Pål Sverre Hagen",
-        "Stina Ekblad",
-        "Ingrid Bolsø Berdal",
-        "Thea Sofie Loch Næss",
-        "Lars Simonsen",
-        "Ida Appel"
-      ],
-      "diretor": "Barbara Topsøe-Rothenborg",
-      "generos": [
-        "Drama",
-        "Thriller",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/3tlLGxQXY6Xqv3Wln8Y63tPhpeF.jpg",
-      "pais": [
-        "DK"
-      ],
-      "idiomas": [
-        "da"
-      ],
-      "duracao": 119,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37275992/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Secret%20Woman",
-        "metacritic": "https://www.metacritic.com/search/The%20Secret%20Woman/"
-      }
-    },
-    {
       "tmdb_id": 1480574,
       "imdb_id": "tt36948232",
       "titulo_original": "Just Play Dead",
@@ -442,6 +428,71 @@
       }
     },
     {
+      "tmdb_id": 1631807,
+      "imdb_id": "tt37275992",
+      "titulo_original": "Den hemmelige kvinde",
+      "titulo_ingles": "The Secret Woman",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma mulher com amnésia descobre que, na verdade, tem marido, filho e uma fortuna de família neste suspense baseado no best-seller de Anna Ekberg.",
+      "elenco": [
+        "Natalie Madueño",
+        "Claes Bang",
+        "Pål Sverre Hagen",
+        "Stina Ekblad",
+        "Ingrid Bolsø Berdal",
+        "Thea Sofie Loch Næss",
+        "Lars Simonsen",
+        "Ida Appel"
+      ],
+      "diretor": "Barbara Topsøe-Rothenborg",
+      "generos": [
+        "Drama",
+        "Thriller",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/3tlLGxQXY6Xqv3Wln8Y63tPhpeF.jpg",
+      "pais": [
+        "DK"
+      ],
+      "idiomas": [
+        "da"
+      ],
+      "duracao": 119,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37275992/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Secret%20Woman",
+        "metacritic": "https://www.metacritic.com/search/The%20Secret%20Woman/"
+      }
+    },
+    {
       "tmdb_id": 860508,
       "imdb_id": "tt11561116",
       "titulo_original": "The Whisper Man",
@@ -528,8 +579,7 @@
       "diretor": "Ridley Scott",
       "generos": [
         "Ficção científica",
-        "Drama",
-        "Aventura"
+        "Thriller"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/1C2qbfUW3lTzb8vpZeG8pjYzW3Q.jpg",
       "pais": [
@@ -805,7 +855,7 @@
         "Ação",
         "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/8JL52sl5g11JwNAqC6APVqNyNha.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/z1BazG57E5JaNbxQ5kpXt8h8whv.jpg",
       "pais": [
         "MX"
       ],
@@ -844,6 +894,56 @@
         "imdb": "https://www.imdb.com/title/tt39390497/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Facing%20El%20Chapo",
         "metacritic": "https://www.metacritic.com/search/Facing%20El%20Chapo/"
+      }
+    },
+    {
+      "tmdb_id": 1341138,
+      "imdb_id": "tt33305867",
+      "titulo_original": "Spa Weekend",
+      "titulo_ingles": "Spa Weekend",
+      "ano": 2026,
+      "data_lancamento": "2026-08-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "Três amigas planejam um fim de semana de descanso em um spa de luxo, mas tudo sai do controle quando a integrante mais imprevisível do grupo aparece sem avisar. Entre massagens, bebidas e decisões duvidosas, o que era para ser uma escapada relaxante se transforma no fim de semana mais caótico e divertido de suas vidas.",
+      "elenco": [
+        "Leslie Mann",
+        "Michelle Buteau",
+        "Anna Faris",
+        "Isla Fisher",
+        "Adam Demos",
+        "Dominic Ona-Ariki",
+        "Erika Heynatz",
+        "Courtney Clarke"
+      ],
+      "diretor": "Jon Lucas, Scott Moore",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vmCmJq3Bx9PfuOy6pRrCrq2GdvR.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": 33,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 33,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33305867/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spa%20Weekend",
+        "metacritic": "https://www.metacritic.com/search/Spa%20Weekend/"
       }
     },
     {
@@ -896,56 +996,6 @@
         "imdb": "https://www.imdb.com/title/tt39108319/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Irumudi",
         "metacritic": "https://www.metacritic.com/search/Irumudi/"
-      }
-    },
-    {
-      "tmdb_id": 1341138,
-      "imdb_id": "tt33305867",
-      "titulo_original": "Spa Weekend",
-      "titulo_ingles": "Spa Weekend",
-      "ano": 2026,
-      "data_lancamento": "2026-08-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "Três amigas planejam um fim de semana de descanso em um spa de luxo, mas tudo sai do controle quando a integrante mais imprevisível do grupo aparece sem avisar. Entre massagens, bebidas e decisões duvidosas, o que era para ser uma escapada relaxante se transforma no fim de semana mais caótico e divertido de suas vidas.",
-      "elenco": [
-        "Leslie Mann",
-        "Michelle Buteau",
-        "Anna Faris",
-        "Isla Fisher",
-        "Adam Demos",
-        "Dominic Ona-Ariki",
-        "Erika Heynatz",
-        "Courtney Clarke"
-      ],
-      "diretor": "Scott Moore, Jon Lucas",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vmCmJq3Bx9PfuOy6pRrCrq2GdvR.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": 33,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 33,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33305867/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spa%20Weekend",
-        "metacritic": "https://www.metacritic.com/search/Spa%20Weekend/"
       }
     },
     {
@@ -1105,6 +1155,59 @@
       }
     },
     {
+      "tmdb_id": 1226699,
+      "imdb_id": "tt35060353",
+      "titulo_original": "The Wrong Girls",
+      "titulo_ingles": "The Wrong Girls",
+      "ano": 2026,
+      "data_lancamento": "2026-08-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Kristen Stewart",
+        "Alia Shawkat",
+        "LaKeith Stanfield",
+        "Zack Fox",
+        "Tony Hale",
+        "Chris Estrada",
+        "Thomas La Barbera Christensen",
+        "Thor Knai"
+      ],
+      "diretor": "Dylan Meyer",
+      "generos": [
+        "Comédia",
+        "Crime",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "da"
+      ],
+      "duracao": 99,
+      "rt_critica": 61,
+      "rt_publico": null,
+      "metacritic": 59,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 61,
+      "atual_metacritic": 59,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35060353/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Wrong%20Girls",
+        "metacritic": "https://www.metacritic.com/search/The%20Wrong%20Girls/"
+      }
+    },
+    {
       "tmdb_id": 1589248,
       "imdb_id": "tt38662472",
       "titulo_original": "Mein bester Freund, seine Freundin und ich",
@@ -1168,59 +1271,6 @@
       }
     },
     {
-      "tmdb_id": 1226699,
-      "imdb_id": "tt35060353",
-      "titulo_original": "The Wrong Girls",
-      "titulo_ingles": "The Wrong Girls",
-      "ano": 2026,
-      "data_lancamento": "2026-08-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Kristen Stewart",
-        "Alia Shawkat",
-        "LaKeith Stanfield",
-        "Zack Fox",
-        "Tony Hale",
-        "Chris Estrada",
-        "Thomas La Barbera Christensen",
-        "Thor Knai"
-      ],
-      "diretor": "Dylan Meyer",
-      "generos": [
-        "Comédia",
-        "Crime",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "da"
-      ],
-      "duracao": 99,
-      "rt_critica": 61,
-      "rt_publico": null,
-      "metacritic": 59,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 61,
-      "atual_metacritic": 59,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35060353/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Wrong%20Girls",
-        "metacritic": "https://www.metacritic.com/search/The%20Wrong%20Girls/"
-      }
-    },
-    {
       "tmdb_id": 1493400,
       "imdb_id": "tt6743524",
       "titulo_original": "Camp Rock 3",
@@ -1280,57 +1330,6 @@
         "imdb": "https://www.imdb.com/title/tt6743524/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Camp%20Rock%203",
         "metacritic": "https://www.metacritic.com/search/Camp%20Rock%203/"
-      }
-    },
-    {
-      "tmdb_id": 1564831,
-      "imdb_id": "tt39368153",
-      "titulo_original": "Tombé du ciel",
-      "titulo_ingles": "Tombé du ciel",
-      "ano": 2026,
-      "data_lancamento": "2026-08-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Ilyes Djadel",
-        "Jamel Debbouze",
-        "Josiane Balasko",
-        "Fred Testot",
-        "Ted Etienne",
-        "Ludovic Berthillot",
-        "Laurence Porteil",
-        "Michel Bompoil"
-      ],
-      "diretor": "Mohamed Hamidi",
-      "generos": [
-        "Comédia",
-        "Família"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39368153/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Tomb%C3%A9%20du%20ciel",
-        "metacritic": "https://www.metacritic.com/search/Tomb%C3%A9%20du%20ciel/"
       }
     },
     {
@@ -1398,6 +1397,57 @@
         "imdb": "https://www.imdb.com/title/tt43640198/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Nando%20Between%20Two%20Worlds%20-%20A%20Sintonia%20Film",
         "metacritic": "https://www.metacritic.com/search/Nando%20Between%20Two%20Worlds%20-%20A%20Sintonia%20Film/"
+      }
+    },
+    {
+      "tmdb_id": 1564831,
+      "imdb_id": "tt39368153",
+      "titulo_original": "Tombé du ciel",
+      "titulo_ingles": "Tombé du ciel",
+      "ano": 2026,
+      "data_lancamento": "2026-08-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Ilyes Djadel",
+        "Jamel Debbouze",
+        "Josiane Balasko",
+        "Fred Testot",
+        "Ted Etienne",
+        "Ludovic Berthillot",
+        "Laurence Porteil",
+        "Michel Bompoil"
+      ],
+      "diretor": "Mohamed Hamidi",
+      "generos": [
+        "Comédia",
+        "Família"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39368153/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Tomb%C3%A9%20du%20ciel",
+        "metacritic": "https://www.metacritic.com/search/Tomb%C3%A9%20du%20ciel/"
       }
     },
     {
@@ -1568,6 +1618,57 @@
         "imdb": "https://www.imdb.com/title/tt11866682/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Love%20is%20Love",
         "metacritic": "https://www.metacritic.com/search/Love%20is%20Love/"
+      }
+    },
+    {
+      "tmdb_id": 1433367,
+      "imdb_id": "tt37853455",
+      "titulo_original": "One Night Only",
+      "titulo_ingles": "One Night Only",
+      "ano": 2026,
+      "data_lancamento": "2026-08-06",
+      "data_qualificacao": "",
+      "sinopse_pt": "Allie e Owen são dois desconhecidos que se encontram em Nova York na única noite do ano em que relações sexuais são permitidas por lei. Abandonados por seus parceiros, a busca deles por conexão emocional toma rumos inesperados",
+      "elenco": [
+        "Monica Barbaro",
+        "Callum Turner",
+        "Maya Hawke",
+        "King Princess",
+        "Molly Ringwald",
+        "LeVar Burton",
+        "Charlie Gillespie",
+        "Quintessa Swindell"
+      ],
+      "diretor": "Will Gluck",
+      "generos": [
+        "Romance",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/61fSMjhMoBgoXvKOlz3AvMM6CHT.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 103,
+      "rt_critica": 43,
+      "rt_publico": null,
+      "metacritic": 42,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 43,
+      "atual_metacritic": 42,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37853455/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Night%20Only",
+        "metacritic": "https://www.metacritic.com/search/One%20Night%20Only/"
       }
     },
     {
@@ -1841,7 +1942,7 @@
         "Terror",
         "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qqgjzKXWibrBf7MgqwZ78pDe8HU.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3qbjuaIhlfInBd9C85yv1ss50mq.jpg",
       "pais": [
         "US",
         "CA",
@@ -1870,6 +1971,59 @@
         "imdb": "https://www.imdb.com/title/tt36893729/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ice%20Cream%20Man",
         "metacritic": "https://www.metacritic.com/search/Ice%20Cream%20Man/"
+      }
+    },
+    {
+      "tmdb_id": 1458215,
+      "imdb_id": "tt36415524",
+      "titulo_original": "The Gentleman Thief",
+      "titulo_ingles": "The Gentleman Thief",
+      "ano": 2026,
+      "data_lancamento": "2026-07-31",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um ladrão aposentado precisa proteger seu irmão impulsivo de um desastre quando um roubo de um iate de 100 milhões de dólares se transforma em uma perigosa teia de enganos. Antigos inimigos ressurgem à medida que os riscos aumentam, forçando-o a usar todos os truques que conhece para sobreviver.",
+      "elenco": [
+        "John Travolta",
+        "Lukas Haas",
+        "Rebecca De Mornay",
+        "Natali Yura",
+        "Emily Skinner",
+        "Sam Asghari",
+        "Quavo",
+        "DJ Khaled"
+      ],
+      "diretor": "Randall Emmett",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/yuTkWjQa83RtCZMjYg2crzUonTu.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "es"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36415524/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Gentleman%20Thief",
+        "metacritic": "https://www.metacritic.com/search/The%20Gentleman%20Thief/"
       }
     },
     {
@@ -1922,122 +2076,6 @@
         "imdb": "https://www.imdb.com/title/tt32654916/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Soulm8te",
         "metacritic": "https://www.metacritic.com/search/Soulm8te/"
-      }
-    },
-    {
-      "tmdb_id": 1458215,
-      "imdb_id": "tt36415524",
-      "titulo_original": "The Gentleman Thief",
-      "titulo_ingles": "The Gentleman Thief",
-      "ano": 2026,
-      "data_lancamento": "2026-07-31",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um ladrão aposentado precisa proteger seu irmão impulsivo de um desastre quando um roubo de um iate de 100 milhões de dólares se transforma em uma perigosa teia de enganos. Antigos inimigos ressurgem à medida que os riscos aumentam, forçando-o a usar todos os truques que conhece para sobreviver.",
-      "elenco": [
-        "John Travolta",
-        "Lukas Haas",
-        "Rebecca De Mornay",
-        "Natali Yura",
-        "Emily Skinner",
-        "Sam Asghari",
-        "Quavo",
-        "DJ Khaled"
-      ],
-      "diretor": "Randall Emmett",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/yuTkWjQa83RtCZMjYg2crzUonTu.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36415524/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Gentleman%20Thief",
-        "metacritic": "https://www.metacritic.com/search/The%20Gentleman%20Thief/"
-      }
-    },
-    {
-      "tmdb_id": 1616131,
-      "imdb_id": "tt37961750",
-      "titulo_original": "Un hijo propio",
-      "titulo_ingles": "A Child of My Own",
-      "ano": 2026,
-      "data_lancamento": "2026-07-30",
-      "data_qualificacao": "",
-      "sinopse_pt": "Desesperada para ter um filho e pressionada pela família e pela sociedade, uma mulher finge estar grávida e acaba envolvida em um crime neste documentário impactante.",
-      "elenco": [
-        "Ana Celeste",
-        "Armando Espitia",
-        "Luisa Guzmán",
-        "Ángeles Cruz",
-        "Mayra Sérbulo",
-        "Mayra Batalla",
-        "Alejandro Porter",
-        "Yamile Pando"
-      ],
-      "diretor": "Maite Alberdi",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/iBD5kzk6XMyQEuV4m4A6OotqcSK.jpg",
-      "pais": [
-        "CL",
-        "MX"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 96,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1616131-un-hijo-propio/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37961750/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Child%20of%20My%20Own",
-        "metacritic": "https://www.metacritic.com/search/A%20Child%20of%20My%20Own/"
       }
     },
     {
@@ -2106,38 +2144,35 @@
       }
     },
     {
-      "tmdb_id": 1514682,
-      "imdb_id": "tt37603783",
-      "titulo_original": "Above & Below",
-      "titulo_ingles": "Above & Below",
+      "tmdb_id": 1616131,
+      "imdb_id": "tt37961750",
+      "titulo_original": "Un hijo propio",
+      "titulo_ingles": "A Child of My Own",
       "ano": 2026,
-      "data_lancamento": "2026-07-29",
+      "data_lancamento": "2026-07-30",
       "data_qualificacao": "",
-      "sinopse_pt": "Um grupo de amigos aproveita umas férias cheias de festas e mergulho até que um criminoso o ataca em alto mar, transformando-o em uma pesadelo.",
+      "sinopse_pt": "Desesperada para ter um filho e pressionada pela família e pela sociedade, uma mulher finge estar grávida e acaba envolvida em um crime neste documentário impactante.",
       "elenco": [
-        "Laura Marano",
-        "Christina Ochoa",
-        "Mario Tardón",
-        "Antonio Banderas",
-        "Ramiro Alonso",
-        "Ryan Bertroche",
-        "Jess Liaudin",
-        "Diego Llinás"
+        "Ana Celeste",
+        "Armando Espitia",
+        "Luisa Guzmán",
+        "Ángeles Cruz",
+        "Mayra Sérbulo",
+        "Mayra Batalla",
+        "Alejandro Porter",
+        "Yamile Pando"
       ],
-      "diretor": "Jesse V. Johnson",
+      "diretor": "Maite Alberdi",
       "generos": [
-        "Ação",
-        "Thriller",
-        "Terror",
-        "Crime"
+        "Documentário"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/7bOuu1SRALGwsG2fLCTvRkCmQBj.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iBD5kzk6XMyQEuV4m4A6OotqcSK.jpg",
       "pais": [
-        "US",
-        "ES"
+        "CL",
+        "MX"
       ],
       "idiomas": [
-        "en"
+        "es"
       ],
       "duracao": 96,
       "rt_critica": null,
@@ -2151,12 +2186,25 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1616131-un-hijo-propio/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt37603783/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Above%20%26%20Below",
-        "metacritic": "https://www.metacritic.com/search/Above%20%26%20Below/"
+        "imdb": "https://www.imdb.com/title/tt37961750/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Child%20of%20My%20Own",
+        "metacritic": "https://www.metacritic.com/search/A%20Child%20of%20My%20Own/"
       }
     },
     {
@@ -2181,7 +2229,8 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/gKuRnWDee2OvvzdQf1kI4vqcnhq.jpg",
       "pais": [
         "FR",
-        "BE"
+        "BE",
+        "CA"
       ],
       "idiomas": [
         "fr",
@@ -2273,54 +2322,57 @@
       }
     },
     {
-      "tmdb_id": 1433367,
-      "imdb_id": "tt37853455",
-      "titulo_original": "One Night Only",
-      "titulo_ingles": "One Night Only",
+      "tmdb_id": 1514682,
+      "imdb_id": "tt37603783",
+      "titulo_original": "Above & Below",
+      "titulo_ingles": "Above & Below",
       "ano": 2026,
-      "data_lancamento": "2026-07-28",
+      "data_lancamento": "2026-07-29",
       "data_qualificacao": "",
-      "sinopse_pt": "Allie e Owen são dois desconhecidos que se encontram em Nova York na única noite do ano em que relações sexuais são permitidas por lei. Abandonados por seus parceiros, a busca deles por conexão emocional toma rumos inesperados",
+      "sinopse_pt": "Um grupo de amigos aproveita umas férias cheias de festas e mergulho até que um criminoso o ataca em alto mar, transformando-o em uma pesadelo.",
       "elenco": [
-        "Monica Barbaro",
-        "Callum Turner",
-        "Maya Hawke",
-        "King Princess",
-        "Molly Ringwald",
-        "LeVar Burton",
-        "Charlie Gillespie",
-        "Quintessa Swindell"
+        "Laura Marano",
+        "Christina Ochoa",
+        "Mario Tardón",
+        "Antonio Banderas",
+        "Ramiro Alonso",
+        "Ryan Bertroche",
+        "Jess Liaudin",
+        "Diego Llinás"
       ],
-      "diretor": "Will Gluck",
+      "diretor": "Jesse V. Johnson",
       "generos": [
-        "Comédia",
-        "Romance"
+        "Ação",
+        "Thriller",
+        "Terror",
+        "Crime"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/61fSMjhMoBgoXvKOlz3AvMM6CHT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7bOuu1SRALGwsG2fLCTvRkCmQBj.jpg",
       "pais": [
-        "US"
+        "US",
+        "ES"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 103,
-      "rt_critica": 43,
+      "duracao": 96,
+      "rt_critica": null,
       "rt_publico": null,
-      "metacritic": 42,
+      "metacritic": null,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 43,
-      "atual_metacritic": 42,
+      "atual_rt": null,
+      "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "cinema"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt37853455/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Night%20Only",
-        "metacritic": "https://www.metacritic.com/search/One%20Night%20Only/"
+        "imdb": "https://www.imdb.com/title/tt37603783/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Above%20%26%20Below",
+        "metacritic": "https://www.metacritic.com/search/Above%20%26%20Below/"
       }
     },
     {
@@ -2389,6 +2441,61 @@
       }
     },
     {
+      "tmdb_id": 1469342,
+      "imdb_id": "tt36629665",
+      "titulo_original": "Her Private Hell",
+      "titulo_ingles": "Her Private Hell",
+      "ano": 2026,
+      "data_lancamento": "2026-07-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "Enquanto uma névoa misteriosa envolve uma metrópole futurista e libera uma presença mortal e indescritível, uma jovem atormentada parte em busca de seu pai. Nessa jornada, seu destino se cruza com o de um soldado americano que está em uma viagem desesperada para resgatar sua filha do inferno.",
+      "elenco": [
+        "Sophie Thatcher",
+        "Charles Melton",
+        "Havana Rose Liu",
+        "Kristine Froseth",
+        "忽那汐里",
+        "山田 葵",
+        "Dougray Scott",
+        "Diego Calva"
+      ],
+      "diretor": "Nicolas Winding Refn",
+      "generos": [
+        "Ficção científica",
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/62gkeidbflMmVmav17G7xJiGMA4.jpg",
+      "pais": [
+        "US",
+        "DK",
+        "GB"
+      ],
+      "idiomas": [
+        "en",
+        "ja"
+      ],
+      "duracao": 110,
+      "rt_critica": 41,
+      "rt_publico": null,
+      "metacritic": 44,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 41,
+      "atual_metacritic": 44,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36629665/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Her%20Private%20Hell",
+        "metacritic": "https://www.metacritic.com/search/Her%20Private%20Hell/"
+      }
+    },
+    {
       "tmdb_id": 1620682,
       "imdb_id": "tt43617119",
       "titulo_original": "أحبك من زمان",
@@ -2451,126 +2558,6 @@
         "imdb": "https://www.imdb.com/title/tt43617119/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Love%20in%20Slow%20Motion",
         "metacritic": "https://www.metacritic.com/search/Love%20in%20Slow%20Motion/"
-      }
-    },
-    {
-      "tmdb_id": 1469342,
-      "imdb_id": "tt36629665",
-      "titulo_original": "Her Private Hell",
-      "titulo_ingles": "Her Private Hell",
-      "ano": 2026,
-      "data_lancamento": "2026-07-23",
-      "data_qualificacao": "",
-      "sinopse_pt": "Enquanto uma névoa misteriosa envolve uma metrópole futurista e libera uma presença mortal e indescritível, uma jovem atormentada parte em busca de seu pai. Nessa jornada, seu destino se cruza com o de um soldado americano que está em uma viagem desesperada para resgatar sua filha do inferno.",
-      "elenco": [
-        "Sophie Thatcher",
-        "Charles Melton",
-        "Havana Rose Liu",
-        "Kristine Froseth",
-        "忽那汐里",
-        "山田 葵",
-        "Dougray Scott",
-        "Diego Calva"
-      ],
-      "diretor": "Nicolas Winding Refn",
-      "generos": [
-        "Ficção científica",
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/62gkeidbflMmVmav17G7xJiGMA4.jpg",
-      "pais": [
-        "US",
-        "DK",
-        "GB"
-      ],
-      "idiomas": [
-        "en",
-        "ja"
-      ],
-      "duracao": 110,
-      "rt_critica": 41,
-      "rt_publico": null,
-      "metacritic": 44,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 41,
-      "atual_metacritic": 44,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36629665/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Her%20Private%20Hell",
-        "metacritic": "https://www.metacritic.com/search/Her%20Private%20Hell/"
-      }
-    },
-    {
-      "tmdb_id": 1487861,
-      "imdb_id": "tt37042085",
-      "titulo_original": "Elize: Sombras de uma Mulher",
-      "titulo_ingles": "Elize: Shadows of a Woman",
-      "ano": 2026,
-      "data_lancamento": "2026-07-22",
-      "data_qualificacao": "",
-      "sinopse_pt": "Nesta adaptação de um crime chocante, uma mulher descobre as traições do marido e vê seu conto de fadas se transformar em um jogo violento.",
-      "elenco": [
-        "Lorena Comparato",
-        "Henrique Kimura",
-        "Denise Weinberg",
-        "Gustavo Falcão",
-        "Julia Shimura",
-        "Flora Sandyá",
-        "Edson Kameda",
-        "Miwa Yanagizawa"
-      ],
-      "diretor": "Vellas",
-      "generos": [
-        "Thriller",
-        "Crime",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/612ZyfilK8CVEEFphgPb3GOw0NF.jpg",
-      "pais": [
-        "BR"
-      ],
-      "idiomas": [
-        "pt"
-      ],
-      "duracao": 93,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1487861-elize-sombras-de-uma-mulher/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37042085/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Elize%3A%20Shadows%20of%20a%20Woman",
-        "metacritic": "https://www.metacritic.com/search/Elize%3A%20Shadows%20of%20a%20Woman/"
       }
     },
     {
@@ -2672,7 +2659,15 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/olzQMHt2SX7iNy8WDMR299hVFcL.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=BR"
       },
       "links": {
         "imdb": "https://www.imdb.com/title/tt32333324/",
