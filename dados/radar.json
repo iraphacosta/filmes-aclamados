@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-09-11T13:41:30.393Z",
+  "gerado_em": "2026-09-12T12:57:44.527Z",
   "filmes": [
     {
       "tmdb_id": 1440098,
@@ -258,6 +258,67 @@
       }
     },
     {
+      "tmdb_id": 1752159,
+      "imdb_id": "tt44322266",
+      "titulo_original": "Turning Point: Generation 9/11",
+      "titulo_ingles": "Turning Point: Generation 9/11",
+      "ano": 2026,
+      "data_lancamento": "2026-09-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um quarto de século depois de 11 de setembro, os efeitos em cascata dos ataques persistem por gerações. Crianças órfãs, jornalistas da Guerra ao Terror, jovens afegãos e fuzileiros navais dos EUA moldados pela retirada de 2021 compartilham suas histórias.",
+      "elenco": [
+        "Michael Smoak",
+        "Garrett M. Graff",
+        "Anand Gopal",
+        "Jenny Pachucki",
+        "Mary Fletcher",
+        "Bruce Hoffman"
+      ],
+      "diretor": "Brian Knappenberger",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/2F1sqcKQ9BOFF3c88aIxIb6dcxE.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1752159-turning-point-generation-9-11/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt44322266/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Turning%20Point%3A%20Generation%209%2F11",
+        "metacritic": "https://www.metacritic.com/search/Turning%20Point%3A%20Generation%209%2F11/"
+      }
+    },
+    {
       "tmdb_id": 1731694,
       "imdb_id": "tt43679852",
       "titulo_original": "LEGO Star Wars: The Mandalorian",
@@ -312,6 +373,121 @@
       }
     },
     {
+      "tmdb_id": 1365884,
+      "imdb_id": "tt38267923",
+      "titulo_original": "Dix Pour Cent ! Le Film",
+      "titulo_ingles": "Call My Agent! The Movie",
+      "ano": 2026,
+      "data_lancamento": "2026-08-29",
+      "data_qualificacao": "",
+      "sinopse_pt": "Diante de uma série de contratempos em seu primeiro filme, Andréa pede ajuda à antiga equipe da agência ASK. Mas a turma acaba piorando ainda mais a situação.",
+      "elenco": [
+        "Camille Cottin",
+        "Thibault de Montalembert",
+        "Grégory Montel",
+        "Liliane Rovère",
+        "Fanny Sidney",
+        "Laure Calamy",
+        "Nicolas Maury",
+        "Ophélia Kolb"
+      ],
+      "diretor": "Émilie Noblet",
+      "generos": [
+        "Comédia",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/41Yezvy8Kxr9bcwQsPR3teq4EvX.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 117,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1365884-dix-pour-cent-le-film/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38267923/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Call%20My%20Agent!%20The%20Movie",
+        "metacritic": "https://www.metacritic.com/search/Call%20My%20Agent!%20The%20Movie/"
+      }
+    },
+    {
+      "tmdb_id": 1462861,
+      "imdb_id": "tt22406048",
+      "titulo_original": "Spider Island",
+      "titulo_ingles": "Spider Island",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Rose Williams",
+        "Tim McInnerny",
+        "Avani Gregg",
+        "Abraham Lewis",
+        "Carlotta Banat",
+        "Anuschka van Lent",
+        "Justin Daniels Anene",
+        "Owen Warner"
+      ],
+      "diretor": "Christopher Smith",
+      "generos": [
+        "Comédia",
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
+      "pais": [
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt22406048/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spider%20Island",
+        "metacritic": "https://www.metacritic.com/search/Spider%20Island/"
+      }
+    },
+    {
       "tmdb_id": 1480574,
       "imdb_id": "tt36948232",
       "titulo_original": "Just Play Dead",
@@ -360,71 +536,6 @@
         "imdb": "https://www.imdb.com/title/tt36948232/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Just%20Play%20Dead",
         "metacritic": "https://www.metacritic.com/search/Just%20Play%20Dead/"
-      }
-    },
-    {
-      "tmdb_id": 1471168,
-      "imdb_id": "tt43706402",
-      "titulo_original": "Barreda",
-      "titulo_ingles": "Barreda",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um filme de drama ficcional baseado em um dos crimes mais chocantes da história da Argentina. Em 1992, Ricardo Barreda, um dentista comum, assassinou brutalmente sua esposa, sua sogra e suas duas filhas adultas em sua casa. Fazendo-se de vítima, Ricardo Barreda provocou uma tempestade midiática e alimentou um escândalo nacional.",
-      "elenco": [
-        "Luis Machín",
-        "Carla Peterson",
-        "Mercedes Morán",
-        "Maite Lanata",
-        "Margarita Páez",
-        "Marcelo Subiotto",
-        "Paola Barrientos",
-        "Alberto Ajaka"
-      ],
-      "diretor": "Daniela Goggi",
-      "generos": [
-        "Drama",
-        "Crime",
-        "História"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
-      "pais": [
-        "AR"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 105,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43706402/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Barreda",
-        "metacritic": "https://www.metacritic.com/search/Barreda/"
       }
     },
     {
@@ -490,6 +601,71 @@
         "imdb": "https://www.imdb.com/title/tt37275992/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Secret%20Woman",
         "metacritic": "https://www.metacritic.com/search/The%20Secret%20Woman/"
+      }
+    },
+    {
+      "tmdb_id": 1471168,
+      "imdb_id": "tt43706402",
+      "titulo_original": "Barreda",
+      "titulo_ingles": "Barreda",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um filme de drama ficcional baseado em um dos crimes mais chocantes da história da Argentina. Em 1992, Ricardo Barreda, um dentista comum, assassinou brutalmente sua esposa, sua sogra e suas duas filhas adultas em sua casa. Fazendo-se de vítima, Ricardo Barreda provocou uma tempestade midiática e alimentou um escândalo nacional.",
+      "elenco": [
+        "Luis Machín",
+        "Carla Peterson",
+        "Mercedes Morán",
+        "Maite Lanata",
+        "Margarita Páez",
+        "Marcelo Subiotto",
+        "Paola Barrientos",
+        "Alberto Ajaka"
+      ],
+      "diretor": "Daniela Goggi",
+      "generos": [
+        "Drama",
+        "Crime",
+        "História"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
+      "pais": [
+        "AR"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 105,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43706402/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Barreda",
+        "metacritic": "https://www.metacritic.com/search/Barreda/"
       }
     },
     {
@@ -609,59 +785,6 @@
       }
     },
     {
-      "tmdb_id": 1213243,
-      "imdb_id": "tt27530512",
-      "titulo_original": "ಟಾಕ್ಸಿಕ್",
-      "titulo_ingles": "Toxic: A Fairy Tale for Grown-ups",
-      "ano": 2026,
-      "data_lancamento": "2026-08-26",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Yash",
-        "कियारा आडवाणी",
-        "நயன்தாரா",
-        "हुमा क़ुरैशी",
-        "Tara Sutaria",
-        "ರುಕ್ಮಿಣಿ ವಸಂತ",
-        "Sudev Nair",
-        "Akshay Oberoi"
-      ],
-      "diretor": "Geethu Mohandas",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "kn",
-        "en"
-      ],
-      "duracao": 192,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt27530512/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups",
-        "metacritic": "https://www.metacritic.com/search/Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups/"
-      }
-    },
-    {
       "tmdb_id": 1516698,
       "imdb_id": "tt37654096",
       "titulo_original": "The Last Sunrise",
@@ -776,6 +899,59 @@
         "imdb": "https://www.imdb.com/title/tt43141030/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Mirror",
         "metacritic": "https://www.metacritic.com/search/Yellow%20Mirror/"
+      }
+    },
+    {
+      "tmdb_id": 1213243,
+      "imdb_id": "tt27530512",
+      "titulo_original": "ಟಾಕ್ಸಿಕ್",
+      "titulo_ingles": "Toxic: A Fairy Tale for Grown-ups",
+      "ano": 2026,
+      "data_lancamento": "2026-08-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Yash",
+        "कियारा आडवाणी",
+        "நயன்தாரா",
+        "हुमा क़ुरैशी",
+        "Tara Sutaria",
+        "ರುಕ್ಮಿಣಿ ವಸಂತ",
+        "Sudev Nair",
+        "Akshay Oberoi"
+      ],
+      "diretor": "Geethu Mohandas",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "kn",
+        "en"
+      ],
+      "duracao": 192,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt27530512/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups",
+        "metacritic": "https://www.metacritic.com/search/Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups/"
       }
     },
     {
@@ -897,56 +1073,6 @@
       }
     },
     {
-      "tmdb_id": 1341138,
-      "imdb_id": "tt33305867",
-      "titulo_original": "Spa Weekend",
-      "titulo_ingles": "Spa Weekend",
-      "ano": 2026,
-      "data_lancamento": "2026-08-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "Três amigas planejam um fim de semana de descanso em um spa de luxo, mas tudo sai do controle quando a integrante mais imprevisível do grupo aparece sem avisar. Entre massagens, bebidas e decisões duvidosas, o que era para ser uma escapada relaxante se transforma no fim de semana mais caótico e divertido de suas vidas.",
-      "elenco": [
-        "Leslie Mann",
-        "Michelle Buteau",
-        "Anna Faris",
-        "Isla Fisher",
-        "Adam Demos",
-        "Dominic Ona-Ariki",
-        "Erika Heynatz",
-        "Courtney Clarke"
-      ],
-      "diretor": "Jon Lucas, Scott Moore",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vmCmJq3Bx9PfuOy6pRrCrq2GdvR.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": 33,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 33,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33305867/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spa%20Weekend",
-        "metacritic": "https://www.metacritic.com/search/Spa%20Weekend/"
-      }
-    },
-    {
       "tmdb_id": 1441228,
       "imdb_id": "tt39108319",
       "titulo_original": "ఇరుముడి",
@@ -996,6 +1122,56 @@
         "imdb": "https://www.imdb.com/title/tt39108319/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Irumudi",
         "metacritic": "https://www.metacritic.com/search/Irumudi/"
+      }
+    },
+    {
+      "tmdb_id": 1341138,
+      "imdb_id": "tt33305867",
+      "titulo_original": "Spa Weekend",
+      "titulo_ingles": "Spa Weekend",
+      "ano": 2026,
+      "data_lancamento": "2026-08-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "Três amigas planejam um fim de semana de descanso em um spa de luxo, mas tudo sai do controle quando a integrante mais imprevisível do grupo aparece sem avisar. Entre massagens, bebidas e decisões duvidosas, o que era para ser uma escapada relaxante se transforma no fim de semana mais caótico e divertido de suas vidas.",
+      "elenco": [
+        "Leslie Mann",
+        "Michelle Buteau",
+        "Anna Faris",
+        "Isla Fisher",
+        "Adam Demos",
+        "Dominic Ona-Ariki",
+        "Erika Heynatz",
+        "Courtney Clarke"
+      ],
+      "diretor": "Jon Lucas, Scott Moore",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vmCmJq3Bx9PfuOy6pRrCrq2GdvR.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": 33,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 33,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33305867/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spa%20Weekend",
+        "metacritic": "https://www.metacritic.com/search/Spa%20Weekend/"
       }
     },
     {
@@ -1621,57 +1797,6 @@
       }
     },
     {
-      "tmdb_id": 1433367,
-      "imdb_id": "tt37853455",
-      "titulo_original": "One Night Only",
-      "titulo_ingles": "One Night Only",
-      "ano": 2026,
-      "data_lancamento": "2026-08-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "Allie e Owen são dois desconhecidos que se encontram em Nova York na única noite do ano em que relações sexuais são permitidas por lei. Abandonados por seus parceiros, a busca deles por conexão emocional toma rumos inesperados",
-      "elenco": [
-        "Monica Barbaro",
-        "Callum Turner",
-        "Maya Hawke",
-        "King Princess",
-        "Molly Ringwald",
-        "LeVar Burton",
-        "Charlie Gillespie",
-        "Quintessa Swindell"
-      ],
-      "diretor": "Will Gluck",
-      "generos": [
-        "Romance",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/61fSMjhMoBgoXvKOlz3AvMM6CHT.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 103,
-      "rt_critica": 43,
-      "rt_publico": null,
-      "metacritic": 42,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 43,
-      "atual_metacritic": 42,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37853455/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Night%20Only",
-        "metacritic": "https://www.metacritic.com/search/One%20Night%20Only/"
-      }
-    },
-    {
       "tmdb_id": 1284041,
       "imdb_id": "tt32268156",
       "titulo_original": "The Last House",
@@ -1786,6 +1911,57 @@
         "imdb": "https://www.imdb.com/title/tt8820258/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Super%20Troopers%203",
         "metacritic": "https://www.metacritic.com/search/Super%20Troopers%203/"
+      }
+    },
+    {
+      "tmdb_id": 1433367,
+      "imdb_id": "tt37853455",
+      "titulo_original": "One Night Only",
+      "titulo_ingles": "One Night Only",
+      "ano": 2026,
+      "data_lancamento": "2026-08-06",
+      "data_qualificacao": "",
+      "sinopse_pt": "Allie e Owen são dois desconhecidos que se encontram em Nova York na única noite do ano em que relações sexuais são permitidas por lei. Abandonados por seus parceiros, a busca deles por conexão emocional toma rumos inesperados",
+      "elenco": [
+        "Monica Barbaro",
+        "Callum Turner",
+        "Maya Hawke",
+        "King Princess",
+        "Molly Ringwald",
+        "LeVar Burton",
+        "Charlie Gillespie",
+        "Quintessa Swindell"
+      ],
+      "diretor": "Will Gluck",
+      "generos": [
+        "Romance",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/61fSMjhMoBgoXvKOlz3AvMM6CHT.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 103,
+      "rt_critica": 43,
+      "rt_publico": null,
+      "metacritic": 42,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 43,
+      "atual_metacritic": 42,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37853455/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Night%20Only",
+        "metacritic": "https://www.metacritic.com/search/One%20Night%20Only/"
       }
     },
     {
@@ -1974,6 +2150,58 @@
       }
     },
     {
+      "tmdb_id": 1307118,
+      "imdb_id": "tt32654916",
+      "titulo_original": "Soulm8te",
+      "titulo_ingles": "Soulm8te",
+      "ano": 2026,
+      "data_lancamento": "2026-07-31",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um homem adquire um androide com inteligência artificial para lidar com o luto de sua falecida esposa. No entanto, ao tentar criar uma parceira verdadeiramente senciente, ele acaba transformando, inadvertidamente, um robô inofensivo em uma alma gêmea mortal.",
+      "elenco": [
+        "David Rysdahl",
+        "Lily Sullivan",
+        "Claudia Doumit",
+        "Arty Froushan",
+        "Elijah Isaiah Cook",
+        "Mara Huf",
+        "Emma Ramos",
+        "Sydney Blackburn"
+      ],
+      "diretor": "Kate Dolan",
+      "generos": [
+        "Terror",
+        "Ficção científica",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 99,
+      "rt_critica": 47,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 47,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32654916/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Soulm8te",
+        "metacritic": "https://www.metacritic.com/search/Soulm8te/"
+      }
+    },
+    {
       "tmdb_id": 1458215,
       "imdb_id": "tt36415524",
       "titulo_original": "The Gentleman Thief",
@@ -2027,39 +2255,38 @@
       }
     },
     {
-      "tmdb_id": 1307118,
-      "imdb_id": "tt32654916",
-      "titulo_original": "Soulm8te",
-      "titulo_ingles": "Soulm8te",
+      "tmdb_id": 1616131,
+      "imdb_id": "tt37961750",
+      "titulo_original": "Un hijo propio",
+      "titulo_ingles": "A Child of My Own",
       "ano": 2026,
-      "data_lancamento": "2026-07-31",
+      "data_lancamento": "2026-07-30",
       "data_qualificacao": "",
-      "sinopse_pt": "Um homem adquire um androide com inteligência artificial para lidar com o luto de sua falecida esposa. No entanto, ao tentar criar uma parceira verdadeiramente senciente, ele acaba transformando, inadvertidamente, um robô inofensivo em uma alma gêmea mortal.",
+      "sinopse_pt": "Desesperada para ter um filho e pressionada pela família e pela sociedade, uma mulher finge estar grávida e acaba envolvida em um crime neste documentário impactante.",
       "elenco": [
-        "David Rysdahl",
-        "Lily Sullivan",
-        "Claudia Doumit",
-        "Arty Froushan",
-        "Elijah Isaiah Cook",
-        "Mara Huf",
-        "Emma Ramos",
-        "Sydney Blackburn"
+        "Ana Celeste",
+        "Armando Espitia",
+        "Luisa Guzmán",
+        "Ángeles Cruz",
+        "Mayra Sérbulo",
+        "Mayra Batalla",
+        "Alejandro Porter",
+        "Yamile Pando"
       ],
-      "diretor": "Kate Dolan",
+      "diretor": "Maite Alberdi",
       "generos": [
-        "Terror",
-        "Ficção científica",
-        "Thriller"
+        "Documentário"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/iBD5kzk6XMyQEuV4m4A6OotqcSK.jpg",
       "pais": [
-        "US"
+        "CL",
+        "MX"
       ],
       "idiomas": [
-        "en"
+        "es"
       ],
-      "duracao": 99,
-      "rt_critica": 47,
+      "duracao": 96,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -2067,15 +2294,28 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 47,
+      "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1616131-un-hijo-propio/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt32654916/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Soulm8te",
-        "metacritic": "https://www.metacritic.com/search/Soulm8te/"
+        "imdb": "https://www.imdb.com/title/tt37961750/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Child%20of%20My%20Own",
+        "metacritic": "https://www.metacritic.com/search/A%20Child%20of%20My%20Own/"
       }
     },
     {
@@ -2144,35 +2384,38 @@
       }
     },
     {
-      "tmdb_id": 1616131,
-      "imdb_id": "tt37961750",
-      "titulo_original": "Un hijo propio",
-      "titulo_ingles": "A Child of My Own",
+      "tmdb_id": 1514682,
+      "imdb_id": "tt37603783",
+      "titulo_original": "Above & Below",
+      "titulo_ingles": "Above & Below",
       "ano": 2026,
-      "data_lancamento": "2026-07-30",
+      "data_lancamento": "2026-07-29",
       "data_qualificacao": "",
-      "sinopse_pt": "Desesperada para ter um filho e pressionada pela família e pela sociedade, uma mulher finge estar grávida e acaba envolvida em um crime neste documentário impactante.",
+      "sinopse_pt": "Um grupo de amigos aproveita umas férias cheias de festas e mergulho até que um criminoso o ataca em alto mar, transformando-o em uma pesadelo.",
       "elenco": [
-        "Ana Celeste",
-        "Armando Espitia",
-        "Luisa Guzmán",
-        "Ángeles Cruz",
-        "Mayra Sérbulo",
-        "Mayra Batalla",
-        "Alejandro Porter",
-        "Yamile Pando"
+        "Laura Marano",
+        "Christina Ochoa",
+        "Mario Tardón",
+        "Antonio Banderas",
+        "Ramiro Alonso",
+        "Ryan Bertroche",
+        "Jess Liaudin",
+        "Diego Llinás"
       ],
-      "diretor": "Maite Alberdi",
+      "diretor": "Jesse V. Johnson",
       "generos": [
-        "Documentário"
+        "Ação",
+        "Thriller",
+        "Terror",
+        "Crime"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/iBD5kzk6XMyQEuV4m4A6OotqcSK.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7bOuu1SRALGwsG2fLCTvRkCmQBj.jpg",
       "pais": [
-        "CL",
-        "MX"
+        "US",
+        "ES"
       ],
       "idiomas": [
-        "es"
+        "en"
       ],
       "duracao": 96,
       "rt_critica": null,
@@ -2186,25 +2429,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1616131-un-hijo-propio/watch?locale=BR"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt37961750/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Child%20of%20My%20Own",
-        "metacritic": "https://www.metacritic.com/search/A%20Child%20of%20My%20Own/"
+        "imdb": "https://www.imdb.com/title/tt37603783/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Above%20%26%20Below",
+        "metacritic": "https://www.metacritic.com/search/Above%20%26%20Below/"
       }
     },
     {
@@ -2319,180 +2549,6 @@
         "imdb": "https://www.imdb.com/title/tt36958312/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Devil's%20Mouth",
         "metacritic": "https://www.metacritic.com/search/The%20Devil's%20Mouth/"
-      }
-    },
-    {
-      "tmdb_id": 1514682,
-      "imdb_id": "tt37603783",
-      "titulo_original": "Above & Below",
-      "titulo_ingles": "Above & Below",
-      "ano": 2026,
-      "data_lancamento": "2026-07-29",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um grupo de amigos aproveita umas férias cheias de festas e mergulho até que um criminoso o ataca em alto mar, transformando-o em uma pesadelo.",
-      "elenco": [
-        "Laura Marano",
-        "Christina Ochoa",
-        "Mario Tardón",
-        "Antonio Banderas",
-        "Ramiro Alonso",
-        "Ryan Bertroche",
-        "Jess Liaudin",
-        "Diego Llinás"
-      ],
-      "diretor": "Jesse V. Johnson",
-      "generos": [
-        "Ação",
-        "Thriller",
-        "Terror",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/7bOuu1SRALGwsG2fLCTvRkCmQBj.jpg",
-      "pais": [
-        "US",
-        "ES"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 96,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37603783/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Above%20%26%20Below",
-        "metacritic": "https://www.metacritic.com/search/Above%20%26%20Below/"
-      }
-    },
-    {
-      "tmdb_id": 1659155,
-      "imdb_id": "tt41111628",
-      "titulo_original": "Los creyentes",
-      "titulo_ingles": "The Truthers",
-      "ano": 2026,
-      "data_lancamento": "2026-07-24",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após a morte repentina de sua mãe, Ruth retorna à sua cidade natal e reencontra o pai, cujo comportamento estranho a leva a questionar o que realmente aconteceu.",
-      "elenco": [
-        "Jose Coronado",
-        "Stéphanie Magnin",
-        "Fanny Gautier",
-        "Alberto Olmo",
-        "Israel Ruiz",
-        "Mabel del Pozo",
-        "Celine Fortenbacher",
-        "Olaya Lopez"
-      ],
-      "diretor": "Roger Gual",
-      "generos": [
-        "Thriller",
-        "Drama",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/o1LeQ4ZIPjXIFFVur4b2dLUM5nQ.jpg",
-      "pais": [
-        "ES"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt41111628/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Truthers",
-        "metacritic": "https://www.metacritic.com/search/The%20Truthers/"
-      }
-    },
-    {
-      "tmdb_id": 1469342,
-      "imdb_id": "tt36629665",
-      "titulo_original": "Her Private Hell",
-      "titulo_ingles": "Her Private Hell",
-      "ano": 2026,
-      "data_lancamento": "2026-07-23",
-      "data_qualificacao": "",
-      "sinopse_pt": "Enquanto uma névoa misteriosa envolve uma metrópole futurista e libera uma presença mortal e indescritível, uma jovem atormentada parte em busca de seu pai. Nessa jornada, seu destino se cruza com o de um soldado americano que está em uma viagem desesperada para resgatar sua filha do inferno.",
-      "elenco": [
-        "Sophie Thatcher",
-        "Charles Melton",
-        "Havana Rose Liu",
-        "Kristine Froseth",
-        "忽那汐里",
-        "山田 葵",
-        "Dougray Scott",
-        "Diego Calva"
-      ],
-      "diretor": "Nicolas Winding Refn",
-      "generos": [
-        "Ficção científica",
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/62gkeidbflMmVmav17G7xJiGMA4.jpg",
-      "pais": [
-        "US",
-        "DK",
-        "GB"
-      ],
-      "idiomas": [
-        "en",
-        "ja"
-      ],
-      "duracao": 110,
-      "rt_critica": 41,
-      "rt_publico": null,
-      "metacritic": 44,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 41,
-      "atual_metacritic": 44,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36629665/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Her%20Private%20Hell",
-        "metacritic": "https://www.metacritic.com/search/Her%20Private%20Hell/"
       }
     },
     {
@@ -3259,59 +3315,6 @@
         "imdb": "https://www.imdb.com/title/tt28090350/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Portuguese%20House",
         "metacritic": "https://www.metacritic.com/search/The%20Portuguese%20House/"
-      }
-    },
-    {
-      "tmdb_id": 1176932,
-      "imdb_id": "tt35300281",
-      "titulo_original": "Ein Mädchen namens Willow",
-      "titulo_ingles": "A Girl Named Willow",
-      "ano": 2025,
-      "data_lancamento": "2025-02-27",
-      "data_qualificacao": "",
-      "sinopse_pt": "O que Willow deve fazer com uma floresta que herdou de sua tia-avó Alwina? E não só isso- Alwina também deixou para Willow uma pequena casa e, acima de tudo, sua bruxaria. Mas será que Willow realmente quer aceitar essa herança e tudo que vem com ela? Alem disso, ela precisa encontrar outras três meninas que possuem o dom da magia e, juntas, salvar a floresta.",
-      "elenco": [
-        "Ava Petsch",
-        "Cora Trube",
-        "Anna von Seld",
-        "Mary Tölle",
-        "Golo Euler",
-        "Diana Amft",
-        "Melika Foroutan",
-        "Michael Ostrowski"
-      ],
-      "diretor": "Mike Marzuk",
-      "generos": [
-        "Família",
-        "Aventura",
-        "Fantasia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/9sfuhtovncyE6lDQYVECZ7DYsfj.jpg",
-      "pais": [
-        "DE",
-        "AT"
-      ],
-      "idiomas": [
-        "de"
-      ],
-      "duracao": 100,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35300281/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Girl%20Named%20Willow",
-        "metacritic": "https://www.metacritic.com/search/A%20Girl%20Named%20Willow/"
       }
     },
     {
