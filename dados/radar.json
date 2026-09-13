@@ -1,74 +1,7 @@
 {
   "versao": 1,
-  "gerado_em": "2026-09-12T12:57:44.527Z",
+  "gerado_em": "2026-09-13T13:51:09.434Z",
   "filmes": [
-    {
-      "tmdb_id": 1440098,
-      "imdb_id": "tt36073210",
-      "titulo_original": "Enfrentados: Marfil",
-      "titulo_ingles": "Drawn Together",
-      "ano": 2026,
-      "data_lancamento": "2026-09-09",
-      "data_qualificacao": "",
-      "sinopse_pt": "Marfil, filha de um empresário espanhol, vê sua vida em Nova York virar de cabeça para baixo quando é sequestrada e libertada sem nenhuma explicação. O pai dela contrata Sebastián Moore para ser seu guarda-costas e, forçados a passar cada minuto do dia juntos, uma atração inevitável surge entre eles em um mundo onde nada é o que parece. Baseado no livro de Mercedes Ron, autora da saga \"Culpados\".",
-      "elenco": [
-        "Ester Expósito",
-        "Hugo Diego Garcia",
-        "Eric Masip",
-        "Pablo Molinero",
-        "Zoe Bonafonte",
-        "Lluís Homar",
-        "Joaquín Ferreira",
-        "Alessia Yoko Fontana"
-      ],
-      "diretor": "Óscar Pedraza",
-      "generos": [
-        "Romance",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/99OB0p7ah8wyTphLHrghSJXtmr5.jpg",
-      "pais": [
-        "ES"
-      ],
-      "idiomas": [
-        "es",
-        "de",
-        "en",
-        "fr"
-      ],
-      "duracao": 104,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36073210/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Drawn%20Together",
-        "metacritic": "https://www.metacritic.com/search/Drawn%20Together/"
-      }
-    },
     {
       "tmdb_id": 1302904,
       "imdb_id": "tt32588798",
@@ -119,6 +52,253 @@
         "imdb": "https://www.imdb.com/title/tt32588798/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
         "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
+      }
+    },
+    {
+      "tmdb_id": 1440098,
+      "imdb_id": "tt36073210",
+      "titulo_original": "Enfrentados: Marfil",
+      "titulo_ingles": "Drawn Together",
+      "ano": 2026,
+      "data_lancamento": "2026-09-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "Marfil, filha de um empresário espanhol, vê sua vida em Nova York virar de cabeça para baixo quando é sequestrada e libertada sem nenhuma explicação. O pai dela contrata Sebastián Moore para ser seu guarda-costas e, forçados a passar cada minuto do dia juntos, uma atração inevitável surge entre eles em um mundo onde nada é o que parece. Baseado no livro de Mercedes Ron, autora da saga \"Culpados\".",
+      "elenco": [
+        "Ester Expósito",
+        "Hugo Diego Garcia",
+        "Pablo Molinero",
+        "Lluís Homar",
+        "Joaquín Ferreira",
+        "Zoe Bonafonte",
+        "Majo Gámez",
+        "João Bettencourt"
+      ],
+      "diretor": "Óscar Pedraza",
+      "generos": [
+        "Romance",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/99OB0p7ah8wyTphLHrghSJXtmr5.jpg",
+      "pais": [
+        "ES"
+      ],
+      "idiomas": [
+        "es",
+        "de",
+        "en",
+        "fr"
+      ],
+      "duracao": 104,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36073210/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Drawn%20Together",
+        "metacritic": "https://www.metacritic.com/search/Drawn%20Together/"
+      }
+    },
+    {
+      "tmdb_id": 1522689,
+      "imdb_id": "tt38061210",
+      "titulo_original": "Why Did I Get Married Again?",
+      "titulo_ingles": "Why Did I Get Married Again?",
+      "ano": 2026,
+      "data_lancamento": "2026-09-08",
+      "data_qualificacao": "",
+      "sinopse_pt": "Os casais se reencontram para o matrimônio da filha de Marcus e Angela, trazendo à tona dramas novos e antigos. Por que será que essa turma se casou, hein?",
+      "elenco": [
+        "Tyler Perry",
+        "Taraji P. Henson",
+        "Jill Scott",
+        "Richard T. Jones",
+        "Tasha Smith",
+        "Michael Jai White",
+        "Sharon Leal",
+        "Lamman Rucker"
+      ],
+      "diretor": "Tyler Perry",
+      "generos": [
+        "Comédia",
+        "Romance",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bHMtdZFZztcAE5uHHhsY2pWRPB9.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 112,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38061210/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Why%20Did%20I%20Get%20Married%20Again%3F",
+        "metacritic": "https://www.metacritic.com/search/Why%20Did%20I%20Get%20Married%20Again%3F/"
+      }
+    },
+    {
+      "tmdb_id": 1739206,
+      "imdb_id": "tt43700444",
+      "titulo_original": "Untold Mr. T: I Pity the Fool",
+      "titulo_ingles": "Untold Mr. T: I Pity the Fool",
+      "ano": 2026,
+      "data_lancamento": "2026-09-08",
+      "data_qualificacao": "",
+      "sinopse_pt": "Antes das correntes de ouro, do moicano e da fama de Hollywood de The A-Team e Rocky III, havia Laurence Tureaud. Esta é a extraordinária história de origem por trás de um dos ícones mais improváveis ​​e amados do entretenimento – o Sr.",
+      "elenco": [
+        "Mr. T",
+        "Terry Crews",
+        "Dirk Benedict",
+        "Sylvester Stallone",
+        "Ronald Reagan",
+        "Nancy Reagan",
+        "Hulk Hogan",
+        "George Peppard"
+      ],
+      "diretor": "Scott Weintrob",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vuuZsx4O3zKvIdvllQvUWanAhLE.jpg",
+      "pais": [],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 48,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1739206-untold-mr-t-i-pity-the-fool/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43700444/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool",
+        "metacritic": "https://www.metacritic.com/search/Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool/"
+      }
+    },
+    {
+      "tmdb_id": 1378537,
+      "imdb_id": "tt34339725",
+      "titulo_original": "मिर्ज़ापुर - द मूवी",
+      "titulo_ingles": "Mirzapur: The Movie",
+      "ano": 2026,
+      "data_lancamento": "2026-09-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Pankaj Tripathi",
+        "Ali Fazal",
+        "दिव्येंदु शर्मा",
+        "Jitendra Kumar",
+        "Ravi Kishan",
+        "रसिका दुग्गल",
+        "Mohit Malik",
+        "शीबा चड्ढा"
+      ],
+      "diretor": "Gurmmeet Singh",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
+      "pais": [
+        "IN",
+        "US"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 197,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34339725/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mirzapur%3A%20The%20Movie",
+        "metacritic": "https://www.metacritic.com/search/Mirzapur%3A%20The%20Movie/"
       }
     },
     {
@@ -258,67 +438,6 @@
       }
     },
     {
-      "tmdb_id": 1752159,
-      "imdb_id": "tt44322266",
-      "titulo_original": "Turning Point: Generation 9/11",
-      "titulo_ingles": "Turning Point: Generation 9/11",
-      "ano": 2026,
-      "data_lancamento": "2026-09-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um quarto de século depois de 11 de setembro, os efeitos em cascata dos ataques persistem por gerações. Crianças órfãs, jornalistas da Guerra ao Terror, jovens afegãos e fuzileiros navais dos EUA moldados pela retirada de 2021 compartilham suas histórias.",
-      "elenco": [
-        "Michael Smoak",
-        "Garrett M. Graff",
-        "Anand Gopal",
-        "Jenny Pachucki",
-        "Mary Fletcher",
-        "Bruce Hoffman"
-      ],
-      "diretor": "Brian Knappenberger",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/2F1sqcKQ9BOFF3c88aIxIb6dcxE.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1752159-turning-point-generation-9-11/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt44322266/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Turning%20Point%3A%20Generation%209%2F11",
-        "metacritic": "https://www.metacritic.com/search/Turning%20Point%3A%20Generation%209%2F11/"
-      }
-    },
-    {
       "tmdb_id": 1731694,
       "imdb_id": "tt43679852",
       "titulo_original": "LEGO Star Wars: The Mandalorian",
@@ -370,6 +489,69 @@
         "imdb": "https://www.imdb.com/title/tt43679852/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=LEGO%20Star%20Wars%3A%20The%20Mandalorian",
         "metacritic": "https://www.metacritic.com/search/LEGO%20Star%20Wars%3A%20The%20Mandalorian/"
+      }
+    },
+    {
+      "tmdb_id": 1752159,
+      "imdb_id": "tt44322266",
+      "titulo_original": "Turning Point: Generation 9/11",
+      "titulo_ingles": "Turning Point: Generation 9/11",
+      "ano": 2026,
+      "data_lancamento": "2026-09-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um quarto de século depois de 11 de setembro, os efeitos em cascata dos ataques persistem por gerações. Crianças órfãs, jornalistas da Guerra ao Terror, jovens afegãos e fuzileiros navais dos EUA moldados pela retirada de 2021 compartilham suas histórias.",
+      "elenco": [
+        "Michael Smoak",
+        "Garrett M. Graff",
+        "Anand Gopal",
+        "Jenny Pachucki",
+        "Bruce Hoffman",
+        "Osama bin Laden",
+        "George W. Bush",
+        "Barack Obama"
+      ],
+      "diretor": "Brian Knappenberger",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/2F1sqcKQ9BOFF3c88aIxIb6dcxE.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1752159-turning-point-generation-9-11/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt44322266/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Turning%20Point%3A%20Generation%209%2F11",
+        "metacritic": "https://www.metacritic.com/search/Turning%20Point%3A%20Generation%209%2F11/"
       }
     },
     {
@@ -539,71 +721,6 @@
       }
     },
     {
-      "tmdb_id": 1631807,
-      "imdb_id": "tt37275992",
-      "titulo_original": "Den hemmelige kvinde",
-      "titulo_ingles": "The Secret Woman",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma mulher com amnésia descobre que, na verdade, tem marido, filho e uma fortuna de família neste suspense baseado no best-seller de Anna Ekberg.",
-      "elenco": [
-        "Natalie Madueño",
-        "Claes Bang",
-        "Pål Sverre Hagen",
-        "Stina Ekblad",
-        "Ingrid Bolsø Berdal",
-        "Thea Sofie Loch Næss",
-        "Lars Simonsen",
-        "Ida Appel"
-      ],
-      "diretor": "Barbara Topsøe-Rothenborg",
-      "generos": [
-        "Drama",
-        "Thriller",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/3tlLGxQXY6Xqv3Wln8Y63tPhpeF.jpg",
-      "pais": [
-        "DK"
-      ],
-      "idiomas": [
-        "da"
-      ],
-      "duracao": 119,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37275992/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Secret%20Woman",
-        "metacritic": "https://www.metacritic.com/search/The%20Secret%20Woman/"
-      }
-    },
-    {
       "tmdb_id": 1471168,
       "imdb_id": "tt43706402",
       "titulo_original": "Barreda",
@@ -666,6 +783,71 @@
         "imdb": "https://www.imdb.com/title/tt43706402/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Barreda",
         "metacritic": "https://www.metacritic.com/search/Barreda/"
+      }
+    },
+    {
+      "tmdb_id": 1631807,
+      "imdb_id": "tt37275992",
+      "titulo_original": "Den hemmelige kvinde",
+      "titulo_ingles": "The Secret Woman",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma mulher com amnésia descobre que, na verdade, tem marido, filho e uma fortuna de família neste suspense baseado no best-seller de Anna Ekberg.",
+      "elenco": [
+        "Natalie Madueño",
+        "Claes Bang",
+        "Pål Sverre Hagen",
+        "Stina Ekblad",
+        "Ingrid Bolsø Berdal",
+        "Thea Sofie Loch Næss",
+        "Lars Simonsen",
+        "Ida Appel"
+      ],
+      "diretor": "Barbara Topsøe-Rothenborg",
+      "generos": [
+        "Drama",
+        "Thriller",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/3tlLGxQXY6Xqv3Wln8Y63tPhpeF.jpg",
+      "pais": [
+        "DK"
+      ],
+      "idiomas": [
+        "da"
+      ],
+      "duracao": 119,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37275992/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Secret%20Woman",
+        "metacritic": "https://www.metacritic.com/search/The%20Secret%20Woman/"
       }
     },
     {
@@ -785,6 +967,111 @@
       }
     },
     {
+      "tmdb_id": 1213243,
+      "imdb_id": "tt27530512",
+      "titulo_original": "ಟಾಕ್ಸಿಕ್",
+      "titulo_ingles": "Toxic: A Fairy Tale for Grown-ups",
+      "ano": 2026,
+      "data_lancamento": "2026-08-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Yash",
+        "कियारा आडवाणी",
+        "நயன்தாரா",
+        "हुमा क़ुरैशी",
+        "Tara Sutaria",
+        "ರುಕ್ಮಿಣಿ ವಸಂತ",
+        "Sudev Nair",
+        "Akshay Oberoi"
+      ],
+      "diretor": "Geethu Mohandas",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "kn",
+        "en"
+      ],
+      "duracao": 192,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt27530512/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups",
+        "metacritic": "https://www.metacritic.com/search/Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups/"
+      }
+    },
+    {
+      "tmdb_id": 1729723,
+      "imdb_id": "tt43141030",
+      "titulo_original": "Yellow Mirror",
+      "titulo_ingles": "Yellow Mirror",
+      "ano": 2026,
+      "data_lancamento": "2026-08-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um abajur com defeito revela uma verdade comovente sobre o que Homer acredita ser a realidade, e um tablet com inteligência artificial faz amizade com Maggie e passa a controlá-la. Os Simpsons lutam para achar a luz em meio a duas histórias sombrias, intrigantes e bizarras, neste episódio exclusivo da Disney+.",
+      "elenco": [
+        "Dan Castellaneta",
+        "Nancy Cartwright",
+        "Julie Kavner",
+        "Yeardley Smith",
+        "Patti Harrison",
+        "Demi Moore",
+        "Harry Shearer",
+        "Alex Désert"
+      ],
+      "diretor": "Matthew Faughnan",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 27,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43141030/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Mirror",
+        "metacritic": "https://www.metacritic.com/search/Yellow%20Mirror/"
+      }
+    },
+    {
       "tmdb_id": 1516698,
       "imdb_id": "tt37654096",
       "titulo_original": "The Last Sunrise",
@@ -847,111 +1134,6 @@
         "imdb": "https://www.imdb.com/title/tt37654096/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Sunrise",
         "metacritic": "https://www.metacritic.com/search/The%20Last%20Sunrise/"
-      }
-    },
-    {
-      "tmdb_id": 1729723,
-      "imdb_id": "tt43141030",
-      "titulo_original": "Yellow Mirror",
-      "titulo_ingles": "Yellow Mirror",
-      "ano": 2026,
-      "data_lancamento": "2026-08-26",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um abajur com defeito revela uma verdade comovente sobre o que Homer acredita ser a realidade, e um tablet com inteligência artificial faz amizade com Maggie e passa a controlá-la. Os Simpsons lutam para achar a luz em meio a duas histórias sombrias, intrigantes e bizarras, neste episódio exclusivo da Disney+.",
-      "elenco": [
-        "Dan Castellaneta",
-        "Nancy Cartwright",
-        "Julie Kavner",
-        "Yeardley Smith",
-        "Patti Harrison",
-        "Demi Moore",
-        "Harry Shearer",
-        "Alex Désert"
-      ],
-      "diretor": "Matthew Faughnan",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 27,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43141030/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Mirror",
-        "metacritic": "https://www.metacritic.com/search/Yellow%20Mirror/"
-      }
-    },
-    {
-      "tmdb_id": 1213243,
-      "imdb_id": "tt27530512",
-      "titulo_original": "ಟಾಕ್ಸಿಕ್",
-      "titulo_ingles": "Toxic: A Fairy Tale for Grown-ups",
-      "ano": 2026,
-      "data_lancamento": "2026-08-26",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Yash",
-        "कियारा आडवाणी",
-        "நயன்தாரா",
-        "हुमा क़ुरैशी",
-        "Tara Sutaria",
-        "ರುಕ್ಮಿಣಿ ವಸಂತ",
-        "Sudev Nair",
-        "Akshay Oberoi"
-      ],
-      "diretor": "Geethu Mohandas",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "kn",
-        "en"
-      ],
-      "duracao": 192,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt27530512/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups",
-        "metacritic": "https://www.metacritic.com/search/Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups/"
       }
     },
     {
@@ -1073,6 +1255,56 @@
       }
     },
     {
+      "tmdb_id": 1341138,
+      "imdb_id": "tt33305867",
+      "titulo_original": "Spa Weekend",
+      "titulo_ingles": "Spa Weekend",
+      "ano": 2026,
+      "data_lancamento": "2026-08-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "Três amigas planejam um fim de semana de descanso em um spa de luxo, mas tudo sai do controle quando a integrante mais imprevisível do grupo aparece sem avisar. Entre massagens, bebidas e decisões duvidosas, o que era para ser uma escapada relaxante se transforma no fim de semana mais caótico e divertido de suas vidas.",
+      "elenco": [
+        "Leslie Mann",
+        "Michelle Buteau",
+        "Anna Faris",
+        "Isla Fisher",
+        "Adam Demos",
+        "Dominic Ona-Ariki",
+        "Erika Heynatz",
+        "Courtney Clarke"
+      ],
+      "diretor": "Jon Lucas, Scott Moore",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vmCmJq3Bx9PfuOy6pRrCrq2GdvR.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": 33,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 33,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33305867/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spa%20Weekend",
+        "metacritic": "https://www.metacritic.com/search/Spa%20Weekend/"
+      }
+    },
+    {
       "tmdb_id": 1441228,
       "imdb_id": "tt39108319",
       "titulo_original": "ఇరుముడి",
@@ -1122,56 +1354,6 @@
         "imdb": "https://www.imdb.com/title/tt39108319/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Irumudi",
         "metacritic": "https://www.metacritic.com/search/Irumudi/"
-      }
-    },
-    {
-      "tmdb_id": 1341138,
-      "imdb_id": "tt33305867",
-      "titulo_original": "Spa Weekend",
-      "titulo_ingles": "Spa Weekend",
-      "ano": 2026,
-      "data_lancamento": "2026-08-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "Três amigas planejam um fim de semana de descanso em um spa de luxo, mas tudo sai do controle quando a integrante mais imprevisível do grupo aparece sem avisar. Entre massagens, bebidas e decisões duvidosas, o que era para ser uma escapada relaxante se transforma no fim de semana mais caótico e divertido de suas vidas.",
-      "elenco": [
-        "Leslie Mann",
-        "Michelle Buteau",
-        "Anna Faris",
-        "Isla Fisher",
-        "Adam Demos",
-        "Dominic Ona-Ariki",
-        "Erika Heynatz",
-        "Courtney Clarke"
-      ],
-      "diretor": "Jon Lucas, Scott Moore",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vmCmJq3Bx9PfuOy6pRrCrq2GdvR.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": 33,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 33,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33305867/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spa%20Weekend",
-        "metacritic": "https://www.metacritic.com/search/Spa%20Weekend/"
       }
     },
     {
@@ -1328,6 +1510,59 @@
         "imdb": "https://www.imdb.com/title/tt37540328/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Back%20to%20the%2090s",
         "metacritic": "https://www.metacritic.com/search/Back%20to%20the%2090s/"
+      }
+    },
+    {
+      "tmdb_id": 1408162,
+      "imdb_id": "tt35836025",
+      "titulo_original": "விஸ்வநாத் & சன்ஸ்",
+      "titulo_ingles": "Vishwanath & Sons",
+      "ano": 2026,
+      "data_lancamento": "2026-08-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "சூர்யா",
+        "Mamitha Baiju",
+        "ராதிகா",
+        "रवीना टंडन",
+        "Sunil Reddy",
+        "Harika",
+        "Nassar",
+        "Viva Harsha"
+      ],
+      "diretor": "Venky Atluri",
+      "generos": [
+        "Drama",
+        "Romance",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/sUF4PcGaV4PcsFJh9rv5CujxIKL.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "ta",
+        "te"
+      ],
+      "duracao": 161,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35836025/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vishwanath%20%26%20Sons",
+        "metacritic": "https://www.metacritic.com/search/Vishwanath%20%26%20Sons/"
       }
     },
     {
@@ -1680,6 +1915,57 @@
       }
     },
     {
+      "tmdb_id": 772506,
+      "imdb_id": "tt11866682",
+      "titulo_original": "Amor es amor",
+      "titulo_ingles": "Love is Love",
+      "ano": 2026,
+      "data_lancamento": "2026-08-07",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Rob Schneider",
+        "Patricia Schneider",
+        "Vadhir Derbez",
+        "Paulina Dávila",
+        "Christian Vázquez",
+        "Eduardo España",
+        "Anthony Giulietti",
+        "David Arizpe"
+      ],
+      "diretor": "Rob Schneider",
+      "generos": [
+        "Comédia",
+        "Romance"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/5ae4v1W4hyAclTJw97aIAmr6OAE.jpg",
+      "pais": [
+        "MX"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 91,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt11866682/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Love%20is%20Love",
+        "metacritic": "https://www.metacritic.com/search/Love%20is%20Love/"
+      }
+    },
+    {
       "tmdb_id": 1679730,
       "imdb_id": "tt42186253",
       "titulo_original": "THE RIBBON HERO リボンヒーロー",
@@ -1746,54 +2032,54 @@
       }
     },
     {
-      "tmdb_id": 772506,
-      "imdb_id": "tt11866682",
-      "titulo_original": "Amor es amor",
-      "titulo_ingles": "Love is Love",
+      "tmdb_id": 1433367,
+      "imdb_id": "tt37853455",
+      "titulo_original": "One Night Only",
+      "titulo_ingles": "One Night Only",
       "ano": 2026,
-      "data_lancamento": "2026-08-07",
+      "data_lancamento": "2026-08-06",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Allie e Owen são dois desconhecidos que se encontram em Nova York na única noite do ano em que relações sexuais são permitidas por lei. Abandonados por seus parceiros, a busca deles por conexão emocional toma rumos inesperados",
       "elenco": [
-        "Rob Schneider",
-        "Patricia Schneider",
-        "Vadhir Derbez",
-        "Paulina Dávila",
-        "Christian Vázquez",
-        "Eduardo España",
-        "Anthony Giulietti",
-        "David Arizpe"
+        "Monica Barbaro",
+        "Callum Turner",
+        "Maya Hawke",
+        "King Princess",
+        "Molly Ringwald",
+        "LeVar Burton",
+        "Charlie Gillespie",
+        "Quintessa Swindell"
       ],
-      "diretor": "Rob Schneider",
+      "diretor": "Will Gluck",
       "generos": [
-        "Comédia",
-        "Romance"
+        "Romance",
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/5ae4v1W4hyAclTJw97aIAmr6OAE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/61fSMjhMoBgoXvKOlz3AvMM6CHT.jpg",
       "pais": [
-        "MX"
+        "US"
       ],
       "idiomas": [
-        "es"
+        "en"
       ],
-      "duracao": 91,
-      "rt_critica": null,
+      "duracao": 103,
+      "rt_critica": 43,
       "rt_publico": null,
-      "metacritic": null,
+      "metacritic": 42,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
+      "atual_rt": 43,
+      "atual_metacritic": 42,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt11866682/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Love%20is%20Love",
-        "metacritic": "https://www.metacritic.com/search/Love%20is%20Love/"
+        "imdb": "https://www.imdb.com/title/tt37853455/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Night%20Only",
+        "metacritic": "https://www.metacritic.com/search/One%20Night%20Only/"
       }
     },
     {
@@ -1911,57 +2197,6 @@
         "imdb": "https://www.imdb.com/title/tt8820258/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Super%20Troopers%203",
         "metacritic": "https://www.metacritic.com/search/Super%20Troopers%203/"
-      }
-    },
-    {
-      "tmdb_id": 1433367,
-      "imdb_id": "tt37853455",
-      "titulo_original": "One Night Only",
-      "titulo_ingles": "One Night Only",
-      "ano": 2026,
-      "data_lancamento": "2026-08-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "Allie e Owen são dois desconhecidos que se encontram em Nova York na única noite do ano em que relações sexuais são permitidas por lei. Abandonados por seus parceiros, a busca deles por conexão emocional toma rumos inesperados",
-      "elenco": [
-        "Monica Barbaro",
-        "Callum Turner",
-        "Maya Hawke",
-        "King Princess",
-        "Molly Ringwald",
-        "LeVar Burton",
-        "Charlie Gillespie",
-        "Quintessa Swindell"
-      ],
-      "diretor": "Will Gluck",
-      "generos": [
-        "Romance",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/61fSMjhMoBgoXvKOlz3AvMM6CHT.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 103,
-      "rt_critica": 43,
-      "rt_publico": null,
-      "metacritic": 42,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 43,
-      "atual_metacritic": 42,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37853455/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Night%20Only",
-        "metacritic": "https://www.metacritic.com/search/One%20Night%20Only/"
       }
     },
     {
@@ -2487,136 +2722,6 @@
       }
     },
     {
-      "tmdb_id": 1481343,
-      "imdb_id": "tt36958312",
-      "titulo_original": "The Devil's Mouth",
-      "titulo_ingles": "The Devil's Mouth",
-      "ano": 2026,
-      "data_lancamento": "2026-07-29",
-      "data_qualificacao": "",
-      "sinopse_pt": "Cinco amigos exploram as cavernas da Boca do Diabo, na Tailândia, para uma última aventura antes de começar a vida real. Mas logo descobrem que há algo mortal à espreita embaixo d'água.... veloz, silencioso e letal. Na escuridão sufocante, a confiança se desfaz, o pânico se espalha e cada passo errado se torna uma luta pela sobrevivência.",
-      "elenco": [
-        "Kathryn Newton",
-        "Lana Condor",
-        "Nico Hiraga",
-        "Gavin Casalegno",
-        "Tommi Rose",
-        "Tayme Thapthimthong",
-        "สหจักร บุญธนกิจ",
-        "Harrison Luna"
-      ],
-      "diretor": "Jeff Wadlow",
-      "generos": [
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/2CZecxLrTSmzngWqIGganSMg6gK.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "th"
-      ],
-      "duracao": 106,
-      "rt_critica": 40,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 40,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1481343-the-devil-s-mouth/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36958312/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Devil's%20Mouth",
-        "metacritic": "https://www.metacritic.com/search/The%20Devil's%20Mouth/"
-      }
-    },
-    {
-      "tmdb_id": 1620682,
-      "imdb_id": "tt43617119",
-      "titulo_original": "أحبك من زمان",
-      "titulo_ingles": "Love in Slow Motion",
-      "ano": 2026,
-      "data_lancamento": "2026-07-23",
-      "data_qualificacao": "",
-      "sinopse_pt": "Quando Jawad, o melhor amigo de Haya, fica noivo, o mundo de solteira convicta dela vira de cabeça para baixo — afinal, quem diria que o amor verdadeiro poderia estar escondido na \"friend zone\"?",
-      "elenco": [
-        "نور الغندور",
-        "علي كاكولي",
-        "فاطمة الشريف",
-        "شوق الهادي",
-        "نهى نبيل",
-        "Elie Mitri",
-        "Mahira Abdel Aziz",
-        "Neshan Der Haroutiounian"
-      ],
-      "diretor": "إيلي السمعان",
-      "generos": [
-        "Romance",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/1xufFKDpVSxATQh0i7gsA4SjSl1.jpg",
-      "pais": [
-        "KW",
-        "LB"
-      ],
-      "idiomas": [
-        "ar"
-      ],
-      "duracao": 93,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1620682/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43617119/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Love%20in%20Slow%20Motion",
-        "metacritic": "https://www.metacritic.com/search/Love%20in%20Slow%20Motion/"
-      }
-    },
-    {
       "tmdb_id": 1308767,
       "imdb_id": "tt32104007",
       "titulo_original": "Young Washington",
@@ -2978,59 +3083,6 @@
       }
     },
     {
-      "tmdb_id": 1145899,
-      "imdb_id": "tt33029380",
-      "titulo_original": "Marsupilami",
-      "titulo_ingles": "Marsupilami",
-      "ano": 2026,
-      "data_lancamento": "2026-02-04",
-      "data_qualificacao": "",
-      "sinopse_pt": "Para salvar seu emprego, David aceita transportar um pacote misterioso da América do Sul, mas tudo sai do controle quando um bebê marsupilami é libertado em um cruzeiro. Em meio à confusão, ele vive uma aventura caótica ao lado da ex, do filho e de um colega atrapalhado, redescobrindo a importância dos laços familiares.",
-      "elenco": [
-        "Philippe Lacheau",
-        "Jamel Debbouze",
-        "Tarek Boudali",
-        "Élodie Fontan",
-        "Julien Arruti",
-        "Jean Reno",
-        "Corentin Guillot",
-        "Gérard Jugnot"
-      ],
-      "diretor": "Philippe Lacheau",
-      "generos": [
-        "Aventura",
-        "Comédia",
-        "Família"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vGzmitzUQrDkAghLETCgLk4WMmD.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 99,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33029380/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Marsupilami",
-        "metacritic": "https://www.metacritic.com/search/Marsupilami/"
-      }
-    },
-    {
       "tmdb_id": 910850,
       "imdb_id": "tt32915652",
       "titulo_original": "機動戦士ガンダム  閃光のハサウェイ キルケーの魔女",
@@ -3366,66 +3418,6 @@
         "imdb": "https://www.imdb.com/title/tt33030403/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Ties%20That%20Bind%20Us",
         "metacritic": "https://www.metacritic.com/search/The%20Ties%20That%20Bind%20Us/"
-      }
-    },
-    {
-      "tmdb_id": 1141163,
-      "imdb_id": "tt31105878",
-      "titulo_original": "Diva Futura",
-      "titulo_ingles": "Diva Futura",
-      "ano": 2025,
-      "data_lancamento": "2025-02-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "Itália, anos 80 e 90. A indústria adulta italiana nasce e se transforma sob o comando de Riccardo Schicchi e da agência Diva Futura, que revolucionam a cultura com as maiores estrelas da época. Por trás do glamour e da fama, Cicciolina e Moana, conhecidas mundialmente, carregavam histórias profundamente comoventes. Nenhuma delas estava ali por acaso e, juntas, formavam uma grande e peculiar família.",
-      "elenco": [
-        "Pietro Castellitto",
-        "Barbara Ronchi",
-        "Denise Capezza",
-        "Tesa Litvan",
-        "Lidija Kordić",
-        "Davide Iachini",
-        "Marco Iermanò",
-        "Beatrice Puccilli"
-      ],
-      "diretor": "Giulia Louise Steigerwalt",
-      "generos": [
-        "Drama",
-        "Romance",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qLfdMy5LmUlkqgm3jvgVvIbvQWO.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 120,
-      "rt_critica": 64,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 64,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Reserva Imovision Amazon Channel",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/c0sG3OmJrwYnUeAISP4IxlQBbSE.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1141163-diva-futura/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt31105878/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Diva%20Futura",
-        "metacritic": "https://www.metacritic.com/search/Diva%20Futura/"
       }
     },
     {
