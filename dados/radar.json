@@ -1,7 +1,174 @@
 {
   "versao": 1,
-  "gerado_em": "2026-09-16T14:16:17.939Z",
+  "gerado_em": "2026-09-17T14:21:48.989Z",
   "filmes": [
+    {
+      "tmdb_id": 1423191,
+      "imdb_id": "tt35538033",
+      "titulo_original": "Resident Evil",
+      "titulo_ingles": "Resident Evil",
+      "ano": 2026,
+      "data_lancamento": "2026-09-16",
+      "data_qualificacao": "",
+      "sinopse_pt": "Bryan, um tranquilo entregador de órgãos, é enviado para uma entrega noturna no Hospital Geral de Raccoon City. No caminho por uma estrada montanhosa coberta de neve, ele acidentalmente atropela uma mulher desconhecida. Ela sobrevive, mas algo está muito errado. Ao tentar ajudar, Bryan se depara com um surto em larga escala envolvendo mutações horríveis com tentáculos e monstruosidades bioengenheiradas.",
+      "elenco": [
+        "Austin Abrams",
+        "Zach Cherry",
+        "Kali Reis",
+        "Paul Walter Hauser",
+        "Johnno Wilson",
+        "Shaun W. Loeser",
+        "Devon Deshaun Stewart",
+        "Zach Cregger"
+      ],
+      "diretor": "Zach Cregger",
+      "generos": [
+        "Terror",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/gQ76UL64RQe3oHwiwHwODTC23g4.jpg",
+      "pais": [
+        "US",
+        "DE",
+        "FR"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 90,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35538033/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Resident%20Evil",
+        "metacritic": "https://www.metacritic.com/search/Resident%20Evil/"
+      }
+    },
+    {
+      "tmdb_id": 1558568,
+      "imdb_id": "tt38616652",
+      "titulo_original": "Gracias, equipo",
+      "titulo_ingles": "Go Team!",
+      "ano": 2026,
+      "data_lancamento": "2026-09-11",
+      "data_qualificacao": "",
+      "sinopse_pt": "Quando o evento de integração dá uma bela caída de nível, a equipe de colaboradores de uma empresa de queijos acha que chegou ao fundo do poço. Até saberem das demissões.",
+      "elenco": [
+        "Alexandra Jiménez",
+        "Maribel Verdú",
+        "Pedro Casablanc",
+        "Raúl Tejón",
+        "Blanca Martínez",
+        "Victor Rebull",
+        "Pepe Viyuela",
+        "Saturnino García"
+      ],
+      "diretor": "Diego Núñez Irigoyen",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/rJzfmcJLqML17sh7jlKV70D6y66.jpg",
+      "pais": [
+        "ES"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 93,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1558568-gracias-equipo/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38616652/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Go%20Team!",
+        "metacritic": "https://www.metacritic.com/search/Go%20Team!/"
+      }
+    },
+    {
+      "tmdb_id": 1645164,
+      "imdb_id": "tt38574284",
+      "titulo_original": "Serpenti",
+      "titulo_ingles": "Serpenti",
+      "ano": 2026,
+      "data_lancamento": "2026-09-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Leonardo Lidi",
+        "Alessandro Borghi",
+        "Pietro Castellitto",
+        "Valeria Golino",
+        "Daniele Parisi",
+        "Francesca Solombrino",
+        "Alessandra Ferrara",
+        "Martinus Tocchi"
+      ],
+      "diretor": "Roberto De Paolis",
+      "generos": [
+        "Drama",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38574284/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Serpenti",
+        "metacritic": "https://www.metacritic.com/search/Serpenti/"
+      }
+    },
     {
       "tmdb_id": 1447853,
       "imdb_id": "tt36152310",
@@ -176,71 +343,6 @@
       }
     },
     {
-      "tmdb_id": 1522689,
-      "imdb_id": "tt38061210",
-      "titulo_original": "Why Did I Get Married Again?",
-      "titulo_ingles": "Why Did I Get Married Again?",
-      "ano": 2026,
-      "data_lancamento": "2026-09-08",
-      "data_qualificacao": "",
-      "sinopse_pt": "Os casais se reencontram para o matrimônio da filha de Marcus e Angela, trazendo à tona dramas novos e antigos. Por que será que essa turma se casou, hein?",
-      "elenco": [
-        "Tyler Perry",
-        "Taraji P. Henson",
-        "Jill Scott",
-        "Richard T. Jones",
-        "Tasha Smith",
-        "Michael Jai White",
-        "Sharon Leal",
-        "Lamman Rucker"
-      ],
-      "diretor": "Tyler Perry",
-      "generos": [
-        "Comédia",
-        "Romance",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bHMtdZFZztcAE5uHHhsY2pWRPB9.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 112,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38061210/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Why%20Did%20I%20Get%20Married%20Again%3F",
-        "metacritic": "https://www.metacritic.com/search/Why%20Did%20I%20Get%20Married%20Again%3F/"
-      }
-    },
-    {
       "tmdb_id": 1739206,
       "imdb_id": "tt43700444",
       "titulo_original": "Untold Mr. T: I Pity the Fool",
@@ -304,40 +406,38 @@
       }
     },
     {
-      "tmdb_id": 1378537,
-      "imdb_id": "tt34339725",
-      "titulo_original": "मिर्ज़ापुर - द मूवी",
-      "titulo_ingles": "Mirzapur: The Movie",
+      "tmdb_id": 1522689,
+      "imdb_id": "tt38061210",
+      "titulo_original": "Why Did I Get Married Again?",
+      "titulo_ingles": "Why Did I Get Married Again?",
       "ano": 2026,
-      "data_lancamento": "2026-09-03",
+      "data_lancamento": "2026-09-08",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Os casais se reencontram para o matrimônio da filha de Marcus e Angela, trazendo à tona dramas novos e antigos. Por que será que essa turma se casou, hein?",
       "elenco": [
-        "Pankaj Tripathi",
-        "Ali Fazal",
-        "दिव्येंदु शर्मा",
-        "Jitendra Kumar",
-        "Ravi Kishan",
-        "रसिका दुग्गल",
-        "Mohit Malik",
-        "शीबा चड्ढा"
+        "Tyler Perry",
+        "Taraji P. Henson",
+        "Jill Scott",
+        "Richard T. Jones",
+        "Tasha Smith",
+        "Michael Jai White",
+        "Sharon Leal",
+        "Lamman Rucker"
       ],
-      "diretor": "Gurmmeet Singh",
+      "diretor": "Tyler Perry",
       "generos": [
-        "Ação",
-        "Crime",
-        "Drama",
-        "Thriller"
+        "Comédia",
+        "Romance",
+        "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bHMtdZFZztcAE5uHHhsY2pWRPB9.jpg",
       "pais": [
-        "IN",
         "US"
       ],
       "idiomas": [
-        "hi"
+        "en"
       ],
-      "duracao": 197,
+      "duracao": 112,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -349,12 +449,25 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt34339725/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mirzapur%3A%20The%20Movie",
-        "metacritic": "https://www.metacritic.com/search/Mirzapur%3A%20The%20Movie/"
+        "imdb": "https://www.imdb.com/title/tt38061210/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Why%20Did%20I%20Get%20Married%20Again%3F",
+        "metacritic": "https://www.metacritic.com/search/Why%20Did%20I%20Get%20Married%20Again%3F/"
       }
     },
     {
@@ -489,6 +602,114 @@
         "imdb": "https://www.imdb.com/title/tt34564059/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Runner",
         "metacritic": "https://www.metacritic.com/search/The%20Runner/"
+      }
+    },
+    {
+      "tmdb_id": 1378537,
+      "imdb_id": "tt34339725",
+      "titulo_original": "मिर्ज़ापुर - द मूवी",
+      "titulo_ingles": "Mirzapur: The Movie",
+      "ano": 2026,
+      "data_lancamento": "2026-09-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Pankaj Tripathi",
+        "Ali Fazal",
+        "दिव्येंदु शर्मा",
+        "Jitendra Kumar",
+        "Ravi Kishan",
+        "रसिका दुग्गल",
+        "Mohit Malik",
+        "शीबा चड्ढा"
+      ],
+      "diretor": "Gurmmeet Singh",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
+      "pais": [
+        "IN",
+        "US"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 197,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34339725/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mirzapur%3A%20The%20Movie",
+        "metacritic": "https://www.metacritic.com/search/Mirzapur%3A%20The%20Movie/"
+      }
+    },
+    {
+      "tmdb_id": 1380417,
+      "imdb_id": "tt34379051",
+      "titulo_original": "By Any Means",
+      "titulo_ingles": "By Any Means",
+      "ano": 2026,
+      "data_lancamento": "2026-09-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um jovem agente negro do FBI é convocado para encontrar os culpados pela morte do ativista Vernon Dahmer. Para isso, ele precisa trabalhar ao lado de Gregory Scarpa, um dos assassinos mais notórios da máfia e acostumado a lidar com problemas usando violência e métodos questionáveis.",
+      "elenco": [
+        "Yahya Abdul-Mateen II",
+        "Mark Wahlberg",
+        "Nicole Beharie",
+        "Josh Lucas",
+        "David Strathairn",
+        "Giancarlo Esposito",
+        "Ethan Embry",
+        "LisaGay Hamilton"
+      ],
+      "diretor": "Elegance Bratton",
+      "generos": [
+        "História",
+        "Crime",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/3tQCQgJii07tbDDrd9DCEZRJEK2.jpg",
+      "pais": [
+        "US",
+        "AU",
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 106,
+      "rt_critica": 55,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 55,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34379051/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=By%20Any%20Means",
+        "metacritic": "https://www.metacritic.com/search/By%20Any%20Means/"
       }
     },
     {
@@ -789,6 +1010,57 @@
       }
     },
     {
+      "tmdb_id": 1480574,
+      "imdb_id": "tt36948232",
+      "titulo_original": "Just Play Dead",
+      "titulo_ingles": "Just Play Dead",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um gênio do crime planeja forjar a própria morte para receber o dinheiro do seguro e incriminar o amante da esposa. A esposa, por sua vez, trama para matá-lo de verdade e ficar com tudo. Os dois competem numa batalha mortal de inteligência para se superarem.",
+      "elenco": [
+        "Samuel L. Jackson",
+        "Eva Green",
+        "María Pedraza",
+        "Eoin Macken",
+        "Jason Fernández",
+        "Paulo Rivera",
+        "Nicole Ansari-Cox",
+        "Lee Boardman"
+      ],
+      "diretor": "Martin Campbell",
+      "generos": [
+        "Thriller",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
+      "pais": [
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36948232/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Just%20Play%20Dead",
+        "metacritic": "https://www.metacritic.com/search/Just%20Play%20Dead/"
+      }
+    },
+    {
       "tmdb_id": 1631807,
       "imdb_id": "tt37275992",
       "titulo_original": "Den hemmelige kvinde",
@@ -851,57 +1123,6 @@
         "imdb": "https://www.imdb.com/title/tt37275992/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Secret%20Woman",
         "metacritic": "https://www.metacritic.com/search/The%20Secret%20Woman/"
-      }
-    },
-    {
-      "tmdb_id": 1480574,
-      "imdb_id": "tt36948232",
-      "titulo_original": "Just Play Dead",
-      "titulo_ingles": "Just Play Dead",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um gênio do crime planeja forjar a própria morte para receber o dinheiro do seguro e incriminar o amante da esposa. A esposa, por sua vez, trama para matá-lo de verdade e ficar com tudo. Os dois competem numa batalha mortal de inteligência para se superarem.",
-      "elenco": [
-        "Samuel L. Jackson",
-        "Eva Green",
-        "María Pedraza",
-        "Eoin Macken",
-        "Jason Fernández",
-        "Paulo Rivera",
-        "Nicole Ansari-Cox",
-        "Lee Boardman"
-      ],
-      "diretor": "Martin Campbell",
-      "generos": [
-        "Thriller",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36948232/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Just%20Play%20Dead",
-        "metacritic": "https://www.metacritic.com/search/Just%20Play%20Dead/"
       }
     },
     {
@@ -1018,59 +1239,6 @@
         "imdb": "https://www.imdb.com/title/tt21285562/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dog%20Stars",
         "metacritic": "https://www.metacritic.com/search/The%20Dog%20Stars/"
-      }
-    },
-    {
-      "tmdb_id": 1213243,
-      "imdb_id": "tt27530512",
-      "titulo_original": "ಟಾಕ್ಸಿಕ್",
-      "titulo_ingles": "Toxic: A Fairy Tale for Grown-ups",
-      "ano": 2026,
-      "data_lancamento": "2026-08-26",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Yash",
-        "कियारा आडवाणी",
-        "நயன்தாரா",
-        "हुमा क़ुरैशी",
-        "Tara Sutaria",
-        "ರುಕ್ಮಿಣಿ ವಸಂತ",
-        "Sudev Nair",
-        "Akshay Oberoi"
-      ],
-      "diretor": "Geethu Mohandas",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "kn",
-        "en"
-      ],
-      "duracao": 192,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt27530512/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups",
-        "metacritic": "https://www.metacritic.com/search/Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups/"
       }
     },
     {
@@ -1191,39 +1359,39 @@
       }
     },
     {
-      "tmdb_id": 1621552,
-      "imdb_id": "tt39390497",
-      "titulo_original": "La captura",
-      "titulo_ingles": "Facing El Chapo",
+      "tmdb_id": 1213243,
+      "imdb_id": "tt27530512",
+      "titulo_original": "ಟಾಕ್ಸಿಕ್",
+      "titulo_ingles": "Toxic: A Fairy Tale for Grown-ups",
       "ano": 2026,
-      "data_lancamento": "2026-08-21",
+      "data_lancamento": "2026-08-26",
       "data_qualificacao": "",
-      "sinopse_pt": "Dois policiais mexicanos precisam sobreviver às últimas horas de seu turno após cruzarem o caminho de um chefe de cartel implacável.",
+      "sinopse_pt": "",
       "elenco": [
-        "Alfonso Herrera",
-        "Noé Hernández",
-        "Héctor Kotsifakis",
-        "Paola Fernández",
-        "Gerardo Trejoluna",
-        "Fernando Cuautle",
-        "Alejandra Vázquez De León",
-        "Santiago Colores"
+        "Yash",
+        "कियारा आडवाणी",
+        "நயன்தாரா",
+        "हुमा क़ुरैशी",
+        "Tara Sutaria",
+        "ರುಕ್ಮಿಣಿ ವಸಂತ",
+        "Sudev Nair",
+        "Akshay Oberoi"
       ],
-      "diretor": "Chava Cartas",
+      "diretor": "Geethu Mohandas",
       "generos": [
-        "Crime",
         "Ação",
-        "Thriller"
+        "Crime",
+        "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/z1BazG57E5JaNbxQ5kpXt8h8whv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
       "pais": [
-        "MX"
+        "IN"
       ],
       "idiomas": [
-        "pt",
-        "es"
+        "kn",
+        "en"
       ],
-      "duracao": 91,
+      "duracao": 192,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1235,25 +1403,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=BR"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt39390497/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Facing%20El%20Chapo",
-        "metacritic": "https://www.metacritic.com/search/Facing%20El%20Chapo/"
+        "imdb": "https://www.imdb.com/title/tt27530512/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups",
+        "metacritic": "https://www.metacritic.com/search/Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups/"
       }
     },
     {
@@ -1367,6 +1522,122 @@
       }
     },
     {
+      "tmdb_id": 1621552,
+      "imdb_id": "tt39390497",
+      "titulo_original": "La captura",
+      "titulo_ingles": "Facing El Chapo",
+      "ano": 2026,
+      "data_lancamento": "2026-08-21",
+      "data_qualificacao": "",
+      "sinopse_pt": "Dois policiais mexicanos precisam sobreviver às últimas horas de seu turno após cruzarem o caminho de um chefe de cartel implacável.",
+      "elenco": [
+        "Alfonso Herrera",
+        "Noé Hernández",
+        "Héctor Kotsifakis",
+        "Paola Fernández",
+        "Gerardo Trejoluna",
+        "Fernando Cuautle",
+        "Alejandra Vázquez De León",
+        "Santiago Colores"
+      ],
+      "diretor": "Chava Cartas",
+      "generos": [
+        "Crime",
+        "Ação",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/z1BazG57E5JaNbxQ5kpXt8h8whv.jpg",
+      "pais": [
+        "MX"
+      ],
+      "idiomas": [
+        "pt",
+        "es"
+      ],
+      "duracao": 91,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39390497/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Facing%20El%20Chapo",
+        "metacritic": "https://www.metacritic.com/search/Facing%20El%20Chapo/"
+      }
+    },
+    {
+      "tmdb_id": 1341138,
+      "imdb_id": "tt33305867",
+      "titulo_original": "Spa Weekend",
+      "titulo_ingles": "Spa Weekend",
+      "ano": 2026,
+      "data_lancamento": "2026-08-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "Três amigas planejam um fim de semana de descanso em um spa de luxo, mas tudo sai do controle quando a integrante mais imprevisível do grupo aparece sem avisar. Entre massagens, bebidas e decisões duvidosas, o que era para ser uma escapada relaxante se transforma no fim de semana mais caótico e divertido de suas vidas.",
+      "elenco": [
+        "Leslie Mann",
+        "Michelle Buteau",
+        "Anna Faris",
+        "Isla Fisher",
+        "Adam Demos",
+        "Dominic Ona-Ariki",
+        "Erika Heynatz",
+        "Courtney Clarke"
+      ],
+      "diretor": "Jon Lucas, Scott Moore",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vmCmJq3Bx9PfuOy6pRrCrq2GdvR.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": 33,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 33,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33305867/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spa%20Weekend",
+        "metacritic": "https://www.metacritic.com/search/Spa%20Weekend/"
+      }
+    },
+    {
       "tmdb_id": 1441228,
       "imdb_id": "tt39108319",
       "titulo_original": "ఇరుముడి",
@@ -1416,56 +1687,6 @@
         "imdb": "https://www.imdb.com/title/tt39108319/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Irumudi",
         "metacritic": "https://www.metacritic.com/search/Irumudi/"
-      }
-    },
-    {
-      "tmdb_id": 1341138,
-      "imdb_id": "tt33305867",
-      "titulo_original": "Spa Weekend",
-      "titulo_ingles": "Spa Weekend",
-      "ano": 2026,
-      "data_lancamento": "2026-08-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "Três amigas planejam um fim de semana de descanso em um spa de luxo, mas tudo sai do controle quando a integrante mais imprevisível do grupo aparece sem avisar. Entre massagens, bebidas e decisões duvidosas, o que era para ser uma escapada relaxante se transforma no fim de semana mais caótico e divertido de suas vidas.",
-      "elenco": [
-        "Leslie Mann",
-        "Michelle Buteau",
-        "Anna Faris",
-        "Isla Fisher",
-        "Adam Demos",
-        "Dominic Ona-Ariki",
-        "Erika Heynatz",
-        "Courtney Clarke"
-      ],
-      "diretor": "Scott Moore, Jon Lucas",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vmCmJq3Bx9PfuOy6pRrCrq2GdvR.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": 33,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 33,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33305867/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spa%20Weekend",
-        "metacritic": "https://www.metacritic.com/search/Spa%20Weekend/"
       }
     },
     {
@@ -1625,6 +1846,69 @@
       }
     },
     {
+      "tmdb_id": 1589248,
+      "imdb_id": "tt38662472",
+      "titulo_original": "Mein bester Freund, seine Freundin und ich",
+      "titulo_ingles": "My Best Friend, His Girlfriend and Me",
+      "ano": 2026,
+      "data_lancamento": "2026-08-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "Olli e Matze, inseparáveis desde a escola, são amigos, colegas de trabalho e até dividem o apartamento. Só que, agora, Rebecca chegou. E ela vai mudar tudo.",
+      "elenco": [
+        "Kostja Ullmann",
+        "Janina Uhse",
+        "David Kross",
+        "Ferdinand Hofer",
+        "Clara Immel",
+        "Mira Huber",
+        "Larissa Sirah Herden",
+        "Anna Herrmann"
+      ],
+      "diretor": "Marco Petry",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/zyTqoS4eXC5vf3g61CuoxIr6Tyn.jpg",
+      "pais": [
+        "DE"
+      ],
+      "idiomas": [
+        "de"
+      ],
+      "duracao": 98,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1589248-mein-bester-freund-seine-freundin-und-ich/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38662472/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Best%20Friend%2C%20His%20Girlfriend%20and%20Me",
+        "metacritic": "https://www.metacritic.com/search/My%20Best%20Friend%2C%20His%20Girlfriend%20and%20Me/"
+      }
+    },
+    {
       "tmdb_id": 1408162,
       "imdb_id": "tt35836025",
       "titulo_original": "விஸ்வநாத் & சன்ஸ்",
@@ -1698,7 +1982,7 @@
       "ano": 2026,
       "data_lancamento": "2026-08-14",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Duas jovens sem rumo adquirem involuntariamente habilidades telepáticas após ingerir uma droga experimental, que as coloca contra rivais perigosos que buscam a mesma substância poderosa.",
       "elenco": [
         "Kristen Stewart",
         "Alia Shawkat",
@@ -1741,131 +2025,6 @@
         "imdb": "https://www.imdb.com/title/tt35060353/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Wrong%20Girls",
         "metacritic": "https://www.metacritic.com/search/The%20Wrong%20Girls/"
-      }
-    },
-    {
-      "tmdb_id": 1589248,
-      "imdb_id": "tt38662472",
-      "titulo_original": "Mein bester Freund, seine Freundin und ich",
-      "titulo_ingles": "My Best Friend, His Girlfriend and Me",
-      "ano": 2026,
-      "data_lancamento": "2026-08-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "Olli e Matze, inseparáveis desde a escola, são amigos, colegas de trabalho e até dividem o apartamento. Só que, agora, Rebecca chegou. E ela vai mudar tudo.",
-      "elenco": [
-        "Kostja Ullmann",
-        "Janina Uhse",
-        "David Kross",
-        "Ferdinand Hofer",
-        "Clara Immel",
-        "Mira Huber",
-        "Larissa Sirah Herden",
-        "Anna Herrmann"
-      ],
-      "diretor": "Marco Petry",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/zyTqoS4eXC5vf3g61CuoxIr6Tyn.jpg",
-      "pais": [
-        "DE"
-      ],
-      "idiomas": [
-        "de"
-      ],
-      "duracao": 98,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1589248-mein-bester-freund-seine-freundin-und-ich/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38662472/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Best%20Friend%2C%20His%20Girlfriend%20and%20Me",
-        "metacritic": "https://www.metacritic.com/search/My%20Best%20Friend%2C%20His%20Girlfriend%20and%20Me/"
-      }
-    },
-    {
-      "tmdb_id": 1493400,
-      "imdb_id": "tt6743524",
-      "titulo_original": "Camp Rock 3",
-      "titulo_ingles": "Camp Rock 3",
-      "ano": 2026,
-      "data_lancamento": "2026-08-13",
-      "data_qualificacao": "",
-      "sinopse_pt": "O Connect 3 perde sua banda de abertura para uma grande turnê de reunião e decide retornar ao amado Camp Rock para descobrir o próximo grande talento. Enquanto os campistas disputam a chance de abrir os shows de sua banda favorita, as tensões aumentam e as amizades são testadas, levando a alianças inesperadas, revelações e romances.",
-      "elenco": [
-        "Liamani Segura",
-        "Malachi Barton",
-        "Lumi Pollack",
-        "Hudson Stone",
-        "Casey Trotter",
-        "Brooklynn Pitts",
-        "Sherry Cola",
-        "Maria Canals-Barrera"
-      ],
-      "diretor": "Veronica Rodriguez",
-      "generos": [
-        "Música",
-        "Comédia",
-        "Drama",
-        "Cinema TV"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
-      "pais": [
-        "US",
-        "CA"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 93,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1493400-camp-rock-3/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt6743524/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Camp%20Rock%203",
-        "metacritic": "https://www.metacritic.com/search/Camp%20Rock%203/"
       }
     },
     {
@@ -2208,6 +2367,58 @@
       }
     },
     {
+      "tmdb_id": 675871,
+      "imdb_id": "tt8820258",
+      "titulo_original": "Super Troopers 3",
+      "titulo_ingles": "Super Troopers 3",
+      "ano": 2026,
+      "data_lancamento": "2026-08-06",
+      "data_qualificacao": "",
+      "sinopse_pt": "Cinco policiais federais estão fazendo o inferno nas estradas e se veem conduzindo situações engraçadas enquanto tentam evitar sua extinção.",
+      "elenco": [
+        "Jay Chandrasekhar",
+        "Kevin Heffernan",
+        "Steve Lemme",
+        "Paul Soter",
+        "Erik Stolhanske",
+        "Hannah Simone",
+        "Marisa Coughlan",
+        "Nat Faxon"
+      ],
+      "diretor": "Jay Chandrasekhar",
+      "generos": [
+        "Comédia",
+        "Crime",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 100,
+      "rt_critica": 51,
+      "rt_publico": null,
+      "metacritic": 37,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 51,
+      "atual_metacritic": 37,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt8820258/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Super%20Troopers%203",
+        "metacritic": "https://www.metacritic.com/search/Super%20Troopers%203/"
+      }
+    },
+    {
       "tmdb_id": 1284041,
       "imdb_id": "tt32268156",
       "titulo_original": "The Last House",
@@ -2273,58 +2484,6 @@
       }
     },
     {
-      "tmdb_id": 675871,
-      "imdb_id": "tt8820258",
-      "titulo_original": "Super Troopers 3",
-      "titulo_ingles": "Super Troopers 3",
-      "ano": 2026,
-      "data_lancamento": "2026-08-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "Cinco policiais federais estão fazendo o inferno nas estradas e se veem conduzindo situações engraçadas enquanto tentam evitar sua extinção.",
-      "elenco": [
-        "Jay Chandrasekhar",
-        "Kevin Heffernan",
-        "Steve Lemme",
-        "Paul Soter",
-        "Erik Stolhanske",
-        "Hannah Simone",
-        "Marisa Coughlan",
-        "Nat Faxon"
-      ],
-      "diretor": "Jay Chandrasekhar",
-      "generos": [
-        "Comédia",
-        "Crime",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 100,
-      "rt_critica": 51,
-      "rt_publico": null,
-      "metacritic": 37,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 51,
-      "atual_metacritic": 37,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt8820258/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Super%20Troopers%203",
-        "metacritic": "https://www.metacritic.com/search/Super%20Troopers%203/"
-      }
-    },
-    {
       "tmdb_id": 1323244,
       "imdb_id": "tt29512655",
       "titulo_original": "Rage of Stars",
@@ -2332,7 +2491,7 @@
       "ano": 2026,
       "data_lancamento": "2026-08-06",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Uma agente de elite começa a ter visões do apocalipse que ameaçam sua sanidade e carreira. Caçada por quem deveria protegê-la, ela precisa decifrar as premonições antes que o caos que já consome o mundo se torne irreversível.",
       "elenco": [
         "Andrea Tivadar",
         "Jord Knotter",
@@ -2348,7 +2507,7 @@
         "Ficção científica",
         "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vovjeqrfA15EDsDhGtqDI0dLg7I.jpg",
       "pais": [
         "PL"
       ],
@@ -2373,51 +2532,6 @@
         "imdb": "https://www.imdb.com/title/tt29512655/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Rage%20of%20Stars",
         "metacritic": "https://www.metacritic.com/search/Rage%20of%20Stars/"
-      }
-    },
-    {
-      "tmdb_id": 1748007,
-      "imdb_id": "tt44146991",
-      "titulo_original": "牛来",
-      "titulo_ingles": "Niu Lai",
-      "ano": 2026,
-      "data_lancamento": "2026-08-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "O ingênuo bezerro Niu Lai adora explorar as pastagens, mas tem dificuldade em corresponder às expectativas de sua família de que ele se torne o futuro líder do rebanho. Com a migração se aproximando rapidamente, Niu Lai encontra aliados inesperados em sua jornada para descobrir o significado da coragem, enquanto se preparam para uma travessia perigosa pelo deserto.",
-      "elenco": [
-        "信雨萌",
-        "孙丽芳"
-      ],
-      "diretor": "信雨萌",
-      "generos": [
-        "Animação",
-        "Aventura"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
-      "pais": [
-        "CN"
-      ],
-      "idiomas": [
-        "zh"
-      ],
-      "duracao": 86,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt44146991/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Niu%20Lai",
-        "metacritic": "https://www.metacritic.com/search/Niu%20Lai/"
       }
     },
     {
@@ -2555,176 +2669,6 @@
       }
     },
     {
-      "tmdb_id": 1307118,
-      "imdb_id": "tt32654916",
-      "titulo_original": "Soulm8te",
-      "titulo_ingles": "Soulm8te",
-      "ano": 2026,
-      "data_lancamento": "2026-07-31",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um homem adquire um androide com inteligência artificial para lidar com o luto de sua falecida esposa. No entanto, ao tentar criar uma parceira verdadeiramente senciente, ele acaba transformando, inadvertidamente, um robô inofensivo em uma alma gêmea mortal.",
-      "elenco": [
-        "David Rysdahl",
-        "Lily Sullivan",
-        "Claudia Doumit",
-        "Arty Froushan",
-        "Elijah Isaiah Cook",
-        "Mara Huf",
-        "Emma Ramos",
-        "Sydney Blackburn"
-      ],
-      "diretor": "Kate Dolan",
-      "generos": [
-        "Terror",
-        "Ficção científica",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 99,
-      "rt_critica": 47,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 47,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32654916/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Soulm8te",
-        "metacritic": "https://www.metacritic.com/search/Soulm8te/"
-      }
-    },
-    {
-      "tmdb_id": 1458215,
-      "imdb_id": "tt36415524",
-      "titulo_original": "The Gentleman Thief",
-      "titulo_ingles": "The Gentleman Thief",
-      "ano": 2026,
-      "data_lancamento": "2026-07-31",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um ladrão aposentado precisa proteger seu irmão impulsivo de um desastre quando um roubo de um iate de 100 milhões de dólares se transforma em uma perigosa teia de enganos. Antigos inimigos ressurgem à medida que os riscos aumentam, forçando-o a usar todos os truques que conhece para sobreviver.",
-      "elenco": [
-        "John Travolta",
-        "Lukas Haas",
-        "Rebecca De Mornay",
-        "Natali Yura",
-        "Emily Skinner",
-        "Sam Asghari",
-        "Quavo",
-        "DJ Khaled"
-      ],
-      "diretor": "Randall Emmett",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/yuTkWjQa83RtCZMjYg2crzUonTu.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "es"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36415524/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Gentleman%20Thief",
-        "metacritic": "https://www.metacritic.com/search/The%20Gentleman%20Thief/"
-      }
-    },
-    {
-      "tmdb_id": 1698575,
-      "imdb_id": "tt42839367",
-      "titulo_original": "Snoopy Presents: There's No Place Like Home, Snoopy",
-      "titulo_ingles": "Snoopy Presents: There's No Place Like Home, Snoopy",
-      "ano": 2026,
-      "data_lancamento": "2026-07-30",
-      "data_qualificacao": "",
-      "sinopse_pt": "Quando Snoopy perde sua amada casinha de cachorro, ele tenta encontrar e descobre do que uma casa precisa para ser um lar.",
-      "elenco": [
-        "Riley Kai Vargas",
-        "Terry McGurrin",
-        "Rob Tinkler",
-        "Kitai O'Garro",
-        "Josephine Nisbett",
-        "Grace Nicolaou-Wood",
-        "Jo-Hannah Atchison",
-        "Lexi Perri"
-      ],
-      "diretor": "Ridd Sorensen",
-      "generos": [
-        "Animação",
-        "Família"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/6Ucmnt3nUaYY5rLfMjntK5WObNA.jpg",
-      "pais": [
-        "US",
-        "CA"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 32,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Apple TV",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
-          },
-          {
-            "nome": "Apple TV Amazon Channel",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rerVCu9auZrgxTTiZu1criqrQzg.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1698575-snoopy-presents-there-s-no-place-like-home-snoopy/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt42839367/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snoopy%20Presents%3A%20There's%20No%20Place%20Like%20Home%2C%20Snoopy",
-        "metacritic": "https://www.metacritic.com/search/Snoopy%20Presents%3A%20There's%20No%20Place%20Like%20Home%2C%20Snoopy/"
-      }
-    },
-    {
       "tmdb_id": 1308767,
       "imdb_id": "tt32104007",
       "titulo_original": "Young Washington",
@@ -2837,71 +2781,6 @@
         "imdb": "https://www.imdb.com/title/tt32333324/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Batman%3A%20Knightfall%20Part%201%3A%20Knightfall",
         "metacritic": "https://www.metacritic.com/search/Batman%3A%20Knightfall%20Part%201%3A%20Knightfall/"
-      }
-    },
-    {
-      "tmdb_id": 1510795,
-      "imdb_id": "tt37697399",
-      "titulo_original": "Shake, Rattle & Roll: Evil Origins",
-      "titulo_ingles": "Shake, Rattle & Roll: Evil Origins",
-      "ano": 2026,
-      "data_lancamento": "2026-06-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "Dos corredores assombrados da abadia no passado, de um tumulto assassino no Halloween no presente a um apocalipse monstruoso no futuro; a décima sétima edição traz três histórias de terror em cada ciclo.",
-      "elenco": [
-        "Carla Abellana",
-        "Richard Gutierrez",
-        "Ivana Alawi",
-        "Manilyn Reynes",
-        "Janice de Belen",
-        "Francine Diaz",
-        "Loisa Andalio",
-        "Seth Fedelin"
-      ],
-      "diretor": "Shugo Praico, Joey De Guzman, Ian Loreños",
-      "generos": [
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4NSwhJVIvO54GyWsvGXHxRPRd3q.jpg",
-      "pais": [
-        "PH"
-      ],
-      "idiomas": [
-        "en",
-        "tl",
-        "es"
-      ],
-      "duracao": 148,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1510795-shake-rattle-roll-evil-origins/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37697399/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Shake%2C%20Rattle%20%26%20Roll%3A%20Evil%20Origins",
-        "metacritic": "https://www.metacritic.com/search/Shake%2C%20Rattle%20%26%20Roll%3A%20Evil%20Origins/"
       }
     },
     {
@@ -3230,6 +3109,58 @@
       }
     },
     {
+      "tmdb_id": 1433339,
+      "imdb_id": "tt35705184",
+      "titulo_original": "Tre ciotole",
+      "titulo_ingles": "Three Goodbyes",
+      "ano": 2025,
+      "data_lancamento": "2025-10-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após uma discussão aparentemente trivial, Marta e Antonio terminam o relacionamento. Enquanto Marta se isola e tenta lidar com a separação, um sintoma inesperado chama sua atenção: a repentina perda de apetite. Antonio, um chef em ascensão, mergulha no trabalho para seguir em frente, mas, apesar de ter sido ele quem decidiu terminar, não consegue deixar Marta para trás. À medida que suas vidas tomam rumos diferentes, os dois são obrigados a confrontar as consequências de suas escolhas, as perdas e os futuros que imaginaram juntos.",
+      "elenco": [
+        "Alba Rohrwacher",
+        "Elio Germano",
+        "Francesco Carril",
+        "Silvia D'Amico",
+        "Sarita Choudhury",
+        "Pietro Sparvoli",
+        "Matteo Carlomagno",
+        "Giuseppe Pestillo"
+      ],
+      "diretor": "Isabel Coixet",
+      "generos": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uQJ6Tk6dNn1LANjNLyHJF5Siun6.jpg",
+      "pais": [
+        "IT",
+        "ES"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 120,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35705184/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Three%20Goodbyes",
+        "metacritic": "https://www.metacritic.com/search/Three%20Goodbyes/"
+      }
+    },
+    {
       "tmdb_id": 1489187,
       "imdb_id": "tt33086385",
       "titulo_original": "Сводишь с ума",
@@ -3292,6 +3223,54 @@
         "imdb": "https://www.imdb.com/title/tt33086385/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=You%20Drive%20Me%20Crazy",
         "metacritic": "https://www.metacritic.com/search/You%20Drive%20Me%20Crazy/"
+      }
+    },
+    {
+      "tmdb_id": 1520507,
+      "imdb_id": "tt34730492",
+      "titulo_original": "Come ti muovi, sbagli",
+      "titulo_ingles": "Damned If You Do, Damned If You Don't",
+      "ano": 2025,
+      "data_lancamento": "2025-09-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um professor aposentado tem sua rotina tranquila transformada pela chegada da filha em crise e de seus dois netos indisciplinados. Em meio ao caos familiar, ele redescobre o amor, a dor dos vínculos e a necessidade humana de se conectar.",
+      "elenco": [
+        "Gianni Di Gregorio",
+        "Greta Scarano",
+        "Tom Wlaschiha",
+        "Anna Losano",
+        "Pietro Serpi",
+        "Iaia Forte"
+      ],
+      "diretor": "Gianni Di Gregorio",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/8Smz4OL8wylQ1u7Ahj4Nk84B4a8.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 101,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34730492/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Damned%20If%20You%20Do%2C%20Damned%20If%20You%20Don't",
+        "metacritic": "https://www.metacritic.com/search/Damned%20If%20You%20Do%2C%20Damned%20If%20You%20Don't/"
       }
     },
     {
@@ -3449,37 +3428,39 @@
       }
     },
     {
-      "tmdb_id": 212156,
-      "imdb_id": "tt2983564",
-      "titulo_original": "劇場版 空の境界 未来福音 the Garden of sinners/recalled out summer",
-      "titulo_ingles": "The Garden of Sinners: Future Gospel",
-      "ano": 2013,
-      "data_lancamento": "2013-09-28",
+      "tmdb_id": 1288328,
+      "imdb_id": "tt32448428",
+      "titulo_original": "L'abbaglio",
+      "titulo_ingles": "The Illusion",
+      "ano": 2025,
+      "data_lancamento": "2025-01-16",
       "data_qualificacao": "",
-      "sinopse_pt": "Agosto de 1998. Neste momento, o bombista serial Meruka Kuramitsu está certo de sua vitória. Ele ativa um interruptor. Na explosão que se seguirá, o corpo de Shiki Ryougi se espalhará em pedaços. Shiki pode sobreviver à batalha contra esta pessoa com poder precognitivo?",
+      "sinopse_pt": "Durante a histórica Expedição dos Mil, Giuseppe Garibaldi coloca em prática uma ousada estratégia para derrotar o exército dos Bourbon e avançar rumo à unificação da Itália. Enquanto a campanha avança, manobras criativas e imprevisíveis de dois soldados rebeldes são úteis para conquistar a Sicília. Repleta de blefes e ilusões, a missão é capaz de mudar o rumo da História.",
       "elenco": [
-        "Maaya Sakamoto",
-        "Kenichi Suzumura",
-        "Takako Honda",
-        "Yuka Iguchi",
-        "Akira Ishida",
-        "Hisako Kanemoto",
-        "藤村歩",
-        "Hiroki Touchi"
+        "Toni Servillo",
+        "Salvatore Ficarra",
+        "Valentino Picone",
+        "Tommaso Ragno",
+        "Giulia Andò",
+        "Pascal Greggory",
+        "Leonardo Maltese",
+        "Andrea Gherpelli"
       ],
-      "diretor": "須藤友徳",
+      "diretor": "Roberto Andò",
       "generos": [
-        "Animação",
-        "Ficção científica"
+        "Drama",
+        "Comédia",
+        "História"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/pGqY3fWs0f5Yg60hUzq1Qkv9Rf1.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/3mWC3uDDOzSRacf3eujVPVLP8DH.jpg",
       "pais": [
-        "JP"
+        "IT"
       ],
       "idiomas": [
-        "ja"
+        "it",
+        "fr"
       ],
-      "duracao": 88,
+      "duracao": 133,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -3491,25 +3472,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Crunchyroll",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png"
-          },
-          {
-            "nome": "Crunchyroll Amazon Channel",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/qHLLmKo7udRgiSnIASVTwP2IxfJ.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/212156-the-garden-of-sinners-recalled-out-summer/watch?locale=BR"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt2983564/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Garden%20of%20Sinners%3A%20Future%20Gospel",
-        "metacritic": "https://www.metacritic.com/search/The%20Garden%20of%20Sinners%3A%20Future%20Gospel/"
+        "imdb": "https://www.imdb.com/title/tt32448428/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Illusion",
+        "metacritic": "https://www.metacritic.com/search/The%20Illusion/"
       }
     }
   ]
