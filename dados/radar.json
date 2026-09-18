@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-09-17T14:21:48.989Z",
+  "gerado_em": "2026-09-18T13:42:11.249Z",
   "filmes": [
     {
       "tmdb_id": 1423191,
@@ -24,7 +24,8 @@
       "diretor": "Zach Cregger",
       "generos": [
         "Terror",
-        "Ficção científica"
+        "Ficção científica",
+        "Aventura"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/gQ76UL64RQe3oHwiwHwODTC23g4.jpg",
       "pais": [
@@ -170,6 +171,58 @@
       }
     },
     {
+      "tmdb_id": 1302904,
+      "imdb_id": "tt32588798",
+      "titulo_original": "Practical Magic 2",
+      "titulo_ingles": "Practical Magic 2",
+      "ano": 2026,
+      "data_lancamento": "2026-09-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
+      "elenco": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Joey King",
+        "Maisie Williams",
+        "Xolo Maridueña",
+        "Lee Pace",
+        "Dianne Wiest",
+        "Stockard Channing"
+      ],
+      "diretor": "Susanne Bier",
+      "generos": [
+        "Romance",
+        "Fantasia",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uoJvqWGs4702jnqOwe8RABSxT3L.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 130,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32588798/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
+        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
+      }
+    },
+    {
       "tmdb_id": 1447853,
       "imdb_id": "tt36152310",
       "titulo_original": "Oasis: Don't Look Back in Anger",
@@ -224,58 +277,6 @@
         "imdb": "https://www.imdb.com/title/tt36152310/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Oasis%3A%20Don't%20Look%20Back%20in%20Anger",
         "metacritic": "https://www.metacritic.com/search/Oasis%3A%20Don't%20Look%20Back%20in%20Anger/"
-      }
-    },
-    {
-      "tmdb_id": 1302904,
-      "imdb_id": "tt32588798",
-      "titulo_original": "Practical Magic 2",
-      "titulo_ingles": "Practical Magic 2",
-      "ano": 2026,
-      "data_lancamento": "2026-09-09",
-      "data_qualificacao": "",
-      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
-      "elenco": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Joey King",
-        "Maisie Williams",
-        "Xolo Maridueña",
-        "Lee Pace",
-        "Dianne Wiest",
-        "Stockard Channing"
-      ],
-      "diretor": "Susanne Bier",
-      "generos": [
-        "Romance",
-        "Fantasia",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uoJvqWGs4702jnqOwe8RABSxT3L.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 130,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32588798/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
-        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
       }
     },
     {
@@ -343,6 +344,71 @@
       }
     },
     {
+      "tmdb_id": 1522689,
+      "imdb_id": "tt38061210",
+      "titulo_original": "Why Did I Get Married Again?",
+      "titulo_ingles": "Why Did I Get Married Again?",
+      "ano": 2026,
+      "data_lancamento": "2026-09-08",
+      "data_qualificacao": "",
+      "sinopse_pt": "Os casais se reencontram para o matrimônio da filha de Marcus e Angela, trazendo à tona dramas novos e antigos. Por que será que essa turma se casou, hein?",
+      "elenco": [
+        "Tyler Perry",
+        "Taraji P. Henson",
+        "Jill Scott",
+        "Richard T. Jones",
+        "Tasha Smith",
+        "Michael Jai White",
+        "Sharon Leal",
+        "Lamman Rucker"
+      ],
+      "diretor": "Tyler Perry",
+      "generos": [
+        "Comédia",
+        "Romance",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bHMtdZFZztcAE5uHHhsY2pWRPB9.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 112,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38061210/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Why%20Did%20I%20Get%20Married%20Again%3F",
+        "metacritic": "https://www.metacritic.com/search/Why%20Did%20I%20Get%20Married%20Again%3F/"
+      }
+    },
+    {
       "tmdb_id": 1739206,
       "imdb_id": "tt43700444",
       "titulo_original": "Untold Mr. T: I Pity the Fool",
@@ -406,38 +472,40 @@
       }
     },
     {
-      "tmdb_id": 1522689,
-      "imdb_id": "tt38061210",
-      "titulo_original": "Why Did I Get Married Again?",
-      "titulo_ingles": "Why Did I Get Married Again?",
+      "tmdb_id": 1378537,
+      "imdb_id": "tt34339725",
+      "titulo_original": "मिर्ज़ापुर - द मूवी",
+      "titulo_ingles": "Mirzapur: The Movie",
       "ano": 2026,
-      "data_lancamento": "2026-09-08",
+      "data_lancamento": "2026-09-03",
       "data_qualificacao": "",
-      "sinopse_pt": "Os casais se reencontram para o matrimônio da filha de Marcus e Angela, trazendo à tona dramas novos e antigos. Por que será que essa turma se casou, hein?",
+      "sinopse_pt": "",
       "elenco": [
-        "Tyler Perry",
-        "Taraji P. Henson",
-        "Jill Scott",
-        "Richard T. Jones",
-        "Tasha Smith",
-        "Michael Jai White",
-        "Sharon Leal",
-        "Lamman Rucker"
+        "Pankaj Tripathi",
+        "Ali Fazal",
+        "दिव्येंदु शर्मा",
+        "Jitendra Kumar",
+        "Ravi Kishan",
+        "रसिका दुग्गल",
+        "Mohit Malik",
+        "शीबा चड्ढा"
       ],
-      "diretor": "Tyler Perry",
+      "diretor": "Gurmmeet Singh",
       "generos": [
-        "Comédia",
-        "Romance",
-        "Drama"
+        "Ação",
+        "Crime",
+        "Drama",
+        "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bHMtdZFZztcAE5uHHhsY2pWRPB9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
       "pais": [
+        "IN",
         "US"
       ],
       "idiomas": [
-        "en"
+        "hi"
       ],
-      "duracao": 112,
+      "duracao": 197,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -449,25 +517,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=BR"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt38061210/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Why%20Did%20I%20Get%20Married%20Again%3F",
-        "metacritic": "https://www.metacritic.com/search/Why%20Did%20I%20Get%20Married%20Again%3F/"
+        "imdb": "https://www.imdb.com/title/tt34339725/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mirzapur%3A%20The%20Movie",
+        "metacritic": "https://www.metacritic.com/search/Mirzapur%3A%20The%20Movie/"
       }
     },
     {
@@ -602,60 +657,6 @@
         "imdb": "https://www.imdb.com/title/tt34564059/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Runner",
         "metacritic": "https://www.metacritic.com/search/The%20Runner/"
-      }
-    },
-    {
-      "tmdb_id": 1378537,
-      "imdb_id": "tt34339725",
-      "titulo_original": "मिर्ज़ापुर - द मूवी",
-      "titulo_ingles": "Mirzapur: The Movie",
-      "ano": 2026,
-      "data_lancamento": "2026-09-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Pankaj Tripathi",
-        "Ali Fazal",
-        "दिव्येंदु शर्मा",
-        "Jitendra Kumar",
-        "Ravi Kishan",
-        "रसिका दुग्गल",
-        "Mohit Malik",
-        "शीबा चड्ढा"
-      ],
-      "diretor": "Gurmmeet Singh",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
-      "pais": [
-        "IN",
-        "US"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 197,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34339725/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mirzapur%3A%20The%20Movie",
-        "metacritic": "https://www.metacritic.com/search/Mirzapur%3A%20The%20Movie/"
       }
     },
     {
@@ -894,6 +895,71 @@
       }
     },
     {
+      "tmdb_id": 1631807,
+      "imdb_id": "tt37275992",
+      "titulo_original": "Den hemmelige kvinde",
+      "titulo_ingles": "The Secret Woman",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma mulher com amnésia descobre que, na verdade, tem marido, filho e uma fortuna de família neste suspense baseado no best-seller de Anna Ekberg.",
+      "elenco": [
+        "Natalie Madueño",
+        "Claes Bang",
+        "Pål Sverre Hagen",
+        "Stina Ekblad",
+        "Ingrid Bolsø Berdal",
+        "Thea Sofie Loch Næss",
+        "Lars Simonsen",
+        "Ida Appel"
+      ],
+      "diretor": "Barbara Topsøe-Rothenborg",
+      "generos": [
+        "Drama",
+        "Thriller",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/3tlLGxQXY6Xqv3Wln8Y63tPhpeF.jpg",
+      "pais": [
+        "DK"
+      ],
+      "idiomas": [
+        "da"
+      ],
+      "duracao": 119,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37275992/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Secret%20Woman",
+        "metacritic": "https://www.metacritic.com/search/The%20Secret%20Woman/"
+      }
+    },
+    {
       "tmdb_id": 1471168,
       "imdb_id": "tt43706402",
       "titulo_original": "Barreda",
@@ -959,57 +1025,6 @@
       }
     },
     {
-      "tmdb_id": 1462861,
-      "imdb_id": "tt22406048",
-      "titulo_original": "Spider Island",
-      "titulo_ingles": "Spider Island",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Rose Williams",
-        "Tim McInnerny",
-        "Avani Gregg",
-        "Abraham Lewis",
-        "Carlotta Banat",
-        "Anuschka van Lent",
-        "Justin Daniels Anene",
-        "Owen Warner"
-      ],
-      "diretor": "Christopher Smith",
-      "generos": [
-        "Comédia",
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt22406048/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spider%20Island",
-        "metacritic": "https://www.metacritic.com/search/Spider%20Island/"
-      }
-    },
-    {
       "tmdb_id": 1480574,
       "imdb_id": "tt36948232",
       "titulo_original": "Just Play Dead",
@@ -1061,38 +1076,37 @@
       }
     },
     {
-      "tmdb_id": 1631807,
-      "imdb_id": "tt37275992",
-      "titulo_original": "Den hemmelige kvinde",
-      "titulo_ingles": "The Secret Woman",
+      "tmdb_id": 1462861,
+      "imdb_id": "tt22406048",
+      "titulo_original": "Spider Island",
+      "titulo_ingles": "Spider Island",
       "ano": 2026,
       "data_lancamento": "2026-08-28",
       "data_qualificacao": "",
-      "sinopse_pt": "Uma mulher com amnésia descobre que, na verdade, tem marido, filho e uma fortuna de família neste suspense baseado no best-seller de Anna Ekberg.",
+      "sinopse_pt": "",
       "elenco": [
-        "Natalie Madueño",
-        "Claes Bang",
-        "Pål Sverre Hagen",
-        "Stina Ekblad",
-        "Ingrid Bolsø Berdal",
-        "Thea Sofie Loch Næss",
-        "Lars Simonsen",
-        "Ida Appel"
+        "Rose Williams",
+        "Tim McInnerny",
+        "Avani Gregg",
+        "Abraham Lewis",
+        "Carlotta Banat",
+        "Anuschka van Lent",
+        "Justin Daniels Anene",
+        "Owen Warner"
       ],
-      "diretor": "Barbara Topsøe-Rothenborg",
+      "diretor": "Christopher Smith",
       "generos": [
-        "Drama",
-        "Thriller",
-        "Mistério"
+        "Comédia",
+        "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/3tlLGxQXY6Xqv3Wln8Y63tPhpeF.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
       "pais": [
-        "DK"
+        "GB"
       ],
       "idiomas": [
-        "da"
+        "en"
       ],
-      "duracao": 119,
+      "duracao": 0,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1104,25 +1118,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=BR"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt37275992/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Secret%20Woman",
-        "metacritic": "https://www.metacritic.com/search/The%20Secret%20Woman/"
+        "imdb": "https://www.imdb.com/title/tt22406048/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spider%20Island",
+        "metacritic": "https://www.metacritic.com/search/Spider%20Island/"
       }
     },
     {
@@ -1212,7 +1213,8 @@
       "diretor": "Ridley Scott",
       "generos": [
         "Ficção científica",
-        "Thriller"
+        "Thriller",
+        "Aventura"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/1C2qbfUW3lTzb8vpZeG8pjYzW3Q.jpg",
       "pais": [
@@ -1239,58 +1241,6 @@
         "imdb": "https://www.imdb.com/title/tt21285562/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dog%20Stars",
         "metacritic": "https://www.metacritic.com/search/The%20Dog%20Stars/"
-      }
-    },
-    {
-      "tmdb_id": 1729723,
-      "imdb_id": "tt43141030",
-      "titulo_original": "Yellow Mirror",
-      "titulo_ingles": "Yellow Mirror",
-      "ano": 2026,
-      "data_lancamento": "2026-08-26",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um abajur com defeito revela uma verdade comovente sobre o que Homer acredita ser a realidade, e um tablet com inteligência artificial faz amizade com Maggie e passa a controlá-la. Os Simpsons lutam para achar a luz em meio a duas histórias sombrias, intrigantes e bizarras, neste episódio exclusivo da Disney+.",
-      "elenco": [
-        "Dan Castellaneta",
-        "Nancy Cartwright",
-        "Julie Kavner",
-        "Yeardley Smith",
-        "Patti Harrison",
-        "Demi Moore",
-        "Harry Shearer",
-        "Alex Désert"
-      ],
-      "diretor": "Matthew Faughnan",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 27,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43141030/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Mirror",
-        "metacritic": "https://www.metacritic.com/search/Yellow%20Mirror/"
       }
     },
     {
@@ -1412,6 +1362,124 @@
       }
     },
     {
+      "tmdb_id": 1729723,
+      "imdb_id": "tt43141030",
+      "titulo_original": "Yellow Mirror",
+      "titulo_ingles": "Yellow Mirror",
+      "ano": 2026,
+      "data_lancamento": "2026-08-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um abajur com defeito revela uma verdade comovente sobre o que Homer acredita ser a realidade, e um tablet com inteligência artificial faz amizade com Maggie e passa a controlá-la. Os Simpsons lutam para achar a luz em meio a duas histórias sombrias, intrigantes e bizarras, neste episódio exclusivo da Disney+.",
+      "elenco": [
+        "Dan Castellaneta",
+        "Nancy Cartwright",
+        "Julie Kavner",
+        "Yeardley Smith",
+        "Patti Harrison",
+        "Demi Moore",
+        "Harry Shearer",
+        "Alex Désert"
+      ],
+      "diretor": "Matthew Faughnan",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 27,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43141030/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Mirror",
+        "metacritic": "https://www.metacritic.com/search/Yellow%20Mirror/"
+      }
+    },
+    {
+      "tmdb_id": 1621552,
+      "imdb_id": "tt39390497",
+      "titulo_original": "La captura",
+      "titulo_ingles": "Facing El Chapo",
+      "ano": 2026,
+      "data_lancamento": "2026-08-21",
+      "data_qualificacao": "",
+      "sinopse_pt": "Dois policiais mexicanos precisam sobreviver às últimas horas de seu turno após cruzarem o caminho de um chefe de cartel implacável.",
+      "elenco": [
+        "Alfonso Herrera",
+        "Noé Hernández",
+        "Héctor Kotsifakis",
+        "Paola Fernández",
+        "Gerardo Trejoluna",
+        "Fernando Cuautle",
+        "Alejandra Vázquez De León",
+        "Santiago Colores"
+      ],
+      "diretor": "Chava Cartas",
+      "generos": [
+        "Crime",
+        "Ação",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/z1BazG57E5JaNbxQ5kpXt8h8whv.jpg",
+      "pais": [
+        "MX"
+      ],
+      "idiomas": [
+        "pt",
+        "es"
+      ],
+      "duracao": 91,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39390497/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Facing%20El%20Chapo",
+        "metacritic": "https://www.metacritic.com/search/Facing%20El%20Chapo/"
+      }
+    },
+    {
       "tmdb_id": 1508168,
       "imdb_id": "tt37535100",
       "titulo_original": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
@@ -1522,39 +1590,38 @@
       }
     },
     {
-      "tmdb_id": 1621552,
-      "imdb_id": "tt39390497",
-      "titulo_original": "La captura",
-      "titulo_ingles": "Facing El Chapo",
+      "tmdb_id": 1441228,
+      "imdb_id": "tt39108319",
+      "titulo_original": "ఇరుముడి",
+      "titulo_ingles": "Irumudi",
       "ano": 2026,
-      "data_lancamento": "2026-08-21",
+      "data_lancamento": "2026-08-20",
       "data_qualificacao": "",
-      "sinopse_pt": "Dois policiais mexicanos precisam sobreviver às últimas horas de seu turno após cruzarem o caminho de um chefe de cartel implacável.",
+      "sinopse_pt": "",
       "elenco": [
-        "Alfonso Herrera",
-        "Noé Hernández",
-        "Héctor Kotsifakis",
-        "Paola Fernández",
-        "Gerardo Trejoluna",
-        "Fernando Cuautle",
-        "Alejandra Vázquez De León",
-        "Santiago Colores"
+        "రవితేజ",
+        "Nakshathra C M",
+        "Priya Bhavani Shankar",
+        "Sai Kumar",
+        "Ajay Ghosh",
+        "Swasika",
+        "Rajkumar Kasireddy",
+        "Ramesh Indira"
       ],
-      "diretor": "Chava Cartas",
+      "diretor": "Shiva Nirvana",
       "generos": [
-        "Crime",
-        "Ação",
-        "Thriller"
+        "Drama",
+        "Família",
+        "Ação"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/z1BazG57E5JaNbxQ5kpXt8h8whv.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
       "pais": [
-        "MX"
+        "IN"
       ],
       "idiomas": [
-        "pt",
-        "es"
+        "te"
       ],
-      "duracao": 91,
+      "duracao": 152,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1566,25 +1633,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=BR"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt39390497/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Facing%20El%20Chapo",
-        "metacritic": "https://www.metacritic.com/search/Facing%20El%20Chapo/"
+        "imdb": "https://www.imdb.com/title/tt39108319/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Irumudi",
+        "metacritic": "https://www.metacritic.com/search/Irumudi/"
       }
     },
     {
@@ -1635,58 +1689,6 @@
         "imdb": "https://www.imdb.com/title/tt33305867/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spa%20Weekend",
         "metacritic": "https://www.metacritic.com/search/Spa%20Weekend/"
-      }
-    },
-    {
-      "tmdb_id": 1441228,
-      "imdb_id": "tt39108319",
-      "titulo_original": "ఇరుముడి",
-      "titulo_ingles": "Irumudi",
-      "ano": 2026,
-      "data_lancamento": "2026-08-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "రవితేజ",
-        "Nakshathra C M",
-        "Priya Bhavani Shankar",
-        "Sai Kumar",
-        "Ajay Ghosh",
-        "Swasika",
-        "Rajkumar Kasireddy",
-        "Ramesh Indira"
-      ],
-      "diretor": "Shiva Nirvana",
-      "generos": [
-        "Drama",
-        "Família",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "te"
-      ],
-      "duracao": 152,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39108319/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Irumudi",
-        "metacritic": "https://www.metacritic.com/search/Irumudi/"
       }
     },
     {
@@ -1846,69 +1848,6 @@
       }
     },
     {
-      "tmdb_id": 1589248,
-      "imdb_id": "tt38662472",
-      "titulo_original": "Mein bester Freund, seine Freundin und ich",
-      "titulo_ingles": "My Best Friend, His Girlfriend and Me",
-      "ano": 2026,
-      "data_lancamento": "2026-08-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "Olli e Matze, inseparáveis desde a escola, são amigos, colegas de trabalho e até dividem o apartamento. Só que, agora, Rebecca chegou. E ela vai mudar tudo.",
-      "elenco": [
-        "Kostja Ullmann",
-        "Janina Uhse",
-        "David Kross",
-        "Ferdinand Hofer",
-        "Clara Immel",
-        "Mira Huber",
-        "Larissa Sirah Herden",
-        "Anna Herrmann"
-      ],
-      "diretor": "Marco Petry",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/zyTqoS4eXC5vf3g61CuoxIr6Tyn.jpg",
-      "pais": [
-        "DE"
-      ],
-      "idiomas": [
-        "de"
-      ],
-      "duracao": 98,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1589248-mein-bester-freund-seine-freundin-und-ich/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38662472/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Best%20Friend%2C%20His%20Girlfriend%20and%20Me",
-        "metacritic": "https://www.metacritic.com/search/My%20Best%20Friend%2C%20His%20Girlfriend%20and%20Me/"
-      }
-    },
-    {
       "tmdb_id": 1408162,
       "imdb_id": "tt35836025",
       "titulo_original": "விஸ்வநாத் & சன்ஸ்",
@@ -2028,37 +1967,36 @@
       }
     },
     {
-      "tmdb_id": 1564831,
-      "imdb_id": "tt39368153",
-      "titulo_original": "Tombé du ciel",
-      "titulo_ingles": "Tombé du ciel",
+      "tmdb_id": 1589248,
+      "imdb_id": "tt38662472",
+      "titulo_original": "Mein bester Freund, seine Freundin und ich",
+      "titulo_ingles": "My Best Friend, His Girlfriend and Me",
       "ano": 2026,
-      "data_lancamento": "2026-08-12",
+      "data_lancamento": "2026-08-14",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Olli e Matze, inseparáveis desde a escola, são amigos, colegas de trabalho e até dividem o apartamento. Só que, agora, Rebecca chegou. E ela vai mudar tudo.",
       "elenco": [
-        "Ilyes Djadel",
-        "Jamel Debbouze",
-        "Josiane Balasko",
-        "Fred Testot",
-        "Ted Etienne",
-        "Ludovic Berthillot",
-        "Laurence Porteil",
-        "Michel Bompoil"
+        "Kostja Ullmann",
+        "Janina Uhse",
+        "David Kross",
+        "Ferdinand Hofer",
+        "Clara Immel",
+        "Mira Huber",
+        "Larissa Sirah Herden",
+        "Anna Herrmann"
       ],
-      "diretor": "Mohamed Hamidi",
+      "diretor": "Marco Petry",
       "generos": [
-        "Comédia",
-        "Família"
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/zyTqoS4eXC5vf3g61CuoxIr6Tyn.jpg",
       "pais": [
-        "FR"
+        "DE"
       ],
       "idiomas": [
-        "fr"
+        "de"
       ],
-      "duracao": 0,
+      "duracao": 98,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2070,12 +2008,25 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1589248-mein-bester-freund-seine-freundin-und-ich/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt39368153/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Tomb%C3%A9%20du%20ciel",
-        "metacritic": "https://www.metacritic.com/search/Tomb%C3%A9%20du%20ciel/"
+        "imdb": "https://www.imdb.com/title/tt38662472/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Best%20Friend%2C%20His%20Girlfriend%20and%20Me",
+        "metacritic": "https://www.metacritic.com/search/My%20Best%20Friend%2C%20His%20Girlfriend%20and%20Me/"
       }
     },
     {
@@ -2143,6 +2094,57 @@
         "imdb": "https://www.imdb.com/title/tt43640198/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Nando%20Between%20Two%20Worlds%20-%20A%20Sintonia%20Film",
         "metacritic": "https://www.metacritic.com/search/Nando%20Between%20Two%20Worlds%20-%20A%20Sintonia%20Film/"
+      }
+    },
+    {
+      "tmdb_id": 1564831,
+      "imdb_id": "tt39368153",
+      "titulo_original": "Tombé du ciel",
+      "titulo_ingles": "Tombé du ciel",
+      "ano": 2026,
+      "data_lancamento": "2026-08-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Ilyes Djadel",
+        "Jamel Debbouze",
+        "Josiane Balasko",
+        "Fred Testot",
+        "Ted Etienne",
+        "Ludovic Berthillot",
+        "Laurence Porteil",
+        "Michel Bompoil"
+      ],
+      "diretor": "Mohamed Hamidi",
+      "generos": [
+        "Comédia",
+        "Família"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39368153/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Tomb%C3%A9%20du%20ciel",
+        "metacritic": "https://www.metacritic.com/search/Tomb%C3%A9%20du%20ciel/"
       }
     },
     {
@@ -2367,58 +2369,6 @@
       }
     },
     {
-      "tmdb_id": 675871,
-      "imdb_id": "tt8820258",
-      "titulo_original": "Super Troopers 3",
-      "titulo_ingles": "Super Troopers 3",
-      "ano": 2026,
-      "data_lancamento": "2026-08-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "Cinco policiais federais estão fazendo o inferno nas estradas e se veem conduzindo situações engraçadas enquanto tentam evitar sua extinção.",
-      "elenco": [
-        "Jay Chandrasekhar",
-        "Kevin Heffernan",
-        "Steve Lemme",
-        "Paul Soter",
-        "Erik Stolhanske",
-        "Hannah Simone",
-        "Marisa Coughlan",
-        "Nat Faxon"
-      ],
-      "diretor": "Jay Chandrasekhar",
-      "generos": [
-        "Comédia",
-        "Crime",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 100,
-      "rt_critica": 51,
-      "rt_publico": null,
-      "metacritic": 37,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 51,
-      "atual_metacritic": 37,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt8820258/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Super%20Troopers%203",
-        "metacritic": "https://www.metacritic.com/search/Super%20Troopers%203/"
-      }
-    },
-    {
       "tmdb_id": 1284041,
       "imdb_id": "tt32268156",
       "titulo_original": "The Last House",
@@ -2499,7 +2449,8 @@
         "Elijah Rowen",
         "Małgorzata Klara",
         "Mayu Gralińska Sakai",
-        "Jakub Ormaniec"
+        "Jakub Ormaniec",
+        "Milena Grzybek"
       ],
       "diretor": "Łukasz Róg",
       "generos": [
@@ -2526,12 +2477,122 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Adrenalina Pura Amazon channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/32EpjQJMkjRsfW7XccIV0RnmXcj.png"
+          },
+          {
+            "nome": "Adrenalina Pura Apple TV channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/nca3l6Ud12JcaEAViA7G7JCplBR.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1323244-rage-of-stars/watch?locale=BR"
       },
       "links": {
         "imdb": "https://www.imdb.com/title/tt29512655/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Rage%20of%20Stars",
         "metacritic": "https://www.metacritic.com/search/Rage%20of%20Stars/"
+      }
+    },
+    {
+      "tmdb_id": 675871,
+      "imdb_id": "tt8820258",
+      "titulo_original": "Super Troopers 3",
+      "titulo_ingles": "Super Troopers 3",
+      "ano": 2026,
+      "data_lancamento": "2026-08-06",
+      "data_qualificacao": "",
+      "sinopse_pt": "Cinco policiais federais estão fazendo o inferno nas estradas e se veem conduzindo situações engraçadas enquanto tentam evitar sua extinção.",
+      "elenco": [
+        "Jay Chandrasekhar",
+        "Kevin Heffernan",
+        "Steve Lemme",
+        "Paul Soter",
+        "Erik Stolhanske",
+        "Hannah Simone",
+        "Marisa Coughlan",
+        "Nat Faxon"
+      ],
+      "diretor": "Jay Chandrasekhar",
+      "generos": [
+        "Comédia",
+        "Crime",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 100,
+      "rt_critica": 51,
+      "rt_publico": null,
+      "metacritic": 37,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 51,
+      "atual_metacritic": 37,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt8820258/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Super%20Troopers%203",
+        "metacritic": "https://www.metacritic.com/search/Super%20Troopers%203/"
+      }
+    },
+    {
+      "tmdb_id": 1748007,
+      "imdb_id": "tt44146991",
+      "titulo_original": "牛来",
+      "titulo_ingles": "Niu Lai",
+      "ano": 2026,
+      "data_lancamento": "2026-08-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "O ingênuo bezerro Niu Lai adora explorar as pastagens, mas tem dificuldade em corresponder às expectativas de sua família de que ele se torne o futuro líder do rebanho. Com a migração se aproximando rapidamente, Niu Lai encontra aliados inesperados em sua jornada para descobrir o significado da coragem, enquanto se preparam para uma travessia perigosa pelo deserto.",
+      "elenco": [
+        "信雨萌",
+        "孙丽芳"
+      ],
+      "diretor": "信雨萌",
+      "generos": [
+        "Animação",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
+      "pais": [
+        "CN"
+      ],
+      "idiomas": [
+        "zh"
+      ],
+      "duracao": 86,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt44146991/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Niu%20Lai",
+        "metacritic": "https://www.metacritic.com/search/Niu%20Lai/"
       }
     },
     {
@@ -3053,59 +3114,6 @@
         "imdb": "https://www.imdb.com/title/tt32915652/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=MOBILE%20SUIT%20GUNDAM%20HATHAWAY%20The%20Sorcery%20of%20Nymph%20Circe",
         "metacritic": "https://www.metacritic.com/search/MOBILE%20SUIT%20GUNDAM%20HATHAWAY%20The%20Sorcery%20of%20Nymph%20Circe/"
-      }
-    },
-    {
-      "tmdb_id": 1218412,
-      "imdb_id": "tt33311007",
-      "titulo_original": "Promis le ciel",
-      "titulo_ingles": "Promised Sky",
-      "ano": 2026,
-      "data_lancamento": "2026-01-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Marie, uma pastora marfinense e ex-jornalista, vive na Tunísia há dez anos. Sua casa torna-se refúgio para Naney, uma jovem mãe em busca de um futuro melhor, e Jolie, uma estudante determinada que carrega as esperanças de sua família. A chegada de uma menina órfã desafia seu senso de solidariedade em um clima social tenso, revelando tanto sua fragilidade quanto sua força.",
-      "elenco": [
-        "Aïssa Maïga",
-        "Laëtitia Ky",
-        "Déborah Naney",
-        "Mohamed Grayaâ",
-        "Foued Zaazaa",
-        "Estelle Dogbo",
-        "Touré Blamassi",
-        "Sophie Tankou"
-      ],
-      "diretor": "Erige Sehiri",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/i2HNCMGzIuY4oQyDrI6zuTDrOfk.jpg",
-      "pais": [
-        "FR",
-        "TN",
-        "EG"
-      ],
-      "idiomas": [
-        "ar",
-        "fr"
-      ],
-      "duracao": 92,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33311007/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Promised%20Sky",
-        "metacritic": "https://www.metacritic.com/search/Promised%20Sky/"
       }
     },
     {
