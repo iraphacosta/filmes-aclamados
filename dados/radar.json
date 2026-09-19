@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-09-18T13:42:11.249Z",
+  "gerado_em": "2026-09-19T13:15:07.310Z",
   "filmes": [
     {
       "tmdb_id": 1423191,
@@ -18,8 +18,8 @@
         "Paul Walter Hauser",
         "Johnno Wilson",
         "Shaun W. Loeser",
-        "Devon Deshaun Stewart",
-        "Zach Cregger"
+        "Zach Cregger",
+        "Emily Piggford"
       ],
       "diretor": "Zach Cregger",
       "generos": [
@@ -344,71 +344,6 @@
       }
     },
     {
-      "tmdb_id": 1522689,
-      "imdb_id": "tt38061210",
-      "titulo_original": "Why Did I Get Married Again?",
-      "titulo_ingles": "Why Did I Get Married Again?",
-      "ano": 2026,
-      "data_lancamento": "2026-09-08",
-      "data_qualificacao": "",
-      "sinopse_pt": "Os casais se reencontram para o matrimônio da filha de Marcus e Angela, trazendo à tona dramas novos e antigos. Por que será que essa turma se casou, hein?",
-      "elenco": [
-        "Tyler Perry",
-        "Taraji P. Henson",
-        "Jill Scott",
-        "Richard T. Jones",
-        "Tasha Smith",
-        "Michael Jai White",
-        "Sharon Leal",
-        "Lamman Rucker"
-      ],
-      "diretor": "Tyler Perry",
-      "generos": [
-        "Comédia",
-        "Romance",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bHMtdZFZztcAE5uHHhsY2pWRPB9.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 112,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38061210/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Why%20Did%20I%20Get%20Married%20Again%3F",
-        "metacritic": "https://www.metacritic.com/search/Why%20Did%20I%20Get%20Married%20Again%3F/"
-      }
-    },
-    {
       "tmdb_id": 1739206,
       "imdb_id": "tt43700444",
       "titulo_original": "Untold Mr. T: I Pity the Fool",
@@ -472,40 +407,38 @@
       }
     },
     {
-      "tmdb_id": 1378537,
-      "imdb_id": "tt34339725",
-      "titulo_original": "मिर्ज़ापुर - द मूवी",
-      "titulo_ingles": "Mirzapur: The Movie",
+      "tmdb_id": 1522689,
+      "imdb_id": "tt38061210",
+      "titulo_original": "Why Did I Get Married Again?",
+      "titulo_ingles": "Why Did I Get Married Again?",
       "ano": 2026,
-      "data_lancamento": "2026-09-03",
+      "data_lancamento": "2026-09-08",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Os casais se reencontram para o matrimônio da filha de Marcus e Angela, trazendo à tona dramas novos e antigos. Por que será que essa turma se casou, hein?",
       "elenco": [
-        "Pankaj Tripathi",
-        "Ali Fazal",
-        "दिव्येंदु शर्मा",
-        "Jitendra Kumar",
-        "Ravi Kishan",
-        "रसिका दुग्गल",
-        "Mohit Malik",
-        "शीबा चड्ढा"
+        "Tyler Perry",
+        "Taraji P. Henson",
+        "Jill Scott",
+        "Richard T. Jones",
+        "Tasha Smith",
+        "Michael Jai White",
+        "Sharon Leal",
+        "Lamman Rucker"
       ],
-      "diretor": "Gurmmeet Singh",
+      "diretor": "Tyler Perry",
       "generos": [
-        "Ação",
-        "Crime",
-        "Drama",
-        "Thriller"
+        "Comédia",
+        "Romance",
+        "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bHMtdZFZztcAE5uHHhsY2pWRPB9.jpg",
       "pais": [
-        "IN",
         "US"
       ],
       "idiomas": [
-        "hi"
+        "en"
       ],
-      "duracao": 197,
+      "duracao": 112,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -517,12 +450,25 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt34339725/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mirzapur%3A%20The%20Movie",
-        "metacritic": "https://www.metacritic.com/search/Mirzapur%3A%20The%20Movie/"
+        "imdb": "https://www.imdb.com/title/tt38061210/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Why%20Did%20I%20Get%20Married%20Again%3F",
+        "metacritic": "https://www.metacritic.com/search/Why%20Did%20I%20Get%20Married%20Again%3F/"
       }
     },
     {
@@ -594,6 +540,60 @@
         "imdb": "https://www.imdb.com/title/tt37752275/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Clash%20of%20the%20Thundermans",
         "metacritic": "https://www.metacritic.com/search/Clash%20of%20the%20Thundermans/"
+      }
+    },
+    {
+      "tmdb_id": 1378537,
+      "imdb_id": "tt34339725",
+      "titulo_original": "मिर्ज़ापुर - द मूवी",
+      "titulo_ingles": "Mirzapur: The Movie",
+      "ano": 2026,
+      "data_lancamento": "2026-09-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Pankaj Tripathi",
+        "Ali Fazal",
+        "दिव्येंदु शर्मा",
+        "Jitendra Kumar",
+        "Ravi Kishan",
+        "रसिका दुग्गल",
+        "Mohit Malik",
+        "शीबा चड्ढा"
+      ],
+      "diretor": "Gurmmeet Singh",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
+      "pais": [
+        "IN",
+        "US"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 197,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34339725/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mirzapur%3A%20The%20Movie",
+        "metacritic": "https://www.metacritic.com/search/Mirzapur%3A%20The%20Movie/"
       }
     },
     {
@@ -714,60 +714,6 @@
       }
     },
     {
-      "tmdb_id": 1731694,
-      "imdb_id": "tt43679852",
-      "titulo_original": "LEGO Star Wars: The Mandalorian",
-      "titulo_ingles": "LEGO Star Wars: The Mandalorian",
-      "ano": 2026,
-      "data_lancamento": "2026-09-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "O Mandaloriano e Grogu se juntam a seus aliados excêntricos para uma festa épica, celebrando seu heroísmo. Enquanto amigos entretêm a turma com histórias de suas aventuras, uma ameaça pirata se aproxima.",
-      "elenco": [
-        "Gavin Hammon",
-        "Amy Sedaris",
-        "Bill Burr",
-        "David Pasquesi",
-        "Katee Sackhoff",
-        "Emily Swallow",
-        "Giancarlo Esposito",
-        "Matthew Wood"
-      ],
-      "diretor": "Chris Buckley",
-      "generos": [
-        "Animação",
-        "Ficção científica",
-        "Aventura",
-        "Família",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 50,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43679852/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=LEGO%20Star%20Wars%3A%20The%20Mandalorian",
-        "metacritic": "https://www.metacritic.com/search/LEGO%20Star%20Wars%3A%20The%20Mandalorian/"
-      }
-    },
-    {
       "tmdb_id": 1752159,
       "imdb_id": "tt44322266",
       "titulo_original": "Turning Point: Generation 9/11",
@@ -828,6 +774,60 @@
         "imdb": "https://www.imdb.com/title/tt44322266/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Turning%20Point%3A%20Generation%209%2F11",
         "metacritic": "https://www.metacritic.com/search/Turning%20Point%3A%20Generation%209%2F11/"
+      }
+    },
+    {
+      "tmdb_id": 1731694,
+      "imdb_id": "tt43679852",
+      "titulo_original": "LEGO Star Wars: The Mandalorian",
+      "titulo_ingles": "LEGO Star Wars: The Mandalorian",
+      "ano": 2026,
+      "data_lancamento": "2026-09-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "O Mandaloriano e Grogu se juntam a seus aliados excêntricos para uma festa épica, celebrando seu heroísmo. Enquanto amigos entretêm a turma com histórias de suas aventuras, uma ameaça pirata se aproxima.",
+      "elenco": [
+        "Gavin Hammon",
+        "Amy Sedaris",
+        "Bill Burr",
+        "David Pasquesi",
+        "Katee Sackhoff",
+        "Emily Swallow",
+        "Giancarlo Esposito",
+        "Matthew Wood"
+      ],
+      "diretor": "Chris Buckley",
+      "generos": [
+        "Animação",
+        "Ficção científica",
+        "Aventura",
+        "Família",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 50,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43679852/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=LEGO%20Star%20Wars%3A%20The%20Mandalorian",
+        "metacritic": "https://www.metacritic.com/search/LEGO%20Star%20Wars%3A%20The%20Mandalorian/"
       }
     },
     {
@@ -892,6 +892,108 @@
         "imdb": "https://www.imdb.com/title/tt38267923/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Call%20My%20Agent!%20The%20Movie",
         "metacritic": "https://www.metacritic.com/search/Call%20My%20Agent!%20The%20Movie/"
+      }
+    },
+    {
+      "tmdb_id": 1480574,
+      "imdb_id": "tt36948232",
+      "titulo_original": "Just Play Dead",
+      "titulo_ingles": "Just Play Dead",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um gênio do crime planeja forjar a própria morte para receber o dinheiro do seguro e incriminar o amante da esposa. A esposa, por sua vez, trama para matá-lo de verdade e ficar com tudo. Os dois competem numa batalha mortal de inteligência para se superarem.",
+      "elenco": [
+        "Samuel L. Jackson",
+        "Eva Green",
+        "María Pedraza",
+        "Eoin Macken",
+        "Jason Fernández",
+        "Paulo Rivera",
+        "Nicole Ansari-Cox",
+        "Lee Boardman"
+      ],
+      "diretor": "Martin Campbell",
+      "generos": [
+        "Thriller",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
+      "pais": [
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36948232/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Just%20Play%20Dead",
+        "metacritic": "https://www.metacritic.com/search/Just%20Play%20Dead/"
+      }
+    },
+    {
+      "tmdb_id": 1462861,
+      "imdb_id": "tt22406048",
+      "titulo_original": "Spider Island",
+      "titulo_ingles": "Spider Island",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Rose Williams",
+        "Tim McInnerny",
+        "Avani Gregg",
+        "Abraham Lewis",
+        "Carlotta Banat",
+        "Anuschka van Lent",
+        "Justin Daniels Anene",
+        "Owen Warner"
+      ],
+      "diretor": "Christopher Smith",
+      "generos": [
+        "Comédia",
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
+      "pais": [
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt22406048/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spider%20Island",
+        "metacritic": "https://www.metacritic.com/search/Spider%20Island/"
       }
     },
     {
@@ -1025,108 +1127,6 @@
       }
     },
     {
-      "tmdb_id": 1480574,
-      "imdb_id": "tt36948232",
-      "titulo_original": "Just Play Dead",
-      "titulo_ingles": "Just Play Dead",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um gênio do crime planeja forjar a própria morte para receber o dinheiro do seguro e incriminar o amante da esposa. A esposa, por sua vez, trama para matá-lo de verdade e ficar com tudo. Os dois competem numa batalha mortal de inteligência para se superarem.",
-      "elenco": [
-        "Samuel L. Jackson",
-        "Eva Green",
-        "María Pedraza",
-        "Eoin Macken",
-        "Jason Fernández",
-        "Paulo Rivera",
-        "Nicole Ansari-Cox",
-        "Lee Boardman"
-      ],
-      "diretor": "Martin Campbell",
-      "generos": [
-        "Thriller",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/glALx6QaIgw1u4joXsnfHTjWi6D.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36948232/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Just%20Play%20Dead",
-        "metacritic": "https://www.metacritic.com/search/Just%20Play%20Dead/"
-      }
-    },
-    {
-      "tmdb_id": 1462861,
-      "imdb_id": "tt22406048",
-      "titulo_original": "Spider Island",
-      "titulo_ingles": "Spider Island",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Rose Williams",
-        "Tim McInnerny",
-        "Avani Gregg",
-        "Abraham Lewis",
-        "Carlotta Banat",
-        "Anuschka van Lent",
-        "Justin Daniels Anene",
-        "Owen Warner"
-      ],
-      "diretor": "Christopher Smith",
-      "generos": [
-        "Comédia",
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt22406048/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spider%20Island",
-        "metacritic": "https://www.metacritic.com/search/Spider%20Island/"
-      }
-    },
-    {
       "tmdb_id": 860508,
       "imdb_id": "tt11561116",
       "titulo_original": "The Whisper Man",
@@ -1241,6 +1241,58 @@
         "imdb": "https://www.imdb.com/title/tt21285562/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dog%20Stars",
         "metacritic": "https://www.metacritic.com/search/The%20Dog%20Stars/"
+      }
+    },
+    {
+      "tmdb_id": 1729723,
+      "imdb_id": "tt43141030",
+      "titulo_original": "Yellow Mirror",
+      "titulo_ingles": "Yellow Mirror",
+      "ano": 2026,
+      "data_lancamento": "2026-08-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um abajur com defeito revela uma verdade comovente sobre o que Homer acredita ser a realidade, e um tablet com inteligência artificial faz amizade com Maggie e passa a controlá-la. Os Simpsons lutam para achar a luz em meio a duas histórias sombrias, intrigantes e bizarras, neste episódio exclusivo da Disney+.",
+      "elenco": [
+        "Dan Castellaneta",
+        "Nancy Cartwright",
+        "Julie Kavner",
+        "Yeardley Smith",
+        "Patti Harrison",
+        "Demi Moore",
+        "Harry Shearer",
+        "Alex Désert"
+      ],
+      "diretor": "Matthew Faughnan",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 27,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43141030/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Mirror",
+        "metacritic": "https://www.metacritic.com/search/Yellow%20Mirror/"
       }
     },
     {
@@ -1362,124 +1414,6 @@
       }
     },
     {
-      "tmdb_id": 1729723,
-      "imdb_id": "tt43141030",
-      "titulo_original": "Yellow Mirror",
-      "titulo_ingles": "Yellow Mirror",
-      "ano": 2026,
-      "data_lancamento": "2026-08-26",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um abajur com defeito revela uma verdade comovente sobre o que Homer acredita ser a realidade, e um tablet com inteligência artificial faz amizade com Maggie e passa a controlá-la. Os Simpsons lutam para achar a luz em meio a duas histórias sombrias, intrigantes e bizarras, neste episódio exclusivo da Disney+.",
-      "elenco": [
-        "Dan Castellaneta",
-        "Nancy Cartwright",
-        "Julie Kavner",
-        "Yeardley Smith",
-        "Patti Harrison",
-        "Demi Moore",
-        "Harry Shearer",
-        "Alex Désert"
-      ],
-      "diretor": "Matthew Faughnan",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 27,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43141030/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Mirror",
-        "metacritic": "https://www.metacritic.com/search/Yellow%20Mirror/"
-      }
-    },
-    {
-      "tmdb_id": 1621552,
-      "imdb_id": "tt39390497",
-      "titulo_original": "La captura",
-      "titulo_ingles": "Facing El Chapo",
-      "ano": 2026,
-      "data_lancamento": "2026-08-21",
-      "data_qualificacao": "",
-      "sinopse_pt": "Dois policiais mexicanos precisam sobreviver às últimas horas de seu turno após cruzarem o caminho de um chefe de cartel implacável.",
-      "elenco": [
-        "Alfonso Herrera",
-        "Noé Hernández",
-        "Héctor Kotsifakis",
-        "Paola Fernández",
-        "Gerardo Trejoluna",
-        "Fernando Cuautle",
-        "Alejandra Vázquez De León",
-        "Santiago Colores"
-      ],
-      "diretor": "Chava Cartas",
-      "generos": [
-        "Crime",
-        "Ação",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/z1BazG57E5JaNbxQ5kpXt8h8whv.jpg",
-      "pais": [
-        "MX"
-      ],
-      "idiomas": [
-        "pt",
-        "es"
-      ],
-      "duracao": 91,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39390497/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Facing%20El%20Chapo",
-        "metacritic": "https://www.metacritic.com/search/Facing%20El%20Chapo/"
-      }
-    },
-    {
       "tmdb_id": 1508168,
       "imdb_id": "tt37535100",
       "titulo_original": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
@@ -1590,6 +1524,122 @@
       }
     },
     {
+      "tmdb_id": 1621552,
+      "imdb_id": "tt39390497",
+      "titulo_original": "La captura",
+      "titulo_ingles": "Facing El Chapo",
+      "ano": 2026,
+      "data_lancamento": "2026-08-21",
+      "data_qualificacao": "",
+      "sinopse_pt": "Dois policiais mexicanos precisam sobreviver às últimas horas de seu turno após cruzarem o caminho de um chefe de cartel implacável.",
+      "elenco": [
+        "Alfonso Herrera",
+        "Noé Hernández",
+        "Héctor Kotsifakis",
+        "Paola Fernández",
+        "Gerardo Trejoluna",
+        "Fernando Cuautle",
+        "Alejandra Vázquez De León",
+        "Santiago Colores"
+      ],
+      "diretor": "Chava Cartas",
+      "generos": [
+        "Crime",
+        "Ação",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/z1BazG57E5JaNbxQ5kpXt8h8whv.jpg",
+      "pais": [
+        "MX"
+      ],
+      "idiomas": [
+        "pt",
+        "es"
+      ],
+      "duracao": 91,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1621552-la-captura/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39390497/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Facing%20El%20Chapo",
+        "metacritic": "https://www.metacritic.com/search/Facing%20El%20Chapo/"
+      }
+    },
+    {
+      "tmdb_id": 1341138,
+      "imdb_id": "tt33305867",
+      "titulo_original": "Spa Weekend",
+      "titulo_ingles": "Spa Weekend",
+      "ano": 2026,
+      "data_lancamento": "2026-08-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "Três amigas planejam um fim de semana de descanso em um spa de luxo, mas tudo sai do controle quando a integrante mais imprevisível do grupo aparece sem avisar. Entre massagens, bebidas e decisões duvidosas, o que era para ser uma escapada relaxante se transforma no fim de semana mais caótico e divertido de suas vidas.",
+      "elenco": [
+        "Leslie Mann",
+        "Michelle Buteau",
+        "Anna Faris",
+        "Isla Fisher",
+        "Adam Demos",
+        "Dominic Ona-Ariki",
+        "Erika Heynatz",
+        "Courtney Clarke"
+      ],
+      "diretor": "Scott Moore, Jon Lucas",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vmCmJq3Bx9PfuOy6pRrCrq2GdvR.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": 33,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 33,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33305867/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spa%20Weekend",
+        "metacritic": "https://www.metacritic.com/search/Spa%20Weekend/"
+      }
+    },
+    {
       "tmdb_id": 1441228,
       "imdb_id": "tt39108319",
       "titulo_original": "ఇరుముడి",
@@ -1639,56 +1689,6 @@
         "imdb": "https://www.imdb.com/title/tt39108319/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Irumudi",
         "metacritic": "https://www.metacritic.com/search/Irumudi/"
-      }
-    },
-    {
-      "tmdb_id": 1341138,
-      "imdb_id": "tt33305867",
-      "titulo_original": "Spa Weekend",
-      "titulo_ingles": "Spa Weekend",
-      "ano": 2026,
-      "data_lancamento": "2026-08-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "Três amigas planejam um fim de semana de descanso em um spa de luxo, mas tudo sai do controle quando a integrante mais imprevisível do grupo aparece sem avisar. Entre massagens, bebidas e decisões duvidosas, o que era para ser uma escapada relaxante se transforma no fim de semana mais caótico e divertido de suas vidas.",
-      "elenco": [
-        "Leslie Mann",
-        "Michelle Buteau",
-        "Anna Faris",
-        "Isla Fisher",
-        "Adam Demos",
-        "Dominic Ona-Ariki",
-        "Erika Heynatz",
-        "Courtney Clarke"
-      ],
-      "diretor": "Jon Lucas, Scott Moore",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vmCmJq3Bx9PfuOy6pRrCrq2GdvR.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": 33,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 33,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33305867/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spa%20Weekend",
-        "metacritic": "https://www.metacritic.com/search/Spa%20Weekend/"
       }
     },
     {
@@ -2030,6 +2030,57 @@
       }
     },
     {
+      "tmdb_id": 1564831,
+      "imdb_id": "tt39368153",
+      "titulo_original": "Tombé du ciel",
+      "titulo_ingles": "Tombé du ciel",
+      "ano": 2026,
+      "data_lancamento": "2026-08-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Ilyes Djadel",
+        "Jamel Debbouze",
+        "Josiane Balasko",
+        "Fred Testot",
+        "Ted Etienne",
+        "Ludovic Berthillot",
+        "Laurence Porteil",
+        "Michel Bompoil"
+      ],
+      "diretor": "Mohamed Hamidi",
+      "generos": [
+        "Comédia",
+        "Família"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39368153/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Tomb%C3%A9%20du%20ciel",
+        "metacritic": "https://www.metacritic.com/search/Tomb%C3%A9%20du%20ciel/"
+      }
+    },
+    {
       "tmdb_id": 1487864,
       "imdb_id": "tt43640198",
       "titulo_original": "Nando Entre Dois Mundos: Um Filme Sintonia",
@@ -2094,57 +2145,6 @@
         "imdb": "https://www.imdb.com/title/tt43640198/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Nando%20Between%20Two%20Worlds%20-%20A%20Sintonia%20Film",
         "metacritic": "https://www.metacritic.com/search/Nando%20Between%20Two%20Worlds%20-%20A%20Sintonia%20Film/"
-      }
-    },
-    {
-      "tmdb_id": 1564831,
-      "imdb_id": "tt39368153",
-      "titulo_original": "Tombé du ciel",
-      "titulo_ingles": "Tombé du ciel",
-      "ano": 2026,
-      "data_lancamento": "2026-08-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Ilyes Djadel",
-        "Jamel Debbouze",
-        "Josiane Balasko",
-        "Fred Testot",
-        "Ted Etienne",
-        "Ludovic Berthillot",
-        "Laurence Porteil",
-        "Michel Bompoil"
-      ],
-      "diretor": "Mohamed Hamidi",
-      "generos": [
-        "Comédia",
-        "Família"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39368153/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Tomb%C3%A9%20du%20ciel",
-        "metacritic": "https://www.metacritic.com/search/Tomb%C3%A9%20du%20ciel/"
       }
     },
     {
@@ -2462,9 +2462,7 @@
       "pais": [
         "PL"
       ],
-      "idiomas": [
-        "en"
-      ],
+      "idiomas": [],
       "duracao": 106,
       "rt_critica": null,
       "rt_publico": null,
@@ -2593,85 +2591,6 @@
         "imdb": "https://www.imdb.com/title/tt44146991/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Niu%20Lai",
         "metacritic": "https://www.metacritic.com/search/Niu%20Lai/"
-      }
-    },
-    {
-      "tmdb_id": 1146148,
-      "imdb_id": "tt21435186",
-      "titulo_original": "Sorry, Charlie",
-      "titulo_ingles": "Sorry, Charlie",
-      "ano": 2026,
-      "data_lancamento": "2026-08-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma voluntária em uma central de apoio ao trauma é alvo de um maníaco mascarado que atrai mulheres com uma gravação de um bebê chorando.",
-      "elenco": [
-        "Colton Tran",
-        "Kathleen Kenny",
-        "Marisa Brown",
-        "Connor Brannigan",
-        "D'Arquoia Connor",
-        "Henri Douvry",
-        "Antoinette Gelmont",
-        "Zachariah Guin"
-      ],
-      "diretor": "Colton Tran",
-      "generos": [
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/9iSZAAIlvuKvvrGqKeCxAKeLfM5.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 75,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Filmelier Plus Amazon Channel",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/qsa5pNRHmZReAhr4CFBQoaPh253.png"
-          },
-          {
-            "nome": "Google Play Movies",
-            "tipo": "aluguel",
-            "logo_url": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
-          },
-          {
-            "nome": "Apple TV Store",
-            "tipo": "compra",
-            "logo_url": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-          },
-          {
-            "nome": "Amazon Video",
-            "tipo": "compra",
-            "logo_url": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-          },
-          {
-            "nome": "Google Play Movies",
-            "tipo": "compra",
-            "logo_url": "https://image.tmdb.org/t/p/w92/aZRENwYILujqs0RVOZutTh0BVGV.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1146148-sorry-charlie/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt21435186/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Sorry%2C%20Charlie",
-        "metacritic": "https://www.metacritic.com/search/Sorry%2C%20Charlie/"
       }
     },
     {
@@ -2957,6 +2876,74 @@
         "imdb": "https://www.imdb.com/title/tt32358025/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Beast%20Race",
         "metacritic": "https://www.metacritic.com/search/Beast%20Race/"
+      }
+    },
+    {
+      "tmdb_id": 1530941,
+      "imdb_id": "tt37931873",
+      "titulo_original": "新劇場版 銀魂 -吉原大炎上-",
+      "titulo_ingles": "Gintama the Movie 2026: Yoshiwara in Flames",
+      "ano": 2026,
+      "data_lancamento": "2026-02-13",
+      "data_qualificacao": "",
+      "sinopse_pt": "Gintoki e sua turma enfrentam um poderoso inimigo para ajudar um garoto a reencontrar a mãe e libertar os oprimidos.",
+      "elenco": [
+        "Tomokazu Sugita",
+        "Daisuke Sakaguchi",
+        "Rie Kugimiya",
+        "Satoshi Hino",
+        "Yuhko Kaida",
+        "Banjo Ginga",
+        "Yuko Sanpei",
+        "Kikuko Inoue"
+      ],
+      "diretor": "安藤尚也",
+      "generos": [
+        "Animação",
+        "Ação",
+        "Ficção científica",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/sb41qo6yHw5GS2Tujd7H4NDP4ZH.jpg",
+      "pais": [
+        "JP"
+      ],
+      "idiomas": [
+        "ja",
+        "fr",
+        "de"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1530941/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37931873/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Gintama%20the%20Movie%202026%3A%20Yoshiwara%20in%20Flames",
+        "metacritic": "https://www.metacritic.com/search/Gintama%20the%20Movie%202026%3A%20Yoshiwara%20in%20Flames/"
       }
     },
     {
