@@ -1,7 +1,59 @@
 {
   "versao": 1,
-  "gerado_em": "2026-09-19T13:15:07.310Z",
+  "gerado_em": "2026-09-20T13:38:08.131Z",
   "filmes": [
+    {
+      "tmdb_id": 1641629,
+      "imdb_id": "tt43617372",
+      "titulo_original": "Toi+Moi - Seuls contre tous",
+      "titulo_ingles": "You+Me - Against the World",
+      "ano": 2026,
+      "data_lancamento": "2026-09-18",
+      "data_qualificacao": "",
+      "sinopse_pt": "Alma Lancaster, 18 anos, parece levar uma vida perfeita dentro de uma família rica que acredita que ela estuda direito. Na verdade, a jovem persegue em segredo o sonho: fazer cinema. No campus, Alma encontra Vadim Arcadi, 20 anos, um estudante solitário com um passado sombrio. Forçados a trabalhar juntos em um filme estudantil, Alma e Vadim se enfrentam, se aproximam e acabam se apaixonando contra a própria vontade. Contudo, o relacionamento deles está ameaçado por uma presença externa. Alguém os observa, determinado a separá-los e a revelar segredos que possam fragilizar a história deles tanto quanto o seu futuro.",
+      "elenco": [
+        "Vittoria Di Savoia",
+        "Lucas Barski",
+        "Zoé Garcia",
+        "Léo Legrand",
+        "Jean-Yves Berteloot",
+        "Suliane Brahim",
+        "Aymeric Fougeron",
+        "Gabrielle Taittinger"
+      ],
+      "diretor": "Manon Gaurin",
+      "generos": [
+        "Romance",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/pkNK6BuKjth9ApJxhjKe34KaHe4.jpg",
+      "pais": [
+        "FR",
+        "US"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 93,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43617372/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=You%2BMe%20-%20Against%20the%20World",
+        "metacritic": "https://www.metacritic.com/search/You%2BMe%20-%20Against%20the%20World/"
+      }
+    },
     {
       "tmdb_id": 1423191,
       "imdb_id": "tt35538033",
@@ -171,58 +223,6 @@
       }
     },
     {
-      "tmdb_id": 1302904,
-      "imdb_id": "tt32588798",
-      "titulo_original": "Practical Magic 2",
-      "titulo_ingles": "Practical Magic 2",
-      "ano": 2026,
-      "data_lancamento": "2026-09-09",
-      "data_qualificacao": "",
-      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
-      "elenco": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Joey King",
-        "Maisie Williams",
-        "Xolo Maridueña",
-        "Lee Pace",
-        "Dianne Wiest",
-        "Stockard Channing"
-      ],
-      "diretor": "Susanne Bier",
-      "generos": [
-        "Romance",
-        "Fantasia",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uoJvqWGs4702jnqOwe8RABSxT3L.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 130,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32588798/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
-        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
-      }
-    },
-    {
       "tmdb_id": 1447853,
       "imdb_id": "tt36152310",
       "titulo_original": "Oasis: Don't Look Back in Anger",
@@ -277,6 +277,58 @@
         "imdb": "https://www.imdb.com/title/tt36152310/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Oasis%3A%20Don't%20Look%20Back%20in%20Anger",
         "metacritic": "https://www.metacritic.com/search/Oasis%3A%20Don't%20Look%20Back%20in%20Anger/"
+      }
+    },
+    {
+      "tmdb_id": 1302904,
+      "imdb_id": "tt32588798",
+      "titulo_original": "Practical Magic 2",
+      "titulo_ingles": "Practical Magic 2",
+      "ano": 2026,
+      "data_lancamento": "2026-09-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
+      "elenco": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Joey King",
+        "Maisie Williams",
+        "Xolo Maridueña",
+        "Lee Pace",
+        "Dianne Wiest",
+        "Stockard Channing"
+      ],
+      "diretor": "Susanne Bier",
+      "generos": [
+        "Romance",
+        "Fantasia",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uoJvqWGs4702jnqOwe8RABSxT3L.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 130,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32588798/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
+        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
       }
     },
     {
@@ -344,6 +396,71 @@
       }
     },
     {
+      "tmdb_id": 1522689,
+      "imdb_id": "tt38061210",
+      "titulo_original": "Why Did I Get Married Again?",
+      "titulo_ingles": "Why Did I Get Married Again?",
+      "ano": 2026,
+      "data_lancamento": "2026-09-08",
+      "data_qualificacao": "",
+      "sinopse_pt": "Os casais se reencontram para o matrimônio da filha de Marcus e Angela, trazendo à tona dramas novos e antigos. Por que será que essa turma se casou, hein?",
+      "elenco": [
+        "Tyler Perry",
+        "Taraji P. Henson",
+        "Jill Scott",
+        "Richard T. Jones",
+        "Tasha Smith",
+        "Michael Jai White",
+        "Sharon Leal",
+        "Lamman Rucker"
+      ],
+      "diretor": "Tyler Perry",
+      "generos": [
+        "Comédia",
+        "Romance",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bHMtdZFZztcAE5uHHhsY2pWRPB9.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 112,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38061210/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Why%20Did%20I%20Get%20Married%20Again%3F",
+        "metacritic": "https://www.metacritic.com/search/Why%20Did%20I%20Get%20Married%20Again%3F/"
+      }
+    },
+    {
       "tmdb_id": 1739206,
       "imdb_id": "tt43700444",
       "titulo_original": "Untold Mr. T: I Pity the Fool",
@@ -407,39 +524,39 @@
       }
     },
     {
-      "tmdb_id": 1522689,
-      "imdb_id": "tt38061210",
-      "titulo_original": "Why Did I Get Married Again?",
-      "titulo_ingles": "Why Did I Get Married Again?",
+      "tmdb_id": 1355228,
+      "imdb_id": "tt33354945",
+      "titulo_original": "गांधारी",
+      "titulo_ingles": "Gandhari",
       "ano": 2026,
-      "data_lancamento": "2026-09-08",
+      "data_lancamento": "2026-09-03",
       "data_qualificacao": "",
-      "sinopse_pt": "Os casais se reencontram para o matrimônio da filha de Marcus e Angela, trazendo à tona dramas novos e antigos. Por que será que essa turma se casou, hein?",
+      "sinopse_pt": "Depois do sequestro da filha, uma mãe se reinventa para caçar a gangue por trás de um círculo de tráfico de crianças. Com Taapsee Pannu.",
       "elenco": [
-        "Tyler Perry",
-        "Taraji P. Henson",
-        "Jill Scott",
-        "Richard T. Jones",
-        "Tasha Smith",
-        "Michael Jai White",
-        "Sharon Leal",
-        "Lamman Rucker"
+        "Taapsee Pannu",
+        "Ishwak Singh",
+        "Mita Vashisht",
+        "Swastika Mukherjee",
+        "Chhaya Kadam",
+        "Jatin Sarna",
+        "Prashant Narayanan",
+        "Chandan Roy"
       ],
-      "diretor": "Tyler Perry",
+      "diretor": "Devashish Makhija",
       "generos": [
-        "Comédia",
-        "Romance",
-        "Drama"
+        "Ação",
+        "Drama",
+        "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bHMtdZFZztcAE5uHHhsY2pWRPB9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
       "pais": [
-        "US"
+        "IN"
       ],
       "idiomas": [
-        "en"
+        "hi"
       ],
-      "duracao": 112,
-      "rt_critica": null,
+      "duracao": 117,
+      "rt_critica": 21,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -447,7 +564,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 21,
       "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "streaming",
@@ -463,12 +580,12 @@
             "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
           }
         ],
-        "link_br": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=BR"
+        "link_br": "https://www.themoviedb.org/movie/1355228/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt38061210/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Why%20Did%20I%20Get%20Married%20Again%3F",
-        "metacritic": "https://www.metacritic.com/search/Why%20Did%20I%20Get%20Married%20Again%3F/"
+        "imdb": "https://www.imdb.com/title/tt33354945/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Gandhari",
+        "metacritic": "https://www.metacritic.com/search/Gandhari/"
       }
     },
     {
@@ -714,6 +831,60 @@
       }
     },
     {
+      "tmdb_id": 1731694,
+      "imdb_id": "tt43679852",
+      "titulo_original": "LEGO Star Wars: The Mandalorian",
+      "titulo_ingles": "LEGO Star Wars: The Mandalorian",
+      "ano": 2026,
+      "data_lancamento": "2026-09-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "O Mandaloriano e Grogu se juntam a seus aliados excêntricos para uma festa épica, celebrando seu heroísmo. Enquanto amigos entretêm a turma com histórias de suas aventuras, uma ameaça pirata se aproxima.",
+      "elenco": [
+        "Gavin Hammon",
+        "Amy Sedaris",
+        "Bill Burr",
+        "David Pasquesi",
+        "Katee Sackhoff",
+        "Emily Swallow",
+        "Giancarlo Esposito",
+        "Matthew Wood"
+      ],
+      "diretor": "Chris Buckley",
+      "generos": [
+        "Animação",
+        "Ficção científica",
+        "Aventura",
+        "Família",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 50,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43679852/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=LEGO%20Star%20Wars%3A%20The%20Mandalorian",
+        "metacritic": "https://www.metacritic.com/search/LEGO%20Star%20Wars%3A%20The%20Mandalorian/"
+      }
+    },
+    {
       "tmdb_id": 1752159,
       "imdb_id": "tt44322266",
       "titulo_original": "Turning Point: Generation 9/11",
@@ -777,40 +948,37 @@
       }
     },
     {
-      "tmdb_id": 1731694,
-      "imdb_id": "tt43679852",
-      "titulo_original": "LEGO Star Wars: The Mandalorian",
-      "titulo_ingles": "LEGO Star Wars: The Mandalorian",
+      "tmdb_id": 1739202,
+      "imdb_id": "tt43700441",
+      "titulo_original": "Untold Raygun: Breaking Badly",
+      "titulo_ingles": "Untold Raygun: Breaking Badly",
       "ano": 2026,
-      "data_lancamento": "2026-09-02",
+      "data_lancamento": "2026-09-01",
       "data_qualificacao": "",
-      "sinopse_pt": "O Mandaloriano e Grogu se juntam a seus aliados excêntricos para uma festa épica, celebrando seu heroísmo. Enquanto amigos entretêm a turma com histórias de suas aventuras, uma ameaça pirata se aproxima.",
+      "sinopse_pt": "Da universidade na Austrália aos memes do mundo todo, a B-girl \"Raygun\" conta como foi seu caminho até as Olimpíadas, a fama viral e o hate.",
       "elenco": [
-        "Gavin Hammon",
-        "Amy Sedaris",
-        "Bill Burr",
-        "David Pasquesi",
-        "Katee Sackhoff",
-        "Emily Swallow",
-        "Giancarlo Esposito",
-        "Matthew Wood"
+        "Rachael Gunn",
+        "Samuel Free",
+        "Beverly Gunn",
+        "Russell Gunn",
+        "Sammy Tinylocks",
+        "Leah Clark",
+        "Lowe Napalan",
+        "Richard Branson"
       ],
-      "diretor": "Chris Buckley",
+      "diretor": "Chapman Way, Maclain Way",
       "generos": [
-        "Animação",
-        "Ficção científica",
-        "Aventura",
-        "Família",
-        "Ação"
+        "Documentário"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/suvLuzCE4GJ0FgHZMNGY2q3WXL6.jpg",
       "pais": [
-        "US"
+        "US",
+        "AU"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 50,
+      "duracao": 72,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -822,12 +990,25 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1739202-untold-raygun-breaking-badly/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt43679852/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=LEGO%20Star%20Wars%3A%20The%20Mandalorian",
-        "metacritic": "https://www.metacritic.com/search/LEGO%20Star%20Wars%3A%20The%20Mandalorian/"
+        "imdb": "https://www.imdb.com/title/tt43700441/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Untold%20Raygun%3A%20Breaking%20Badly",
+        "metacritic": "https://www.metacritic.com/search/Untold%20Raygun%3A%20Breaking%20Badly/"
       }
     },
     {
@@ -892,6 +1073,71 @@
         "imdb": "https://www.imdb.com/title/tt38267923/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Call%20My%20Agent!%20The%20Movie",
         "metacritic": "https://www.metacritic.com/search/Call%20My%20Agent!%20The%20Movie/"
+      }
+    },
+    {
+      "tmdb_id": 1471168,
+      "imdb_id": "tt43706402",
+      "titulo_original": "Barreda",
+      "titulo_ingles": "Barreda",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um filme de drama ficcional baseado em um dos crimes mais chocantes da história da Argentina. Em 1992, Ricardo Barreda, um dentista comum, assassinou brutalmente sua esposa, sua sogra e suas duas filhas adultas em sua casa. Fazendo-se de vítima, Ricardo Barreda provocou uma tempestade midiática e alimentou um escândalo nacional.",
+      "elenco": [
+        "Luis Machín",
+        "Carla Peterson",
+        "Mercedes Morán",
+        "Maite Lanata",
+        "Margarita Páez",
+        "Marcelo Subiotto",
+        "Paola Barrientos",
+        "Alberto Ajaka"
+      ],
+      "diretor": "Daniela Goggi",
+      "generos": [
+        "Drama",
+        "Crime",
+        "História"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
+      "pais": [
+        "AR"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 105,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43706402/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Barreda",
+        "metacritic": "https://www.metacritic.com/search/Barreda/"
       }
     },
     {
@@ -1062,71 +1308,6 @@
       }
     },
     {
-      "tmdb_id": 1471168,
-      "imdb_id": "tt43706402",
-      "titulo_original": "Barreda",
-      "titulo_ingles": "Barreda",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um filme de drama ficcional baseado em um dos crimes mais chocantes da história da Argentina. Em 1992, Ricardo Barreda, um dentista comum, assassinou brutalmente sua esposa, sua sogra e suas duas filhas adultas em sua casa. Fazendo-se de vítima, Ricardo Barreda provocou uma tempestade midiática e alimentou um escândalo nacional.",
-      "elenco": [
-        "Luis Machín",
-        "Carla Peterson",
-        "Mercedes Morán",
-        "Maite Lanata",
-        "Margarita Páez",
-        "Marcelo Subiotto",
-        "Paola Barrientos",
-        "Alberto Ajaka"
-      ],
-      "diretor": "Daniela Goggi",
-      "generos": [
-        "Drama",
-        "Crime",
-        "História"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
-      "pais": [
-        "AR"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 105,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43706402/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Barreda",
-        "metacritic": "https://www.metacritic.com/search/Barreda/"
-      }
-    },
-    {
       "tmdb_id": 860508,
       "imdb_id": "tt11561116",
       "titulo_original": "The Whisper Man",
@@ -1244,58 +1425,6 @@
       }
     },
     {
-      "tmdb_id": 1729723,
-      "imdb_id": "tt43141030",
-      "titulo_original": "Yellow Mirror",
-      "titulo_ingles": "Yellow Mirror",
-      "ano": 2026,
-      "data_lancamento": "2026-08-26",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um abajur com defeito revela uma verdade comovente sobre o que Homer acredita ser a realidade, e um tablet com inteligência artificial faz amizade com Maggie e passa a controlá-la. Os Simpsons lutam para achar a luz em meio a duas histórias sombrias, intrigantes e bizarras, neste episódio exclusivo da Disney+.",
-      "elenco": [
-        "Dan Castellaneta",
-        "Nancy Cartwright",
-        "Julie Kavner",
-        "Yeardley Smith",
-        "Patti Harrison",
-        "Demi Moore",
-        "Harry Shearer",
-        "Alex Désert"
-      ],
-      "diretor": "Matthew Faughnan",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 27,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43141030/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Mirror",
-        "metacritic": "https://www.metacritic.com/search/Yellow%20Mirror/"
-      }
-    },
-    {
       "tmdb_id": 1516698,
       "imdb_id": "tt37654096",
       "titulo_original": "The Last Sunrise",
@@ -1358,6 +1487,58 @@
         "imdb": "https://www.imdb.com/title/tt37654096/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Sunrise",
         "metacritic": "https://www.metacritic.com/search/The%20Last%20Sunrise/"
+      }
+    },
+    {
+      "tmdb_id": 1729723,
+      "imdb_id": "tt43141030",
+      "titulo_original": "Yellow Mirror",
+      "titulo_ingles": "Yellow Mirror",
+      "ano": 2026,
+      "data_lancamento": "2026-08-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um abajur com defeito revela uma verdade comovente sobre o que Homer acredita ser a realidade, e um tablet com inteligência artificial faz amizade com Maggie e passa a controlá-la. Os Simpsons lutam para achar a luz em meio a duas histórias sombrias, intrigantes e bizarras, neste episódio exclusivo da Disney+.",
+      "elenco": [
+        "Dan Castellaneta",
+        "Nancy Cartwright",
+        "Julie Kavner",
+        "Yeardley Smith",
+        "Patti Harrison",
+        "Demi Moore",
+        "Harry Shearer",
+        "Alex Désert"
+      ],
+      "diretor": "Matthew Faughnan",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 27,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43141030/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Mirror",
+        "metacritic": "https://www.metacritic.com/search/Yellow%20Mirror/"
       }
     },
     {
@@ -1608,7 +1789,7 @@
         "Erika Heynatz",
         "Courtney Clarke"
       ],
-      "diretor": "Scott Moore, Jon Lucas",
+      "diretor": "Jon Lucas, Scott Moore",
       "generos": [
         "Comédia"
       ],
@@ -1683,7 +1864,20 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1441228/watch?locale=BR"
       },
       "links": {
         "imdb": "https://www.imdb.com/title/tt39108319/",
@@ -1848,72 +2042,6 @@
       }
     },
     {
-      "tmdb_id": 1408162,
-      "imdb_id": "tt35836025",
-      "titulo_original": "விஸ்வநாத் & சன்ஸ்",
-      "titulo_ingles": "Vishwanath & Sons",
-      "ano": 2026,
-      "data_lancamento": "2026-08-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "சூர்யா",
-        "Mamitha Baiju",
-        "ராதிகா",
-        "रवीना टंडन",
-        "Sunil Reddy",
-        "Harika",
-        "Nassar",
-        "Viva Harsha"
-      ],
-      "diretor": "Venky Atluri",
-      "generos": [
-        "Drama",
-        "Romance",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "ta",
-        "te"
-      ],
-      "duracao": 161,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1408162/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35836025/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vishwanath%20%26%20Sons",
-        "metacritic": "https://www.metacritic.com/search/Vishwanath%20%26%20Sons/"
-      }
-    },
-    {
       "tmdb_id": 1226699,
       "imdb_id": "tt35060353",
       "titulo_original": "The Wrong Girls",
@@ -2030,37 +2158,39 @@
       }
     },
     {
-      "tmdb_id": 1564831,
-      "imdb_id": "tt39368153",
-      "titulo_original": "Tombé du ciel",
-      "titulo_ingles": "Tombé du ciel",
+      "tmdb_id": 1408162,
+      "imdb_id": "tt35836025",
+      "titulo_original": "விஸ்வநாத் & சன்ஸ்",
+      "titulo_ingles": "Vishwanath & Sons",
       "ano": 2026,
-      "data_lancamento": "2026-08-12",
+      "data_lancamento": "2026-08-14",
       "data_qualificacao": "",
       "sinopse_pt": "",
       "elenco": [
-        "Ilyes Djadel",
-        "Jamel Debbouze",
-        "Josiane Balasko",
-        "Fred Testot",
-        "Ted Etienne",
-        "Ludovic Berthillot",
-        "Laurence Porteil",
-        "Michel Bompoil"
+        "சூர்யா",
+        "Mamitha Baiju",
+        "ராதிகா",
+        "रवीना टंडन",
+        "Sunil Reddy",
+        "Harika",
+        "Nassar",
+        "Viva Harsha"
       ],
-      "diretor": "Mohamed Hamidi",
+      "diretor": "Venky Atluri",
       "generos": [
-        "Comédia",
-        "Família"
+        "Drama",
+        "Romance",
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
       "pais": [
-        "FR"
+        "IN"
       ],
       "idiomas": [
-        "fr"
+        "ta",
+        "te"
       ],
-      "duracao": 0,
+      "duracao": 161,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2072,12 +2202,25 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1408162/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt39368153/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Tomb%C3%A9%20du%20ciel",
-        "metacritic": "https://www.metacritic.com/search/Tomb%C3%A9%20du%20ciel/"
+        "imdb": "https://www.imdb.com/title/tt35836025/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Vishwanath%20%26%20Sons",
+        "metacritic": "https://www.metacritic.com/search/Vishwanath%20%26%20Sons/"
       }
     },
     {
@@ -2145,6 +2288,57 @@
         "imdb": "https://www.imdb.com/title/tt43640198/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Nando%20Between%20Two%20Worlds%20-%20A%20Sintonia%20Film",
         "metacritic": "https://www.metacritic.com/search/Nando%20Between%20Two%20Worlds%20-%20A%20Sintonia%20Film/"
+      }
+    },
+    {
+      "tmdb_id": 1564831,
+      "imdb_id": "tt39368153",
+      "titulo_original": "Tombé du ciel",
+      "titulo_ingles": "Tombé du ciel",
+      "ano": 2026,
+      "data_lancamento": "2026-08-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Ilyes Djadel",
+        "Jamel Debbouze",
+        "Josiane Balasko",
+        "Fred Testot",
+        "Ted Etienne",
+        "Ludovic Berthillot",
+        "Laurence Porteil",
+        "Michel Bompoil"
+      ],
+      "diretor": "Mohamed Hamidi",
+      "generos": [
+        "Comédia",
+        "Família"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39368153/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Tomb%C3%A9%20du%20ciel",
+        "metacritic": "https://www.metacritic.com/search/Tomb%C3%A9%20du%20ciel/"
       }
     },
     {
@@ -2434,166 +2628,6 @@
       }
     },
     {
-      "tmdb_id": 1323244,
-      "imdb_id": "tt29512655",
-      "titulo_original": "Rage of Stars",
-      "titulo_ingles": "Rage of Stars",
-      "ano": 2026,
-      "data_lancamento": "2026-08-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma agente de elite começa a ter visões do apocalipse que ameaçam sua sanidade e carreira. Caçada por quem deveria protegê-la, ela precisa decifrar as premonições antes que o caos que já consome o mundo se torne irreversível.",
-      "elenco": [
-        "Andrea Tivadar",
-        "Jord Knotter",
-        "Jack McEvoy",
-        "Elijah Rowen",
-        "Małgorzata Klara",
-        "Mayu Gralińska Sakai",
-        "Jakub Ormaniec",
-        "Milena Grzybek"
-      ],
-      "diretor": "Łukasz Róg",
-      "generos": [
-        "Ação",
-        "Ficção científica",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vovjeqrfA15EDsDhGtqDI0dLg7I.jpg",
-      "pais": [
-        "PL"
-      ],
-      "idiomas": [],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Adrenalina Pura Amazon channel",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/32EpjQJMkjRsfW7XccIV0RnmXcj.png"
-          },
-          {
-            "nome": "Adrenalina Pura Apple TV channel",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/nca3l6Ud12JcaEAViA7G7JCplBR.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1323244-rage-of-stars/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt29512655/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Rage%20of%20Stars",
-        "metacritic": "https://www.metacritic.com/search/Rage%20of%20Stars/"
-      }
-    },
-    {
-      "tmdb_id": 675871,
-      "imdb_id": "tt8820258",
-      "titulo_original": "Super Troopers 3",
-      "titulo_ingles": "Super Troopers 3",
-      "ano": 2026,
-      "data_lancamento": "2026-08-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "Cinco policiais federais estão fazendo o inferno nas estradas e se veem conduzindo situações engraçadas enquanto tentam evitar sua extinção.",
-      "elenco": [
-        "Jay Chandrasekhar",
-        "Kevin Heffernan",
-        "Steve Lemme",
-        "Paul Soter",
-        "Erik Stolhanske",
-        "Hannah Simone",
-        "Marisa Coughlan",
-        "Nat Faxon"
-      ],
-      "diretor": "Jay Chandrasekhar",
-      "generos": [
-        "Comédia",
-        "Crime",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 100,
-      "rt_critica": 51,
-      "rt_publico": null,
-      "metacritic": 37,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 51,
-      "atual_metacritic": 37,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt8820258/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Super%20Troopers%203",
-        "metacritic": "https://www.metacritic.com/search/Super%20Troopers%203/"
-      }
-    },
-    {
-      "tmdb_id": 1748007,
-      "imdb_id": "tt44146991",
-      "titulo_original": "牛来",
-      "titulo_ingles": "Niu Lai",
-      "ano": 2026,
-      "data_lancamento": "2026-08-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "O ingênuo bezerro Niu Lai adora explorar as pastagens, mas tem dificuldade em corresponder às expectativas de sua família de que ele se torne o futuro líder do rebanho. Com a migração se aproximando rapidamente, Niu Lai encontra aliados inesperados em sua jornada para descobrir o significado da coragem, enquanto se preparam para uma travessia perigosa pelo deserto.",
-      "elenco": [
-        "信雨萌",
-        "孙丽芳"
-      ],
-      "diretor": "信雨萌",
-      "generos": [
-        "Animação",
-        "Aventura"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
-      "pais": [
-        "CN"
-      ],
-      "idiomas": [
-        "zh"
-      ],
-      "duracao": 86,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt44146991/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Niu%20Lai",
-        "metacritic": "https://www.metacritic.com/search/Niu%20Lai/"
-      }
-    },
-    {
       "tmdb_id": 1477712,
       "imdb_id": "tt36893729",
       "titulo_original": "Ice Cream Man",
@@ -2615,7 +2649,8 @@
       "diretor": "Eli Roth",
       "generos": [
         "Terror",
-        "Comédia"
+        "Comédia",
+        "Thriller"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/3qbjuaIhlfInBd9C85yv1ss50mq.jpg",
       "pais": [
@@ -2646,60 +2681,6 @@
         "imdb": "https://www.imdb.com/title/tt36893729/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ice%20Cream%20Man",
         "metacritic": "https://www.metacritic.com/search/Ice%20Cream%20Man/"
-      }
-    },
-    {
-      "tmdb_id": 1308767,
-      "imdb_id": "tt32104007",
-      "titulo_original": "Young Washington",
-      "titulo_ingles": "Young Washington",
-      "ano": 2026,
-      "data_lancamento": "2026-07-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "Antes de se tornar o Pai da Nação, ele era um soldado lutando para sobreviver. Um único passo em falso lança o jovem George Washington no centro de um conflito global, testando sua honra, lealdade e coragem. À medida que as alianças se desfazem e a fronteira entra em guerra, ele precisa confrontar não apenas seus inimigos, mas também o homem em que está se tornando. Esta é a história não contada do jovem Washington.",
-      "elenco": [
-        "William Franklyn-Miller",
-        "Ben Kingsley",
-        "Mary-Louise Parker",
-        "Leo Hanna",
-        "Mia Rodgers",
-        "Joel Smallbone",
-        "Kelsey Grammer",
-        "Andy Serkis"
-      ],
-      "diretor": "Jon Erwin",
-      "generos": [
-        "História",
-        "Guerra",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/xgi2dObKLcSeUeFIT2Gw3U6Ed9d.jpg",
-      "pais": [
-        "US",
-        "IE",
-        "CA"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 125,
-      "rt_critica": 59,
-      "rt_publico": null,
-      "metacritic": 49,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 59,
-      "atual_metacritic": 49,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32104007/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Young%20Washington",
-        "metacritic": "https://www.metacritic.com/search/Young%20Washington/"
       }
     },
     {
@@ -3035,6 +3016,57 @@
         "imdb": "https://www.imdb.com/title/tt36935050/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Kissing%20Is%20the%20Easy%20Part",
         "metacritic": "https://www.metacritic.com/search/Kissing%20Is%20the%20Easy%20Part/"
+      }
+    },
+    {
+      "tmdb_id": 1321179,
+      "imdb_id": "tt38626703",
+      "titulo_original": "왕과 사는 남자",
+      "titulo_ingles": "The King's Warden",
+      "ano": 2026,
+      "data_lancamento": "2026-02-04",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "유해진",
+        "박지훈",
+        "유지태",
+        "전미도",
+        "김민",
+        "박지환",
+        "이준혁",
+        "안재홍"
+      ],
+      "diretor": "장항준",
+      "generos": [
+        "História",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/kkJB3SeUJp7Y0IXXLkv5QZHJGkH.jpg",
+      "pais": [
+        "KR"
+      ],
+      "idiomas": [
+        "ko"
+      ],
+      "duracao": 117,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38626703/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20King's%20Warden",
+        "metacritic": "https://www.metacritic.com/search/The%20King's%20Warden/"
       }
     },
     {
