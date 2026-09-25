@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-09-24T14:17:00.737Z",
+  "gerado_em": "2026-09-25T14:40:28.543Z",
   "filmes": [
     {
       "tmdb_id": 1607127,
@@ -100,6 +100,70 @@
       }
     },
     {
+      "tmdb_id": 1514863,
+      "imdb_id": "tt16478058",
+      "titulo_original": "Best of the Best",
+      "titulo_ingles": "Best of the Best",
+      "ano": 2026,
+      "data_lancamento": "2026-09-18",
+      "data_qualificacao": "",
+      "sinopse_pt": "Duas amigas de infância, Maya (Maitreyi Ramakrishnan) e Anjali (Priyanka Kedia), entram para a equipe de dança Bollywood da UCLA, mas logo descobrem que ganhar o campeonato nacional dos EUA vai ser muito mais difícil do que imaginavam.",
+      "elenco": [
+        "Maitreyi Ramakrishnan",
+        "Priyanka Kedia",
+        "Chaneil Kular",
+        "Ankur Rathee",
+        "Hasan Minhaj",
+        "Shreya Navile",
+        "Becky Alex",
+        "Nihar Duvvuri"
+      ],
+      "diretor": "Lena Khan",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vmjK9vC8usvMQ4dRqKVnx8P18Np.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "hi"
+      ],
+      "duracao": 112,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt16478058/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Best%20of%20the%20Best",
+        "metacritic": "https://www.metacritic.com/search/Best%20of%20the%20Best/"
+      }
+    },
+    {
       "tmdb_id": 1641629,
       "imdb_id": "tt43617372",
       "titulo_original": "Toi+Moi - Seuls contre tous",
@@ -162,70 +226,6 @@
         "imdb": "https://www.imdb.com/title/tt43617372/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=You%2BMe%20-%20Against%20the%20World",
         "metacritic": "https://www.metacritic.com/search/You%2BMe%20-%20Against%20the%20World/"
-      }
-    },
-    {
-      "tmdb_id": 1514863,
-      "imdb_id": "tt16478058",
-      "titulo_original": "Best of the Best",
-      "titulo_ingles": "Best of the Best",
-      "ano": 2026,
-      "data_lancamento": "2026-09-18",
-      "data_qualificacao": "",
-      "sinopse_pt": "Duas amigas de infância, Maya (Maitreyi Ramakrishnan) e Anjali (Priyanka Kedia), entram para a equipe de dança Bollywood da UCLA, mas logo descobrem que ganhar o campeonato nacional dos EUA vai ser muito mais difícil do que imaginavam.",
-      "elenco": [
-        "Maitreyi Ramakrishnan",
-        "Priyanka Kedia",
-        "Chaneil Kular",
-        "Ankur Rathee",
-        "Hasan Minhaj",
-        "Shreya Navile",
-        "Becky Alex",
-        "Nihar Duvvuri"
-      ],
-      "diretor": "Lena Khan",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vmjK9vC8usvMQ4dRqKVnx8P18Np.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "hi"
-      ],
-      "duracao": 112,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt16478058/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Best%20of%20the%20Best",
-        "metacritic": "https://www.metacritic.com/search/Best%20of%20the%20Best/"
       }
     },
     {
@@ -337,6 +337,58 @@
       }
     },
     {
+      "tmdb_id": 1318467,
+      "imdb_id": "tt33253206",
+      "titulo_original": "The Last Kiss",
+      "titulo_ingles": "The Last Kiss",
+      "ano": 2026,
+      "data_lancamento": "2026-09-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Mckenna Grace",
+        "Arkira Chantaratananond",
+        "Jaden Michael",
+        "Riley Davis",
+        "Bergman Freedman",
+        "Kate Drummond",
+        "Samantha Espie",
+        "Cooper Levy"
+      ],
+      "diretor": "Yoko Okumura",
+      "generos": [
+        "Terror",
+        "Mistério",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33253206/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Kiss",
+        "metacritic": "https://www.metacritic.com/search/The%20Last%20Kiss/"
+      }
+    },
+    {
       "tmdb_id": 1558568,
       "imdb_id": "tt38616652",
       "titulo_original": "Gracias, equipo",
@@ -400,37 +452,41 @@
       }
     },
     {
-      "tmdb_id": 1645164,
-      "imdb_id": "tt38574284",
-      "titulo_original": "Serpenti",
-      "titulo_ingles": "Snake",
+      "tmdb_id": 1465063,
+      "imdb_id": "tt36583977",
+      "titulo_original": "Forgotten Island",
+      "titulo_ingles": "Forgotten Island",
       "ano": 2026,
       "data_lancamento": "2026-09-10",
       "data_qualificacao": "",
-      "sinopse_pt": "Paolo Marra matou a esposa sem compreender por quê. Consumido pela culpa, decide se entregar, cumprir sua pena e tentar restituir alguma dignidade à mulher que assassinou. Mas, entre policiais distraídos, advogados oportunistas, videntes e entraves burocráticos, ninguém parece levá-lo a sério. Preso num paradoxo kafkiano, Paolo descobre que, por mais que insista, não consegue ser detido.",
+      "sinopse_pt": "Jo e Raissa se veem presas no fantástico mundo da ilha esquecida de Nakali. Elas descobrem que seu único caminho para casa pode custar uma vida inteira de memórias e emoções.",
       "elenco": [
-        "Leonardo Lidi",
-        "Alessandro Borghi",
-        "Pietro Castellitto",
-        "Valeria Golino",
-        "Daniele Parisi",
-        "Francesca Solombrino",
-        "Alessandra Ferrara",
-        "Martinus Tocchi"
+        "H.E.R.",
+        "Liza Soberano",
+        "Dave Franco",
+        "Lea Salonga",
+        "Jenny Slate",
+        "Manny Jacinto",
+        "Dolly de Leon",
+        "Jo Koy"
       ],
-      "diretor": "Roberto De Paolis",
+      "diretor": "Januel Mercado, Joel Crawford",
       "generos": [
-        "Drama",
-        "Comédia"
+        "Animação",
+        "Aventura",
+        "Fantasia",
+        "Comédia",
+        "Família"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4PwgQjZLpIHkDPptgtGekocn78R.jpg",
       "pais": [
-        "IT"
+        "US"
       ],
       "idiomas": [
-        "it"
+        "en",
+        "tl"
       ],
-      "duracao": 88,
+      "duracao": 98,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -442,12 +498,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt38574284/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snake",
-        "metacritic": "https://www.metacritic.com/search/Snake/"
+        "imdb": "https://www.imdb.com/title/tt36583977/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Forgotten%20Island",
+        "metacritic": "https://www.metacritic.com/search/Forgotten%20Island/"
       }
     },
     {
@@ -557,38 +613,37 @@
       }
     },
     {
-      "tmdb_id": 1302904,
-      "imdb_id": "tt32588798",
-      "titulo_original": "Practical Magic 2",
-      "titulo_ingles": "Practical Magic 2",
+      "tmdb_id": 1645164,
+      "imdb_id": "tt38574284",
+      "titulo_original": "Serpenti",
+      "titulo_ingles": "Snake",
       "ano": 2026,
-      "data_lancamento": "2026-09-09",
+      "data_lancamento": "2026-09-10",
       "data_qualificacao": "",
-      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
+      "sinopse_pt": "Paolo Marra matou a esposa sem compreender por quê. Consumido pela culpa, decide se entregar, cumprir sua pena e tentar restituir alguma dignidade à mulher que assassinou. Mas, entre policiais distraídos, advogados oportunistas, videntes e entraves burocráticos, ninguém parece levá-lo a sério. Preso num paradoxo kafkiano, Paolo descobre que, por mais que insista, não consegue ser detido.",
       "elenco": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Joey King",
-        "Maisie Williams",
-        "Xolo Maridueña",
-        "Lee Pace",
-        "Dianne Wiest",
-        "Stockard Channing"
+        "Leonardo Lidi",
+        "Alessandro Borghi",
+        "Pietro Castellitto",
+        "Valeria Golino",
+        "Daniele Parisi",
+        "Francesca Solombrino",
+        "Alessandra Ferrara",
+        "Martinus Tocchi"
       ],
-      "diretor": "Susanne Bier",
+      "diretor": "Roberto De Paolis",
       "generos": [
-        "Romance",
-        "Fantasia",
+        "Drama",
         "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uoJvqWGs4702jnqOwe8RABSxT3L.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
       "pais": [
-        "US"
+        "IT"
       ],
       "idiomas": [
-        "en"
+        "it"
       ],
-      "duracao": 130,
+      "duracao": 88,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -600,12 +655,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "cinema"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt32588798/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
-        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
+        "imdb": "https://www.imdb.com/title/tt38574284/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snake",
+        "metacritic": "https://www.metacritic.com/search/Snake/"
       }
     },
     {
@@ -663,6 +718,58 @@
         "imdb": "https://www.imdb.com/title/tt36152310/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Oasis%3A%20Don't%20Look%20Back%20in%20Anger",
         "metacritic": "https://www.metacritic.com/search/Oasis%3A%20Don't%20Look%20Back%20in%20Anger/"
+      }
+    },
+    {
+      "tmdb_id": 1302904,
+      "imdb_id": "tt32588798",
+      "titulo_original": "Practical Magic 2",
+      "titulo_ingles": "Practical Magic 2",
+      "ano": 2026,
+      "data_lancamento": "2026-09-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
+      "elenco": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Joey King",
+        "Maisie Williams",
+        "Xolo Maridueña",
+        "Lee Pace",
+        "Dianne Wiest",
+        "Stockard Channing"
+      ],
+      "diretor": "Susanne Bier",
+      "generos": [
+        "Romance",
+        "Fantasia",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uoJvqWGs4702jnqOwe8RABSxT3L.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 130,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32588798/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
+        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
       }
     },
     {
@@ -858,41 +965,39 @@
       }
     },
     {
-      "tmdb_id": 1378537,
-      "imdb_id": "tt34339725",
-      "titulo_original": "मिर्ज़ापुर - द मूवी",
-      "titulo_ingles": "Mirzapur: The Movie",
+      "tmdb_id": 1355228,
+      "imdb_id": "tt33354945",
+      "titulo_original": "गांधारी",
+      "titulo_ingles": "Gandhari",
       "ano": 2026,
       "data_lancamento": "2026-09-03",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Depois do sequestro da filha, uma mãe se reinventa para caçar a gangue por trás de um círculo de tráfico de crianças. Com Taapsee Pannu.",
       "elenco": [
-        "Pankaj Tripathi",
-        "Ali Fazal",
-        "दिव्येंदु शर्मा",
-        "Jitendra Kumar",
-        "Ravi Kishan",
-        "रसिका दुग्गल",
-        "Mohit Malik",
-        "शीबा चड्ढा"
+        "Taapsee Pannu",
+        "Ishwak Singh",
+        "Mita Vashisht",
+        "Swastika Mukherjee",
+        "Chhaya Kadam",
+        "Jatin Sarna",
+        "Prashant Narayanan",
+        "Chandan Roy"
       ],
-      "diretor": "Gurmmeet Singh",
+      "diretor": "Devashish Makhija",
       "generos": [
         "Ação",
-        "Crime",
         "Drama",
         "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
       "pais": [
-        "IN",
-        "US"
+        "IN"
       ],
       "idiomas": [
         "hi"
       ],
-      "duracao": 197,
-      "rt_critica": null,
+      "duracao": 117,
+      "rt_critica": 21,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -900,15 +1005,28 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 21,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1355228/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt34339725/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mirzapur%3A%20The%20Movie",
-        "metacritic": "https://www.metacritic.com/search/Mirzapur%3A%20The%20Movie/"
+        "imdb": "https://www.imdb.com/title/tt33354945/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Gandhari",
+        "metacritic": "https://www.metacritic.com/search/Gandhari/"
       }
     },
     {
@@ -983,71 +1101,6 @@
       }
     },
     {
-      "tmdb_id": 1355228,
-      "imdb_id": "tt33354945",
-      "titulo_original": "गांधारी",
-      "titulo_ingles": "Gandhari",
-      "ano": 2026,
-      "data_lancamento": "2026-09-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "Depois do sequestro da filha, uma mãe se reinventa para caçar a gangue por trás de um círculo de tráfico de crianças. Com Taapsee Pannu.",
-      "elenco": [
-        "Taapsee Pannu",
-        "Ishwak Singh",
-        "Mita Vashisht",
-        "Swastika Mukherjee",
-        "Chhaya Kadam",
-        "Jatin Sarna",
-        "Prashant Narayanan",
-        "Chandan Roy"
-      ],
-      "diretor": "Devashish Makhija",
-      "generos": [
-        "Ação",
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 117,
-      "rt_critica": 21,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 21,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1355228/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33354945/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Gandhari",
-        "metacritic": "https://www.metacritic.com/search/Gandhari/"
-      }
-    },
-    {
       "tmdb_id": 1386315,
       "imdb_id": "tt34564059",
       "titulo_original": "The Runner",
@@ -1110,6 +1163,60 @@
         "imdb": "https://www.imdb.com/title/tt34564059/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Runner",
         "metacritic": "https://www.metacritic.com/search/The%20Runner/"
+      }
+    },
+    {
+      "tmdb_id": 1378537,
+      "imdb_id": "tt34339725",
+      "titulo_original": "मिर्ज़ापुर - द मूवी",
+      "titulo_ingles": "Mirzapur: The Movie",
+      "ano": 2026,
+      "data_lancamento": "2026-09-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Pankaj Tripathi",
+        "Ali Fazal",
+        "दिव्येंदु शर्मा",
+        "Jitendra Kumar",
+        "Ravi Kishan",
+        "रसिका दुग्गल",
+        "Mohit Malik",
+        "शीबा चड्ढा"
+      ],
+      "diretor": "Gurmmeet Singh",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
+      "pais": [
+        "IN",
+        "US"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 197,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34339725/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mirzapur%3A%20The%20Movie",
+        "metacritic": "https://www.metacritic.com/search/Mirzapur%3A%20The%20Movie/"
       }
     },
     {
@@ -1189,7 +1296,7 @@
       "generos": [
         "Documentário"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/2F1sqcKQ9BOFF3c88aIxIb6dcxE.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1vKUROvhGiBo7eFTGjooazOIXr2.jpg",
       "pais": [
         "US"
       ],
@@ -1412,38 +1519,37 @@
       }
     },
     {
-      "tmdb_id": 1471168,
-      "imdb_id": "tt43706402",
-      "titulo_original": "Barreda",
-      "titulo_ingles": "Barreda",
+      "tmdb_id": 1550338,
+      "imdb_id": "tt44147164",
+      "titulo_original": "Öngörü",
+      "titulo_ingles": "The Last Scene",
       "ano": 2026,
       "data_lancamento": "2026-08-28",
       "data_qualificacao": "",
-      "sinopse_pt": "Um filme de drama ficcional baseado em um dos crimes mais chocantes da história da Argentina. Em 1992, Ricardo Barreda, um dentista comum, assassinou brutalmente sua esposa, sua sogra e suas duas filhas adultas em sua casa. Fazendo-se de vítima, Ricardo Barreda provocou uma tempestade midiática e alimentou um escândalo nacional.",
+      "sinopse_pt": "Selen pode ver o futuro de outras pessoas. Uma visão a leva a um romance inesperado e a um desafio. Quando seu caminho se cruza com Kemal, começa uma luta entre amor e perigo. As escolhas que ela fizer afetarão sua vida e o futuro de Kemal.",
       "elenco": [
-        "Luis Machín",
-        "Carla Peterson",
-        "Mercedes Morán",
-        "Maite Lanata",
-        "Margarita Páez",
-        "Marcelo Subiotto",
-        "Paola Barrientos",
-        "Alberto Ajaka"
+        "Hilal Altınbilek",
+        "Serkan Çayoğlu",
+        "Olcay Yusufoğlu",
+        "Bora Karakul",
+        "Sema Mumcu",
+        "Gökçen Gökçebağ",
+        "Yiğit Kalkavan",
+        "Sedat Savtak"
       ],
-      "diretor": "Daniela Goggi",
+      "diretor": "Ali Bilgin",
       "generos": [
         "Drama",
-        "Crime",
-        "História"
+        "Romance"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2dlXexLn0PJzzsqVRlxaREBNTJ4.jpg",
       "pais": [
-        "AR"
+        "TR"
       ],
       "idiomas": [
-        "es"
+        "tr"
       ],
-      "duracao": 105,
+      "duracao": 96,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1455,25 +1561,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BR"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt43706402/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Barreda",
-        "metacritic": "https://www.metacritic.com/search/Barreda/"
+        "imdb": "https://www.imdb.com/title/tt44147164/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Scene",
+        "metacritic": "https://www.metacritic.com/search/The%20Last%20Scene/"
       }
     },
     {
@@ -1593,6 +1686,122 @@
       }
     },
     {
+      "tmdb_id": 1471168,
+      "imdb_id": "tt43706402",
+      "titulo_original": "Barreda",
+      "titulo_ingles": "Barreda",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um filme de drama ficcional baseado em um dos crimes mais chocantes da história da Argentina. Em 1992, Ricardo Barreda, um dentista comum, assassinou brutalmente sua esposa, sua sogra e suas duas filhas adultas em sua casa. Fazendo-se de vítima, Ricardo Barreda provocou uma tempestade midiática e alimentou um escândalo nacional.",
+      "elenco": [
+        "Luis Machín",
+        "Carla Peterson",
+        "Mercedes Morán",
+        "Maite Lanata",
+        "Margarita Páez",
+        "Marcelo Subiotto",
+        "Paola Barrientos",
+        "Alberto Ajaka"
+      ],
+      "diretor": "Daniela Goggi",
+      "generos": [
+        "Drama",
+        "Crime",
+        "História"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
+      "pais": [
+        "AR"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 105,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43706402/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Barreda",
+        "metacritic": "https://www.metacritic.com/search/Barreda/"
+      }
+    },
+    {
+      "tmdb_id": 1462861,
+      "imdb_id": "tt22406048",
+      "titulo_original": "Spider Island",
+      "titulo_ingles": "Spider Island",
+      "ano": 2026,
+      "data_lancamento": "2026-08-27",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Rose Williams",
+        "Tim McInnerny",
+        "Avani Gregg",
+        "Abraham Lewis",
+        "Carlotta Banat",
+        "Anuschka van Lent",
+        "Justin Daniels Anene",
+        "Owen Warner"
+      ],
+      "diretor": "Christopher Smith",
+      "generos": [
+        "Comédia",
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
+      "pais": [
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt22406048/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spider%20Island",
+        "metacritic": "https://www.metacritic.com/search/Spider%20Island/"
+      }
+    },
+    {
       "tmdb_id": 860508,
       "imdb_id": "tt11561116",
       "titulo_original": "The Whisper Man",
@@ -1658,57 +1867,6 @@
       }
     },
     {
-      "tmdb_id": 1462861,
-      "imdb_id": "tt22406048",
-      "titulo_original": "Spider Island",
-      "titulo_ingles": "Spider Island",
-      "ano": 2026,
-      "data_lancamento": "2026-08-27",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Rose Williams",
-        "Tim McInnerny",
-        "Avani Gregg",
-        "Abraham Lewis",
-        "Carlotta Banat",
-        "Anuschka van Lent",
-        "Justin Daniels Anene",
-        "Owen Warner"
-      ],
-      "diretor": "Christopher Smith",
-      "generos": [
-        "Comédia",
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt22406048/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spider%20Island",
-        "metacritic": "https://www.metacritic.com/search/Spider%20Island/"
-      }
-    },
-    {
       "tmdb_id": 1384216,
       "imdb_id": "tt21285562",
       "titulo_original": "The Dog Stars",
@@ -1758,6 +1916,111 @@
         "imdb": "https://www.imdb.com/title/tt21285562/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dog%20Stars",
         "metacritic": "https://www.metacritic.com/search/The%20Dog%20Stars/"
+      }
+    },
+    {
+      "tmdb_id": 1729723,
+      "imdb_id": "tt43141030",
+      "titulo_original": "Yellow Mirror",
+      "titulo_ingles": "Yellow Mirror",
+      "ano": 2026,
+      "data_lancamento": "2026-08-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um abajur com defeito revela uma verdade comovente sobre o que Homer acredita ser a realidade, e um tablet com inteligência artificial faz amizade com Maggie e passa a controlá-la. Os Simpsons lutam para achar a luz em meio a duas histórias sombrias, intrigantes e bizarras, neste episódio exclusivo da Disney+.",
+      "elenco": [
+        "Dan Castellaneta",
+        "Nancy Cartwright",
+        "Julie Kavner",
+        "Yeardley Smith",
+        "Patti Harrison",
+        "Demi Moore",
+        "Harry Shearer",
+        "Alex Désert"
+      ],
+      "diretor": "Matthew Faughnan",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 27,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43141030/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Mirror",
+        "metacritic": "https://www.metacritic.com/search/Yellow%20Mirror/"
+      }
+    },
+    {
+      "tmdb_id": 1213243,
+      "imdb_id": "tt27530512",
+      "titulo_original": "ಟಾಕ್ಸಿಕ್",
+      "titulo_ingles": "Toxic: A Fairy Tale for Grown-ups",
+      "ano": 2026,
+      "data_lancamento": "2026-08-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Yash",
+        "कियारा आडवाणी",
+        "நயன்தாரா",
+        "हुमा क़ुरैशी",
+        "Tara Sutaria",
+        "ರುಕ್ಮಿಣಿ ವಸಂತ",
+        "Sudev Nair",
+        "Akshay Oberoi"
+      ],
+      "diretor": "Geethu Mohandas",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "kn",
+        "en"
+      ],
+      "duracao": 192,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt27530512/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups",
+        "metacritic": "https://www.metacritic.com/search/Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups/"
       }
     },
     {
@@ -1826,91 +2089,29 @@
       }
     },
     {
-      "tmdb_id": 1213243,
-      "imdb_id": "tt27530512",
-      "titulo_original": "ಟಾಕ್ಸಿಕ್",
-      "titulo_ingles": "Toxic: A Fairy Tale for Grown-ups",
+      "tmdb_id": 1739186,
+      "imdb_id": "tt43700434",
+      "titulo_original": "Untold: The Testimony of Vince Young",
+      "titulo_ingles": "Untold: The Testimony of Vince Young",
       "ano": 2026,
-      "data_lancamento": "2026-08-26",
+      "data_lancamento": "2026-08-25",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Da ascensão no futebol americano universitário ao período conturbado na NFL, Vince Young relembra o sucesso e a queda neste documentário envolvente.",
       "elenco": [
-        "Yash",
-        "कियारा आडवाणी",
-        "நயன்தாரா",
-        "हुमा क़ुरैशी",
-        "Tara Sutaria",
-        "ರುಕ್ಮಿಣಿ ವಸಂತ",
-        "Sudev Nair",
-        "Akshay Oberoi"
+        "Vince Young"
       ],
-      "diretor": "Geethu Mohandas",
+      "diretor": "John Henion",
       "generos": [
-        "Ação",
-        "Crime",
-        "Drama"
+        "Documentário"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "kn",
-        "en"
-      ],
-      "duracao": 192,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt27530512/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups",
-        "metacritic": "https://www.metacritic.com/search/Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups/"
-      }
-    },
-    {
-      "tmdb_id": 1729723,
-      "imdb_id": "tt43141030",
-      "titulo_original": "Yellow Mirror",
-      "titulo_ingles": "Yellow Mirror",
-      "ano": 2026,
-      "data_lancamento": "2026-08-26",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um abajur com defeito revela uma verdade comovente sobre o que Homer acredita ser a realidade, e um tablet com inteligência artificial faz amizade com Maggie e passa a controlá-la. Os Simpsons lutam para achar a luz em meio a duas histórias sombrias, intrigantes e bizarras, neste episódio exclusivo da Disney+.",
-      "elenco": [
-        "Dan Castellaneta",
-        "Nancy Cartwright",
-        "Julie Kavner",
-        "Yeardley Smith",
-        "Patti Harrison",
-        "Demi Moore",
-        "Harry Shearer",
-        "Alex Désert"
-      ],
-      "diretor": "Matthew Faughnan",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4VzJHhxHHpUw0J4HzlyU9BIXoHg.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 27,
+      "duracao": 78,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1922,12 +2123,25 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1739186-untold-the-testimony-of-vince-young/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt43141030/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Mirror",
-        "metacritic": "https://www.metacritic.com/search/Yellow%20Mirror/"
+        "imdb": "https://www.imdb.com/title/tt43700434/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Untold%3A%20The%20Testimony%20of%20Vince%20Young",
+        "metacritic": "https://www.metacritic.com/search/Untold%3A%20The%20Testimony%20of%20Vince%20Young/"
       }
     },
     {
@@ -2158,121 +2372,6 @@
       }
     },
     {
-      "tmdb_id": 1341138,
-      "imdb_id": "tt33305867",
-      "titulo_original": "Spa Weekend",
-      "titulo_ingles": "Spa Weekend",
-      "ano": 2026,
-      "data_lancamento": "2026-08-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "Três amigas planejam um fim de semana de descanso em um spa de luxo, mas tudo sai do controle quando a integrante mais imprevisível do grupo aparece sem avisar. Entre massagens, bebidas e decisões duvidosas, o que era para ser uma escapada relaxante se transforma no fim de semana mais caótico e divertido de suas vidas.",
-      "elenco": [
-        "Leslie Mann",
-        "Michelle Buteau",
-        "Anna Faris",
-        "Isla Fisher",
-        "Adam Demos",
-        "Dominic Ona-Ariki",
-        "Erika Heynatz",
-        "Courtney Clarke"
-      ],
-      "diretor": "Scott Moore, Jon Lucas",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vmCmJq3Bx9PfuOy6pRrCrq2GdvR.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": 33,
-      "rt_publico": null,
-      "metacritic": 33,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 33,
-      "atual_metacritic": 33,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33305867/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spa%20Weekend",
-        "metacritic": "https://www.metacritic.com/search/Spa%20Weekend/"
-      }
-    },
-    {
-      "tmdb_id": 1441228,
-      "imdb_id": "tt39108319",
-      "titulo_original": "ఇరుముడి",
-      "titulo_ingles": "Irumudi",
-      "ano": 2026,
-      "data_lancamento": "2026-08-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "రవితేజ",
-        "Nakshathra C M",
-        "Priya Bhavani Shankar",
-        "Sai Kumar",
-        "Ajay Ghosh",
-        "Swasika",
-        "Rajkumar Kasireddy",
-        "Ramesh Indira"
-      ],
-      "diretor": "Shiva Nirvana",
-      "generos": [
-        "Drama",
-        "Família",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "te"
-      ],
-      "duracao": 152,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1441228/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39108319/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Irumudi",
-        "metacritic": "https://www.metacritic.com/search/Irumudi/"
-      }
-    },
-    {
       "tmdb_id": 1288445,
       "imdb_id": "tt32338669",
       "titulo_original": "Mutiny",
@@ -2325,110 +2424,6 @@
       }
     },
     {
-      "tmdb_id": 1291595,
-      "imdb_id": "tt32393988",
-      "titulo_original": "Insidious: Out of the Further",
-      "titulo_ingles": "Insidious: Out of the Further",
-      "ano": 2026,
-      "data_lancamento": "2026-08-19",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um trio de criminosos se infiltra em um bairro tranquilo e força uma nova família a entrar no plano astral, onde descobrem uma verdade aterradora: o Além está se infiltrando no mundo real.",
-      "elenco": [
-        "Amelia Eve",
-        "Island Austin",
-        "Brandon Perea",
-        "Lin Shaye",
-        "Maisie Richardson-Sellers",
-        "Sam Spruell",
-        "Joseph Lopez",
-        "Robina Beard"
-      ],
-      "diretor": "Jacob Chase",
-      "generos": [
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/8IEzyoBOCbKIvJ9DMwHgceJkNsP.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 106,
-      "rt_critica": 58,
-      "rt_publico": null,
-      "metacritic": 47,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 58,
-      "atual_metacritic": 47,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32393988/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Insidious%3A%20Out%20of%20the%20Further",
-        "metacritic": "https://www.metacritic.com/search/Insidious%3A%20Out%20of%20the%20Further/"
-      }
-    },
-    {
-      "tmdb_id": 1676318,
-      "imdb_id": "tt37540328",
-      "titulo_original": "Back to the 90s",
-      "titulo_ingles": "Back to the 90s",
-      "ano": 2026,
-      "data_lancamento": "2026-08-18",
-      "data_qualificacao": "",
-      "sinopse_pt": "Quando uma falha misteriosa manda uma boy band para o ano de 1995, poucos dias antes da apresentação mais importante de suas vidas, os cinco amigos correm contra o tempo para voltar. Mas conexões inesperadas surgem e o passado os envolve cada vez mais, fazendo com que voltar para casa signifique enfrentar o que estão dispostos a deixar para trás e quem eles realmente são uns para os outros.",
-      "elenco": [
-        "Jacob Rott",
-        "Luis Freitag",
-        "Bene Schulz",
-        "Julien Brown",
-        "Tim Schäcker",
-        "Anja Pichler",
-        "Luise Aschenbrenner",
-        "Sidney Fahlisch"
-      ],
-      "diretor": "Facundo Scalerandi",
-      "generos": [
-        "Romance",
-        "Comédia",
-        "Música"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/pKgzdwNqFPKJNcibY37klP6ySqE.jpg",
-      "pais": [
-        "DE",
-        "MT"
-      ],
-      "idiomas": [
-        "de"
-      ],
-      "duracao": 92,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37540328/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Back%20to%20the%2090s",
-        "metacritic": "https://www.metacritic.com/search/Back%20to%20the%2090s/"
-      }
-    },
-    {
       "tmdb_id": 1433367,
       "imdb_id": "tt37853455",
       "titulo_original": "One Night Only",
@@ -2452,7 +2447,7 @@
         "Romance",
         "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/8Gm5ME1RJ5xbHht65sXRc9BCIsB.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/61fSMjhMoBgoXvKOlz3AvMM6CHT.jpg",
       "pais": [
         "US"
       ],
@@ -2558,7 +2553,7 @@
         "Animação",
         "Ação",
         "Aventura",
-        "Ficção científica"
+        "Drama"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/kOeLi6uIhAlWchS7ZkgDwWSavYT.jpg",
       "pais": [
