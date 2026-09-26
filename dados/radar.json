@@ -1,7 +1,72 @@
 {
   "versao": 1,
-  "gerado_em": "2026-09-25T14:40:28.543Z",
+  "gerado_em": "2026-09-26T13:48:20.589Z",
   "filmes": [
+    {
+      "tmdb_id": 1492640,
+      "imdb_id": "tt6933238",
+      "titulo_original": "UNABOMBER",
+      "titulo_ingles": "UNABOMBER",
+      "ano": 2026,
+      "data_lancamento": "2026-09-25",
+      "data_qualificacao": "",
+      "sinopse_pt": "Este drama inspirado em uma história real mostra como Ted Kaczynski, um prodígio de Harvard, se transformou no infame Unabomber e foi caçado pelo FBI.",
+      "elenco": [
+        "Russell Crowe",
+        "Shailene Woodley",
+        "Jacob Tremblay",
+        "Annabelle Wallis",
+        "Alexander Ludwig",
+        "Marc Menchaca",
+        "Steven Ogg",
+        "Mark Camacho"
+      ],
+      "diretor": "Janus Metz",
+      "generos": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/xVRIUBkQvapWRjYwCbPvb0NfH37.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 101,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1492640-unabomber/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt6933238/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=UNABOMBER",
+        "metacritic": "https://www.metacritic.com/search/UNABOMBER/"
+      }
+    },
     {
       "tmdb_id": 1607127,
       "imdb_id": "tt37971717",
@@ -65,7 +130,9 @@
       "elenco": [
         "Brad Pitt",
         "J.K. Simmons",
-        "Anna Lambe"
+        "Anna Lambe",
+        "Justin Melnick",
+        "Shaun DeZern"
       ],
       "diretor": "David Ayer",
       "generos": [
@@ -361,7 +428,7 @@
         "Mistério",
         "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hZ28oBJvoagkp3CBrMteLQBykCc.jpg",
       "pais": [
         "US"
       ],
@@ -452,41 +519,37 @@
       }
     },
     {
-      "tmdb_id": 1465063,
-      "imdb_id": "tt36583977",
-      "titulo_original": "Forgotten Island",
-      "titulo_ingles": "Forgotten Island",
+      "tmdb_id": 1645164,
+      "imdb_id": "tt38574284",
+      "titulo_original": "Serpenti",
+      "titulo_ingles": "Snake",
       "ano": 2026,
       "data_lancamento": "2026-09-10",
       "data_qualificacao": "",
-      "sinopse_pt": "Jo e Raissa se veem presas no fantástico mundo da ilha esquecida de Nakali. Elas descobrem que seu único caminho para casa pode custar uma vida inteira de memórias e emoções.",
+      "sinopse_pt": "Paolo Marra matou a esposa sem compreender por quê. Consumido pela culpa, decide se entregar, cumprir sua pena e tentar restituir alguma dignidade à mulher que assassinou. Mas, entre policiais distraídos, advogados oportunistas, videntes e entraves burocráticos, ninguém parece levá-lo a sério. Preso num paradoxo kafkiano, Paolo descobre que, por mais que insista, não consegue ser detido.",
       "elenco": [
-        "H.E.R.",
-        "Liza Soberano",
-        "Dave Franco",
-        "Lea Salonga",
-        "Jenny Slate",
-        "Manny Jacinto",
-        "Dolly de Leon",
-        "Jo Koy"
+        "Leonardo Lidi",
+        "Alessandro Borghi",
+        "Pietro Castellitto",
+        "Valeria Golino",
+        "Daniele Parisi",
+        "Francesca Solombrino",
+        "Alessandra Ferrara",
+        "Martinus Tocchi"
       ],
-      "diretor": "Januel Mercado, Joel Crawford",
+      "diretor": "Roberto De Paolis",
       "generos": [
-        "Animação",
-        "Aventura",
-        "Fantasia",
-        "Comédia",
-        "Família"
+        "Drama",
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4PwgQjZLpIHkDPptgtGekocn78R.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
       "pais": [
-        "US"
+        "IT"
       ],
       "idiomas": [
-        "en",
-        "tl"
+        "it"
       ],
-      "duracao": 98,
+      "duracao": 88,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -498,12 +561,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "cinema"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36583977/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Forgotten%20Island",
-        "metacritic": "https://www.metacritic.com/search/Forgotten%20Island/"
+        "imdb": "https://www.imdb.com/title/tt38574284/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snake",
+        "metacritic": "https://www.metacritic.com/search/Snake/"
       }
     },
     {
@@ -610,57 +673,6 @@
         "imdb": "https://www.imdb.com/title/tt36983905/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Uprising",
         "metacritic": "https://www.metacritic.com/search/The%20Uprising/"
-      }
-    },
-    {
-      "tmdb_id": 1645164,
-      "imdb_id": "tt38574284",
-      "titulo_original": "Serpenti",
-      "titulo_ingles": "Snake",
-      "ano": 2026,
-      "data_lancamento": "2026-09-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Paolo Marra matou a esposa sem compreender por quê. Consumido pela culpa, decide se entregar, cumprir sua pena e tentar restituir alguma dignidade à mulher que assassinou. Mas, entre policiais distraídos, advogados oportunistas, videntes e entraves burocráticos, ninguém parece levá-lo a sério. Preso num paradoxo kafkiano, Paolo descobre que, por mais que insista, não consegue ser detido.",
-      "elenco": [
-        "Leonardo Lidi",
-        "Alessandro Borghi",
-        "Pietro Castellitto",
-        "Valeria Golino",
-        "Daniele Parisi",
-        "Francesca Solombrino",
-        "Alessandra Ferrara",
-        "Martinus Tocchi"
-      ],
-      "diretor": "Roberto De Paolis",
-      "generos": [
-        "Drama",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 88,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38574284/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snake",
-        "metacritic": "https://www.metacritic.com/search/Snake/"
       }
     },
     {
@@ -965,6 +977,60 @@
       }
     },
     {
+      "tmdb_id": 1378537,
+      "imdb_id": "tt34339725",
+      "titulo_original": "मिर्ज़ापुर - द मूवी",
+      "titulo_ingles": "Mirzapur: The Movie",
+      "ano": 2026,
+      "data_lancamento": "2026-09-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Pankaj Tripathi",
+        "Ali Fazal",
+        "दिव्येंदु शर्मा",
+        "Jitendra Kumar",
+        "Ravi Kishan",
+        "रसिका दुग्गल",
+        "Mohit Malik",
+        "शीबा चड्ढा"
+      ],
+      "diretor": "Gurmmeet Singh",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
+      "pais": [
+        "IN",
+        "US"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 197,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34339725/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mirzapur%3A%20The%20Movie",
+        "metacritic": "https://www.metacritic.com/search/Mirzapur%3A%20The%20Movie/"
+      }
+    },
+    {
       "tmdb_id": 1355228,
       "imdb_id": "tt33354945",
       "titulo_original": "गांधारी",
@@ -1166,60 +1232,6 @@
       }
     },
     {
-      "tmdb_id": 1378537,
-      "imdb_id": "tt34339725",
-      "titulo_original": "मिर्ज़ापुर - द मूवी",
-      "titulo_ingles": "Mirzapur: The Movie",
-      "ano": 2026,
-      "data_lancamento": "2026-09-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Pankaj Tripathi",
-        "Ali Fazal",
-        "दिव्येंदु शर्मा",
-        "Jitendra Kumar",
-        "Ravi Kishan",
-        "रसिका दुग्गल",
-        "Mohit Malik",
-        "शीबा चड्ढा"
-      ],
-      "diretor": "Gurmmeet Singh",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
-      "pais": [
-        "IN",
-        "US"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 197,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34339725/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mirzapur%3A%20The%20Movie",
-        "metacritic": "https://www.metacritic.com/search/Mirzapur%3A%20The%20Movie/"
-      }
-    },
-    {
       "tmdb_id": 1380417,
       "imdb_id": "tt34379051",
       "titulo_original": "By Any Means",
@@ -1271,6 +1283,60 @@
         "imdb": "https://www.imdb.com/title/tt34379051/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=By%20Any%20Means",
         "metacritic": "https://www.metacritic.com/search/By%20Any%20Means/"
+      }
+    },
+    {
+      "tmdb_id": 1731694,
+      "imdb_id": "tt43679852",
+      "titulo_original": "LEGO Star Wars: The Mandalorian",
+      "titulo_ingles": "LEGO Star Wars: The Mandalorian",
+      "ano": 2026,
+      "data_lancamento": "2026-09-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "O Mandaloriano e Grogu se juntam a seus aliados excêntricos para uma festa épica, celebrando seu heroísmo. Enquanto amigos entretêm a turma com histórias de suas aventuras, uma ameaça pirata se aproxima.",
+      "elenco": [
+        "Gavin Hammon",
+        "Amy Sedaris",
+        "Bill Burr",
+        "David Pasquesi",
+        "Katee Sackhoff",
+        "Emily Swallow",
+        "Giancarlo Esposito",
+        "Matthew Wood"
+      ],
+      "diretor": "Chris Buckley",
+      "generos": [
+        "Animação",
+        "Ficção científica",
+        "Aventura",
+        "Família",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 50,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43679852/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=LEGO%20Star%20Wars%3A%20The%20Mandalorian",
+        "metacritic": "https://www.metacritic.com/search/LEGO%20Star%20Wars%3A%20The%20Mandalorian/"
       }
     },
     {
@@ -1334,60 +1400,6 @@
         "imdb": "https://www.imdb.com/title/tt44322266/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Turning%20Point%3A%20Generation%209%2F11",
         "metacritic": "https://www.metacritic.com/search/Turning%20Point%3A%20Generation%209%2F11/"
-      }
-    },
-    {
-      "tmdb_id": 1731694,
-      "imdb_id": "tt43679852",
-      "titulo_original": "LEGO Star Wars: The Mandalorian",
-      "titulo_ingles": "LEGO Star Wars: The Mandalorian",
-      "ano": 2026,
-      "data_lancamento": "2026-09-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "O Mandaloriano e Grogu se juntam a seus aliados excêntricos para uma festa épica, celebrando seu heroísmo. Enquanto amigos entretêm a turma com histórias de suas aventuras, uma ameaça pirata se aproxima.",
-      "elenco": [
-        "Gavin Hammon",
-        "Amy Sedaris",
-        "Bill Burr",
-        "David Pasquesi",
-        "Katee Sackhoff",
-        "Emily Swallow",
-        "Giancarlo Esposito",
-        "Matthew Wood"
-      ],
-      "diretor": "Chris Buckley",
-      "generos": [
-        "Animação",
-        "Ficção científica",
-        "Aventura",
-        "Família",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 50,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43679852/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=LEGO%20Star%20Wars%3A%20The%20Mandalorian",
-        "metacritic": "https://www.metacritic.com/search/LEGO%20Star%20Wars%3A%20The%20Mandalorian/"
       }
     },
     {
@@ -1570,6 +1582,71 @@
       }
     },
     {
+      "tmdb_id": 1471168,
+      "imdb_id": "tt43706402",
+      "titulo_original": "Barreda",
+      "titulo_ingles": "Barreda",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um filme de drama ficcional baseado em um dos crimes mais chocantes da história da Argentina. Em 1992, Ricardo Barreda, um dentista comum, assassinou brutalmente sua esposa, sua sogra e suas duas filhas adultas em sua casa. Fazendo-se de vítima, Ricardo Barreda provocou uma tempestade midiática e alimentou um escândalo nacional.",
+      "elenco": [
+        "Luis Machín",
+        "Carla Peterson",
+        "Mercedes Morán",
+        "Maite Lanata",
+        "Margarita Páez",
+        "Marcelo Subiotto",
+        "Paola Barrientos",
+        "Alberto Ajaka"
+      ],
+      "diretor": "Daniela Goggi",
+      "generos": [
+        "Drama",
+        "Crime",
+        "História"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
+      "pais": [
+        "AR"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 105,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43706402/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Barreda",
+        "metacritic": "https://www.metacritic.com/search/Barreda/"
+      }
+    },
+    {
       "tmdb_id": 1480574,
       "imdb_id": "tt36948232",
       "titulo_original": "Just Play Dead",
@@ -1686,71 +1763,6 @@
       }
     },
     {
-      "tmdb_id": 1471168,
-      "imdb_id": "tt43706402",
-      "titulo_original": "Barreda",
-      "titulo_ingles": "Barreda",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um filme de drama ficcional baseado em um dos crimes mais chocantes da história da Argentina. Em 1992, Ricardo Barreda, um dentista comum, assassinou brutalmente sua esposa, sua sogra e suas duas filhas adultas em sua casa. Fazendo-se de vítima, Ricardo Barreda provocou uma tempestade midiática e alimentou um escândalo nacional.",
-      "elenco": [
-        "Luis Machín",
-        "Carla Peterson",
-        "Mercedes Morán",
-        "Maite Lanata",
-        "Margarita Páez",
-        "Marcelo Subiotto",
-        "Paola Barrientos",
-        "Alberto Ajaka"
-      ],
-      "diretor": "Daniela Goggi",
-      "generos": [
-        "Drama",
-        "Crime",
-        "História"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
-      "pais": [
-        "AR"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 105,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43706402/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Barreda",
-        "metacritic": "https://www.metacritic.com/search/Barreda/"
-      }
-    },
-    {
       "tmdb_id": 1462861,
       "imdb_id": "tt22406048",
       "titulo_original": "Spider Island",
@@ -1864,58 +1876,6 @@
         "imdb": "https://www.imdb.com/title/tt11561116/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Whisper%20Man",
         "metacritic": "https://www.metacritic.com/search/The%20Whisper%20Man/"
-      }
-    },
-    {
-      "tmdb_id": 1384216,
-      "imdb_id": "tt21285562",
-      "titulo_original": "The Dog Stars",
-      "titulo_ingles": "The Dog Stars",
-      "ano": 2026,
-      "data_lancamento": "2026-08-26",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após a população mundial ter sido devastada por uma pandemia, um homem vive uma existência solitária em um hangar de aviões no Colorado com seu cachorro e um pistoleiro taciturno com quem fez amizade. Quando uma transmissão misteriosa surge no rádio enquanto ele pilota seu velho Cessna, isso desencadeia uma busca pela origem do som.",
-      "elenco": [
-        "Jacob Elordi",
-        "Margaret Qualley",
-        "Josh Brolin",
-        "Guy Pearce",
-        "Allison Janney",
-        "Benedict Wong",
-        "Ewen Bremner",
-        "James Craze"
-      ],
-      "diretor": "Ridley Scott",
-      "generos": [
-        "Ficção científica",
-        "Thriller",
-        "Aventura"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/1C2qbfUW3lTzb8vpZeG8pjYzW3Q.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 118,
-      "rt_critica": 40,
-      "rt_publico": null,
-      "metacritic": 49,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 40,
-      "atual_metacritic": 49,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt21285562/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dog%20Stars",
-        "metacritic": "https://www.metacritic.com/search/The%20Dog%20Stars/"
       }
     },
     {
@@ -2086,6 +2046,58 @@
         "imdb": "https://www.imdb.com/title/tt37654096/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Sunrise",
         "metacritic": "https://www.metacritic.com/search/The%20Last%20Sunrise/"
+      }
+    },
+    {
+      "tmdb_id": 1384216,
+      "imdb_id": "tt21285562",
+      "titulo_original": "The Dog Stars",
+      "titulo_ingles": "The Dog Stars",
+      "ano": 2026,
+      "data_lancamento": "2026-08-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após a população mundial ter sido devastada por uma pandemia, um homem vive uma existência solitária em um hangar de aviões no Colorado com seu cachorro e um pistoleiro taciturno com quem fez amizade. Quando uma transmissão misteriosa surge no rádio enquanto ele pilota seu velho Cessna, isso desencadeia uma busca pela origem do som.",
+      "elenco": [
+        "Jacob Elordi",
+        "Margaret Qualley",
+        "Josh Brolin",
+        "Guy Pearce",
+        "Allison Janney",
+        "Benedict Wong",
+        "Ewen Bremner",
+        "James Craze"
+      ],
+      "diretor": "Ridley Scott",
+      "generos": [
+        "Ficção científica",
+        "Thriller",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/1C2qbfUW3lTzb8vpZeG8pjYzW3Q.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 118,
+      "rt_critica": 40,
+      "rt_publico": null,
+      "metacritic": 49,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 40,
+      "atual_metacritic": 49,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt21285562/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dog%20Stars",
+        "metacritic": "https://www.metacritic.com/search/The%20Dog%20Stars/"
       }
     },
     {
@@ -2372,6 +2384,56 @@
       }
     },
     {
+      "tmdb_id": 1341138,
+      "imdb_id": "tt33305867",
+      "titulo_original": "Spa Weekend",
+      "titulo_ingles": "Spa Weekend",
+      "ano": 2026,
+      "data_lancamento": "2026-08-20",
+      "data_qualificacao": "",
+      "sinopse_pt": "Três amigas planejam um fim de semana de descanso em um spa de luxo, mas tudo sai do controle quando a integrante mais imprevisível do grupo aparece sem avisar. Entre massagens, bebidas e decisões duvidosas, o que era para ser uma escapada relaxante se transforma no fim de semana mais caótico e divertido de suas vidas.",
+      "elenco": [
+        "Leslie Mann",
+        "Michelle Buteau",
+        "Anna Faris",
+        "Isla Fisher",
+        "Adam Demos",
+        "Dominic Ona-Ariki",
+        "Erika Heynatz",
+        "Courtney Clarke"
+      ],
+      "diretor": "Scott Moore, Jon Lucas",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vmCmJq3Bx9PfuOy6pRrCrq2GdvR.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": 33,
+      "rt_publico": null,
+      "metacritic": 33,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 33,
+      "atual_metacritic": 33,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33305867/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spa%20Weekend",
+        "metacritic": "https://www.metacritic.com/search/Spa%20Weekend/"
+      }
+    },
+    {
       "tmdb_id": 1288445,
       "imdb_id": "tt32338669",
       "titulo_original": "Mutiny",
@@ -2424,54 +2486,54 @@
       }
     },
     {
-      "tmdb_id": 1433367,
-      "imdb_id": "tt37853455",
-      "titulo_original": "One Night Only",
-      "titulo_ingles": "One Night Only",
+      "tmdb_id": 1291595,
+      "imdb_id": "tt32393988",
+      "titulo_original": "Insidious: Out of the Further",
+      "titulo_ingles": "Insidious: Out of the Further",
       "ano": 2026,
-      "data_lancamento": "2026-08-06",
+      "data_lancamento": "2026-08-19",
       "data_qualificacao": "",
-      "sinopse_pt": "Allie e Owen são dois desconhecidos que se encontram em Nova York na única noite do ano em que relações sexuais são permitidas por lei. Abandonados por seus parceiros, a busca deles por conexão emocional toma rumos inesperados",
+      "sinopse_pt": "Um trio de criminosos se infiltra em um bairro tranquilo e força uma nova família a entrar no plano astral, onde descobrem uma verdade aterradora: o Além está se infiltrando no mundo real.",
       "elenco": [
-        "Monica Barbaro",
-        "Callum Turner",
-        "Maya Hawke",
-        "King Princess",
-        "Molly Ringwald",
-        "LeVar Burton",
-        "Charlie Gillespie",
-        "Quintessa Swindell"
+        "Amelia Eve",
+        "Island Austin",
+        "Brandon Perea",
+        "Lin Shaye",
+        "Maisie Richardson-Sellers",
+        "Sam Spruell",
+        "Joseph Lopez",
+        "Robina Beard"
       ],
-      "diretor": "Will Gluck",
+      "diretor": "Jacob Chase",
       "generos": [
-        "Romance",
-        "Comédia"
+        "Terror",
+        "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/61fSMjhMoBgoXvKOlz3AvMM6CHT.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8IEzyoBOCbKIvJ9DMwHgceJkNsP.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 103,
-      "rt_critica": 43,
+      "duracao": 106,
+      "rt_critica": 58,
       "rt_publico": null,
-      "metacritic": 42,
+      "metacritic": 47,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 43,
-      "atual_metacritic": 42,
+      "atual_rt": 58,
+      "atual_metacritic": 47,
       "disponibilidade_br": {
         "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt37853455/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Night%20Only",
-        "metacritic": "https://www.metacritic.com/search/One%20Night%20Only/"
+        "imdb": "https://www.imdb.com/title/tt32393988/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Insidious%3A%20Out%20of%20the%20Further",
+        "metacritic": "https://www.metacritic.com/search/Insidious%3A%20Out%20of%20the%20Further/"
       }
     },
     {
@@ -2495,8 +2557,8 @@
       ],
       "diretor": "Eli Roth",
       "generos": [
-        "Terror",
         "Comédia",
+        "Terror",
         "Thriller"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/3qbjuaIhlfInBd9C85yv1ss50mq.jpg",
@@ -3305,58 +3367,6 @@
         "imdb": "https://www.imdb.com/title/tt36553678/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Daughter%20Is%20a%20Zombie",
         "metacritic": "https://www.metacritic.com/search/My%20Daughter%20Is%20a%20Zombie/"
-      }
-    },
-    {
-      "tmdb_id": 1440171,
-      "imdb_id": "tt28090350",
-      "titulo_original": "Una quinta portuguesa",
-      "titulo_ingles": "The Portuguese House",
-      "ano": 2025,
-      "data_lancamento": "2025-05-09",
-      "data_qualificacao": "",
-      "sinopse_pt": "O desaparecimento da esposa deixa Fernando, um pacato professor de Geografia, completamente devastado. Sem rumo, ele assume a identidade de outro homem e passa a trabalhar como jardineiro em uma quinta portuguesa onde desenvolve uma amizade inesperada com a dona da casa, dando início a uma nova vida que não lhe pertence.",
-      "elenco": [
-        "Manolo Solo",
-        "Maria de Medeiros",
-        "Бранка Катић",
-        "Rita Cabaço",
-        "Xavi Mira",
-        "Morgan Blasco",
-        "Gonçalo Dantas",
-        "Rui Morisson"
-      ],
-      "diretor": "Avelina Prat",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/iaRrZtVzbOlBaS0gexJGUgVci0C.jpg",
-      "pais": [
-        "ES",
-        "PT"
-      ],
-      "idiomas": [
-        "pt",
-        "es"
-      ],
-      "duracao": 114,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt28090350/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Portuguese%20House",
-        "metacritic": "https://www.metacritic.com/search/The%20Portuguese%20House/"
       }
     },
     {
