@@ -1,12 +1,12 @@
 {
   "versao": 1,
-  "gerado_em": "2026-09-26T13:48:20.589Z",
+  "gerado_em": "2026-09-27T14:46:20.478Z",
   "filmes": [
     {
       "tmdb_id": 1492640,
       "imdb_id": "tt6933238",
-      "titulo_original": "UNABOMBER",
-      "titulo_ingles": "UNABOMBER",
+      "titulo_original": "Unabomber",
+      "titulo_ingles": "Unabomber",
       "ano": 2026,
       "data_lancamento": "2026-09-25",
       "data_qualificacao": "",
@@ -63,8 +63,8 @@
       },
       "links": {
         "imdb": "https://www.imdb.com/title/tt6933238/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=UNABOMBER",
-        "metacritic": "https://www.metacritic.com/search/UNABOMBER/"
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Unabomber",
+        "metacritic": "https://www.metacritic.com/search/Unabomber/"
       }
     },
     {
@@ -167,70 +167,6 @@
       }
     },
     {
-      "tmdb_id": 1514863,
-      "imdb_id": "tt16478058",
-      "titulo_original": "Best of the Best",
-      "titulo_ingles": "Best of the Best",
-      "ano": 2026,
-      "data_lancamento": "2026-09-18",
-      "data_qualificacao": "",
-      "sinopse_pt": "Duas amigas de infância, Maya (Maitreyi Ramakrishnan) e Anjali (Priyanka Kedia), entram para a equipe de dança Bollywood da UCLA, mas logo descobrem que ganhar o campeonato nacional dos EUA vai ser muito mais difícil do que imaginavam.",
-      "elenco": [
-        "Maitreyi Ramakrishnan",
-        "Priyanka Kedia",
-        "Chaneil Kular",
-        "Ankur Rathee",
-        "Hasan Minhaj",
-        "Shreya Navile",
-        "Becky Alex",
-        "Nihar Duvvuri"
-      ],
-      "diretor": "Lena Khan",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vmjK9vC8usvMQ4dRqKVnx8P18Np.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "hi"
-      ],
-      "duracao": 112,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt16478058/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Best%20of%20the%20Best",
-        "metacritic": "https://www.metacritic.com/search/Best%20of%20the%20Best/"
-      }
-    },
-    {
       "tmdb_id": 1641629,
       "imdb_id": "tt43617372",
       "titulo_original": "Toi+Moi - Seuls contre tous",
@@ -293,6 +229,70 @@
         "imdb": "https://www.imdb.com/title/tt43617372/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=You%2BMe%20-%20Against%20the%20World",
         "metacritic": "https://www.metacritic.com/search/You%2BMe%20-%20Against%20the%20World/"
+      }
+    },
+    {
+      "tmdb_id": 1514863,
+      "imdb_id": "tt16478058",
+      "titulo_original": "Best of the Best",
+      "titulo_ingles": "Best of the Best",
+      "ano": 2026,
+      "data_lancamento": "2026-09-18",
+      "data_qualificacao": "",
+      "sinopse_pt": "Duas amigas de infância, Maya (Maitreyi Ramakrishnan) e Anjali (Priyanka Kedia), entram para a equipe de dança Bollywood da UCLA, mas logo descobrem que ganhar o campeonato nacional dos EUA vai ser muito mais difícil do que imaginavam.",
+      "elenco": [
+        "Maitreyi Ramakrishnan",
+        "Priyanka Kedia",
+        "Chaneil Kular",
+        "Ankur Rathee",
+        "Hasan Minhaj",
+        "Shreya Navile",
+        "Becky Alex",
+        "Nihar Duvvuri"
+      ],
+      "diretor": "Lena Khan",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vmjK9vC8usvMQ4dRqKVnx8P18Np.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "hi"
+      ],
+      "duracao": 112,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt16478058/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Best%20of%20the%20Best",
+        "metacritic": "https://www.metacritic.com/search/Best%20of%20the%20Best/"
       }
     },
     {
@@ -428,7 +428,7 @@
         "Mistério",
         "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/hZ28oBJvoagkp3CBrMteLQBykCc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
       "pais": [
         "US"
       ],
@@ -676,6 +676,58 @@
       }
     },
     {
+      "tmdb_id": 1302904,
+      "imdb_id": "tt32588798",
+      "titulo_original": "Practical Magic 2",
+      "titulo_ingles": "Practical Magic 2",
+      "ano": 2026,
+      "data_lancamento": "2026-09-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
+      "elenco": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Joey King",
+        "Maisie Williams",
+        "Xolo Maridueña",
+        "Lee Pace",
+        "Dianne Wiest",
+        "Stockard Channing"
+      ],
+      "diretor": "Susanne Bier",
+      "generos": [
+        "Romance",
+        "Fantasia",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uoJvqWGs4702jnqOwe8RABSxT3L.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 130,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32588798/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
+        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
+      }
+    },
+    {
       "tmdb_id": 1447853,
       "imdb_id": "tt36152310",
       "titulo_original": "Oasis: Don't Look Back in Anger",
@@ -730,58 +782,6 @@
         "imdb": "https://www.imdb.com/title/tt36152310/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Oasis%3A%20Don't%20Look%20Back%20in%20Anger",
         "metacritic": "https://www.metacritic.com/search/Oasis%3A%20Don't%20Look%20Back%20in%20Anger/"
-      }
-    },
-    {
-      "tmdb_id": 1302904,
-      "imdb_id": "tt32588798",
-      "titulo_original": "Practical Magic 2",
-      "titulo_ingles": "Practical Magic 2",
-      "ano": 2026,
-      "data_lancamento": "2026-09-09",
-      "data_qualificacao": "",
-      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
-      "elenco": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Joey King",
-        "Maisie Williams",
-        "Xolo Maridueña",
-        "Lee Pace",
-        "Dianne Wiest",
-        "Stockard Channing"
-      ],
-      "diretor": "Susanne Bier",
-      "generos": [
-        "Romance",
-        "Fantasia",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uoJvqWGs4702jnqOwe8RABSxT3L.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 130,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32588798/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
-        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
       }
     },
     {
@@ -846,6 +846,70 @@
         "imdb": "https://www.imdb.com/title/tt36073210/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Drawn%20Together",
         "metacritic": "https://www.metacritic.com/search/Drawn%20Together/"
+      }
+    },
+    {
+      "tmdb_id": 1762506,
+      "imdb_id": "tt33510831",
+      "titulo_original": "Band of Brothers: Legacy",
+      "titulo_ingles": "Band of Brothers: Legacy",
+      "ano": 2026,
+      "data_lancamento": "2026-09-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma homenagem documental à série que ajudou a preservar a história da Easy Company, em consonância com o 25º aniversário da série limitada original da HBO.",
+      "elenco": [
+        "Damian Lewis",
+        "Richard D. Winters",
+        "Ron Livingston",
+        "Neal McDonough",
+        "Frank John Hughes",
+        "Michael Cudlitz",
+        "James Madio",
+        "Dale Dye"
+      ],
+      "diretor": "Chase Millsap",
+      "generos": [
+        "Documentário",
+        "Guerra"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 60,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "HBO Max",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+          },
+          {
+            "nome": "HBO Max Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1762506-band-of-brothers-legacy/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33510831/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Band%20of%20Brothers%3A%20Legacy",
+        "metacritic": "https://www.metacritic.com/search/Band%20of%20Brothers%3A%20Legacy/"
       }
     },
     {
@@ -974,6 +1038,122 @@
         "imdb": "https://www.imdb.com/title/tt43700444/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool",
         "metacritic": "https://www.metacritic.com/search/Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool/"
+      }
+    },
+    {
+      "tmdb_id": 1257147,
+      "imdb_id": "tt37458193",
+      "titulo_original": "Minha Melhor Amiga",
+      "titulo_ingles": "My Best Friend",
+      "ano": 2026,
+      "data_lancamento": "2026-09-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Júlia e Clara são melhores amigas e vivem o auge dos seus 50 anos. Quando suas filhas viajam para um intercâmbio de alguns meses em Portugal, as duas precisam enfrentar a saudade e o vazio deixado pelas meninas. A dupla decide sacudir a rotina e embarca para a Europa para surpreender as meninas, mas encara diversos perrengues na jornada.",
+      "elenco": [
+        "Ingrid Guimarães",
+        "Mônica Martelli",
+        "Giulia Benite",
+        "Gabi Amaral",
+        "Ricardo Pereira",
+        "Michel Melamed",
+        "Thaila Ayala",
+        "Gustavo Machado"
+      ],
+      "diretor": "Susana Garcia",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
+      "pais": [
+        "BR",
+        "PT"
+      ],
+      "idiomas": [
+        "pt"
+      ],
+      "duracao": 125,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37458193/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Best%20Friend",
+        "metacritic": "https://www.metacritic.com/search/My%20Best%20Friend/"
+      }
+    },
+    {
+      "tmdb_id": 1386315,
+      "imdb_id": "tt34564059",
+      "titulo_original": "The Runner",
+      "titulo_ingles": "The Runner",
+      "ano": 2026,
+      "data_lancamento": "2026-09-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Maia Marten é uma advogada brilhante de Londres, vê a sua vida ruir com uma ligação durante sua corrida matinal que avisa que seu filho foi sequestrado. Para recuperá-lo, ela deve continuar correndo, obedecer a cada comando e não confiar em ninguém. Cada segundo desta corrida testará até onde vai uma mãe para salvar a vida do seu filho.",
+      "elenco": [
+        "Gal Gadot",
+        "Damian Lewis",
+        "Rory Wilmot",
+        "Alfred Enoch",
+        "Phoenix Di Sebastiani",
+        "Nathan Kirby",
+        "Hélder Fernandes",
+        "Will Austin"
+      ],
+      "diretor": "Kevin Macdonald",
+      "generos": [
+        "Thriller",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/zPlBUyu9rWhVrdiRfSClwMkmQiT.jpg",
+      "pais": [
+        "US",
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 86,
+      "rt_critica": 8,
+      "rt_publico": null,
+      "metacritic": 28,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 8,
+      "atual_metacritic": 28,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34564059/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Runner",
+        "metacritic": "https://www.metacritic.com/search/The%20Runner/"
       }
     },
     {
@@ -1167,71 +1347,6 @@
       }
     },
     {
-      "tmdb_id": 1386315,
-      "imdb_id": "tt34564059",
-      "titulo_original": "The Runner",
-      "titulo_ingles": "The Runner",
-      "ano": 2026,
-      "data_lancamento": "2026-09-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "Maia Marten é uma advogada brilhante de Londres, vê a sua vida ruir com uma ligação durante sua corrida matinal que avisa que seu filho foi sequestrado. Para recuperá-lo, ela deve continuar correndo, obedecer a cada comando e não confiar em ninguém. Cada segundo desta corrida testará até onde vai uma mãe para salvar a vida do seu filho.",
-      "elenco": [
-        "Gal Gadot",
-        "Damian Lewis",
-        "Rory Wilmot",
-        "Alfred Enoch",
-        "Phoenix Di Sebastiani",
-        "Nathan Kirby",
-        "Hélder Fernandes",
-        "Will Austin"
-      ],
-      "diretor": "Kevin Macdonald",
-      "generos": [
-        "Thriller",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/zPlBUyu9rWhVrdiRfSClwMkmQiT.jpg",
-      "pais": [
-        "US",
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 86,
-      "rt_critica": 8,
-      "rt_publico": null,
-      "metacritic": 28,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 8,
-      "atual_metacritic": 28,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34564059/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Runner",
-        "metacritic": "https://www.metacritic.com/search/The%20Runner/"
-      }
-    },
-    {
       "tmdb_id": 1380417,
       "imdb_id": "tt34379051",
       "titulo_original": "By Any Means",
@@ -1362,7 +1477,7 @@
       "generos": [
         "Documentário"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/1vKUROvhGiBo7eFTGjooazOIXr2.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2F1sqcKQ9BOFF3c88aIxIb6dcxE.jpg",
       "pais": [
         "US"
       ],
@@ -1467,6 +1582,56 @@
       }
     },
     {
+      "tmdb_id": 1482547,
+      "imdb_id": "tt36980377",
+      "titulo_original": "Zip Wire",
+      "titulo_ingles": "Zip Wire",
+      "ano": 2026,
+      "data_lancamento": "2026-08-31",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "MyAnna Buring",
+        "Joseph Millson",
+        "Saffron Burrows",
+        "Michael Amariah",
+        "Silvia Presente"
+      ],
+      "diretor": "Howard J. Ford",
+      "generos": [
+        "Ação",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cO7J0XSVKPlAjUCMWC7DVBn1Py2.jpg",
+      "pais": [
+        "DK",
+        "US",
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 95,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36980377/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Zip%20Wire",
+        "metacritic": "https://www.metacritic.com/search/Zip%20Wire/"
+      }
+    },
+    {
       "tmdb_id": 1365884,
       "imdb_id": "tt38267923",
       "titulo_original": "Dix Pour Cent ! Le Film",
@@ -1528,57 +1693,6 @@
         "imdb": "https://www.imdb.com/title/tt38267923/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Call%20My%20Agent!%20The%20Movie",
         "metacritic": "https://www.metacritic.com/search/Call%20My%20Agent!%20The%20Movie/"
-      }
-    },
-    {
-      "tmdb_id": 1550338,
-      "imdb_id": "tt44147164",
-      "titulo_original": "Öngörü",
-      "titulo_ingles": "The Last Scene",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Selen pode ver o futuro de outras pessoas. Uma visão a leva a um romance inesperado e a um desafio. Quando seu caminho se cruza com Kemal, começa uma luta entre amor e perigo. As escolhas que ela fizer afetarão sua vida e o futuro de Kemal.",
-      "elenco": [
-        "Hilal Altınbilek",
-        "Serkan Çayoğlu",
-        "Olcay Yusufoğlu",
-        "Bora Karakul",
-        "Sema Mumcu",
-        "Gökçen Gökçebağ",
-        "Yiğit Kalkavan",
-        "Sedat Savtak"
-      ],
-      "diretor": "Ali Bilgin",
-      "generos": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/2dlXexLn0PJzzsqVRlxaREBNTJ4.jpg",
-      "pais": [
-        "TR"
-      ],
-      "idiomas": [
-        "tr"
-      ],
-      "duracao": 96,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt44147164/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Scene",
-        "metacritic": "https://www.metacritic.com/search/The%20Last%20Scene/"
       }
     },
     {
@@ -1644,6 +1758,57 @@
         "imdb": "https://www.imdb.com/title/tt43706402/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Barreda",
         "metacritic": "https://www.metacritic.com/search/Barreda/"
+      }
+    },
+    {
+      "tmdb_id": 1550338,
+      "imdb_id": "tt44147164",
+      "titulo_original": "Öngörü",
+      "titulo_ingles": "The Last Scene",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Selen pode ver o futuro de outras pessoas. Uma visão a leva a um romance inesperado e a um desafio. Quando seu caminho se cruza com Kemal, começa uma luta entre amor e perigo. As escolhas que ela fizer afetarão sua vida e o futuro de Kemal.",
+      "elenco": [
+        "Hilal Altınbilek",
+        "Serkan Çayoğlu",
+        "Olcay Yusufoğlu",
+        "Bora Karakul",
+        "Sema Mumcu",
+        "Gökçen Gökçebağ",
+        "Yiğit Kalkavan",
+        "Sedat Savtak"
+      ],
+      "diretor": "Ali Bilgin",
+      "generos": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/2dlXexLn0PJzzsqVRlxaREBNTJ4.jpg",
+      "pais": [
+        "TR"
+      ],
+      "idiomas": [
+        "tr"
+      ],
+      "duracao": 96,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt44147164/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Scene",
+        "metacritic": "https://www.metacritic.com/search/The%20Last%20Scene/"
       }
     },
     {
@@ -1763,57 +1928,6 @@
       }
     },
     {
-      "tmdb_id": 1462861,
-      "imdb_id": "tt22406048",
-      "titulo_original": "Spider Island",
-      "titulo_ingles": "Spider Island",
-      "ano": 2026,
-      "data_lancamento": "2026-08-27",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Rose Williams",
-        "Tim McInnerny",
-        "Avani Gregg",
-        "Abraham Lewis",
-        "Carlotta Banat",
-        "Anuschka van Lent",
-        "Justin Daniels Anene",
-        "Owen Warner"
-      ],
-      "diretor": "Christopher Smith",
-      "generos": [
-        "Comédia",
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt22406048/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spider%20Island",
-        "metacritic": "https://www.metacritic.com/search/Spider%20Island/"
-      }
-    },
-    {
       "tmdb_id": 860508,
       "imdb_id": "tt11561116",
       "titulo_original": "The Whisper Man",
@@ -1879,108 +1993,106 @@
       }
     },
     {
-      "tmdb_id": 1729723,
-      "imdb_id": "tt43141030",
-      "titulo_original": "Yellow Mirror",
-      "titulo_ingles": "Yellow Mirror",
+      "tmdb_id": 1462861,
+      "imdb_id": "tt22406048",
+      "titulo_original": "Spider Island",
+      "titulo_ingles": "Spider Island",
+      "ano": 2026,
+      "data_lancamento": "2026-08-27",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Rose Williams",
+        "Tim McInnerny",
+        "Avani Gregg",
+        "Abraham Lewis",
+        "Carlotta Banat",
+        "Anuschka van Lent",
+        "Justin Daniels Anene",
+        "Owen Warner"
+      ],
+      "diretor": "Christopher Smith",
+      "generos": [
+        "Comédia",
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
+      "pais": [
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt22406048/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spider%20Island",
+        "metacritic": "https://www.metacritic.com/search/Spider%20Island/"
+      }
+    },
+    {
+      "tmdb_id": 1384216,
+      "imdb_id": "tt21285562",
+      "titulo_original": "The Dog Stars",
+      "titulo_ingles": "The Dog Stars",
       "ano": 2026,
       "data_lancamento": "2026-08-26",
       "data_qualificacao": "",
-      "sinopse_pt": "Um abajur com defeito revela uma verdade comovente sobre o que Homer acredita ser a realidade, e um tablet com inteligência artificial faz amizade com Maggie e passa a controlá-la. Os Simpsons lutam para achar a luz em meio a duas histórias sombrias, intrigantes e bizarras, neste episódio exclusivo da Disney+.",
+      "sinopse_pt": "Após a população mundial ter sido devastada por uma pandemia, um homem vive uma existência solitária em um hangar de aviões no Colorado com seu cachorro e um pistoleiro taciturno com quem fez amizade. Quando uma transmissão misteriosa surge no rádio enquanto ele pilota seu velho Cessna, isso desencadeia uma busca pela origem do som.",
       "elenco": [
-        "Dan Castellaneta",
-        "Nancy Cartwright",
-        "Julie Kavner",
-        "Yeardley Smith",
-        "Patti Harrison",
-        "Demi Moore",
-        "Harry Shearer",
-        "Alex Désert"
+        "Jacob Elordi",
+        "Margaret Qualley",
+        "Josh Brolin",
+        "Guy Pearce",
+        "Allison Janney",
+        "Benedict Wong",
+        "Ewen Bremner",
+        "James Craze"
       ],
-      "diretor": "Matthew Faughnan",
+      "diretor": "Ridley Scott",
       "generos": [
-        "Animação",
-        "Comédia",
-        "Ficção científica"
+        "Ficção científica",
+        "Thriller",
+        "Aventura"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1C2qbfUW3lTzb8vpZeG8pjYzW3Q.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 27,
-      "rt_critica": null,
+      "duracao": 118,
+      "rt_critica": 40,
       "rt_publico": null,
-      "metacritic": null,
+      "metacritic": 49,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
+      "atual_rt": 40,
+      "atual_metacritic": 49,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt43141030/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Mirror",
-        "metacritic": "https://www.metacritic.com/search/Yellow%20Mirror/"
-      }
-    },
-    {
-      "tmdb_id": 1213243,
-      "imdb_id": "tt27530512",
-      "titulo_original": "ಟಾಕ್ಸಿಕ್",
-      "titulo_ingles": "Toxic: A Fairy Tale for Grown-ups",
-      "ano": 2026,
-      "data_lancamento": "2026-08-26",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Yash",
-        "कियारा आडवाणी",
-        "நயன்தாரா",
-        "हुमा क़ुरैशी",
-        "Tara Sutaria",
-        "ರುಕ್ಮಿಣಿ ವಸಂತ",
-        "Sudev Nair",
-        "Akshay Oberoi"
-      ],
-      "diretor": "Geethu Mohandas",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "kn",
-        "en"
-      ],
-      "duracao": 192,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt27530512/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups",
-        "metacritic": "https://www.metacritic.com/search/Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups/"
+        "imdb": "https://www.imdb.com/title/tt21285562/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dog%20Stars",
+        "metacritic": "https://www.metacritic.com/search/The%20Dog%20Stars/"
       }
     },
     {
@@ -2049,55 +2161,108 @@
       }
     },
     {
-      "tmdb_id": 1384216,
-      "imdb_id": "tt21285562",
-      "titulo_original": "The Dog Stars",
-      "titulo_ingles": "The Dog Stars",
+      "tmdb_id": 1213243,
+      "imdb_id": "tt27530512",
+      "titulo_original": "ಟಾಕ್ಸಿಕ್",
+      "titulo_ingles": "Toxic: A Fairy Tale for Grown-ups",
       "ano": 2026,
       "data_lancamento": "2026-08-26",
       "data_qualificacao": "",
-      "sinopse_pt": "Após a população mundial ter sido devastada por uma pandemia, um homem vive uma existência solitária em um hangar de aviões no Colorado com seu cachorro e um pistoleiro taciturno com quem fez amizade. Quando uma transmissão misteriosa surge no rádio enquanto ele pilota seu velho Cessna, isso desencadeia uma busca pela origem do som.",
+      "sinopse_pt": "",
       "elenco": [
-        "Jacob Elordi",
-        "Margaret Qualley",
-        "Josh Brolin",
-        "Guy Pearce",
-        "Allison Janney",
-        "Benedict Wong",
-        "Ewen Bremner",
-        "James Craze"
+        "Yash",
+        "कियारा आडवाणी",
+        "நயன்தாரா",
+        "हुमा क़ुरैशी",
+        "Tara Sutaria",
+        "ರುಕ್ಮಿಣಿ ವಸಂತ",
+        "Sudev Nair",
+        "Akshay Oberoi"
       ],
-      "diretor": "Ridley Scott",
+      "diretor": "Geethu Mohandas",
       "generos": [
-        "Ficção científica",
-        "Thriller",
-        "Aventura"
+        "Ação",
+        "Crime",
+        "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/1C2qbfUW3lTzb8vpZeG8pjYzW3Q.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "kn",
+        "en"
+      ],
+      "duracao": 192,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt27530512/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups",
+        "metacritic": "https://www.metacritic.com/search/Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups/"
+      }
+    },
+    {
+      "tmdb_id": 1729723,
+      "imdb_id": "tt43141030",
+      "titulo_original": "Yellow Mirror",
+      "titulo_ingles": "Yellow Mirror",
+      "ano": 2026,
+      "data_lancamento": "2026-08-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um abajur com defeito revela uma verdade comovente sobre o que Homer acredita ser a realidade, e um tablet com inteligência artificial faz amizade com Maggie e passa a controlá-la. Os Simpsons lutam para achar a luz em meio a duas histórias sombrias, intrigantes e bizarras, neste episódio exclusivo da Disney+.",
+      "elenco": [
+        "Dan Castellaneta",
+        "Nancy Cartwright",
+        "Julie Kavner",
+        "Yeardley Smith",
+        "Patti Harrison",
+        "Demi Moore",
+        "Harry Shearer",
+        "Alex Désert"
+      ],
+      "diretor": "Matthew Faughnan",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 118,
-      "rt_critica": 40,
+      "duracao": 27,
+      "rt_critica": null,
       "rt_publico": null,
-      "metacritic": 49,
+      "metacritic": null,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 40,
-      "atual_metacritic": 49,
+      "atual_rt": null,
+      "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "cinema"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt21285562/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dog%20Stars",
-        "metacritic": "https://www.metacritic.com/search/The%20Dog%20Stars/"
+        "imdb": "https://www.imdb.com/title/tt43141030/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Mirror",
+        "metacritic": "https://www.metacritic.com/search/Yellow%20Mirror/"
       }
     },
     {
@@ -2223,58 +2388,6 @@
       }
     },
     {
-      "tmdb_id": 1508168,
-      "imdb_id": "tt37535100",
-      "titulo_original": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
-      "titulo_ingles": "Bethlehem Kudumba Unit",
-      "ano": 2026,
-      "data_lancamento": "2026-08-21",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Nivin Pauly",
-        "Mamitha Baiju",
-        "സംഗീത് പ്രതാപ്",
-        "Suresh Krishna",
-        "Shyam Mohan",
-        "Bindu Panicker",
-        "Roshan Shanavas",
-        "Srindaa"
-      ],
-      "diretor": "Girish A D",
-      "generos": [
-        "Romance",
-        "Comédia",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "ml"
-      ],
-      "duracao": 155,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37535100/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Bethlehem%20Kudumba%20Unit",
-        "metacritic": "https://www.metacritic.com/search/Bethlehem%20Kudumba%20Unit/"
-      }
-    },
-    {
       "tmdb_id": 813418,
       "imdb_id": "tt14119302",
       "titulo_original": "Hot Spot",
@@ -2333,6 +2446,58 @@
       }
     },
     {
+      "tmdb_id": 1508168,
+      "imdb_id": "tt37535100",
+      "titulo_original": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+      "titulo_ingles": "Bethlehem Kudumba Unit",
+      "ano": 2026,
+      "data_lancamento": "2026-08-21",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Nivin Pauly",
+        "Mamitha Baiju",
+        "സംഗീത് പ്രതാപ്",
+        "Suresh Krishna",
+        "Shyam Mohan",
+        "Bindu Panicker",
+        "Roshan Shanavas",
+        "Srindaa"
+      ],
+      "diretor": "Girish A D",
+      "generos": [
+        "Romance",
+        "Comédia",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "ml"
+      ],
+      "duracao": 155,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37535100/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Bethlehem%20Kudumba%20Unit",
+        "metacritic": "https://www.metacritic.com/search/Bethlehem%20Kudumba%20Unit/"
+      }
+    },
+    {
       "tmdb_id": 445466,
       "imdb_id": "tt6628920",
       "titulo_original": "Idiots",
@@ -2381,56 +2546,6 @@
         "imdb": "https://www.imdb.com/title/tt6628920/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Idiots",
         "metacritic": "https://www.metacritic.com/search/Idiots/"
-      }
-    },
-    {
-      "tmdb_id": 1341138,
-      "imdb_id": "tt33305867",
-      "titulo_original": "Spa Weekend",
-      "titulo_ingles": "Spa Weekend",
-      "ano": 2026,
-      "data_lancamento": "2026-08-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "Três amigas planejam um fim de semana de descanso em um spa de luxo, mas tudo sai do controle quando a integrante mais imprevisível do grupo aparece sem avisar. Entre massagens, bebidas e decisões duvidosas, o que era para ser uma escapada relaxante se transforma no fim de semana mais caótico e divertido de suas vidas.",
-      "elenco": [
-        "Leslie Mann",
-        "Michelle Buteau",
-        "Anna Faris",
-        "Isla Fisher",
-        "Adam Demos",
-        "Dominic Ona-Ariki",
-        "Erika Heynatz",
-        "Courtney Clarke"
-      ],
-      "diretor": "Scott Moore, Jon Lucas",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vmCmJq3Bx9PfuOy6pRrCrq2GdvR.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": 33,
-      "rt_publico": null,
-      "metacritic": 33,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 33,
-      "atual_metacritic": 33,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33305867/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spa%20Weekend",
-        "metacritic": "https://www.metacritic.com/search/Spa%20Weekend/"
       }
     },
     {
@@ -2486,54 +2601,54 @@
       }
     },
     {
-      "tmdb_id": 1291595,
-      "imdb_id": "tt32393988",
-      "titulo_original": "Insidious: Out of the Further",
-      "titulo_ingles": "Insidious: Out of the Further",
+      "tmdb_id": 1433367,
+      "imdb_id": "tt37853455",
+      "titulo_original": "One Night Only",
+      "titulo_ingles": "One Night Only",
       "ano": 2026,
-      "data_lancamento": "2026-08-19",
+      "data_lancamento": "2026-08-06",
       "data_qualificacao": "",
-      "sinopse_pt": "Um trio de criminosos se infiltra em um bairro tranquilo e força uma nova família a entrar no plano astral, onde descobrem uma verdade aterradora: o Além está se infiltrando no mundo real.",
+      "sinopse_pt": "Allie e Owen são dois desconhecidos que se encontram em Nova York na única noite do ano em que relações sexuais são permitidas por lei. Abandonados por seus parceiros, a busca deles por conexão emocional toma rumos inesperados",
       "elenco": [
-        "Amelia Eve",
-        "Island Austin",
-        "Brandon Perea",
-        "Lin Shaye",
-        "Maisie Richardson-Sellers",
-        "Sam Spruell",
-        "Joseph Lopez",
-        "Robina Beard"
+        "Monica Barbaro",
+        "Callum Turner",
+        "Maya Hawke",
+        "King Princess",
+        "Molly Ringwald",
+        "LeVar Burton",
+        "Charlie Gillespie",
+        "Quintessa Swindell"
       ],
-      "diretor": "Jacob Chase",
+      "diretor": "Will Gluck",
       "generos": [
-        "Terror",
-        "Thriller"
+        "Romance",
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/8IEzyoBOCbKIvJ9DMwHgceJkNsP.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/8Gm5ME1RJ5xbHht65sXRc9BCIsB.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 106,
-      "rt_critica": 58,
+      "duracao": 103,
+      "rt_critica": 43,
       "rt_publico": null,
-      "metacritic": 47,
+      "metacritic": 42,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 58,
-      "atual_metacritic": 47,
+      "atual_rt": 43,
+      "atual_metacritic": 42,
       "disponibilidade_br": {
         "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt32393988/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Insidious%3A%20Out%20of%20the%20Further",
-        "metacritic": "https://www.metacritic.com/search/Insidious%3A%20Out%20of%20the%20Further/"
+        "imdb": "https://www.imdb.com/title/tt37853455/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Night%20Only",
+        "metacritic": "https://www.metacritic.com/search/One%20Night%20Only/"
       }
     },
     {
@@ -2778,56 +2893,6 @@
         "imdb": "https://www.imdb.com/title/tt36646880/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Parallel%20Tales",
         "metacritic": "https://www.metacritic.com/search/Parallel%20Tales/"
-      }
-    },
-    {
-      "tmdb_id": 1523145,
-      "imdb_id": "tt38190257",
-      "titulo_original": "Твоё сердце будет разбито",
-      "titulo_ingles": "Your Heart Will Be Broken",
-      "ano": 2026,
-      "data_lancamento": "2026-03-26",
-      "data_qualificacao": "",
-      "sinopse_pt": "A adolescente Polina tenta recomeçar a vida em uma nova cidade, mas logo se torna alvo de bullying na escola. Tudo muda quando Bars, o aluno mais temido e misterioso do colégio, oferece proteção em troca de que ela siga suas próprias regras. O que começa com um “fake dating” logo evolui para uma relação intensa e emocionalmente complexa, marcada por dependência, vulnerabilidade e uma crescente necessidade de pertencimento.",
-      "elenco": [
-        "Даниэль Вегас",
-        "Вероника Журавлёва",
-        "Иван Трушин",
-        "Максим Сапрыкин",
-        "Аля Майер",
-        "Евгения Лоза",
-        "Павел Кузьмин",
-        "Александра Тихонова"
-      ],
-      "diretor": "Михаил Вайнберг",
-      "generos": [
-        "Romance"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/lsa8cLHVMPcKiSV5blNOqHTpQil.jpg",
-      "pais": [
-        "RU"
-      ],
-      "idiomas": [
-        "ru"
-      ],
-      "duracao": 105,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38190257/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Your%20Heart%20Will%20Be%20Broken",
-        "metacritic": "https://www.metacritic.com/search/Your%20Heart%20Will%20Be%20Broken/"
       }
     },
     {
@@ -3316,57 +3381,6 @@
         "imdb": "https://www.imdb.com/title/tt34730492/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Damned%20If%20You%20Do%2C%20Damned%20If%20You%20Don't",
         "metacritic": "https://www.metacritic.com/search/Damned%20If%20You%20Do%2C%20Damned%20If%20You%20Don't/"
-      }
-    },
-    {
-      "tmdb_id": 1306816,
-      "imdb_id": "tt36553678",
-      "titulo_original": "좀비딸",
-      "titulo_ingles": "My Daughter Is a Zombie",
-      "ano": 2025,
-      "data_lancamento": "2025-07-30",
-      "data_qualificacao": "",
-      "sinopse_pt": "Man Deok administra um posto de gasolina em uma vila tranquila e sonha em se aposentar no Havaí. Seus três filhos adultos, Joon Gul, Min Gul e Hae Gul, cada um enfrenta suas próprias lutas, com Min Gul voltando para casa depois de perder o emprego. Sua vida pacífica é interrompida quando um homem misterioso chega, perturbando tanto a família quanto toda a aldeia.",
-      "elenco": [
-        "Cho Jung-seok",
-        "Lee Jung-eun",
-        "Cho Yeo-jeong",
-        "윤경호",
-        "최유리",
-        "금동이",
-        "전수지",
-        "김병춘"
-      ],
-      "diretor": "필감성",
-      "generos": [
-        "Comédia",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/w1nviiggo4gfYeZlFFXD0pc9s0v.jpg",
-      "pais": [
-        "KR"
-      ],
-      "idiomas": [
-        "ko"
-      ],
-      "duracao": 114,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36553678/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Daughter%20Is%20a%20Zombie",
-        "metacritic": "https://www.metacritic.com/search/My%20Daughter%20Is%20a%20Zombie/"
       }
     },
     {
