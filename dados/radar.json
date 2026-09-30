@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-09-29T16:01:38.710Z",
+  "gerado_em": "2026-09-30T16:00:42.679Z",
   "filmes": [
     {
       "tmdb_id": 1492640,
@@ -348,60 +348,6 @@
       }
     },
     {
-      "tmdb_id": 1423191,
-      "imdb_id": "tt35538033",
-      "titulo_original": "Resident Evil",
-      "titulo_ingles": "Resident Evil",
-      "ano": 2026,
-      "data_lancamento": "2026-09-16",
-      "data_qualificacao": "",
-      "sinopse_pt": "Bryan, um tranquilo entregador de órgãos, é enviado para uma entrega noturna no Hospital Geral de Raccoon City. No caminho por uma estrada montanhosa coberta de neve, ele acidentalmente atropela uma mulher desconhecida. Ela sobrevive, mas algo está muito errado. Ao tentar ajudar, Bryan se depara com um surto em larga escala envolvendo mutações horríveis com tentáculos e monstruosidades bioengenheiradas.",
-      "elenco": [
-        "Austin Abrams",
-        "Paul Walter Hauser",
-        "Kali Reis",
-        "Zach Cherry",
-        "Johnno Wilson",
-        "Shaun W. Loeser",
-        "Zach Cregger",
-        "Emily Piggford"
-      ],
-      "diretor": "Zach Cregger",
-      "generos": [
-        "Terror",
-        "Ficção científica",
-        "Aventura"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/gQ76UL64RQe3oHwiwHwODTC23g4.jpg",
-      "pais": [
-        "US",
-        "DE",
-        "FR"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 90,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35538033/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Resident%20Evil",
-        "metacritic": "https://www.metacritic.com/search/Resident%20Evil/"
-      }
-    },
-    {
       "tmdb_id": 1433583,
       "imdb_id": "tt10794054",
       "titulo_original": "The Weight",
@@ -453,6 +399,60 @@
         "imdb": "https://www.imdb.com/title/tt10794054/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Weight",
         "metacritic": "https://www.metacritic.com/search/The%20Weight/"
+      }
+    },
+    {
+      "tmdb_id": 1423191,
+      "imdb_id": "tt35538033",
+      "titulo_original": "Resident Evil",
+      "titulo_ingles": "Resident Evil",
+      "ano": 2026,
+      "data_lancamento": "2026-09-16",
+      "data_qualificacao": "",
+      "sinopse_pt": "Bryan, um tranquilo entregador de órgãos, é enviado para uma entrega noturna no Hospital Geral de Raccoon City. No caminho por uma estrada montanhosa coberta de neve, ele acidentalmente atropela uma mulher desconhecida. Ela sobrevive, mas algo está muito errado. Ao tentar ajudar, Bryan se depara com um surto em larga escala envolvendo mutações horríveis com tentáculos e monstruosidades bioengenheiradas.",
+      "elenco": [
+        "Austin Abrams",
+        "Paul Walter Hauser",
+        "Kali Reis",
+        "Zach Cherry",
+        "Johnno Wilson",
+        "Shaun W. Loeser",
+        "Zach Cregger",
+        "Emily Piggford"
+      ],
+      "diretor": "Zach Cregger",
+      "generos": [
+        "Terror",
+        "Ficção científica",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/gQ76UL64RQe3oHwiwHwODTC23g4.jpg",
+      "pais": [
+        "US",
+        "DE",
+        "FR"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 90,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35538033/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Resident%20Evil",
+        "metacritic": "https://www.metacritic.com/search/Resident%20Evil/"
       }
     },
     {
@@ -672,110 +672,6 @@
       }
     },
     {
-      "tmdb_id": 1645164,
-      "imdb_id": "tt38574284",
-      "titulo_original": "Serpenti",
-      "titulo_ingles": "Snake",
-      "ano": 2026,
-      "data_lancamento": "2026-09-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Paolo Marra matou a esposa sem compreender por quê. Consumido pela culpa, decide se entregar, cumprir sua pena e tentar restituir alguma dignidade à mulher que assassinou. Mas, entre policiais distraídos, advogados oportunistas, videntes e entraves burocráticos, ninguém parece levá-lo a sério. Preso num paradoxo kafkiano, Paolo descobre que, por mais que insista, não consegue ser detido.",
-      "elenco": [
-        "Leonardo Lidi",
-        "Alessandro Borghi",
-        "Pietro Castellitto",
-        "Valeria Golino",
-        "Daniele Parisi",
-        "Francesca Solombrino",
-        "Alessandra Ferrara",
-        "Martinus Tocchi"
-      ],
-      "diretor": "Roberto De Paolis",
-      "generos": [
-        "Drama",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 88,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38574284/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snake",
-        "metacritic": "https://www.metacritic.com/search/Snake/"
-      }
-    },
-    {
-      "tmdb_id": 1340102,
-      "imdb_id": "tt38953026",
-      "titulo_original": "Lion Fist",
-      "titulo_ingles": "Lion Fist",
-      "ano": 2026,
-      "data_lancamento": "2026-09-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Mathis Landwehr",
-        "Li Yanlong",
-        "Kurt McKinney",
-        "Keith Cooke",
-        "Brice Akuesson",
-        "David Yeung",
-        "Gary Daniels",
-        "Finja Martens"
-      ],
-      "diretor": "Taim M. Adams",
-      "generos": [
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
-      "pais": [
-        "US",
-        "DE"
-      ],
-      "idiomas": [
-        "en",
-        "da",
-        "zh"
-      ],
-      "duracao": 91,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38953026/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Lion%20Fist",
-        "metacritic": "https://www.metacritic.com/search/Lion%20Fist/"
-      }
-    },
-    {
       "tmdb_id": 1228834,
       "imdb_id": "tt9601292",
       "titulo_original": "The Fix",
@@ -840,15 +736,14 @@
         "Andrew Garfield",
         "Jamie Bell",
         "Stephen Dillane",
+        "Woody Norman",
         "Tom Hollander",
         "Cosmo Jarvis",
         "Thomasin McKenzie",
-        "Jonny Lee Miller",
-        "Woody Norman"
+        "Jonny Lee Miller"
       ],
       "diretor": "Paul Greengrass",
       "generos": [
-        "Ação",
         "História",
         "Drama"
       ],
@@ -879,6 +774,59 @@
         "imdb": "https://www.imdb.com/title/tt36983905/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Uprising",
         "metacritic": "https://www.metacritic.com/search/The%20Uprising/"
+      }
+    },
+    {
+      "tmdb_id": 1340102,
+      "imdb_id": "tt38953026",
+      "titulo_original": "Lion Fist",
+      "titulo_ingles": "Lion Fist",
+      "ano": 2026,
+      "data_lancamento": "2026-09-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Mathis Landwehr",
+        "Li Yanlong",
+        "Kurt McKinney",
+        "Keith Cooke",
+        "Brice Akuesson",
+        "David Yeung",
+        "Gary Daniels",
+        "Finja Martens"
+      ],
+      "diretor": "Taim M. Adams",
+      "generos": [
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
+      "pais": [
+        "US",
+        "DE"
+      ],
+      "idiomas": [
+        "en",
+        "da",
+        "zh"
+      ],
+      "duracao": 91,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38953026/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Lion%20Fist",
+        "metacritic": "https://www.metacritic.com/search/Lion%20Fist/"
       }
     },
     {
@@ -930,6 +878,57 @@
         "imdb": "https://www.imdb.com/title/tt9395802/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Echo%20Chamber",
         "metacritic": "https://www.metacritic.com/search/The%20Echo%20Chamber/"
+      }
+    },
+    {
+      "tmdb_id": 1645164,
+      "imdb_id": "tt38574284",
+      "titulo_original": "Serpenti",
+      "titulo_ingles": "Snake",
+      "ano": 2026,
+      "data_lancamento": "2026-09-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "Paolo Marra matou a esposa sem compreender por quê. Consumido pela culpa, decide se entregar, cumprir sua pena e tentar restituir alguma dignidade à mulher que assassinou. Mas, entre policiais distraídos, advogados oportunistas, videntes e entraves burocráticos, ninguém parece levá-lo a sério. Preso num paradoxo kafkiano, Paolo descobre que, por mais que insista, não consegue ser detido.",
+      "elenco": [
+        "Leonardo Lidi",
+        "Alessandro Borghi",
+        "Pietro Castellitto",
+        "Valeria Golino",
+        "Daniele Parisi",
+        "Francesca Solombrino",
+        "Alessandra Ferrara",
+        "Martinus Tocchi"
+      ],
+      "diretor": "Roberto De Paolis",
+      "generos": [
+        "Drama",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 88,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38574284/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snake",
+        "metacritic": "https://www.metacritic.com/search/Snake/"
       }
     },
     {
@@ -1042,70 +1041,6 @@
       }
     },
     {
-      "tmdb_id": 1440098,
-      "imdb_id": "tt36073210",
-      "titulo_original": "Enfrentados: Marfil",
-      "titulo_ingles": "Drawn Together",
-      "ano": 2026,
-      "data_lancamento": "2026-09-09",
-      "data_qualificacao": "",
-      "sinopse_pt": "Marfil, filha de um empresário espanhol, vê sua vida em Nova York virar de cabeça para baixo quando é sequestrada e libertada sem nenhuma explicação. O pai dela contrata Sebastián Moore para ser seu guarda-costas e, forçados a passar cada minuto do dia juntos, uma atração inevitável surge entre eles em um mundo onde nada é o que parece. Baseado no livro de Mercedes Ron, autora da saga \"Culpados\".",
-      "elenco": [
-        "Ester Expósito",
-        "Hugo Diego Garcia",
-        "Pablo Molinero",
-        "Lluís Homar",
-        "Joaquín Ferreira",
-        "Zoe Bonafonte",
-        "Majo Gámez",
-        "João Bettencourt"
-      ],
-      "diretor": "Óscar Pedraza",
-      "generos": [
-        "Romance",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/99OB0p7ah8wyTphLHrghSJXtmr5.jpg",
-      "pais": [
-        "ES"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 104,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36073210/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Drawn%20Together",
-        "metacritic": "https://www.metacritic.com/search/Drawn%20Together/"
-      }
-    },
-    {
       "tmdb_id": 1762506,
       "imdb_id": "tt33510831",
       "titulo_original": "Band of Brothers: Legacy",
@@ -1167,6 +1102,70 @@
         "imdb": "https://www.imdb.com/title/tt33510831/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Band%20of%20Brothers%3A%20Legacy",
         "metacritic": "https://www.metacritic.com/search/Band%20of%20Brothers%3A%20Legacy/"
+      }
+    },
+    {
+      "tmdb_id": 1440098,
+      "imdb_id": "tt36073210",
+      "titulo_original": "Enfrentados: Marfil",
+      "titulo_ingles": "Drawn Together",
+      "ano": 2026,
+      "data_lancamento": "2026-09-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "Marfil, filha de um empresário espanhol, vê sua vida em Nova York virar de cabeça para baixo quando é sequestrada e libertada sem nenhuma explicação. O pai dela contrata Sebastián Moore para ser seu guarda-costas e, forçados a passar cada minuto do dia juntos, uma atração inevitável surge entre eles em um mundo onde nada é o que parece. Baseado no livro de Mercedes Ron, autora da saga \"Culpados\".",
+      "elenco": [
+        "Ester Expósito",
+        "Hugo Diego Garcia",
+        "Pablo Molinero",
+        "Lluís Homar",
+        "Joaquín Ferreira",
+        "Zoe Bonafonte",
+        "Majo Gámez",
+        "João Bettencourt"
+      ],
+      "diretor": "Óscar Pedraza",
+      "generos": [
+        "Romance",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/99OB0p7ah8wyTphLHrghSJXtmr5.jpg",
+      "pais": [
+        "ES"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 104,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36073210/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Drawn%20Together",
+        "metacritic": "https://www.metacritic.com/search/Drawn%20Together/"
       }
     },
     {
@@ -1298,60 +1297,6 @@
       }
     },
     {
-      "tmdb_id": 1378537,
-      "imdb_id": "tt34339725",
-      "titulo_original": "मिर्ज़ापुर - द मूवी",
-      "titulo_ingles": "Mirzapur: The Movie",
-      "ano": 2026,
-      "data_lancamento": "2026-09-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Pankaj Tripathi",
-        "Ali Fazal",
-        "दिव्येंदु शर्मा",
-        "Jitendra Kumar",
-        "Ravi Kishan",
-        "रसिका दुग्गल",
-        "Mohit Malik",
-        "शीबा चड्ढा"
-      ],
-      "diretor": "Gurmmeet Singh",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
-      "pais": [
-        "IN",
-        "US"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 197,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34339725/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mirzapur%3A%20The%20Movie",
-        "metacritic": "https://www.metacritic.com/search/Mirzapur%3A%20The%20Movie/"
-      }
-    },
-    {
       "tmdb_id": 1355228,
       "imdb_id": "tt33354945",
       "titulo_original": "गांधारी",
@@ -1414,6 +1359,176 @@
         "imdb": "https://www.imdb.com/title/tt33354945/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Gandhari",
         "metacritic": "https://www.metacritic.com/search/Gandhari/"
+      }
+    },
+    {
+      "tmdb_id": 1386315,
+      "imdb_id": "tt34564059",
+      "titulo_original": "The Runner",
+      "titulo_ingles": "The Runner",
+      "ano": 2026,
+      "data_lancamento": "2026-09-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Maia Marten é uma advogada brilhante de Londres, vê a sua vida ruir com uma ligação durante sua corrida matinal que avisa que seu filho foi sequestrado. Para recuperá-lo, ela deve continuar correndo, obedecer a cada comando e não confiar em ninguém. Cada segundo desta corrida testará até onde vai uma mãe para salvar a vida do seu filho.",
+      "elenco": [
+        "Gal Gadot",
+        "Damian Lewis",
+        "Rory Wilmot",
+        "Alfred Enoch",
+        "Phoenix Di Sebastiani",
+        "Nathan Kirby",
+        "Hélder Fernandes",
+        "Will Austin"
+      ],
+      "diretor": "Kevin Macdonald",
+      "generos": [
+        "Thriller",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/zPlBUyu9rWhVrdiRfSClwMkmQiT.jpg",
+      "pais": [
+        "US",
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 86,
+      "rt_critica": 8,
+      "rt_publico": null,
+      "metacritic": 28,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 8,
+      "atual_metacritic": 28,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34564059/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Runner",
+        "metacritic": "https://www.metacritic.com/search/The%20Runner/"
+      }
+    },
+    {
+      "tmdb_id": 1257147,
+      "imdb_id": "tt37458193",
+      "titulo_original": "Minha Melhor Amiga",
+      "titulo_ingles": "My Best Friend",
+      "ano": 2026,
+      "data_lancamento": "2026-09-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Júlia e Clara são melhores amigas e vivem o auge dos seus 50 anos. Quando suas filhas viajam para um intercâmbio de alguns meses em Portugal, as duas precisam enfrentar a saudade e o vazio deixado pelas meninas. A dupla decide sacudir a rotina e embarca para a Europa para surpreender as meninas, mas encara diversos perrengues na jornada.",
+      "elenco": [
+        "Ingrid Guimarães",
+        "Mônica Martelli",
+        "Giulia Benite",
+        "Gabi Amaral",
+        "Ricardo Pereira",
+        "Michel Melamed",
+        "Thaila Ayala",
+        "Gustavo Machado"
+      ],
+      "diretor": "Susana Garcia",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
+      "pais": [
+        "BR",
+        "PT"
+      ],
+      "idiomas": [
+        "pt"
+      ],
+      "duracao": 125,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37458193/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Best%20Friend",
+        "metacritic": "https://www.metacritic.com/search/My%20Best%20Friend/"
+      }
+    },
+    {
+      "tmdb_id": 1378537,
+      "imdb_id": "tt34339725",
+      "titulo_original": "मिर्ज़ापुर - द मूवी",
+      "titulo_ingles": "Mirzapur: The Movie",
+      "ano": 2026,
+      "data_lancamento": "2026-09-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Pankaj Tripathi",
+        "Ali Fazal",
+        "दिव्येंदु शर्मा",
+        "Jitendra Kumar",
+        "Ravi Kishan",
+        "रसिका दुग्गल",
+        "Mohit Malik",
+        "शीबा चड्ढा"
+      ],
+      "diretor": "Gurmmeet Singh",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
+      "pais": [
+        "IN",
+        "US"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 197,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34339725/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mirzapur%3A%20The%20Movie",
+        "metacritic": "https://www.metacritic.com/search/Mirzapur%3A%20The%20Movie/"
       }
     },
     {
@@ -1488,122 +1603,6 @@
       }
     },
     {
-      "tmdb_id": 1257147,
-      "imdb_id": "tt37458193",
-      "titulo_original": "Minha Melhor Amiga",
-      "titulo_ingles": "My Best Friend",
-      "ano": 2026,
-      "data_lancamento": "2026-09-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "Júlia e Clara são melhores amigas e vivem o auge dos seus 50 anos. Quando suas filhas viajam para um intercâmbio de alguns meses em Portugal, as duas precisam enfrentar a saudade e o vazio deixado pelas meninas. A dupla decide sacudir a rotina e embarca para a Europa para surpreender as meninas, mas encara diversos perrengues na jornada.",
-      "elenco": [
-        "Ingrid Guimarães",
-        "Mônica Martelli",
-        "Giulia Benite",
-        "Gabi Amaral",
-        "Ricardo Pereira",
-        "Michel Melamed",
-        "Thaila Ayala",
-        "Gustavo Machado"
-      ],
-      "diretor": "Susana Garcia",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
-      "pais": [
-        "BR",
-        "PT"
-      ],
-      "idiomas": [
-        "pt"
-      ],
-      "duracao": 125,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37458193/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Best%20Friend",
-        "metacritic": "https://www.metacritic.com/search/My%20Best%20Friend/"
-      }
-    },
-    {
-      "tmdb_id": 1386315,
-      "imdb_id": "tt34564059",
-      "titulo_original": "The Runner",
-      "titulo_ingles": "The Runner",
-      "ano": 2026,
-      "data_lancamento": "2026-09-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "Maia Marten é uma advogada brilhante de Londres, vê a sua vida ruir com uma ligação durante sua corrida matinal que avisa que seu filho foi sequestrado. Para recuperá-lo, ela deve continuar correndo, obedecer a cada comando e não confiar em ninguém. Cada segundo desta corrida testará até onde vai uma mãe para salvar a vida do seu filho.",
-      "elenco": [
-        "Gal Gadot",
-        "Damian Lewis",
-        "Rory Wilmot",
-        "Alfred Enoch",
-        "Phoenix Di Sebastiani",
-        "Nathan Kirby",
-        "Hélder Fernandes",
-        "Will Austin"
-      ],
-      "diretor": "Kevin Macdonald",
-      "generos": [
-        "Thriller",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/zPlBUyu9rWhVrdiRfSClwMkmQiT.jpg",
-      "pais": [
-        "US",
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 86,
-      "rt_critica": 8,
-      "rt_publico": null,
-      "metacritic": 28,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 8,
-      "atual_metacritic": 28,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34564059/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Runner",
-        "metacritic": "https://www.metacritic.com/search/The%20Runner/"
-      }
-    },
-    {
       "tmdb_id": 1380417,
       "imdb_id": "tt34379051",
       "titulo_original": "By Any Means",
@@ -1655,60 +1654,6 @@
         "imdb": "https://www.imdb.com/title/tt34379051/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=By%20Any%20Means",
         "metacritic": "https://www.metacritic.com/search/By%20Any%20Means/"
-      }
-    },
-    {
-      "tmdb_id": 1731694,
-      "imdb_id": "tt43679852",
-      "titulo_original": "LEGO Star Wars: The Mandalorian",
-      "titulo_ingles": "LEGO Star Wars: The Mandalorian",
-      "ano": 2026,
-      "data_lancamento": "2026-09-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "O Mandaloriano e Grogu se juntam a seus aliados excêntricos para uma festa épica, celebrando seu heroísmo. Enquanto amigos entretêm a turma com histórias de suas aventuras, uma ameaça pirata se aproxima.",
-      "elenco": [
-        "Gavin Hammon",
-        "Amy Sedaris",
-        "Bill Burr",
-        "David Pasquesi",
-        "Katee Sackhoff",
-        "Emily Swallow",
-        "Giancarlo Esposito",
-        "Matthew Wood"
-      ],
-      "diretor": "Chris Buckley",
-      "generos": [
-        "Animação",
-        "Ficção científica",
-        "Aventura",
-        "Família",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 50,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43679852/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=LEGO%20Star%20Wars%3A%20The%20Mandalorian",
-        "metacritic": "https://www.metacritic.com/search/LEGO%20Star%20Wars%3A%20The%20Mandalorian/"
       }
     },
     {
@@ -1772,6 +1717,60 @@
         "imdb": "https://www.imdb.com/title/tt44322266/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Turning%20Point%3A%20Generation%209%2F11",
         "metacritic": "https://www.metacritic.com/search/Turning%20Point%3A%20Generation%209%2F11/"
+      }
+    },
+    {
+      "tmdb_id": 1731694,
+      "imdb_id": "tt43679852",
+      "titulo_original": "LEGO Star Wars: The Mandalorian",
+      "titulo_ingles": "LEGO Star Wars: The Mandalorian",
+      "ano": 2026,
+      "data_lancamento": "2026-09-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "O Mandaloriano e Grogu se juntam a seus aliados excêntricos para uma festa épica, celebrando seu heroísmo. Enquanto amigos entretêm a turma com histórias de suas aventuras, uma ameaça pirata se aproxima.",
+      "elenco": [
+        "Gavin Hammon",
+        "Amy Sedaris",
+        "Bill Burr",
+        "David Pasquesi",
+        "Katee Sackhoff",
+        "Emily Swallow",
+        "Giancarlo Esposito",
+        "Matthew Wood"
+      ],
+      "diretor": "Chris Buckley",
+      "generos": [
+        "Animação",
+        "Ficção científica",
+        "Aventura",
+        "Família",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 50,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43679852/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=LEGO%20Star%20Wars%3A%20The%20Mandalorian",
+        "metacritic": "https://www.metacritic.com/search/LEGO%20Star%20Wars%3A%20The%20Mandalorian/"
       }
     },
     {
@@ -1953,6 +1952,57 @@
       }
     },
     {
+      "tmdb_id": 843352,
+      "imdb_id": "tt12446086",
+      "titulo_original": "Legend of the White Dragon",
+      "titulo_ingles": "Legend of the White Dragon",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após três anos de esconderijo forçado como fugitivo, Erik Reed —um ex-super-herói conhecido como Dragão Branco— retorna à cidade que jurou proteger. Seu objetivo: limpar seu nome e se reunir com a família que ele mantém em segredo. Apenas uma coisa está em seu caminho: o misterioso Dragon Prime, que não medirá esforços para se vingar do Dragão Branco.",
+      "elenco": [
+        "Jason David Frank",
+        "Aaron Schoenke",
+        "Jason Faunt",
+        "Rachele Brooke Smith",
+        "Michael Madsen",
+        "Andrew Bachelor",
+        "David Ramsey",
+        "Mark Dacascos"
+      ],
+      "diretor": "Aaron Schoenke",
+      "generos": [
+        "Ação",
+        "Fantasia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/yygzww0GACtCMmwhtPG1P01qSx5.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt12446086/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Legend%20of%20the%20White%20Dragon",
+        "metacritic": "https://www.metacritic.com/search/Legend%20of%20the%20White%20Dragon/"
+      }
+    },
+    {
       "tmdb_id": 1550338,
       "imdb_id": "tt44147164",
       "titulo_original": "Öngörü",
@@ -2001,57 +2051,6 @@
         "imdb": "https://www.imdb.com/title/tt44147164/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Scene",
         "metacritic": "https://www.metacritic.com/search/The%20Last%20Scene/"
-      }
-    },
-    {
-      "tmdb_id": 1480574,
-      "imdb_id": "tt36948232",
-      "titulo_original": "Just Play Dead",
-      "titulo_ingles": "Just Play Dead",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um gênio do crime planeja forjar a própria morte para receber o dinheiro do seguro e incriminar o amante da esposa. A esposa, por sua vez, trama para matá-lo de verdade e ficar com tudo. Os dois competem numa batalha mortal de inteligência para se superarem.",
-      "elenco": [
-        "Samuel L. Jackson",
-        "Eva Green",
-        "María Pedraza",
-        "Eoin Macken",
-        "Jason Fernández",
-        "Paulo Rivera",
-        "Nicole Ansari-Cox",
-        "Lee Boardman"
-      ],
-      "diretor": "Martin Campbell",
-      "generos": [
-        "Thriller",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36948232/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Just%20Play%20Dead",
-        "metacritic": "https://www.metacritic.com/search/Just%20Play%20Dead/"
       }
     },
     {
@@ -2120,6 +2119,57 @@
       }
     },
     {
+      "tmdb_id": 1480574,
+      "imdb_id": "tt36948232",
+      "titulo_original": "Just Play Dead",
+      "titulo_ingles": "Just Play Dead",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um gênio do crime planeja forjar a própria morte para receber o dinheiro do seguro e incriminar o amante da esposa. A esposa, por sua vez, trama para matá-lo de verdade e ficar com tudo. Os dois competem numa batalha mortal de inteligência para se superarem.",
+      "elenco": [
+        "Samuel L. Jackson",
+        "Eva Green",
+        "María Pedraza",
+        "Eoin Macken",
+        "Jason Fernández",
+        "Paulo Rivera",
+        "Nicole Ansari-Cox",
+        "Lee Boardman"
+      ],
+      "diretor": "Martin Campbell",
+      "generos": [
+        "Thriller",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
+      "pais": [
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36948232/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Just%20Play%20Dead",
+        "metacritic": "https://www.metacritic.com/search/Just%20Play%20Dead/"
+      }
+    },
+    {
       "tmdb_id": 1471168,
       "imdb_id": "tt43706402",
       "titulo_original": "Barreda",
@@ -2182,6 +2232,57 @@
         "imdb": "https://www.imdb.com/title/tt43706402/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Barreda",
         "metacritic": "https://www.metacritic.com/search/Barreda/"
+      }
+    },
+    {
+      "tmdb_id": 1462861,
+      "imdb_id": "tt22406048",
+      "titulo_original": "Spider Island",
+      "titulo_ingles": "Spider Island",
+      "ano": 2026,
+      "data_lancamento": "2026-08-27",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Rose Williams",
+        "Tim McInnerny",
+        "Avani Gregg",
+        "Abraham Lewis",
+        "Carlotta Banat",
+        "Anuschka van Lent",
+        "Justin Daniels Anene",
+        "Owen Warner"
+      ],
+      "diretor": "Christopher Smith",
+      "generos": [
+        "Comédia",
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
+      "pais": [
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt22406048/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spider%20Island",
+        "metacritic": "https://www.metacritic.com/search/Spider%20Island/"
       }
     },
     {
@@ -2250,57 +2351,6 @@
       }
     },
     {
-      "tmdb_id": 1462861,
-      "imdb_id": "tt22406048",
-      "titulo_original": "Spider Island",
-      "titulo_ingles": "Spider Island",
-      "ano": 2026,
-      "data_lancamento": "2026-08-27",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Rose Williams",
-        "Tim McInnerny",
-        "Avani Gregg",
-        "Abraham Lewis",
-        "Carlotta Banat",
-        "Anuschka van Lent",
-        "Justin Daniels Anene",
-        "Owen Warner"
-      ],
-      "diretor": "Christopher Smith",
-      "generos": [
-        "Comédia",
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt22406048/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spider%20Island",
-        "metacritic": "https://www.metacritic.com/search/Spider%20Island/"
-      }
-    },
-    {
       "tmdb_id": 1384216,
       "imdb_id": "tt21285562",
       "titulo_original": "The Dog Stars",
@@ -2350,6 +2400,58 @@
         "imdb": "https://www.imdb.com/title/tt21285562/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dog%20Stars",
         "metacritic": "https://www.metacritic.com/search/The%20Dog%20Stars/"
+      }
+    },
+    {
+      "tmdb_id": 1729723,
+      "imdb_id": "tt43141030",
+      "titulo_original": "Yellow Mirror",
+      "titulo_ingles": "Yellow Mirror",
+      "ano": 2026,
+      "data_lancamento": "2026-08-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um abajur com defeito revela uma verdade comovente sobre o que Homer acredita ser a realidade, e um tablet com inteligência artificial faz amizade com Maggie e passa a controlá-la. Os Simpsons lutam para achar a luz em meio a duas histórias sombrias, intrigantes e bizarras, neste episódio exclusivo da Disney+.",
+      "elenco": [
+        "Dan Castellaneta",
+        "Nancy Cartwright",
+        "Julie Kavner",
+        "Yeardley Smith",
+        "Patti Harrison",
+        "Demi Moore",
+        "Harry Shearer",
+        "Alex Désert"
+      ],
+      "diretor": "Matthew Faughnan",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Ficção científica"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 27,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43141030/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Mirror",
+        "metacritic": "https://www.metacritic.com/search/Yellow%20Mirror/"
       }
     },
     {
@@ -2468,58 +2570,6 @@
         "imdb": "https://www.imdb.com/title/tt27530512/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups",
         "metacritic": "https://www.metacritic.com/search/Toxic%3A%20A%20Fairy%20Tale%20for%20Grown-ups/"
-      }
-    },
-    {
-      "tmdb_id": 1729723,
-      "imdb_id": "tt43141030",
-      "titulo_original": "Yellow Mirror",
-      "titulo_ingles": "Yellow Mirror",
-      "ano": 2026,
-      "data_lancamento": "2026-08-26",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um abajur com defeito revela uma verdade comovente sobre o que Homer acredita ser a realidade, e um tablet com inteligência artificial faz amizade com Maggie e passa a controlá-la. Os Simpsons lutam para achar a luz em meio a duas histórias sombrias, intrigantes e bizarras, neste episódio exclusivo da Disney+.",
-      "elenco": [
-        "Dan Castellaneta",
-        "Nancy Cartwright",
-        "Julie Kavner",
-        "Yeardley Smith",
-        "Patti Harrison",
-        "Demi Moore",
-        "Harry Shearer",
-        "Alex Désert"
-      ],
-      "diretor": "Matthew Faughnan",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Ficção científica"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4IZMDMvy1ayRguIIPTZ6NT8Dk0V.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 27,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43141030/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Mirror",
-        "metacritic": "https://www.metacritic.com/search/Yellow%20Mirror/"
       }
     },
     {
@@ -2678,88 +2728,6 @@
         "imdb": "https://www.imdb.com/title/tt36893729/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ice%20Cream%20Man",
         "metacritic": "https://www.metacritic.com/search/Ice%20Cream%20Man/"
-      }
-    },
-    {
-      "tmdb_id": 1560520,
-      "imdb_id": "tt32333324",
-      "titulo_original": "Batman: Knightfall Part 1: Knightfall",
-      "titulo_ingles": "Batman: Knightfall Part 1: Knightfall",
-      "ano": 2026,
-      "data_lancamento": "2026-06-23",
-      "data_qualificacao": "",
-      "sinopse_pt": "O Asilo Arkham foi destruído, e todos os seus detentos foram soltos em Gotham City. Enquanto corre contra o tempo para capturar alguns de seus maiores inimigos, Batman é levado ao limite de suas capacidades físicas e mentais, rumo a um confronto final contra uma nova ameaça: o homem chamado Bane!",
-      "elenco": [
-        "Anson Mount",
-        "Michael Mando",
-        "Pablo Schreiber",
-        "Jeff Bennett",
-        "Luis Bermudez",
-        "Bruce Boxleitner",
-        "Jessica Camacho",
-        "Anthony Crivello"
-      ],
-      "diretor": "Jeff Wamester",
-      "generos": [
-        "Animação",
-        "Ação",
-        "Aventura",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/kOeLi6uIhAlWchS7ZkgDwWSavYT.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "es"
-      ],
-      "duracao": 79,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Claro tv+",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/olzQMHt2SX7iNy8WDMR299hVFcL.png"
-          },
-          {
-            "nome": "Apple TV Store",
-            "tipo": "aluguel",
-            "logo_url": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-          },
-          {
-            "nome": "Amazon Video",
-            "tipo": "aluguel",
-            "logo_url": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-          },
-          {
-            "nome": "Apple TV Store",
-            "tipo": "compra",
-            "logo_url": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-          },
-          {
-            "nome": "Amazon Video",
-            "tipo": "compra",
-            "logo_url": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32333324/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Batman%3A%20Knightfall%20Part%201%3A%20Knightfall",
-        "metacritic": "https://www.metacritic.com/search/Batman%3A%20Knightfall%20Part%201%3A%20Knightfall/"
       }
     },
     {
@@ -3294,6 +3262,11 @@
             "nome": "Amazon Prime Video",
             "tipo": "assinatura",
             "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/olzQMHt2SX7iNy8WDMR299hVFcL.png"
           },
           {
             "nome": "Amazon Prime Video with Ads",
