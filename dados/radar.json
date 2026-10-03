@@ -1,7 +1,69 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-02T15:54:56.286Z",
+  "gerado_em": "2026-10-03T14:22:03.548Z",
   "filmes": [
+    {
+      "tmdb_id": 1458857,
+      "imdb_id": "tt36429458",
+      "titulo_original": "Doing Life",
+      "titulo_ingles": "Doing Life",
+      "ano": 2026,
+      "data_lancamento": "2026-10-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "Quando Anika, uma jovem mãe solo que luta para manter sua família, começa a trocar cartas com Carousel, um detento cumprindo pena, uma improvável ligação se forma à distância e acaba evoluindo de forma inesperada. O vínculo entre eles dá início a uma jornada de amor e redenção, trazendo à tona a esperança de deixar seus passados conturbados para trás e mostrando que até os relacionamentos mais improváveis podem transformar vidas e oferecer uma segunda chance de ser feliz.",
+      "elenco": [
+        "Naomi Baker",
+        "Jay Reeves",
+        "Tamberla Perry",
+        "Karen Obilom",
+        "Jasmine Sargent",
+        "Danielle Moné Truitt"
+      ],
+      "diretor": "Tyler Perry",
+      "generos": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/kDFNGzkXZPJPXXy1hdO4Do4X3Wh.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 108,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1458857-doing-life/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36429458/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Doing%20Life",
+        "metacritic": "https://www.metacritic.com/search/Doing%20Life/"
+      }
+    },
     {
       "tmdb_id": 1283515,
       "imdb_id": "tt32261958",
@@ -129,7 +191,7 @@
         "he",
         "en"
       ],
-      "duracao": 80,
+      "duracao": 117,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -366,70 +428,6 @@
       }
     },
     {
-      "tmdb_id": 1514863,
-      "imdb_id": "tt16478058",
-      "titulo_original": "Best of the Best",
-      "titulo_ingles": "Best of the Best",
-      "ano": 2026,
-      "data_lancamento": "2026-09-18",
-      "data_qualificacao": "",
-      "sinopse_pt": "Duas amigas de infância, Maya (Maitreyi Ramakrishnan) e Anjali (Priyanka Kedia), entram para a equipe de dança Bollywood da UCLA, mas logo descobrem que ganhar o campeonato nacional dos EUA vai ser muito mais difícil do que imaginavam.",
-      "elenco": [
-        "Maitreyi Ramakrishnan",
-        "Priyanka Kedia",
-        "Chaneil Kular",
-        "Ankur Rathee",
-        "Hasan Minhaj",
-        "Shreya Navile",
-        "Becky Alex",
-        "Nihar Duvvuri"
-      ],
-      "diretor": "Lena Khan",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vmjK9vC8usvMQ4dRqKVnx8P18Np.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "hi"
-      ],
-      "duracao": 112,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt16478058/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Best%20of%20the%20Best",
-        "metacritic": "https://www.metacritic.com/search/Best%20of%20the%20Best/"
-      }
-    },
-    {
       "tmdb_id": 1641629,
       "imdb_id": "tt43617372",
       "titulo_original": "Toi+Moi - Seuls contre tous",
@@ -492,6 +490,70 @@
         "imdb": "https://www.imdb.com/title/tt43617372/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=You%2BMe%20-%20Against%20the%20World",
         "metacritic": "https://www.metacritic.com/search/You%2BMe%20-%20Against%20the%20World/"
+      }
+    },
+    {
+      "tmdb_id": 1514863,
+      "imdb_id": "tt16478058",
+      "titulo_original": "Best of the Best",
+      "titulo_ingles": "Best of the Best",
+      "ano": 2026,
+      "data_lancamento": "2026-09-18",
+      "data_qualificacao": "",
+      "sinopse_pt": "Duas amigas de infância, Maya (Maitreyi Ramakrishnan) e Anjali (Priyanka Kedia), entram para a equipe de dança Bollywood da UCLA, mas logo descobrem que ganhar o campeonato nacional dos EUA vai ser muito mais difícil do que imaginavam.",
+      "elenco": [
+        "Maitreyi Ramakrishnan",
+        "Priyanka Kedia",
+        "Chaneil Kular",
+        "Ankur Rathee",
+        "Hasan Minhaj",
+        "Shreya Navile",
+        "Becky Alex",
+        "Nihar Duvvuri"
+      ],
+      "diretor": "Lena Khan",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vmjK9vC8usvMQ4dRqKVnx8P18Np.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "hi"
+      ],
+      "duracao": 112,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt16478058/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Best%20of%20the%20Best",
+        "metacritic": "https://www.metacritic.com/search/Best%20of%20the%20Best/"
       }
     },
     {
@@ -601,60 +663,6 @@
       }
     },
     {
-      "tmdb_id": 1433583,
-      "imdb_id": "tt10794054",
-      "titulo_original": "The Weight",
-      "titulo_ingles": "The Weight",
-      "ano": 2026,
-      "data_lancamento": "2026-09-16",
-      "data_qualificacao": "",
-      "sinopse_pt": "Quando Samuel é separado da filha e enviado para uma prisão brutal, o diretor Clancy faz-lhe uma proposta arriscada: contrabandear ouro de uma mina remota juntamente com um perigoso grupo de reclusos e, em troca, conquistar a sua liberdade.",
-      "elenco": [
-        "Ethan Hawke",
-        "Russell Crowe",
-        "Julia Jones",
-        "Austin Amelio",
-        "Avi Nash",
-        "Lucas Lynggaard Tønnesen",
-        "Sam Hazeldine",
-        "George Burgess"
-      ],
-      "diretor": "Padraic McKinley",
-      "generos": [
-        "Drama",
-        "Thriller",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/2fAU3Gx2cFoYFKAE5wtJFyXOFc4.jpg",
-      "pais": [
-        "US",
-        "DE",
-        "FR"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 112,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt10794054/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Weight",
-        "metacritic": "https://www.metacritic.com/search/The%20Weight/"
-      }
-    },
-    {
       "tmdb_id": 1423191,
       "imdb_id": "tt35538033",
       "titulo_original": "Resident Evil",
@@ -706,6 +714,60 @@
         "imdb": "https://www.imdb.com/title/tt35538033/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Resident%20Evil",
         "metacritic": "https://www.metacritic.com/search/Resident%20Evil/"
+      }
+    },
+    {
+      "tmdb_id": 1433583,
+      "imdb_id": "tt10794054",
+      "titulo_original": "The Weight",
+      "titulo_ingles": "The Weight",
+      "ano": 2026,
+      "data_lancamento": "2026-09-16",
+      "data_qualificacao": "",
+      "sinopse_pt": "Quando Samuel é separado da filha e enviado para uma prisão brutal, o diretor Clancy faz-lhe uma proposta arriscada: contrabandear ouro de uma mina remota juntamente com um perigoso grupo de reclusos e, em troca, conquistar a sua liberdade.",
+      "elenco": [
+        "Ethan Hawke",
+        "Russell Crowe",
+        "Julia Jones",
+        "Austin Amelio",
+        "Avi Nash",
+        "Lucas Lynggaard Tønnesen",
+        "Sam Hazeldine",
+        "George Burgess"
+      ],
+      "diretor": "Padraic McKinley",
+      "generos": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/2fAU3Gx2cFoYFKAE5wtJFyXOFc4.jpg",
+      "pais": [
+        "US",
+        "DE",
+        "FR"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 112,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt10794054/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Weight",
+        "metacritic": "https://www.metacritic.com/search/The%20Weight/"
       }
     },
     {
@@ -978,56 +1040,106 @@
       }
     },
     {
-      "tmdb_id": 977942,
-      "imdb_id": "tt36983905",
-      "titulo_original": "The Uprising",
-      "titulo_ingles": "The Uprising",
+      "tmdb_id": 1645164,
+      "imdb_id": "tt38574284",
+      "titulo_original": "Serpenti",
+      "titulo_ingles": "Snake",
       "ano": 2026,
       "data_lancamento": "2026-09-10",
       "data_qualificacao": "",
-      "sinopse_pt": "Enquanto a guerra e a peste devastam a Inglaterra do século XIV, um humilde camponês dá início a uma revolta, reunindo um exército de homens e mulheres do povo para desafiar o poder do rei numa luta desesperada por justiça e sobrevivência.",
+      "sinopse_pt": "Paolo Marra matou a esposa sem compreender por quê. Consumido pela culpa, decide se entregar, cumprir sua pena e tentar restituir alguma dignidade à mulher que assassinou. Mas, entre policiais distraídos, advogados oportunistas, videntes e entraves burocráticos, ninguém parece levá-lo a sério. Preso num paradoxo kafkiano, Paolo descobre que, por mais que insista, não consegue ser detido.",
       "elenco": [
-        "Andrew Garfield",
-        "Jamie Bell",
-        "Stephen Dillane",
-        "Woody Norman",
-        "Tom Hollander",
-        "Cosmo Jarvis",
-        "Thomasin McKenzie",
-        "Jonny Lee Miller"
+        "Leonardo Lidi",
+        "Alessandro Borghi",
+        "Pietro Castellitto",
+        "Valeria Golino",
+        "Daniele Parisi",
+        "Francesca Solombrino",
+        "Alessandra Ferrara",
+        "Martinus Tocchi"
       ],
-      "diretor": "Paul Greengrass",
+      "diretor": "Roberto De Paolis",
       "generos": [
-        "História",
-        "Drama"
+        "Drama",
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/mfDgS3jVrHX8pCCpiKdFQPShL56.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
       "pais": [
-        "DE",
-        "GB",
-        "US"
+        "IT"
       ],
       "idiomas": [
-        "en"
+        "it"
       ],
-      "duracao": 127,
+      "duracao": 88,
       "rt_critica": null,
       "rt_publico": null,
-      "metacritic": 53,
+      "metacritic": null,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
       "atual_rt": null,
-      "atual_metacritic": 53,
+      "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36983905/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Uprising",
-        "metacritic": "https://www.metacritic.com/search/The%20Uprising/"
+        "imdb": "https://www.imdb.com/title/tt38574284/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snake",
+        "metacritic": "https://www.metacritic.com/search/Snake/"
+      }
+    },
+    {
+      "tmdb_id": 1228834,
+      "imdb_id": "tt9601292",
+      "titulo_original": "The Fix",
+      "titulo_ingles": "The Fix",
+      "ano": 2026,
+      "data_lancamento": "2026-09-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Zachary Levi",
+        "Liam Neeson",
+        "Wes Chatham",
+        "Titus Welliver",
+        "Navid Negahban",
+        "Annet Mahendru",
+        "Grant Harvey",
+        "Augusto Aguilera"
+      ],
+      "diretor": "Guy Moshe",
+      "generos": [
+        "Ação",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "ar",
+        "en"
+      ],
+      "duracao": 142,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt9601292/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Fix",
+        "metacritic": "https://www.metacritic.com/search/The%20Fix/"
       }
     },
     {
@@ -1135,106 +1247,56 @@
       }
     },
     {
-      "tmdb_id": 1645164,
-      "imdb_id": "tt38574284",
-      "titulo_original": "Serpenti",
-      "titulo_ingles": "Snake",
+      "tmdb_id": 977942,
+      "imdb_id": "tt36983905",
+      "titulo_original": "The Uprising",
+      "titulo_ingles": "The Uprising",
       "ano": 2026,
       "data_lancamento": "2026-09-10",
       "data_qualificacao": "",
-      "sinopse_pt": "Paolo Marra matou a esposa sem compreender por quê. Consumido pela culpa, decide se entregar, cumprir sua pena e tentar restituir alguma dignidade à mulher que assassinou. Mas, entre policiais distraídos, advogados oportunistas, videntes e entraves burocráticos, ninguém parece levá-lo a sério. Preso num paradoxo kafkiano, Paolo descobre que, por mais que insista, não consegue ser detido.",
+      "sinopse_pt": "Enquanto a guerra e a peste devastam a Inglaterra do século XIV, um humilde camponês dá início a uma revolta, reunindo um exército de homens e mulheres do povo para desafiar o poder do rei numa luta desesperada por justiça e sobrevivência.",
       "elenco": [
-        "Leonardo Lidi",
-        "Alessandro Borghi",
-        "Pietro Castellitto",
-        "Valeria Golino",
-        "Daniele Parisi",
-        "Francesca Solombrino",
-        "Alessandra Ferrara",
-        "Martinus Tocchi"
+        "Andrew Garfield",
+        "Jamie Bell",
+        "Stephen Dillane",
+        "Woody Norman",
+        "Tom Hollander",
+        "Cosmo Jarvis",
+        "Thomasin McKenzie",
+        "Jonny Lee Miller"
       ],
-      "diretor": "Roberto De Paolis",
+      "diretor": "Paul Greengrass",
       "generos": [
-        "Drama",
-        "Comédia"
+        "História",
+        "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/mfDgS3jVrHX8pCCpiKdFQPShL56.jpg",
       "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 88,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38574284/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snake",
-        "metacritic": "https://www.metacritic.com/search/Snake/"
-      }
-    },
-    {
-      "tmdb_id": 1228834,
-      "imdb_id": "tt9601292",
-      "titulo_original": "The Fix",
-      "titulo_ingles": "The Fix",
-      "ano": 2026,
-      "data_lancamento": "2026-09-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Zachary Levi",
-        "Liam Neeson",
-        "Wes Chatham",
-        "Titus Welliver",
-        "Navid Negahban",
-        "Annet Mahendru",
-        "Grant Harvey",
-        "Augusto Aguilera"
-      ],
-      "diretor": "Guy Moshe",
-      "generos": [
-        "Ação",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
-      "pais": [
+        "DE",
+        "GB",
         "US"
       ],
       "idiomas": [
-        "ar",
         "en"
       ],
-      "duracao": 142,
+      "duracao": 127,
       "rt_critica": null,
       "rt_publico": null,
-      "metacritic": null,
+      "metacritic": 53,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
       "atual_rt": null,
-      "atual_metacritic": null,
+      "atual_metacritic": 53,
       "disponibilidade_br": {
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt9601292/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Fix",
-        "metacritic": "https://www.metacritic.com/search/The%20Fix/"
+        "imdb": "https://www.imdb.com/title/tt36983905/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Uprising",
+        "metacritic": "https://www.metacritic.com/search/The%20Uprising/"
       }
     },
     {
@@ -1287,70 +1349,6 @@
         "imdb": "https://www.imdb.com/title/tt32588798/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
         "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
-      }
-    },
-    {
-      "tmdb_id": 1762506,
-      "imdb_id": "tt33510831",
-      "titulo_original": "Band of Brothers: Legacy",
-      "titulo_ingles": "Band of Brothers: Legacy",
-      "ano": 2026,
-      "data_lancamento": "2026-09-09",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma homenagem documental à série que ajudou a preservar a história da Easy Company, em consonância com o 25º aniversário da série limitada original da HBO.",
-      "elenco": [
-        "Damian Lewis",
-        "Richard D. Winters",
-        "Ron Livingston",
-        "Neal McDonough",
-        "Frank John Hughes",
-        "Michael Cudlitz",
-        "James Madio",
-        "Dale Dye"
-      ],
-      "diretor": "Chase Millsap",
-      "generos": [
-        "Documentário",
-        "Guerra"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 60,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "HBO Max",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
-          },
-          {
-            "nome": "HBO Max Amazon Channel",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1762506-band-of-brothers-legacy/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33510831/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Band%20of%20Brothers%3A%20Legacy",
-        "metacritic": "https://www.metacritic.com/search/Band%20of%20Brothers%3A%20Legacy/"
       }
     },
     {
@@ -1415,6 +1413,70 @@
         "imdb": "https://www.imdb.com/title/tt36073210/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Drawn%20Together",
         "metacritic": "https://www.metacritic.com/search/Drawn%20Together/"
+      }
+    },
+    {
+      "tmdb_id": 1762506,
+      "imdb_id": "tt33510831",
+      "titulo_original": "Band of Brothers: Legacy",
+      "titulo_ingles": "Band of Brothers: Legacy",
+      "ano": 2026,
+      "data_lancamento": "2026-09-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma homenagem documental à série que ajudou a preservar a história da Easy Company, em consonância com o 25º aniversário da série limitada original da HBO.",
+      "elenco": [
+        "Damian Lewis",
+        "Richard D. Winters",
+        "Ron Livingston",
+        "Neal McDonough",
+        "Frank John Hughes",
+        "Michael Cudlitz",
+        "James Madio",
+        "Dale Dye"
+      ],
+      "diretor": "Chase Millsap",
+      "generos": [
+        "Documentário",
+        "Guerra"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 60,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "HBO Max",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+          },
+          {
+            "nome": "HBO Max Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1762506-band-of-brothers-legacy/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33510831/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Band%20of%20Brothers%3A%20Legacy",
+        "metacritic": "https://www.metacritic.com/search/Band%20of%20Brothers%3A%20Legacy/"
       }
     },
     {
@@ -1600,57 +1662,6 @@
         "imdb": "https://www.imdb.com/title/tt43700444/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool",
         "metacritic": "https://www.metacritic.com/search/Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool/"
-      }
-    },
-    {
-      "tmdb_id": 1257147,
-      "imdb_id": "tt37458193",
-      "titulo_original": "Minha Melhor Amiga",
-      "titulo_ingles": "My Best Friend",
-      "ano": 2026,
-      "data_lancamento": "2026-09-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "Júlia e Clara são melhores amigas e vivem o auge dos seus 50 anos. Quando suas filhas viajam para um intercâmbio de alguns meses em Portugal, as duas precisam enfrentar a saudade e o vazio deixado pelas meninas. A dupla decide sacudir a rotina e embarca para a Europa para surpreender as meninas, mas encara diversos perrengues na jornada.",
-      "elenco": [
-        "Ingrid Guimarães",
-        "Mônica Martelli",
-        "Giulia Benite",
-        "Gabi Amaral",
-        "Ricardo Pereira",
-        "Michel Melamed",
-        "Thaila Ayala",
-        "Gustavo Machado"
-      ],
-      "diretor": "Susana Garcia",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
-      "pais": [
-        "BR",
-        "PT"
-      ],
-      "idiomas": [
-        "pt"
-      ],
-      "duracao": 125,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37458193/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Best%20Friend",
-        "metacritic": "https://www.metacritic.com/search/My%20Best%20Friend/"
       }
     },
     {
@@ -1845,6 +1856,57 @@
       }
     },
     {
+      "tmdb_id": 1257147,
+      "imdb_id": "tt37458193",
+      "titulo_original": "Minha Melhor Amiga",
+      "titulo_ingles": "My Best Friend",
+      "ano": 2026,
+      "data_lancamento": "2026-09-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Júlia e Clara são melhores amigas e vivem o auge dos seus 50 anos. Quando suas filhas viajam para um intercâmbio de alguns meses em Portugal, as duas precisam enfrentar a saudade e o vazio deixado pelas meninas. A dupla decide sacudir a rotina e embarca para a Europa para surpreender as meninas, mas encara diversos perrengues na jornada.",
+      "elenco": [
+        "Ingrid Guimarães",
+        "Mônica Martelli",
+        "Giulia Benite",
+        "Gabi Amaral",
+        "Ricardo Pereira",
+        "Michel Melamed",
+        "Thaila Ayala",
+        "Gustavo Machado"
+      ],
+      "diretor": "Susana Garcia",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
+      "pais": [
+        "BR",
+        "PT"
+      ],
+      "idiomas": [
+        "pt"
+      ],
+      "duracao": 125,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37458193/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Best%20Friend",
+        "metacritic": "https://www.metacritic.com/search/My%20Best%20Friend/"
+      }
+    },
+    {
       "tmdb_id": 1386315,
       "imdb_id": "tt34564059",
       "titulo_original": "The Runner",
@@ -2015,6 +2077,60 @@
       }
     },
     {
+      "tmdb_id": 1731694,
+      "imdb_id": "tt43679852",
+      "titulo_original": "LEGO Star Wars: The Mandalorian",
+      "titulo_ingles": "LEGO Star Wars: The Mandalorian",
+      "ano": 2026,
+      "data_lancamento": "2026-09-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "O Mandaloriano e Grogu se juntam a seus aliados excêntricos para uma festa épica, celebrando seu heroísmo. Enquanto amigos entretêm a turma com histórias de suas aventuras, uma ameaça pirata se aproxima.",
+      "elenco": [
+        "Gavin Hammon",
+        "Amy Sedaris",
+        "Bill Burr",
+        "David Pasquesi",
+        "Katee Sackhoff",
+        "Emily Swallow",
+        "Giancarlo Esposito",
+        "Matthew Wood"
+      ],
+      "diretor": "Chris Buckley",
+      "generos": [
+        "Animação",
+        "Ficção científica",
+        "Aventura",
+        "Família",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 50,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43679852/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=LEGO%20Star%20Wars%3A%20The%20Mandalorian",
+        "metacritic": "https://www.metacritic.com/search/LEGO%20Star%20Wars%3A%20The%20Mandalorian/"
+      }
+    },
+    {
       "tmdb_id": 1752159,
       "imdb_id": "tt44322266",
       "titulo_original": "Turning Point: Generation 9/11",
@@ -2075,60 +2191,6 @@
         "imdb": "https://www.imdb.com/title/tt44322266/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Turning%20Point%3A%20Generation%209%2F11",
         "metacritic": "https://www.metacritic.com/search/Turning%20Point%3A%20Generation%209%2F11/"
-      }
-    },
-    {
-      "tmdb_id": 1731694,
-      "imdb_id": "tt43679852",
-      "titulo_original": "LEGO Star Wars: The Mandalorian",
-      "titulo_ingles": "LEGO Star Wars: The Mandalorian",
-      "ano": 2026,
-      "data_lancamento": "2026-09-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "O Mandaloriano e Grogu se juntam a seus aliados excêntricos para uma festa épica, celebrando seu heroísmo. Enquanto amigos entretêm a turma com histórias de suas aventuras, uma ameaça pirata se aproxima.",
-      "elenco": [
-        "Gavin Hammon",
-        "Amy Sedaris",
-        "Bill Burr",
-        "David Pasquesi",
-        "Katee Sackhoff",
-        "Emily Swallow",
-        "Giancarlo Esposito",
-        "Matthew Wood"
-      ],
-      "diretor": "Chris Buckley",
-      "generos": [
-        "Animação",
-        "Ficção científica",
-        "Aventura",
-        "Família",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 50,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43679852/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=LEGO%20Star%20Wars%3A%20The%20Mandalorian",
-        "metacritic": "https://www.metacritic.com/search/LEGO%20Star%20Wars%3A%20The%20Mandalorian/"
       }
     },
     {
@@ -2412,6 +2474,71 @@
       }
     },
     {
+      "tmdb_id": 1471168,
+      "imdb_id": "tt43706402",
+      "titulo_original": "Barreda",
+      "titulo_ingles": "Barreda",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um filme de drama ficcional baseado em um dos crimes mais chocantes da história da Argentina. Em 1992, Ricardo Barreda, um dentista comum, assassinou brutalmente sua esposa, sua sogra e suas duas filhas adultas em sua casa. Fazendo-se de vítima, Ricardo Barreda provocou uma tempestade midiática e alimentou um escândalo nacional.",
+      "elenco": [
+        "Luis Machín",
+        "Carla Peterson",
+        "Mercedes Morán",
+        "Maite Lanata",
+        "Margarita Páez",
+        "Marcelo Subiotto",
+        "Paola Barrientos",
+        "Alberto Ajaka"
+      ],
+      "diretor": "Daniela Goggi",
+      "generos": [
+        "Drama",
+        "Crime",
+        "História"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
+      "pais": [
+        "AR"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 105,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43706402/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Barreda",
+        "metacritic": "https://www.metacritic.com/search/Barreda/"
+      }
+    },
+    {
       "tmdb_id": 1480574,
       "imdb_id": "tt36948232",
       "titulo_original": "Just Play Dead",
@@ -2528,122 +2655,6 @@
       }
     },
     {
-      "tmdb_id": 1471168,
-      "imdb_id": "tt43706402",
-      "titulo_original": "Barreda",
-      "titulo_ingles": "Barreda",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um filme de drama ficcional baseado em um dos crimes mais chocantes da história da Argentina. Em 1992, Ricardo Barreda, um dentista comum, assassinou brutalmente sua esposa, sua sogra e suas duas filhas adultas em sua casa. Fazendo-se de vítima, Ricardo Barreda provocou uma tempestade midiática e alimentou um escândalo nacional.",
-      "elenco": [
-        "Luis Machín",
-        "Carla Peterson",
-        "Mercedes Morán",
-        "Maite Lanata",
-        "Margarita Páez",
-        "Marcelo Subiotto",
-        "Paola Barrientos",
-        "Alberto Ajaka"
-      ],
-      "diretor": "Daniela Goggi",
-      "generos": [
-        "Drama",
-        "Crime",
-        "História"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
-      "pais": [
-        "AR"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 105,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43706402/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Barreda",
-        "metacritic": "https://www.metacritic.com/search/Barreda/"
-      }
-    },
-    {
-      "tmdb_id": 1462861,
-      "imdb_id": "tt22406048",
-      "titulo_original": "Spider Island",
-      "titulo_ingles": "Spider Island",
-      "ano": 2026,
-      "data_lancamento": "2026-08-27",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Rose Williams",
-        "Tim McInnerny",
-        "Avani Gregg",
-        "Abraham Lewis",
-        "Carlotta Banat",
-        "Anuschka van Lent",
-        "Justin Daniels Anene",
-        "Owen Warner"
-      ],
-      "diretor": "Christopher Smith",
-      "generos": [
-        "Comédia",
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt22406048/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spider%20Island",
-        "metacritic": "https://www.metacritic.com/search/Spider%20Island/"
-      }
-    },
-    {
       "tmdb_id": 860508,
       "imdb_id": "tt11561116",
       "titulo_original": "The Whisper Man",
@@ -2709,55 +2720,54 @@
       }
     },
     {
-      "tmdb_id": 1384216,
-      "imdb_id": "tt21285562",
-      "titulo_original": "The Dog Stars",
-      "titulo_ingles": "The Dog Stars",
+      "tmdb_id": 1462861,
+      "imdb_id": "tt22406048",
+      "titulo_original": "Spider Island",
+      "titulo_ingles": "Spider Island",
       "ano": 2026,
-      "data_lancamento": "2026-08-26",
+      "data_lancamento": "2026-08-27",
       "data_qualificacao": "",
-      "sinopse_pt": "Após a população mundial ter sido devastada por uma pandemia, um homem vive uma existência solitária em um hangar de aviões no Colorado com seu cachorro e um pistoleiro taciturno com quem fez amizade. Quando uma transmissão misteriosa surge no rádio enquanto ele pilota seu velho Cessna, isso desencadeia uma busca pela origem do som.",
+      "sinopse_pt": "Um grupo de rapazes e moças só quer se divertir ao sol. O que poderia dar errado?",
       "elenco": [
-        "Jacob Elordi",
-        "Margaret Qualley",
-        "Josh Brolin",
-        "Guy Pearce",
-        "Allison Janney",
-        "Benedict Wong",
-        "Ewen Bremner",
-        "James Craze"
+        "Rose Williams",
+        "Tim McInnerny",
+        "Avani Gregg",
+        "Abraham Lewis",
+        "Carlotta Banat",
+        "Anuschka van Lent",
+        "Justin Daniels Anene",
+        "Owen Warner"
       ],
-      "diretor": "Ridley Scott",
+      "diretor": "Christopher Smith",
       "generos": [
-        "Ficção científica",
-        "Thriller",
-        "Aventura"
+        "Comédia",
+        "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/1C2qbfUW3lTzb8vpZeG8pjYzW3Q.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
       "pais": [
-        "US"
+        "GB"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 118,
-      "rt_critica": 40,
+      "duracao": 0,
+      "rt_critica": null,
       "rt_publico": null,
-      "metacritic": 49,
+      "metacritic": null,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 40,
-      "atual_metacritic": 49,
+      "atual_rt": null,
+      "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "cinema"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt21285562/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dog%20Stars",
-        "metacritic": "https://www.metacritic.com/search/The%20Dog%20Stars/"
+        "imdb": "https://www.imdb.com/title/tt22406048/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spider%20Island",
+        "metacritic": "https://www.metacritic.com/search/Spider%20Island/"
       }
     },
     {
