@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-05T18:38:23.019Z",
+  "gerado_em": "2026-10-06T16:04:06.079Z",
   "filmes": [
     {
       "tmdb_id": 1458857,
@@ -21,8 +21,8 @@
       ],
       "diretor": "Tyler Perry",
       "generos": [
-        "Drama",
-        "Romance"
+        "Romance",
+        "Drama"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/kDFNGzkXZPJPXXy1hdO4Do4X3Wh.jpg",
       "pais": [
@@ -209,7 +209,8 @@
       ],
       "idiomas": [
         "en",
-        "es"
+        "es",
+        "fr"
       ],
       "duracao": 129,
       "rt_critica": null,
@@ -241,9 +242,9 @@
       "data_qualificacao": "",
       "sinopse_pt": "Filmado à noite dos telhados de Tel Aviv, este documentário investigativo examina as vítimas civis das operações militares de Israel em Gaza e os sistemas por trás dos assassinatos seletivos de palestinos.",
       "elenco": [
-        "يوفال إبراهيم"
+        "Yuval Abraham"
       ],
-      "diretor": "يوفال إبراهيم, רחל שור",
+      "diretor": "Yuval Abraham, רחל שור",
       "generos": [
         "Documentário"
       ],
@@ -505,12 +506,12 @@
       "elenco": [
         "Maitreyi Ramakrishnan",
         "Priyanka Kedia",
-        "Chaneil Kular",
         "Ankur Rathee",
-        "Hasan Minhaj",
+        "Chaneil Kular",
         "Shreya Navile",
         "Becky Alex",
-        "Nihar Duvvuri"
+        "Nihar Duvvuri",
+        "Nico Greetham"
       ],
       "diretor": "Lena Khan",
       "generos": [
@@ -729,31 +730,31 @@
       }
     },
     {
-      "tmdb_id": 1423191,
-      "imdb_id": "tt35538033",
-      "titulo_original": "Resident Evil",
-      "titulo_ingles": "Resident Evil",
+      "tmdb_id": 1433583,
+      "imdb_id": "tt10794054",
+      "titulo_original": "The Weight",
+      "titulo_ingles": "The Weight",
       "ano": 2026,
       "data_lancamento": "2026-09-16",
       "data_qualificacao": "",
-      "sinopse_pt": "Bryan, um tranquilo entregador de órgãos, é enviado para uma entrega noturna no Hospital Geral de Raccoon City. No caminho por uma estrada montanhosa coberta de neve, ele acidentalmente atropela uma mulher desconhecida. Ela sobrevive, mas algo está muito errado. Ao tentar ajudar, Bryan se depara com um surto em larga escala envolvendo mutações horríveis com tentáculos e monstruosidades bioengenheiradas.",
+      "sinopse_pt": "Quando Samuel é separado da filha e enviado para uma prisão brutal, o diretor Clancy faz-lhe uma proposta arriscada: contrabandear ouro de uma mina remota juntamente com um perigoso grupo de reclusos e, em troca, conquistar a sua liberdade.",
       "elenco": [
-        "Austin Abrams",
-        "Paul Walter Hauser",
-        "Kali Reis",
-        "Zach Cherry",
-        "Johnno Wilson",
-        "Shaun W. Loeser",
-        "Zach Cregger",
-        "Emily Piggford"
+        "Ethan Hawke",
+        "Russell Crowe",
+        "Julia Jones",
+        "Austin Amelio",
+        "Avi Nash",
+        "Lucas Lynggaard Tønnesen",
+        "Sam Hazeldine",
+        "George Burgess"
       ],
-      "diretor": "Zach Cregger",
+      "diretor": "Padraic McKinley",
       "generos": [
-        "Terror",
-        "Ficção científica",
-        "Aventura"
+        "Drama",
+        "Thriller",
+        "Crime"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/gQ76UL64RQe3oHwiwHwODTC23g4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2fAU3Gx2cFoYFKAE5wtJFyXOFc4.jpg",
       "pais": [
         "US",
         "DE",
@@ -762,7 +763,7 @@
       "idiomas": [
         "en"
       ],
-      "duracao": 90,
+      "duracao": 112,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -774,12 +775,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "cinema"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt35538033/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Resident%20Evil",
-        "metacritic": "https://www.metacritic.com/search/Resident%20Evil/"
+        "imdb": "https://www.imdb.com/title/tt10794054/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Weight",
+        "metacritic": "https://www.metacritic.com/search/The%20Weight/"
       }
     },
     {
@@ -834,31 +835,31 @@
       }
     },
     {
-      "tmdb_id": 1433583,
-      "imdb_id": "tt10794054",
-      "titulo_original": "The Weight",
-      "titulo_ingles": "The Weight",
+      "tmdb_id": 1423191,
+      "imdb_id": "tt35538033",
+      "titulo_original": "Resident Evil",
+      "titulo_ingles": "Resident Evil",
       "ano": 2026,
       "data_lancamento": "2026-09-16",
       "data_qualificacao": "",
-      "sinopse_pt": "Quando Samuel é separado da filha e enviado para uma prisão brutal, o diretor Clancy faz-lhe uma proposta arriscada: contrabandear ouro de uma mina remota juntamente com um perigoso grupo de reclusos e, em troca, conquistar a sua liberdade.",
+      "sinopse_pt": "Bryan, um tranquilo entregador de órgãos, é enviado para uma entrega noturna no Hospital Geral de Raccoon City. No caminho por uma estrada montanhosa coberta de neve, ele acidentalmente atropela uma mulher desconhecida. Ela sobrevive, mas algo está muito errado. Ao tentar ajudar, Bryan se depara com um surto em larga escala envolvendo mutações horríveis com tentáculos e monstruosidades bioengenheiradas.",
       "elenco": [
-        "Ethan Hawke",
-        "Russell Crowe",
-        "Julia Jones",
-        "Austin Amelio",
-        "Avi Nash",
-        "Lucas Lynggaard Tønnesen",
-        "Sam Hazeldine",
-        "George Burgess"
+        "Austin Abrams",
+        "Paul Walter Hauser",
+        "Kali Reis",
+        "Zach Cherry",
+        "Johnno Wilson",
+        "Shaun W. Loeser",
+        "Zach Cregger",
+        "Emily Piggford"
       ],
-      "diretor": "Padraic McKinley",
+      "diretor": "Zach Cregger",
       "generos": [
-        "Drama",
-        "Thriller",
-        "Crime"
+        "Terror",
+        "Ficção científica",
+        "Aventura"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/2fAU3Gx2cFoYFKAE5wtJFyXOFc4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/gQ76UL64RQe3oHwiwHwODTC23g4.jpg",
       "pais": [
         "US",
         "DE",
@@ -867,7 +868,7 @@
       "idiomas": [
         "en"
       ],
-      "duracao": 112,
+      "duracao": 90,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -879,12 +880,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt10794054/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Weight",
-        "metacritic": "https://www.metacritic.com/search/The%20Weight/"
+        "imdb": "https://www.imdb.com/title/tt35538033/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Resident%20Evil",
+        "metacritic": "https://www.metacritic.com/search/Resident%20Evil/"
       }
     },
     {
@@ -990,6 +991,59 @@
       }
     },
     {
+      "tmdb_id": 1597199,
+      "imdb_id": "tt39239726",
+      "titulo_original": "Ritorno a Buenos Aires",
+      "titulo_ingles": "Back to Buenos Aires",
+      "ano": 2026,
+      "data_lancamento": "2026-09-11",
+      "data_qualificacao": "",
+      "sinopse_pt": "Mariano Guerra retorna à Argentina depois de 33 anos vivendo na Itália para testemunhar no julgamento de ex-militares responsáveis por seu sequestro durante a ditadura. Hospedado no Ministério da Justiça ao lado de outros sobreviventes, ele revive lembranças do período de repressão e enfrenta o peso de ter sobrevivido a uma tragédia que marcou sua vida para sempre.",
+      "elenco": [
+        "Adriano Giannini",
+        "Paula Cohen",
+        "Ana Celentano",
+        "Vero Geréz",
+        "Olivia Nuss",
+        "Adrián Fondari",
+        "Marcelo Chaparro",
+        "Marcela Serli"
+      ],
+      "diretor": "Marco Bechis",
+      "generos": [
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
+      "pais": [
+        "IT",
+        "BR"
+      ],
+      "idiomas": [
+        "it",
+        "pt",
+        "es"
+      ],
+      "duracao": 104,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39239726/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Back%20to%20Buenos%20Aires",
+        "metacritic": "https://www.metacritic.com/search/Back%20to%20Buenos%20Aires/"
+      }
+    },
+    {
       "tmdb_id": 1558568,
       "imdb_id": "tt38616652",
       "titulo_original": "Gracias, equipo",
@@ -1053,110 +1107,6 @@
       }
     },
     {
-      "tmdb_id": 1597199,
-      "imdb_id": "tt39239726",
-      "titulo_original": "Ritorno a Buenos Aires",
-      "titulo_ingles": "Back to Buenos Aires",
-      "ano": 2026,
-      "data_lancamento": "2026-09-11",
-      "data_qualificacao": "",
-      "sinopse_pt": "Mariano Guerra retorna à Argentina depois de 33 anos vivendo na Itália para testemunhar no julgamento de ex-militares responsáveis por seu sequestro durante a ditadura. Hospedado no Ministério da Justiça ao lado de outros sobreviventes, ele revive lembranças do período de repressão e enfrenta o peso de ter sobrevivido a uma tragédia que marcou sua vida para sempre.",
-      "elenco": [
-        "Adriano Giannini",
-        "Paula Cohen",
-        "Ana Celentano",
-        "Vero Geréz",
-        "Olivia Nuss",
-        "Adrián Fondari",
-        "Marcelo Chaparro",
-        "Marcela Serli"
-      ],
-      "diretor": "Marco Bechis",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/42yQnX3vuZkxSo44KmL051xCTKN.jpg",
-      "pais": [
-        "IT",
-        "BR"
-      ],
-      "idiomas": [
-        "it",
-        "pt",
-        "es"
-      ],
-      "duracao": 104,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39239726/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Back%20to%20Buenos%20Aires",
-        "metacritic": "https://www.metacritic.com/search/Back%20to%20Buenos%20Aires/"
-      }
-    },
-    {
-      "tmdb_id": 1645164,
-      "imdb_id": "tt38574284",
-      "titulo_original": "Serpenti",
-      "titulo_ingles": "Snake",
-      "ano": 2026,
-      "data_lancamento": "2026-09-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Paolo Marra matou a esposa sem compreender por quê. Consumido pela culpa, decide se entregar, cumprir sua pena e tentar restituir alguma dignidade à mulher que assassinou. Mas, entre policiais distraídos, advogados oportunistas, videntes e entraves burocráticos, ninguém parece levá-lo a sério. Preso num paradoxo kafkiano, Paolo descobre que, por mais que insista, não consegue ser detido.",
-      "elenco": [
-        "Leonardo Lidi",
-        "Alessandro Borghi",
-        "Pietro Castellitto",
-        "Valeria Golino",
-        "Daniele Parisi",
-        "Francesca Solombrino",
-        "Alessandra Ferrara",
-        "Martinus Tocchi"
-      ],
-      "diretor": "Roberto De Paolis",
-      "generos": [
-        "Drama",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 88,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38574284/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snake",
-        "metacritic": "https://www.metacritic.com/search/Snake/"
-      }
-    },
-    {
       "tmdb_id": 1228834,
       "imdb_id": "tt9601292",
       "titulo_original": "The Fix",
@@ -1180,7 +1130,7 @@
         "Ação",
         "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/a1j5writymMPFPyOhBT7s1xX6v6.jpg",
       "pais": [
         "US"
       ],
@@ -1367,6 +1317,57 @@
       }
     },
     {
+      "tmdb_id": 1645164,
+      "imdb_id": "tt38574284",
+      "titulo_original": "Serpenti",
+      "titulo_ingles": "Snake",
+      "ano": 2026,
+      "data_lancamento": "2026-09-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "Paolo Marra matou a esposa sem compreender por quê. Consumido pela culpa, decide se entregar, cumprir sua pena e tentar restituir alguma dignidade à mulher que assassinou. Mas, entre policiais distraídos, advogados oportunistas, videntes e entraves burocráticos, ninguém parece levá-lo a sério. Preso num paradoxo kafkiano, Paolo descobre que, por mais que insista, não consegue ser detido.",
+      "elenco": [
+        "Leonardo Lidi",
+        "Alessandro Borghi",
+        "Pietro Castellitto",
+        "Valeria Golino",
+        "Daniele Parisi",
+        "Francesca Solombrino",
+        "Alessandra Ferrara",
+        "Martinus Tocchi"
+      ],
+      "diretor": "Roberto De Paolis",
+      "generos": [
+        "Drama",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 88,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38574284/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snake",
+        "metacritic": "https://www.metacritic.com/search/Snake/"
+      }
+    },
+    {
       "tmdb_id": 1447853,
       "imdb_id": "tt36152310",
       "titulo_original": "Oasis: Don't Look Back in Anger",
@@ -1424,37 +1425,38 @@
       }
     },
     {
-      "tmdb_id": 1440098,
-      "imdb_id": "tt36073210",
-      "titulo_original": "Enfrentados: Marfil",
-      "titulo_ingles": "Drawn Together",
+      "tmdb_id": 1302904,
+      "imdb_id": "tt32588798",
+      "titulo_original": "Practical Magic 2",
+      "titulo_ingles": "Practical Magic 2",
       "ano": 2026,
       "data_lancamento": "2026-09-09",
       "data_qualificacao": "",
-      "sinopse_pt": "Marfil, filha de um empresário espanhol, vê sua vida em Nova York virar de cabeça para baixo quando é sequestrada e libertada sem nenhuma explicação. O pai dela contrata Sebastián Moore para ser seu guarda-costas e, forçados a passar cada minuto do dia juntos, uma atração inevitável surge entre eles em um mundo onde nada é o que parece. Baseado no livro de Mercedes Ron, autora da saga \"Culpados\".",
+      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
       "elenco": [
-        "Ester Expósito",
-        "Hugo Diego Garcia",
-        "Pablo Molinero",
-        "Lluís Homar",
-        "Joaquín Ferreira",
-        "Zoe Bonafonte",
-        "Majo Gámez",
-        "João Bettencourt"
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Joey King",
+        "Maisie Williams",
+        "Xolo Maridueña",
+        "Lee Pace",
+        "Dianne Wiest",
+        "Stockard Channing"
       ],
-      "diretor": "Óscar Pedraza",
+      "diretor": "Susanne Bier",
       "generos": [
         "Romance",
-        "Thriller"
+        "Fantasia",
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/99OB0p7ah8wyTphLHrghSJXtmr5.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uoJvqWGs4702jnqOwe8RABSxT3L.jpg",
       "pais": [
-        "ES"
+        "US"
       ],
       "idiomas": [
-        "es"
+        "en"
       ],
-      "duracao": 104,
+      "duracao": 130,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1466,25 +1468,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=BR"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36073210/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Drawn%20Together",
-        "metacritic": "https://www.metacritic.com/search/Drawn%20Together/"
+        "imdb": "https://www.imdb.com/title/tt32588798/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
+        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
       }
     },
     {
@@ -1552,88 +1541,37 @@
       }
     },
     {
-      "tmdb_id": 1302904,
-      "imdb_id": "tt32588798",
-      "titulo_original": "Practical Magic 2",
-      "titulo_ingles": "Practical Magic 2",
+      "tmdb_id": 1440098,
+      "imdb_id": "tt36073210",
+      "titulo_original": "Enfrentados: Marfil",
+      "titulo_ingles": "Drawn Together",
       "ano": 2026,
       "data_lancamento": "2026-09-09",
       "data_qualificacao": "",
-      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
+      "sinopse_pt": "Marfil, filha de um empresário espanhol, vê sua vida em Nova York virar de cabeça para baixo quando é sequestrada e libertada sem nenhuma explicação. O pai dela contrata Sebastián Moore para ser seu guarda-costas e, forçados a passar cada minuto do dia juntos, uma atração inevitável surge entre eles em um mundo onde nada é o que parece. Baseado no livro de Mercedes Ron, autora da saga \"Culpados\".",
       "elenco": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Joey King",
-        "Maisie Williams",
-        "Xolo Maridueña",
-        "Lee Pace",
-        "Dianne Wiest",
-        "Stockard Channing"
+        "Ester Expósito",
+        "Hugo Diego Garcia",
+        "Pablo Molinero",
+        "Lluís Homar",
+        "Joaquín Ferreira",
+        "Zoe Bonafonte",
+        "Majo Gámez",
+        "João Bettencourt"
       ],
-      "diretor": "Susanne Bier",
+      "diretor": "Óscar Pedraza",
       "generos": [
         "Romance",
-        "Fantasia",
-        "Comédia"
+        "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uoJvqWGs4702jnqOwe8RABSxT3L.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/99OB0p7ah8wyTphLHrghSJXtmr5.jpg",
       "pais": [
-        "US"
+        "ES"
       ],
       "idiomas": [
-        "en"
+        "es"
       ],
-      "duracao": 130,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32588798/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
-        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
-      }
-    },
-    {
-      "tmdb_id": 1739206,
-      "imdb_id": "tt43700444",
-      "titulo_original": "Untold Mr. T: I Pity the Fool",
-      "titulo_ingles": "Untold Mr. T: I Pity the Fool",
-      "ano": 2026,
-      "data_lancamento": "2026-09-08",
-      "data_qualificacao": "",
-      "sinopse_pt": "Antes das correntes de ouro, do moicano e da fama de Hollywood de The A-Team e Rocky III, havia Laurence Tureaud. Esta é a extraordinária história de origem por trás de um dos ícones mais improváveis ​​e amados do entretenimento – o Sr.",
-      "elenco": [
-        "Mr. T",
-        "Erica Nicole Clark",
-        "Terry Crews",
-        "Dirk Benedict",
-        "Scoop Jackson",
-        "Henry O. Hardy",
-        "Sylvester Stallone",
-        "Ronald Reagan"
-      ],
-      "diretor": "Scott Weintrob",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vuuZsx4O3zKvIdvllQvUWanAhLE.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 48,
+      "duracao": 104,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1648,22 +1586,22 @@
         "estado": "streaming",
         "servicos": [
           {
-            "nome": "Netflix",
+            "nome": "Amazon Prime Video",
             "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
           },
           {
-            "nome": "Netflix Standard with Ads",
+            "nome": "Amazon Prime Video with Ads",
             "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
           }
         ],
-        "link_br": "https://www.themoviedb.org/movie/1739206-untold-mr-t-i-pity-the-fool/watch?locale=BR"
+        "link_br": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt43700444/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool",
-        "metacritic": "https://www.metacritic.com/search/Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool/"
+        "imdb": "https://www.imdb.com/title/tt36073210/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Drawn%20Together",
+        "metacritic": "https://www.metacritic.com/search/Drawn%20Together/"
       }
     },
     {
@@ -1732,39 +1670,37 @@
       }
     },
     {
-      "tmdb_id": 1355228,
-      "imdb_id": "tt33354945",
-      "titulo_original": "गांधारी",
-      "titulo_ingles": "Gandhari",
+      "tmdb_id": 1739206,
+      "imdb_id": "tt43700444",
+      "titulo_original": "Untold Mr. T: I Pity the Fool",
+      "titulo_ingles": "Untold Mr. T: I Pity the Fool",
       "ano": 2026,
-      "data_lancamento": "2026-09-03",
+      "data_lancamento": "2026-09-08",
       "data_qualificacao": "",
-      "sinopse_pt": "Depois do sequestro da filha, uma mãe se reinventa para caçar a gangue por trás de um círculo de tráfico de crianças. Com Taapsee Pannu.",
+      "sinopse_pt": "Antes das correntes de ouro, do moicano e da fama de Hollywood de The A-Team e Rocky III, havia Laurence Tureaud. Esta é a extraordinária história de origem por trás de um dos ícones mais improváveis ​​e amados do entretenimento – o Sr.",
       "elenco": [
-        "Taapsee Pannu",
-        "Ishwak Singh",
-        "Mita Vashisht",
-        "Swastika Mukherjee",
-        "Chhaya Kadam",
-        "Jatin Sarna",
-        "Prashant Narayanan",
-        "Chandan Roy"
+        "Mr. T",
+        "Erica Nicole Clark",
+        "Terry Crews",
+        "Dirk Benedict",
+        "Scoop Jackson",
+        "Henry O. Hardy",
+        "Sylvester Stallone",
+        "Ronald Reagan"
       ],
-      "diretor": "Devashish Makhija",
+      "diretor": "Scott Weintrob",
       "generos": [
-        "Ação",
-        "Drama",
-        "Thriller"
+        "Documentário"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vuuZsx4O3zKvIdvllQvUWanAhLE.jpg",
       "pais": [
-        "IN"
+        "US"
       ],
       "idiomas": [
-        "hi"
+        "en"
       ],
-      "duracao": 117,
-      "rt_critica": 21,
+      "duracao": 48,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -1772,7 +1708,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 21,
+      "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "streaming",
@@ -1788,12 +1724,12 @@
             "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
           }
         ],
-        "link_br": "https://www.themoviedb.org/movie/1355228/watch?locale=BR"
+        "link_br": "https://www.themoviedb.org/movie/1739206-untold-mr-t-i-pity-the-fool/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt33354945/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Gandhari",
-        "metacritic": "https://www.metacritic.com/search/Gandhari/"
+        "imdb": "https://www.imdb.com/title/tt43700444/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool",
+        "metacritic": "https://www.metacritic.com/search/Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool/"
       }
     },
     {
@@ -1920,60 +1856,6 @@
       }
     },
     {
-      "tmdb_id": 1378537,
-      "imdb_id": "tt34339725",
-      "titulo_original": "मिर्ज़ापुर - द मूवी",
-      "titulo_ingles": "Mirzapur: The Movie",
-      "ano": 2026,
-      "data_lancamento": "2026-09-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Pankaj Tripathi",
-        "Ali Fazal",
-        "दिव्येंदु शर्मा",
-        "Jitendra Kumar",
-        "Ravi Kishan",
-        "रसिका दुग्गल",
-        "Mohit Malik",
-        "शीबा चड्ढा"
-      ],
-      "diretor": "Gurmmeet Singh",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
-      "pais": [
-        "IN",
-        "US"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 197,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34339725/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mirzapur%3A%20The%20Movie",
-        "metacritic": "https://www.metacritic.com/search/Mirzapur%3A%20The%20Movie/"
-      }
-    },
-    {
       "tmdb_id": 1386315,
       "imdb_id": "tt34564059",
       "titulo_original": "The Runner",
@@ -2039,6 +1921,125 @@
       }
     },
     {
+      "tmdb_id": 1378537,
+      "imdb_id": "tt34339725",
+      "titulo_original": "मिर्ज़ापुर - द मूवी",
+      "titulo_ingles": "Mirzapur: The Movie",
+      "ano": 2026,
+      "data_lancamento": "2026-09-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Pankaj Tripathi",
+        "Ali Fazal",
+        "दिव्येंदु शर्मा",
+        "Jitendra Kumar",
+        "Ravi Kishan",
+        "रसिका दुग्गल",
+        "Mohit Malik",
+        "शीबा चड्ढा"
+      ],
+      "diretor": "Gurmmeet Singh",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
+      "pais": [
+        "IN",
+        "US"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 197,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34339725/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mirzapur%3A%20The%20Movie",
+        "metacritic": "https://www.metacritic.com/search/Mirzapur%3A%20The%20Movie/"
+      }
+    },
+    {
+      "tmdb_id": 1355228,
+      "imdb_id": "tt33354945",
+      "titulo_original": "गांधारी",
+      "titulo_ingles": "Gandhari",
+      "ano": 2026,
+      "data_lancamento": "2026-09-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Depois do sequestro da filha, uma mãe se reinventa para caçar a gangue por trás de um círculo de tráfico de crianças. Com Taapsee Pannu.",
+      "elenco": [
+        "Taapsee Pannu",
+        "Ishwak Singh",
+        "Mita Vashisht",
+        "Swastika Mukherjee",
+        "Chhaya Kadam",
+        "Jatin Sarna",
+        "Prashant Narayanan",
+        "Chandan Roy"
+      ],
+      "diretor": "Devashish Makhija",
+      "generos": [
+        "Ação",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 117,
+      "rt_critica": 21,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 21,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1355228/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33354945/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Gandhari",
+        "metacritic": "https://www.metacritic.com/search/Gandhari/"
+      }
+    },
+    {
       "tmdb_id": 1284046,
       "imdb_id": "tt32268691",
       "titulo_original": "Onslaught",
@@ -2060,8 +2061,8 @@
       "diretor": "Adam Wingard",
       "generos": [
         "Ação",
-        "Thriller",
-        "Terror"
+        "Terror",
+        "Thriller"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/S8yJg9VlcDRB55CFIBAF7V2lZ3.jpg",
       "pais": [
@@ -2440,6 +2441,71 @@
       }
     },
     {
+      "tmdb_id": 1631807,
+      "imdb_id": "tt37275992",
+      "titulo_original": "Den hemmelige kvinde",
+      "titulo_ingles": "The Secret Woman",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma mulher com amnésia descobre que, na verdade, tem marido, filho e uma fortuna de família neste suspense baseado no best-seller de Anna Ekberg.",
+      "elenco": [
+        "Natalie Madueño",
+        "Claes Bang",
+        "Pål Sverre Hagen",
+        "Stina Ekblad",
+        "Ingrid Bolsø Berdal",
+        "Thea Sofie Loch Næss",
+        "Lars Simonsen",
+        "Ida Appel"
+      ],
+      "diretor": "Barbara Topsøe-Rothenborg",
+      "generos": [
+        "Drama",
+        "Thriller",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/3tlLGxQXY6Xqv3Wln8Y63tPhpeF.jpg",
+      "pais": [
+        "DK"
+      ],
+      "idiomas": [
+        "da"
+      ],
+      "duracao": 119,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37275992/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Secret%20Woman",
+        "metacritic": "https://www.metacritic.com/search/The%20Secret%20Woman/"
+      }
+    },
+    {
       "tmdb_id": 1471168,
       "imdb_id": "tt43706402",
       "titulo_original": "Barreda",
@@ -2556,122 +2622,6 @@
       }
     },
     {
-      "tmdb_id": 1480574,
-      "imdb_id": "tt36948232",
-      "titulo_original": "Just Play Dead",
-      "titulo_ingles": "Just Play Dead",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um gênio do crime planeja forjar a própria morte para receber o dinheiro do seguro e incriminar o amante da esposa. A esposa, por sua vez, trama para matá-lo de verdade e ficar com tudo. Os dois competem numa batalha mortal de inteligência para se superarem.",
-      "elenco": [
-        "Samuel L. Jackson",
-        "Eva Green",
-        "María Pedraza",
-        "Eoin Macken",
-        "Jason Fernández",
-        "Paulo Rivera",
-        "Nicole Ansari-Cox",
-        "Lee Boardman"
-      ],
-      "diretor": "Martin Campbell",
-      "generos": [
-        "Thriller",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36948232/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Just%20Play%20Dead",
-        "metacritic": "https://www.metacritic.com/search/Just%20Play%20Dead/"
-      }
-    },
-    {
-      "tmdb_id": 1631807,
-      "imdb_id": "tt37275992",
-      "titulo_original": "Den hemmelige kvinde",
-      "titulo_ingles": "The Secret Woman",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma mulher com amnésia descobre que, na verdade, tem marido, filho e uma fortuna de família neste suspense baseado no best-seller de Anna Ekberg.",
-      "elenco": [
-        "Natalie Madueño",
-        "Claes Bang",
-        "Pål Sverre Hagen",
-        "Stina Ekblad",
-        "Ingrid Bolsø Berdal",
-        "Thea Sofie Loch Næss",
-        "Lars Simonsen",
-        "Ida Appel"
-      ],
-      "diretor": "Barbara Topsøe-Rothenborg",
-      "generos": [
-        "Drama",
-        "Thriller",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/3tlLGxQXY6Xqv3Wln8Y63tPhpeF.jpg",
-      "pais": [
-        "DK"
-      ],
-      "idiomas": [
-        "da"
-      ],
-      "duracao": 119,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37275992/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Secret%20Woman",
-        "metacritic": "https://www.metacritic.com/search/The%20Secret%20Woman/"
-      }
-    },
-    {
       "tmdb_id": 1550338,
       "imdb_id": "tt44147164",
       "titulo_original": "Öngörü",
@@ -2723,38 +2673,39 @@
       }
     },
     {
-      "tmdb_id": 1462861,
-      "imdb_id": "tt22406048",
-      "titulo_original": "Spider Island",
-      "titulo_ingles": "Spider Island",
+      "tmdb_id": 860508,
+      "imdb_id": "tt11561116",
+      "titulo_original": "The Whisper Man",
+      "titulo_ingles": "The Whisper Man",
       "ano": 2026,
       "data_lancamento": "2026-08-27",
       "data_qualificacao": "",
-      "sinopse_pt": "Um grupo de rapazes e moças só quer se divertir ao sol. O que poderia dar errado?",
+      "sinopse_pt": "Após o desaparecimento do filho, um viúvo precisa pedir ajuda ao próprio pai: um detetive aposentado que prendeu o assassino em série ligado a esse novo caso.",
       "elenco": [
-        "Rose Williams",
-        "Tim McInnerny",
-        "Avani Gregg",
-        "Abraham Lewis",
-        "Carlotta Banat",
-        "Anuschka van Lent",
-        "Justin Daniels Anene",
-        "Owen Warner"
+        "Robert De Niro",
+        "Michelle Monaghan",
+        "Adam Scott",
+        "Acston Luca Porto",
+        "Michael Keaton",
+        "Owen Teague",
+        "Hamish Linklater",
+        "Will Brill"
       ],
-      "diretor": "Christopher Smith",
+      "diretor": "James Ashcroft",
       "generos": [
-        "Comédia",
-        "Terror"
+        "Crime",
+        "Drama",
+        "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/umlg3mqkny7opAfPtBLUGYwZ8xF.jpg",
       "pais": [
-        "GB"
+        "US"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 0,
-      "rt_critica": null,
+      "duracao": 114,
+      "rt_critica": 45,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -2762,15 +2713,28 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 45,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/860508-the-whisper-man/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt22406048/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spider%20Island",
-        "metacritic": "https://www.metacritic.com/search/Spider%20Island/"
+        "imdb": "https://www.imdb.com/title/tt11561116/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Whisper%20Man",
+        "metacritic": "https://www.metacritic.com/search/The%20Whisper%20Man/"
       }
     },
     {
@@ -3344,6 +3308,54 @@
         "imdb": "https://www.imdb.com/title/tt33086385/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=You%20Drive%20Me%20Crazy",
         "metacritic": "https://www.metacritic.com/search/You%20Drive%20Me%20Crazy/"
+      }
+    },
+    {
+      "tmdb_id": 1520507,
+      "imdb_id": "tt34730492",
+      "titulo_original": "Come ti muovi, sbagli",
+      "titulo_ingles": "Damned If You Do, Damned If You Don't",
+      "ano": 2025,
+      "data_lancamento": "2025-09-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um professor aposentado tem sua rotina tranquila transformada pela chegada da filha em crise e de seus dois netos indisciplinados. Em meio ao caos familiar, ele redescobre o amor, a dor dos vínculos e a necessidade humana de se conectar.",
+      "elenco": [
+        "Gianni Di Gregorio",
+        "Greta Scarano",
+        "Tom Wlaschiha",
+        "Anna Losano",
+        "Pietro Serpi",
+        "Iaia Forte"
+      ],
+      "diretor": "Gianni Di Gregorio",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/8Smz4OL8wylQ1u7Ahj4Nk84B4a8.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 101,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34730492/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Damned%20If%20You%20Do%2C%20Damned%20If%20You%20Don't",
+        "metacritic": "https://www.metacritic.com/search/Damned%20If%20You%20Do%2C%20Damned%20If%20You%20Don't/"
       }
     },
     {
