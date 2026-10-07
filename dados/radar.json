@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-06T16:04:06.079Z",
+  "gerado_em": "2026-10-07T16:43:34.833Z",
   "filmes": [
     {
       "tmdb_id": 1458857,
@@ -74,8 +74,8 @@
       "data_qualificacao": "",
       "sinopse_pt": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
       "elenco": [
-        "Dakota Johnson",
         "Anne Hathaway",
+        "Dakota Johnson",
         "Josh Hartnett",
         "Brady Wagner",
         "Ismael Cruz Cordova",
@@ -213,7 +213,7 @@
         "fr"
       ],
       "duracao": 129,
-      "rt_critica": null,
+      "rt_critica": 52,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -221,7 +221,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 52,
       "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "cinema"
@@ -230,52 +230,6 @@
         "imdb": "https://www.imdb.com/title/tt31450459/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Digger",
         "metacritic": "https://www.metacritic.com/search/Digger/"
-      }
-    },
-    {
-      "tmdb_id": 1755291,
-      "imdb_id": "tt44766123",
-      "titulo_original": "NAZA",
-      "titulo_ingles": "NAZA",
-      "ano": 2026,
-      "data_lancamento": "2026-09-25",
-      "data_qualificacao": "",
-      "sinopse_pt": "Filmado à noite dos telhados de Tel Aviv, este documentário investigativo examina as vítimas civis das operações militares de Israel em Gaza e os sistemas por trás dos assassinatos seletivos de palestinos.",
-      "elenco": [
-        "Yuval Abraham"
-      ],
-      "diretor": "Yuval Abraham, רחל שור",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
-      "pais": [
-        "US",
-        "GB"
-      ],
-      "idiomas": [
-        "he",
-        "en",
-        "ar"
-      ],
-      "duracao": 117,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt44766123/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=NAZA",
-        "metacritic": "https://www.metacritic.com/search/NAZA/"
       }
     },
     {
@@ -344,6 +298,52 @@
       }
     },
     {
+      "tmdb_id": 1755291,
+      "imdb_id": "tt44766123",
+      "titulo_original": "NAZA",
+      "titulo_ingles": "NAZA",
+      "ano": 2026,
+      "data_lancamento": "2026-09-25",
+      "data_qualificacao": "",
+      "sinopse_pt": "Filmado à noite dos telhados de Tel Aviv, este documentário investigativo examina as vítimas civis das operações militares de Israel em Gaza e os sistemas por trás dos assassinatos seletivos de palestinos.",
+      "elenco": [
+        "Yuval Abraham"
+      ],
+      "diretor": "Yuval Abraham, רחל שור",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "pais": [
+        "US",
+        "GB"
+      ],
+      "idiomas": [
+        "he",
+        "en",
+        "ar"
+      ],
+      "duracao": 117,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt44766123/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=NAZA",
+        "metacritic": "https://www.metacritic.com/search/NAZA/"
+      }
+    },
+    {
       "tmdb_id": 1507877,
       "imdb_id": "tt38584405",
       "titulo_original": "Garance",
@@ -351,7 +351,7 @@
       "ano": 2026,
       "data_lancamento": "2026-09-23",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Garance é uma jovem atriz, mas não é uma estrela. Ela lida com tudo da melhor maneira possível, corajosa, alegre, como uma guerreira, e encontra no álcool um combustível incondicional, uma fonte de conforto. Garance muda de vida e inicia uma jornada de oito anos repleta de mudanças, trabalho, encontros, festas e ansiedades, alegrias e dificuldades… Uma revolução íntima, amigável e sexual. Mas ela bebe cada vez mais. Até a própria possibilidade da morte…",
       "elenco": [
         "Adèle Exarchopoulos",
         "Sara Giraudeau",
@@ -444,54 +444,6 @@
         "imdb": "https://www.imdb.com/title/tt37971717/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Last%20Shot",
         "metacritic": "https://www.metacritic.com/search/One%20Last%20Shot/"
-      }
-    },
-    {
-      "tmdb_id": 1263337,
-      "imdb_id": "tt7526136",
-      "titulo_original": "Heart of the Beast",
-      "titulo_ingles": "Heart of the Beast",
-      "ano": 2026,
-      "data_lancamento": "2026-09-19",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um ex-soldado ferido e seu cão de guerra aposentado lutam para sobreviver na região do Alasca e encontrar o caminho de volta para casa após um acidente aéreo na mata.",
-      "elenco": [
-        "Brad Pitt",
-        "J.K. Simmons",
-        "Anna Lambe",
-        "Justin Melnick",
-        "Shaun DeZern"
-      ],
-      "diretor": "David Ayer",
-      "generos": [
-        "Aventura",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/n4PJa4xVo4SjIsBvTA0yGMKjTBh.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 101,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt7526136/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Heart%20of%20the%20Beast",
-        "metacritic": "https://www.metacritic.com/search/Heart%20of%20the%20Beast/"
       }
     },
     {
@@ -624,61 +576,6 @@
       }
     },
     {
-      "tmdb_id": 1477104,
-      "imdb_id": "tt36841161",
-      "titulo_original": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "titulo_ingles": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "ano": 2026,
-      "data_lancamento": "2026-09-17",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Justin Fletcher",
-        "John Sparkes",
-        "Nina Sosanya",
-        "Kate Harbour",
-        "Andy Nyman",
-        "Simon Greenall",
-        "Emma Tate",
-        "Rich Webber"
-      ],
-      "diretor": "Steve Cox, Matthew Walker",
-      "generos": [
-        "Animação",
-        "Comédia",
-        "Família",
-        "Aventura",
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/mPtbB8k1hn3plzbY0CYL2gKYjTf.jpg",
-      "pais": [
-        "GB",
-        "FR"
-      ],
-      "idiomas": [
-        "xx"
-      ],
-      "duracao": 81,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36841161/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Shaun%20the%20Sheep%3A%20The%20Beast%20of%20Mossy%20Bottom",
-        "metacritic": "https://www.metacritic.com/search/Shaun%20the%20Sheep%3A%20The%20Beast%20of%20Mossy%20Bottom/"
-      }
-    },
-    {
       "tmdb_id": 1191818,
       "imdb_id": "tt30495381",
       "titulo_original": "Histoires de la nuit",
@@ -727,111 +624,6 @@
         "imdb": "https://www.imdb.com/title/tt30495381/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Birthday%20Party",
         "metacritic": "https://www.metacritic.com/search/The%20Birthday%20Party/"
-      }
-    },
-    {
-      "tmdb_id": 1433583,
-      "imdb_id": "tt10794054",
-      "titulo_original": "The Weight",
-      "titulo_ingles": "The Weight",
-      "ano": 2026,
-      "data_lancamento": "2026-09-16",
-      "data_qualificacao": "",
-      "sinopse_pt": "Quando Samuel é separado da filha e enviado para uma prisão brutal, o diretor Clancy faz-lhe uma proposta arriscada: contrabandear ouro de uma mina remota juntamente com um perigoso grupo de reclusos e, em troca, conquistar a sua liberdade.",
-      "elenco": [
-        "Ethan Hawke",
-        "Russell Crowe",
-        "Julia Jones",
-        "Austin Amelio",
-        "Avi Nash",
-        "Lucas Lynggaard Tønnesen",
-        "Sam Hazeldine",
-        "George Burgess"
-      ],
-      "diretor": "Padraic McKinley",
-      "generos": [
-        "Drama",
-        "Thriller",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/2fAU3Gx2cFoYFKAE5wtJFyXOFc4.jpg",
-      "pais": [
-        "US",
-        "DE",
-        "FR"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 112,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt10794054/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Weight",
-        "metacritic": "https://www.metacritic.com/search/The%20Weight/"
-      }
-    },
-    {
-      "tmdb_id": 1466670,
-      "imdb_id": "tt37921158",
-      "titulo_original": "Si tu penses bien",
-      "titulo_ingles": "Think Good",
-      "ano": 2026,
-      "data_lancamento": "2026-09-16",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Monia Chokri",
-        "Niels Schneider",
-        "Rudgy Pajany",
-        "Mina Kavani",
-        "Oussama Kheddam",
-        "Clémentine Célarié",
-        "Christian Benedetti",
-        "Rabah Nait Oufella"
-      ],
-      "diretor": "Géraldine Nakache",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/5ta2QFexeUsZ9AncKkgiWwpJDq.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 94,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37921158/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Think%20Good",
-        "metacritic": "https://www.metacritic.com/search/Think%20Good/"
       }
     },
     {
@@ -889,6 +681,111 @@
       }
     },
     {
+      "tmdb_id": 1466670,
+      "imdb_id": "tt37921158",
+      "titulo_original": "Si tu penses bien",
+      "titulo_ingles": "Think Good",
+      "ano": 2026,
+      "data_lancamento": "2026-09-16",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Monia Chokri",
+        "Niels Schneider",
+        "Rudgy Pajany",
+        "Mina Kavani",
+        "Oussama Kheddam",
+        "Clémentine Célarié",
+        "Christian Benedetti",
+        "Rabah Nait Oufella"
+      ],
+      "diretor": "Géraldine Nakache",
+      "generos": [
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/5ta2QFexeUsZ9AncKkgiWwpJDq.jpg",
+      "pais": [
+        "FR",
+        "BE"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 94,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37921158/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Think%20Good",
+        "metacritic": "https://www.metacritic.com/search/Think%20Good/"
+      }
+    },
+    {
+      "tmdb_id": 1433583,
+      "imdb_id": "tt10794054",
+      "titulo_original": "The Weight",
+      "titulo_ingles": "The Weight",
+      "ano": 2026,
+      "data_lancamento": "2026-09-16",
+      "data_qualificacao": "",
+      "sinopse_pt": "Quando Samuel é separado da filha e enviado para uma prisão brutal, o diretor Clancy faz-lhe uma proposta arriscada: contrabandear ouro de uma mina remota juntamente com um perigoso grupo de reclusos e, em troca, conquistar a sua liberdade.",
+      "elenco": [
+        "Ethan Hawke",
+        "Russell Crowe",
+        "Julia Jones",
+        "Austin Amelio",
+        "Avi Nash",
+        "Lucas Lynggaard Tønnesen",
+        "Sam Hazeldine",
+        "George Burgess"
+      ],
+      "diretor": "Padraic McKinley",
+      "generos": [
+        "Drama",
+        "Thriller",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/2fAU3Gx2cFoYFKAE5wtJFyXOFc4.jpg",
+      "pais": [
+        "US",
+        "DE",
+        "FR"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 112,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt10794054/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Weight",
+        "metacritic": "https://www.metacritic.com/search/The%20Weight/"
+      }
+    },
+    {
       "tmdb_id": 1751701,
       "imdb_id": "tt36809539",
       "titulo_original": "After Impact",
@@ -896,7 +793,7 @@
       "ano": 2026,
       "data_lancamento": "2026-09-15",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Depois de herdar a enorme estufa de seu pai quando um asteróide ameaça a Terra, Ethan enfrenta traição e isolamento. Sobrevivendo ao impacto no bunker de sua família, maltratado e desesperado, uma voz no rádio revela que não está sozinho.",
       "elenco": [
         "Michiel Rensen",
         "Maxie Li",
@@ -1107,6 +1004,60 @@
       }
     },
     {
+      "tmdb_id": 977942,
+      "imdb_id": "tt36983905",
+      "titulo_original": "The Uprising",
+      "titulo_ingles": "The Uprising",
+      "ano": 2026,
+      "data_lancamento": "2026-09-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "Enquanto a guerra e a peste devastam a Inglaterra do século XIV, um humilde camponês dá início a uma revolta, reunindo um exército de homens e mulheres do povo para desafiar o poder do rei numa luta desesperada por justiça e sobrevivência.",
+      "elenco": [
+        "Andrew Garfield",
+        "Jamie Bell",
+        "Stephen Dillane",
+        "Woody Norman",
+        "Tom Hollander",
+        "Cosmo Jarvis",
+        "Thomasin McKenzie",
+        "Jonny Lee Miller"
+      ],
+      "diretor": "Paul Greengrass",
+      "generos": [
+        "História",
+        "Drama",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/mfDgS3jVrHX8pCCpiKdFQPShL56.jpg",
+      "pais": [
+        "DE",
+        "GB",
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 127,
+      "rt_critica": 55,
+      "rt_publico": null,
+      "metacritic": 53,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 55,
+      "atual_metacritic": 53,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36983905/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Uprising",
+        "metacritic": "https://www.metacritic.com/search/The%20Uprising/"
+      }
+    },
+    {
       "tmdb_id": 1228834,
       "imdb_id": "tt9601292",
       "titulo_original": "The Fix",
@@ -1156,60 +1107,6 @@
         "imdb": "https://www.imdb.com/title/tt9601292/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Fix",
         "metacritic": "https://www.metacritic.com/search/The%20Fix/"
-      }
-    },
-    {
-      "tmdb_id": 977942,
-      "imdb_id": "tt36983905",
-      "titulo_original": "The Uprising",
-      "titulo_ingles": "The Uprising",
-      "ano": 2026,
-      "data_lancamento": "2026-09-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Enquanto a guerra e a peste devastam a Inglaterra do século XIV, um humilde camponês dá início a uma revolta, reunindo um exército de homens e mulheres do povo para desafiar o poder do rei numa luta desesperada por justiça e sobrevivência.",
-      "elenco": [
-        "Andrew Garfield",
-        "Jamie Bell",
-        "Stephen Dillane",
-        "Woody Norman",
-        "Tom Hollander",
-        "Cosmo Jarvis",
-        "Thomasin McKenzie",
-        "Jonny Lee Miller"
-      ],
-      "diretor": "Paul Greengrass",
-      "generos": [
-        "História",
-        "Drama",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/mfDgS3jVrHX8pCCpiKdFQPShL56.jpg",
-      "pais": [
-        "DE",
-        "GB",
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 127,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": 53,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": 53,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36983905/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Uprising",
-        "metacritic": "https://www.metacritic.com/search/The%20Uprising/"
       }
     },
     {
@@ -1369,7 +1266,7 @@
     },
     {
       "tmdb_id": 1447853,
-      "imdb_id": "tt36152310",
+      "imdb_id": "tt36150957",
       "titulo_original": "Oasis: Don't Look Back in Anger",
       "titulo_ingles": "Oasis: Don't Look Back in Anger",
       "ano": 2026,
@@ -1419,7 +1316,7 @@
         "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36152310/",
+        "imdb": "https://www.imdb.com/title/tt36150957/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Oasis%3A%20Don't%20Look%20Back%20in%20Anger",
         "metacritic": "https://www.metacritic.com/search/Oasis%3A%20Don't%20Look%20Back%20in%20Anger/"
       }
@@ -1474,70 +1371,6 @@
         "imdb": "https://www.imdb.com/title/tt32588798/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
         "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
-      }
-    },
-    {
-      "tmdb_id": 1762506,
-      "imdb_id": "tt33510831",
-      "titulo_original": "Band of Brothers: Legacy",
-      "titulo_ingles": "Band of Brothers: Legacy",
-      "ano": 2026,
-      "data_lancamento": "2026-09-09",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma homenagem documental à série que ajudou a preservar a história da Easy Company, em consonância com o 25º aniversário da série limitada original da HBO.",
-      "elenco": [
-        "Damian Lewis",
-        "Richard D. Winters",
-        "Ron Livingston",
-        "Neal McDonough",
-        "Frank John Hughes",
-        "Michael Cudlitz",
-        "James Madio",
-        "Dale Dye"
-      ],
-      "diretor": "Chase Millsap",
-      "generos": [
-        "Documentário",
-        "Guerra"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 60,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "HBO Max",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
-          },
-          {
-            "nome": "HBO Max Amazon Channel",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1762506-band-of-brothers-legacy/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33510831/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Band%20of%20Brothers%3A%20Legacy",
-        "metacritic": "https://www.metacritic.com/search/Band%20of%20Brothers%3A%20Legacy/"
       }
     },
     {
@@ -1602,6 +1435,70 @@
         "imdb": "https://www.imdb.com/title/tt36073210/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Drawn%20Together",
         "metacritic": "https://www.metacritic.com/search/Drawn%20Together/"
+      }
+    },
+    {
+      "tmdb_id": 1762506,
+      "imdb_id": "tt33510831",
+      "titulo_original": "Band of Brothers: Legacy",
+      "titulo_ingles": "Band of Brothers: Legacy",
+      "ano": 2026,
+      "data_lancamento": "2026-09-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma homenagem documental à série que ajudou a preservar a história da Easy Company, em consonância com o 25º aniversário da série limitada original da HBO.",
+      "elenco": [
+        "Damian Lewis",
+        "Richard D. Winters",
+        "Ron Livingston",
+        "Neal McDonough",
+        "Frank John Hughes",
+        "Michael Cudlitz",
+        "James Madio",
+        "Dale Dye"
+      ],
+      "diretor": "Chase Millsap",
+      "generos": [
+        "Documentário",
+        "Guerra"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 60,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "HBO Max",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+          },
+          {
+            "nome": "HBO Max Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1762506-band-of-brothers-legacy/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33510831/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Band%20of%20Brothers%3A%20Legacy",
+        "metacritic": "https://www.metacritic.com/search/Band%20of%20Brothers%3A%20Legacy/"
       }
     },
     {
@@ -1733,6 +1630,122 @@
       }
     },
     {
+      "tmdb_id": 1257147,
+      "imdb_id": "tt37458193",
+      "titulo_original": "Minha Melhor Amiga",
+      "titulo_ingles": "My Best Friend",
+      "ano": 2026,
+      "data_lancamento": "2026-09-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Júlia e Clara são melhores amigas e vivem o auge dos seus 50 anos. Quando suas filhas viajam para um intercâmbio de alguns meses em Portugal, as duas precisam enfrentar a saudade e o vazio deixado pelas meninas. A dupla decide sacudir a rotina e embarca para a Europa para surpreender as meninas, mas encara diversos perrengues na jornada.",
+      "elenco": [
+        "Ingrid Guimarães",
+        "Mônica Martelli",
+        "Giulia Benite",
+        "Gabi Amaral",
+        "Ricardo Pereira",
+        "Michel Melamed",
+        "Thaila Ayala",
+        "Gustavo Machado"
+      ],
+      "diretor": "Susana Garcia",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
+      "pais": [
+        "BR",
+        "PT"
+      ],
+      "idiomas": [
+        "pt"
+      ],
+      "duracao": 125,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37458193/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Best%20Friend",
+        "metacritic": "https://www.metacritic.com/search/My%20Best%20Friend/"
+      }
+    },
+    {
+      "tmdb_id": 1355228,
+      "imdb_id": "tt33354945",
+      "titulo_original": "गांधारी",
+      "titulo_ingles": "Gandhari",
+      "ano": 2026,
+      "data_lancamento": "2026-09-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Depois do sequestro da filha, uma mãe se reinventa para caçar a gangue por trás de um círculo de tráfico de crianças. Com Taapsee Pannu.",
+      "elenco": [
+        "Taapsee Pannu",
+        "Ishwak Singh",
+        "Mita Vashisht",
+        "Swastika Mukherjee",
+        "Chhaya Kadam",
+        "Jatin Sarna",
+        "Prashant Narayanan",
+        "Chandan Roy"
+      ],
+      "diretor": "Devashish Makhija",
+      "generos": [
+        "Ação",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "hi"
+      ],
+      "duracao": 117,
+      "rt_critica": 21,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 21,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1355228/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33354945/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Gandhari",
+        "metacritic": "https://www.metacritic.com/search/Gandhari/"
+      }
+    },
+    {
       "tmdb_id": 1506560,
       "imdb_id": "tt37752275",
       "titulo_original": "Clash of the Thundermans",
@@ -1805,57 +1818,6 @@
       }
     },
     {
-      "tmdb_id": 1257147,
-      "imdb_id": "tt37458193",
-      "titulo_original": "Minha Melhor Amiga",
-      "titulo_ingles": "My Best Friend",
-      "ano": 2026,
-      "data_lancamento": "2026-09-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "Júlia e Clara são melhores amigas e vivem o auge dos seus 50 anos. Quando suas filhas viajam para um intercâmbio de alguns meses em Portugal, as duas precisam enfrentar a saudade e o vazio deixado pelas meninas. A dupla decide sacudir a rotina e embarca para a Europa para surpreender as meninas, mas encara diversos perrengues na jornada.",
-      "elenco": [
-        "Ingrid Guimarães",
-        "Mônica Martelli",
-        "Giulia Benite",
-        "Gabi Amaral",
-        "Ricardo Pereira",
-        "Michel Melamed",
-        "Thaila Ayala",
-        "Gustavo Machado"
-      ],
-      "diretor": "Susana Garcia",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
-      "pais": [
-        "BR",
-        "PT"
-      ],
-      "idiomas": [
-        "pt"
-      ],
-      "duracao": 125,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37458193/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Best%20Friend",
-        "metacritic": "https://www.metacritic.com/search/My%20Best%20Friend/"
-      }
-    },
-    {
       "tmdb_id": 1386315,
       "imdb_id": "tt34564059",
       "titulo_original": "The Runner",
@@ -1888,7 +1850,7 @@
         "en"
       ],
       "duracao": 86,
-      "rt_critica": 8,
+      "rt_critica": 11,
       "rt_publico": null,
       "metacritic": 28,
       "imdb_publico": null,
@@ -1896,7 +1858,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 8,
+      "atual_rt": 11,
       "atual_metacritic": 28,
       "disponibilidade_br": {
         "estado": "streaming",
@@ -1975,71 +1937,6 @@
       }
     },
     {
-      "tmdb_id": 1355228,
-      "imdb_id": "tt33354945",
-      "titulo_original": "गांधारी",
-      "titulo_ingles": "Gandhari",
-      "ano": 2026,
-      "data_lancamento": "2026-09-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "Depois do sequestro da filha, uma mãe se reinventa para caçar a gangue por trás de um círculo de tráfico de crianças. Com Taapsee Pannu.",
-      "elenco": [
-        "Taapsee Pannu",
-        "Ishwak Singh",
-        "Mita Vashisht",
-        "Swastika Mukherjee",
-        "Chhaya Kadam",
-        "Jatin Sarna",
-        "Prashant Narayanan",
-        "Chandan Roy"
-      ],
-      "diretor": "Devashish Makhija",
-      "generos": [
-        "Ação",
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "hi"
-      ],
-      "duracao": 117,
-      "rt_critica": 21,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 21,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1355228/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33354945/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Gandhari",
-        "metacritic": "https://www.metacritic.com/search/Gandhari/"
-      }
-    },
-    {
       "tmdb_id": 1284046,
       "imdb_id": "tt32268691",
       "titulo_original": "Onslaught",
@@ -2072,7 +1969,7 @@
         "en"
       ],
       "duracao": 92,
-      "rt_critica": 56,
+      "rt_critica": 59,
       "rt_publico": null,
       "metacritic": 57,
       "imdb_publico": null,
@@ -2080,7 +1977,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 56,
+      "atual_rt": 59,
       "atual_metacritic": 57,
       "disponibilidade_br": {
         "estado": "cinema"
@@ -2146,60 +2043,6 @@
       }
     },
     {
-      "tmdb_id": 1731694,
-      "imdb_id": "tt43679852",
-      "titulo_original": "LEGO Star Wars: The Mandalorian",
-      "titulo_ingles": "LEGO Star Wars: The Mandalorian",
-      "ano": 2026,
-      "data_lancamento": "2026-09-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "O Mandaloriano e Grogu se juntam a seus aliados excêntricos para uma festa épica, celebrando seu heroísmo. Enquanto amigos entretêm a turma com histórias de suas aventuras, uma ameaça pirata se aproxima.",
-      "elenco": [
-        "Gavin Hammon",
-        "Amy Sedaris",
-        "Bill Burr",
-        "David Pasquesi",
-        "Katee Sackhoff",
-        "Emily Swallow",
-        "Giancarlo Esposito",
-        "Matthew Wood"
-      ],
-      "diretor": "Chris Buckley",
-      "generos": [
-        "Animação",
-        "Ficção científica",
-        "Aventura",
-        "Família",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 50,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43679852/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=LEGO%20Star%20Wars%3A%20The%20Mandalorian",
-        "metacritic": "https://www.metacritic.com/search/LEGO%20Star%20Wars%3A%20The%20Mandalorian/"
-      }
-    },
-    {
       "tmdb_id": 1752159,
       "imdb_id": "tt44322266",
       "titulo_original": "Turning Point: Generation 9/11",
@@ -2260,6 +2103,60 @@
         "imdb": "https://www.imdb.com/title/tt44322266/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Turning%20Point%3A%20Generation%209%2F11",
         "metacritic": "https://www.metacritic.com/search/Turning%20Point%3A%20Generation%209%2F11/"
+      }
+    },
+    {
+      "tmdb_id": 1731694,
+      "imdb_id": "tt43679852",
+      "titulo_original": "LEGO Star Wars: The Mandalorian",
+      "titulo_ingles": "LEGO Star Wars: The Mandalorian",
+      "ano": 2026,
+      "data_lancamento": "2026-09-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "O Mandaloriano e Grogu se juntam a seus aliados excêntricos para uma festa épica, celebrando seu heroísmo. Enquanto amigos entretêm a turma com histórias de suas aventuras, uma ameaça pirata se aproxima.",
+      "elenco": [
+        "Gavin Hammon",
+        "Amy Sedaris",
+        "Bill Burr",
+        "David Pasquesi",
+        "Katee Sackhoff",
+        "Emily Swallow",
+        "Giancarlo Esposito",
+        "Matthew Wood"
+      ],
+      "diretor": "Chris Buckley",
+      "generos": [
+        "Animação",
+        "Ficção científica",
+        "Aventura",
+        "Família",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 50,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43679852/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=LEGO%20Star%20Wars%3A%20The%20Mandalorian",
+        "metacritic": "https://www.metacritic.com/search/LEGO%20Star%20Wars%3A%20The%20Mandalorian/"
       }
     },
     {
@@ -2374,135 +2271,6 @@
         "imdb": "https://www.imdb.com/title/tt36980377/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Zip%20Wire",
         "metacritic": "https://www.metacritic.com/search/Zip%20Wire/"
-      }
-    },
-    {
-      "tmdb_id": 1365884,
-      "imdb_id": "tt38267923",
-      "titulo_original": "Dix Pour Cent ! Le Film",
-      "titulo_ingles": "Call My Agent! The Movie",
-      "ano": 2026,
-      "data_lancamento": "2026-08-29",
-      "data_qualificacao": "",
-      "sinopse_pt": "Diante de uma série de contratempos em seu primeiro filme, Andréa pede ajuda à antiga equipe da agência ASK. Mas a turma acaba piorando ainda mais a situação.",
-      "elenco": [
-        "Camille Cottin",
-        "Thibault de Montalembert",
-        "Grégory Montel",
-        "Liliane Rovère",
-        "Fanny Sidney",
-        "Laure Calamy",
-        "Nicolas Maury",
-        "Ophélia Kolb"
-      ],
-      "diretor": "Émilie Noblet",
-      "generos": [
-        "Comédia",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/41Yezvy8Kxr9bcwQsPR3teq4EvX.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 117,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1365884-dix-pour-cent-le-film/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38267923/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Call%20My%20Agent!%20The%20Movie",
-        "metacritic": "https://www.metacritic.com/search/Call%20My%20Agent!%20The%20Movie/"
-      }
-    },
-    {
-      "tmdb_id": 1631807,
-      "imdb_id": "tt37275992",
-      "titulo_original": "Den hemmelige kvinde",
-      "titulo_ingles": "The Secret Woman",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma mulher com amnésia descobre que, na verdade, tem marido, filho e uma fortuna de família neste suspense baseado no best-seller de Anna Ekberg.",
-      "elenco": [
-        "Natalie Madueño",
-        "Claes Bang",
-        "Pål Sverre Hagen",
-        "Stina Ekblad",
-        "Ingrid Bolsø Berdal",
-        "Thea Sofie Loch Næss",
-        "Lars Simonsen",
-        "Ida Appel"
-      ],
-      "diretor": "Barbara Topsøe-Rothenborg",
-      "generos": [
-        "Drama",
-        "Thriller",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/3tlLGxQXY6Xqv3Wln8Y63tPhpeF.jpg",
-      "pais": [
-        "DK"
-      ],
-      "idiomas": [
-        "da"
-      ],
-      "duracao": 119,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37275992/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Secret%20Woman",
-        "metacritic": "https://www.metacritic.com/search/The%20Secret%20Woman/"
       }
     },
     {
@@ -2673,6 +2441,173 @@
       }
     },
     {
+      "tmdb_id": 1480574,
+      "imdb_id": "tt36948232",
+      "titulo_original": "Just Play Dead",
+      "titulo_ingles": "Just Play Dead",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um gênio do crime planeja forjar a própria morte para receber o dinheiro do seguro e incriminar o amante da esposa. A esposa, por sua vez, trama para matá-lo de verdade e ficar com tudo. Os dois competem numa batalha mortal de inteligência para se superarem.",
+      "elenco": [
+        "Samuel L. Jackson",
+        "Eva Green",
+        "María Pedraza",
+        "Eoin Macken",
+        "Jason Fernández",
+        "Paulo Rivera",
+        "Nicole Ansari-Cox",
+        "Lee Boardman"
+      ],
+      "diretor": "Martin Campbell",
+      "generos": [
+        "Thriller",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
+      "pais": [
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": 9,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 9,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36948232/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Just%20Play%20Dead",
+        "metacritic": "https://www.metacritic.com/search/Just%20Play%20Dead/"
+      }
+    },
+    {
+      "tmdb_id": 1631807,
+      "imdb_id": "tt37275992",
+      "titulo_original": "Den hemmelige kvinde",
+      "titulo_ingles": "The Secret Woman",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma mulher com amnésia descobre que, na verdade, tem marido, filho e uma fortuna de família neste suspense baseado no best-seller de Anna Ekberg.",
+      "elenco": [
+        "Natalie Madueño",
+        "Claes Bang",
+        "Pål Sverre Hagen",
+        "Stina Ekblad",
+        "Ingrid Bolsø Berdal",
+        "Thea Sofie Loch Næss",
+        "Lars Simonsen",
+        "Ida Appel"
+      ],
+      "diretor": "Barbara Topsøe-Rothenborg",
+      "generos": [
+        "Drama",
+        "Thriller",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/3tlLGxQXY6Xqv3Wln8Y63tPhpeF.jpg",
+      "pais": [
+        "DK"
+      ],
+      "idiomas": [
+        "da"
+      ],
+      "duracao": 119,
+      "rt_critica": 40,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 40,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1631807-den-hemmelige-kvinde/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37275992/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Secret%20Woman",
+        "metacritic": "https://www.metacritic.com/search/The%20Secret%20Woman/"
+      }
+    },
+    {
+      "tmdb_id": 1462861,
+      "imdb_id": "tt22406048",
+      "titulo_original": "Spider Island",
+      "titulo_ingles": "Spider Island",
+      "ano": 2026,
+      "data_lancamento": "2026-08-27",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um grupo de rapazes e moças só quer se divertir ao sol. O que poderia dar errado?",
+      "elenco": [
+        "Rose Williams",
+        "Tim McInnerny",
+        "Avani Gregg",
+        "Abraham Lewis",
+        "Carlotta Banat",
+        "Anuschka van Lent",
+        "Justin Daniels Anene",
+        "Owen Warner"
+      ],
+      "diretor": "Christopher Smith",
+      "generos": [
+        "Comédia",
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
+      "pais": [
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt22406048/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spider%20Island",
+        "metacritic": "https://www.metacritic.com/search/Spider%20Island/"
+      }
+    },
+    {
       "tmdb_id": 860508,
       "imdb_id": "tt11561116",
       "titulo_original": "The Whisper Man",
@@ -2735,6 +2670,58 @@
         "imdb": "https://www.imdb.com/title/tt11561116/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Whisper%20Man",
         "metacritic": "https://www.metacritic.com/search/The%20Whisper%20Man/"
+      }
+    },
+    {
+      "tmdb_id": 1384216,
+      "imdb_id": "tt21285562",
+      "titulo_original": "The Dog Stars",
+      "titulo_ingles": "The Dog Stars",
+      "ano": 2026,
+      "data_lancamento": "2026-08-26",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após a população mundial ter sido devastada por uma pandemia, um homem vive uma existência solitária em um hangar de aviões no Colorado com seu cachorro e um pistoleiro taciturno com quem fez amizade. Quando uma transmissão misteriosa surge no rádio enquanto ele pilota seu velho Cessna, isso desencadeia uma busca pela origem do som.",
+      "elenco": [
+        "Jacob Elordi",
+        "Margaret Qualley",
+        "Josh Brolin",
+        "Guy Pearce",
+        "Allison Janney",
+        "Benedict Wong",
+        "Ewen Bremner",
+        "James Craze"
+      ],
+      "diretor": "Ridley Scott",
+      "generos": [
+        "Ficção científica",
+        "Thriller",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/1C2qbfUW3lTzb8vpZeG8pjYzW3Q.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 118,
+      "rt_critica": 40,
+      "rt_publico": null,
+      "metacritic": 49,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 40,
+      "atual_metacritic": 49,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt21285562/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Dog%20Stars",
+        "metacritic": "https://www.metacritic.com/search/The%20Dog%20Stars/"
       }
     },
     {
@@ -3189,58 +3176,6 @@
       }
     },
     {
-      "tmdb_id": 1433339,
-      "imdb_id": "tt35705184",
-      "titulo_original": "Tre ciotole",
-      "titulo_ingles": "Three Goodbyes",
-      "ano": 2025,
-      "data_lancamento": "2025-10-09",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após uma discussão aparentemente trivial, Marta e Antonio terminam o relacionamento. Enquanto Marta se isola e tenta lidar com a separação, um sintoma inesperado chama sua atenção: a repentina perda de apetite. Antonio, um chef em ascensão, mergulha no trabalho para seguir em frente, mas, apesar de ter sido ele quem decidiu terminar, não consegue deixar Marta para trás. À medida que suas vidas tomam rumos diferentes, os dois são obrigados a confrontar as consequências de suas escolhas, as perdas e os futuros que imaginaram juntos.",
-      "elenco": [
-        "Alba Rohrwacher",
-        "Elio Germano",
-        "Francesco Carril",
-        "Silvia D'Amico",
-        "Sarita Choudhury",
-        "Pietro Sparvoli",
-        "Matteo Carlomagno",
-        "Giuseppe Pestillo"
-      ],
-      "diretor": "Isabel Coixet",
-      "generos": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uQJ6Tk6dNn1LANjNLyHJF5Siun6.jpg",
-      "pais": [
-        "IT",
-        "ES"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 120,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35705184/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Three%20Goodbyes",
-        "metacritic": "https://www.metacritic.com/search/Three%20Goodbyes/"
-      }
-    },
-    {
       "tmdb_id": 1489187,
       "imdb_id": "tt33086385",
       "titulo_original": "Сводишь с ума",
@@ -3356,6 +3291,57 @@
         "imdb": "https://www.imdb.com/title/tt34730492/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Damned%20If%20You%20Do%2C%20Damned%20If%20You%20Don't",
         "metacritic": "https://www.metacritic.com/search/Damned%20If%20You%20Do%2C%20Damned%20If%20You%20Don't/"
+      }
+    },
+    {
+      "tmdb_id": 1096642,
+      "imdb_id": "tt33030403",
+      "titulo_original": "L'Attachement",
+      "titulo_ingles": "The Ties That Bind Us",
+      "ano": 2025,
+      "data_lancamento": "2025-02-19",
+      "data_qualificacao": "",
+      "sinopse_pt": "Sandra, uma mulher ferozmente independente, compartilha repentinamente e sem querer, a intimidade de seu vizinho de andar e de seus dois filhos. Contra todas as expectativas, ela aos poucos se apega a essa família adotiva.",
+      "elenco": [
+        "Pio Marmaï",
+        "Valeria Bruni Tedeschi",
+        "Vimala Pons",
+        "Raphaël Quenard",
+        "César Botti",
+        "Catherine Mouchet",
+        "Marie-Christine Barrault",
+        "Mélissa Barbaud"
+      ],
+      "diretor": "Carine Tardieu",
+      "generos": [
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/xEsHqyIEWQ5d6CO45OHOVOktym7.jpg",
+      "pais": [
+        "BE",
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 105,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33030403/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Ties%20That%20Bind%20Us",
+        "metacritic": "https://www.metacritic.com/search/The%20Ties%20That%20Bind%20Us/"
       }
     },
     {
