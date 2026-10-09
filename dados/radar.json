@@ -1,7 +1,182 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-08T16:40:14.525Z",
+  "gerado_em": "2026-10-09T16:24:29.191Z",
   "filmes": [
+    {
+      "tmdb_id": 1400837,
+      "imdb_id": "tt36586020",
+      "titulo_original": "Other Mommy",
+      "titulo_ingles": "Other Mommy",
+      "ano": 2026,
+      "data_lancamento": "2026-10-07",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
+      "elenco": [
+        "Jessica Chastain",
+        "Arabella Olivia Clark",
+        "Jay Duplass",
+        "Dichen Lachman",
+        "Arian Moayed",
+        "Karen Allen",
+        "Sean Kaufman",
+        "Adam Silver"
+      ],
+      "diretor": "Rob Savage",
+      "generos": [
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/j6eXMsykSZnXJT20YTdsdS9PXPj.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 93,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36586020/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Other%20Mommy",
+        "metacritic": "https://www.metacritic.com/search/Other%20Mommy/"
+      }
+    },
+    {
+      "tmdb_id": 1148365,
+      "imdb_id": "tt28498219",
+      "titulo_original": "Matchbox the Movie",
+      "titulo_ingles": "Matchbox the Movie",
+      "ano": 2026,
+      "data_lancamento": "2026-10-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "Quando um grupo de antigos amigos de infância se reencontra, o encontro toma um rumo inesperado ao se depararem com uma perigosa trama internacional e precisarem salvar o mundo.",
+      "elenco": [
+        "John Cena",
+        "Jessica Biel",
+        "Sam Richardson",
+        "Arturo Castro",
+        "Teyonah Parris",
+        "Corey Stoll",
+        "Bill Camp",
+        "گلشیفته فراهانی"
+      ],
+      "diretor": "Sam Hargrave",
+      "generos": [
+        "Ação",
+        "Comédia",
+        "Aventura"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/hgPJA0NTmXYpPA3cgh4ZrI1PubL.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 127,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Apple TV",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/9icYBfYFcwgCbky5VdGUIKJ4C5i.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1148365-matchbox-the-movie/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt28498219/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Matchbox%20the%20Movie",
+        "metacritic": "https://www.metacritic.com/search/Matchbox%20the%20Movie/"
+      }
+    },
+    {
+      "tmdb_id": 1752355,
+      "imdb_id": "tt39453404",
+      "titulo_original": "Schumacher ’94 – Die Geburt einer Legende",
+      "titulo_ingles": "Schumacher ’94 – The Birth of a Legend",
+      "ano": 2026,
+      "data_lancamento": "2026-10-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "Corinna Schumacher, Flavio Briatore e outros amigos próximos relembram a turbulenta temporada de 1994, que marcou a ascensão de Michael Schumacher como lenda da Fórmula 1.",
+      "elenco": [
+        "Michael Schumacher",
+        "Corinna Schumacher",
+        "Flavio Briatore",
+        "Bernie Ecclestone",
+        "David Coulthard",
+        "Willi Weber",
+        "Kai Ebel",
+        "Heiko Waßer"
+      ],
+      "diretor": "Christin Freitag",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/aAhjUysLbHyzOPbvtczuvYCbA7O.jpg",
+      "pais": [
+        "DE"
+      ],
+      "idiomas": [
+        "de",
+        "en",
+        "tr"
+      ],
+      "duracao": 107,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1752355-schumacher-94-die-geburt-einer-legende/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39453404/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend",
+        "metacritic": "https://www.metacritic.com/search/Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend/"
+      }
+    },
     {
       "tmdb_id": 1458857,
       "imdb_id": "tt36429458",
@@ -122,8 +297,8 @@
       "data_qualificacao": "",
       "sinopse_pt": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
       "elenco": [
-        "Anne Hathaway",
         "Dakota Johnson",
+        "Anne Hathaway",
         "Josh Hartnett",
         "Brady Wagner",
         "Ismael Cruz Cordova",
@@ -177,7 +352,7 @@
         "Kai Cenat",
         "Druski",
         "Kam Patterson",
-        "Ray H",
+        "Chen-Ruei'Ray' Hsu",
         "Kel Mitchell",
         "Sexyy Red",
         "Duke Dennis"
@@ -281,32 +456,37 @@
       }
     },
     {
-      "tmdb_id": 1755291,
-      "imdb_id": "tt44766123",
-      "titulo_original": "NAZA",
-      "titulo_ingles": "NAZA",
+      "tmdb_id": 1643768,
+      "imdb_id": "tt40244533",
+      "titulo_original": "Il mio nome è Carlo",
+      "titulo_ingles": "Il mio nome è Carlo",
       "ano": 2026,
-      "data_lancamento": "2026-09-25",
+      "data_lancamento": "2026-09-27",
       "data_qualificacao": "",
-      "sinopse_pt": "Filmado à noite dos telhados de Tel Aviv, este documentário investigativo examina as vítimas civis das operações militares de Israel em Gaza e os sistemas por trás dos assassinatos seletivos de palestinos.",
+      "sinopse_pt": "O filme retrata três momentos-chave: o menino de seis anos, já dotado de uma sensibilidade espiritual extraordinária; o menino de onze anos, curioso e brilhante; e o adolescente de quinze anos, em seu primeiro ano do ensino médio, autoconsciente e determinado, capaz de encarar a vida cotidiana com uma perspectiva extraordinária.",
       "elenco": [
-        "Yuval Abraham"
+        "Samuele Carrino",
+        "Nicolò Caruz Jaramillo",
+        "Edoardo Vitalone",
+        "Lucia Mascino",
+        "Flavio Parenti",
+        "Brayan Palliyagoda",
+        "Maurizio Donadoni",
+        "Nicky Passarella"
       ],
-      "diretor": "Yuval Abraham, רחל שור",
+      "diretor": "Giacomo Campiotti",
       "generos": [
-        "Documentário"
+        "Drama",
+        "Cinema TV"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/eUDCOHe5LFSo9Dn6QNXxFiVzpjY.jpg",
       "pais": [
-        "US",
-        "GB"
+        "IT"
       ],
       "idiomas": [
-        "he",
-        "en",
-        "ar"
+        "it"
       ],
-      "duracao": 117,
+      "duracao": 108,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -318,12 +498,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "cinema"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt44766123/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=NAZA",
-        "metacritic": "https://www.metacritic.com/search/NAZA/"
+        "imdb": "https://www.imdb.com/title/tt40244533/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Il%20mio%20nome%20%C3%A8%20Carlo",
+        "metacritic": "https://www.metacritic.com/search/Il%20mio%20nome%20%C3%A8%20Carlo/"
       }
     },
     {
@@ -392,6 +572,52 @@
       }
     },
     {
+      "tmdb_id": 1755291,
+      "imdb_id": "tt44766123",
+      "titulo_original": "NAZA",
+      "titulo_ingles": "NAZA",
+      "ano": 2026,
+      "data_lancamento": "2026-09-25",
+      "data_qualificacao": "",
+      "sinopse_pt": "Filmado à noite dos telhados de Tel Aviv, este documentário investigativo examina as vítimas civis das operações militares de Israel em Gaza e os sistemas por trás dos assassinatos seletivos de palestinos.",
+      "elenco": [
+        "Yuval Abraham"
+      ],
+      "diretor": "Yuval Abraham, רחל שור",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
+      "pais": [
+        "US",
+        "GB"
+      ],
+      "idiomas": [
+        "he",
+        "en",
+        "ar"
+      ],
+      "duracao": 117,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt44766123/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=NAZA",
+        "metacritic": "https://www.metacritic.com/search/NAZA/"
+      }
+    },
+    {
       "tmdb_id": 1507877,
       "imdb_id": "tt38584405",
       "titulo_original": "Garance",
@@ -423,7 +649,7 @@
         "fr"
       ],
       "duracao": 120,
-      "rt_critica": 53,
+      "rt_critica": 50,
       "rt_publico": null,
       "metacritic": 56,
       "imdb_publico": null,
@@ -431,7 +657,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 53,
+      "atual_rt": 50,
       "atual_metacritic": 56,
       "disponibilidade_br": {
         "estado": "nao_lancado"
@@ -486,12 +712,99 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1607127-one-last-shot/watch?locale=BR"
       },
       "links": {
         "imdb": "https://www.imdb.com/title/tt37971717/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Last%20Shot",
         "metacritic": "https://www.metacritic.com/search/One%20Last%20Shot/"
+      }
+    },
+    {
+      "tmdb_id": 1514863,
+      "imdb_id": "tt16478058",
+      "titulo_original": "Best of the Best",
+      "titulo_ingles": "Best of the Best",
+      "ano": 2026,
+      "data_lancamento": "2026-09-18",
+      "data_qualificacao": "",
+      "sinopse_pt": "Duas amigas de infância, Maya (Maitreyi Ramakrishnan) e Anjali (Priyanka Kedia), entram para a equipe de dança Bollywood da UCLA, mas logo descobrem que ganhar o campeonato nacional dos EUA vai ser muito mais difícil do que imaginavam.",
+      "elenco": [
+        "Maitreyi Ramakrishnan",
+        "Priyanka Kedia",
+        "Ankur Rathee",
+        "Chaneil Kular",
+        "Shreya Navile",
+        "Becky Alex",
+        "Nihar Duvvuri",
+        "Nico Greetham"
+      ],
+      "diretor": "Lena Khan",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vmjK9vC8usvMQ4dRqKVnx8P18Np.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "hi"
+      ],
+      "duracao": 112,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt16478058/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Best%20of%20the%20Best",
+        "metacritic": "https://www.metacritic.com/search/Best%20of%20the%20Best/"
       }
     },
     {
@@ -557,70 +870,6 @@
         "imdb": "https://www.imdb.com/title/tt43617372/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=You%2BMe%20-%20Against%20the%20World",
         "metacritic": "https://www.metacritic.com/search/You%2BMe%20-%20Against%20the%20World/"
-      }
-    },
-    {
-      "tmdb_id": 1514863,
-      "imdb_id": "tt16478058",
-      "titulo_original": "Best of the Best",
-      "titulo_ingles": "Best of the Best",
-      "ano": 2026,
-      "data_lancamento": "2026-09-18",
-      "data_qualificacao": "",
-      "sinopse_pt": "Duas amigas de infância, Maya (Maitreyi Ramakrishnan) e Anjali (Priyanka Kedia), entram para a equipe de dança Bollywood da UCLA, mas logo descobrem que ganhar o campeonato nacional dos EUA vai ser muito mais difícil do que imaginavam.",
-      "elenco": [
-        "Maitreyi Ramakrishnan",
-        "Priyanka Kedia",
-        "Ankur Rathee",
-        "Chaneil Kular",
-        "Shreya Navile",
-        "Becky Alex",
-        "Nihar Duvvuri",
-        "Nico Greetham"
-      ],
-      "diretor": "Lena Khan",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vmjK9vC8usvMQ4dRqKVnx8P18Np.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "hi"
-      ],
-      "duracao": 112,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt16478058/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Best%20of%20the%20Best",
-        "metacritic": "https://www.metacritic.com/search/Best%20of%20the%20Best/"
       }
     },
     {
@@ -998,161 +1247,6 @@
       }
     },
     {
-      "tmdb_id": 1340102,
-      "imdb_id": "tt38953026",
-      "titulo_original": "Lion Fist",
-      "titulo_ingles": "Lion Fist",
-      "ano": 2026,
-      "data_lancamento": "2026-09-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Mathis Landwehr",
-        "Li Yanlong",
-        "Kurt McKinney",
-        "Keith Cooke",
-        "Brice Akuesson",
-        "David Yeung",
-        "Gary Daniels",
-        "Finja Martens"
-      ],
-      "diretor": "Taim M. Adams",
-      "generos": [
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
-      "pais": [
-        "US",
-        "DE"
-      ],
-      "idiomas": [
-        "en",
-        "da",
-        "zh"
-      ],
-      "duracao": 91,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38953026/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Lion%20Fist",
-        "metacritic": "https://www.metacritic.com/search/Lion%20Fist/"
-      }
-    },
-    {
-      "tmdb_id": 1576934,
-      "imdb_id": "tt9395802",
-      "titulo_original": "The Echo Chamber",
-      "titulo_ingles": "The Echo Chamber",
-      "ano": 2026,
-      "data_lancamento": "2026-09-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Leo, um célebre produtor musical, leva uma vida glamourosa que começa a fugir do controle. Durante um caso com Anne, uma fisioterapeuta, os limites entre afeto e dependência e desejo e dominação tornam-se cada vez mais incertos. Presos a um ciclo de vai e vem, os dois não conseguem permanecer juntos nem se libertar um do outro. Pelos cômodos do apartamento, a voz de Ava atravessa o tempo, trazendo à tona lembranças, feridas e tudo aquilo que já não pode ser contido. O filme parte do último roteiro de Bernardo Bertolucci.",
-      "elenco": [
-        "Luca Marinelli",
-        "Alicia Vikander",
-        "Susan Sarandon",
-        "Ann Akinjirin",
-        "Peter Coonan",
-        "Antonia Fotaras",
-        "Aomi Muyock"
-      ],
-      "diretor": "Andrea Pallaoro",
-      "generos": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/2LfYcKvoj2TCuLNAxLAu3hhZEWz.jpg",
-      "pais": [
-        "IT",
-        "BE"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 123,
-      "rt_critica": 62,
-      "rt_publico": null,
-      "metacritic": 64,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 62,
-      "atual_metacritic": 64,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt9395802/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Echo%20Chamber",
-        "metacritic": "https://www.metacritic.com/search/The%20Echo%20Chamber/"
-      }
-    },
-    {
-      "tmdb_id": 1645164,
-      "imdb_id": "tt38574284",
-      "titulo_original": "Serpenti",
-      "titulo_ingles": "Snake",
-      "ano": 2026,
-      "data_lancamento": "2026-09-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Paolo Marra matou a esposa sem compreender por quê. Consumido pela culpa, decide se entregar, cumprir sua pena e tentar restituir alguma dignidade à mulher que assassinou. Mas, entre policiais distraídos, advogados oportunistas, videntes e entraves burocráticos, ninguém parece levá-lo a sério. Preso num paradoxo kafkiano, Paolo descobre que, por mais que insista, não consegue ser detido.",
-      "elenco": [
-        "Leonardo Lidi",
-        "Alessandro Borghi",
-        "Pietro Castellitto",
-        "Valeria Golino",
-        "Daniele Parisi",
-        "Francesca Solombrino",
-        "Alessandra Ferrara",
-        "Martinus Tocchi"
-      ],
-      "diretor": "Roberto De Paolis",
-      "generos": [
-        "Drama",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 88,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38574284/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snake",
-        "metacritic": "https://www.metacritic.com/search/Snake/"
-      }
-    },
-    {
       "tmdb_id": 1228834,
       "imdb_id": "tt9601292",
       "titulo_original": "The Fix",
@@ -1259,39 +1353,40 @@
       }
     },
     {
-      "tmdb_id": 1302904,
-      "imdb_id": "tt32588798",
-      "titulo_original": "Practical Magic 2",
-      "titulo_ingles": "Practical Magic 2",
+      "tmdb_id": 1340102,
+      "imdb_id": "tt38953026",
+      "titulo_original": "Lion Fist",
+      "titulo_ingles": "Lion Fist",
       "ano": 2026,
-      "data_lancamento": "2026-09-09",
+      "data_lancamento": "2026-09-10",
       "data_qualificacao": "",
-      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
+      "sinopse_pt": "",
       "elenco": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Joey King",
-        "Maisie Williams",
-        "Xolo Maridueña",
-        "Lee Pace",
-        "Dianne Wiest",
-        "Stockard Channing"
+        "Mathis Landwehr",
+        "Li Yanlong",
+        "Kurt McKinney",
+        "Keith Cooke",
+        "Brice Akuesson",
+        "David Yeung",
+        "Gary Daniels",
+        "Finja Martens"
       ],
-      "diretor": "Susanne Bier",
+      "diretor": "Taim M. Adams",
       "generos": [
-        "Romance",
-        "Fantasia",
-        "Comédia"
+        "Ação"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uoJvqWGs4702jnqOwe8RABSxT3L.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
       "pais": [
-        "US"
+        "US",
+        "DE"
       ],
       "idiomas": [
-        "en"
+        "en",
+        "da",
+        "zh"
       ],
-      "duracao": 130,
-      "rt_critica": 37,
+      "duracao": 91,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -1299,15 +1394,117 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 37,
+      "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "cinema"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt32588798/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
-        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
+        "imdb": "https://www.imdb.com/title/tt38953026/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Lion%20Fist",
+        "metacritic": "https://www.metacritic.com/search/Lion%20Fist/"
+      }
+    },
+    {
+      "tmdb_id": 1645164,
+      "imdb_id": "tt38574284",
+      "titulo_original": "Serpenti",
+      "titulo_ingles": "Snake",
+      "ano": 2026,
+      "data_lancamento": "2026-09-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "Paolo Marra matou a esposa sem compreender por quê. Consumido pela culpa, decide se entregar, cumprir sua pena e tentar restituir alguma dignidade à mulher que assassinou. Mas, entre policiais distraídos, advogados oportunistas, videntes e entraves burocráticos, ninguém parece levá-lo a sério. Preso num paradoxo kafkiano, Paolo descobre que, por mais que insista, não consegue ser detido.",
+      "elenco": [
+        "Leonardo Lidi",
+        "Alessandro Borghi",
+        "Pietro Castellitto",
+        "Valeria Golino",
+        "Daniele Parisi",
+        "Francesca Solombrino",
+        "Alessandra Ferrara",
+        "Martinus Tocchi"
+      ],
+      "diretor": "Roberto De Paolis",
+      "generos": [
+        "Drama",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/xHDfVddxKnvEaWeEEnr3T4Yemgc.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 88,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38574284/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snake",
+        "metacritic": "https://www.metacritic.com/search/Snake/"
+      }
+    },
+    {
+      "tmdb_id": 1576934,
+      "imdb_id": "tt9395802",
+      "titulo_original": "The Echo Chamber",
+      "titulo_ingles": "The Echo Chamber",
+      "ano": 2026,
+      "data_lancamento": "2026-09-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "Leo, um célebre produtor musical, leva uma vida glamourosa que começa a fugir do controle. Durante um caso com Anne, uma fisioterapeuta, os limites entre afeto e dependência e desejo e dominação tornam-se cada vez mais incertos. Presos a um ciclo de vai e vem, os dois não conseguem permanecer juntos nem se libertar um do outro. Pelos cômodos do apartamento, a voz de Ava atravessa o tempo, trazendo à tona lembranças, feridas e tudo aquilo que já não pode ser contido. O filme parte do último roteiro de Bernardo Bertolucci.",
+      "elenco": [
+        "Luca Marinelli",
+        "Alicia Vikander",
+        "Susan Sarandon",
+        "Ann Akinjirin",
+        "Peter Coonan",
+        "Antonia Fotaras",
+        "Aomi Muyock"
+      ],
+      "diretor": "Andrea Pallaoro",
+      "generos": [
+        "Drama",
+        "Romance"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/2LfYcKvoj2TCuLNAxLAu3hhZEWz.jpg",
+      "pais": [
+        "IT",
+        "BE"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 123,
+      "rt_critica": 62,
+      "rt_publico": null,
+      "metacritic": 64,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 62,
+      "atual_metacritic": 64,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt9395802/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Echo%20Chamber",
+        "metacritic": "https://www.metacritic.com/search/The%20Echo%20Chamber/"
       }
     },
     {
@@ -1368,38 +1565,39 @@
       }
     },
     {
-      "tmdb_id": 1762506,
-      "imdb_id": "tt33510831",
-      "titulo_original": "Band of Brothers: Legacy",
-      "titulo_ingles": "Band of Brothers: Legacy",
+      "tmdb_id": 1302904,
+      "imdb_id": "tt32588798",
+      "titulo_original": "Practical Magic 2",
+      "titulo_ingles": "Practical Magic 2",
       "ano": 2026,
       "data_lancamento": "2026-09-09",
       "data_qualificacao": "",
-      "sinopse_pt": "Uma homenagem documental à série que ajudou a preservar a história da Easy Company, em consonância com o 25º aniversário da série limitada original da HBO.",
+      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
       "elenco": [
-        "Damian Lewis",
-        "Richard D. Winters",
-        "Ron Livingston",
-        "Neal McDonough",
-        "Frank John Hughes",
-        "Michael Cudlitz",
-        "James Madio",
-        "Dale Dye"
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Joey King",
+        "Maisie Williams",
+        "Xolo Maridueña",
+        "Lee Pace",
+        "Dianne Wiest",
+        "Stockard Channing"
       ],
-      "diretor": "Chase Millsap",
+      "diretor": "Susanne Bier",
       "generos": [
-        "Documentário",
-        "Guerra"
+        "Romance",
+        "Fantasia",
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/uoJvqWGs4702jnqOwe8RABSxT3L.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 60,
-      "rt_critica": null,
+      "duracao": 130,
+      "rt_critica": 37,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -1407,28 +1605,15 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 37,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "HBO Max",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
-          },
-          {
-            "nome": "HBO Max Amazon Channel",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1762506-band-of-brothers-legacy/watch?locale=BR"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt33510831/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Band%20of%20Brothers%3A%20Legacy",
-        "metacritic": "https://www.metacritic.com/search/Band%20of%20Brothers%3A%20Legacy/"
+        "imdb": "https://www.imdb.com/title/tt32588798/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
+        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
       }
     },
     {
@@ -1496,39 +1681,38 @@
       }
     },
     {
-      "tmdb_id": 1522689,
-      "imdb_id": "tt38061210",
-      "titulo_original": "Why Did I Get Married Again?",
-      "titulo_ingles": "Why Did I Get Married Again?",
+      "tmdb_id": 1762506,
+      "imdb_id": "tt33510831",
+      "titulo_original": "Band of Brothers: Legacy",
+      "titulo_ingles": "Band of Brothers: Legacy",
       "ano": 2026,
-      "data_lancamento": "2026-09-08",
+      "data_lancamento": "2026-09-09",
       "data_qualificacao": "",
-      "sinopse_pt": "Os casais se reencontram para o matrimônio da filha de Marcus e Angela, trazendo à tona dramas novos e antigos. Por que será que essa turma se casou, hein?",
+      "sinopse_pt": "Uma homenagem documental à série que ajudou a preservar a história da Easy Company, em consonância com o 25º aniversário da série limitada original da HBO.",
       "elenco": [
-        "Tyler Perry",
-        "Taraji P. Henson",
-        "Jill Scott",
-        "Richard T. Jones",
-        "Tasha Smith",
-        "Michael Jai White",
-        "Sharon Leal",
-        "Lamman Rucker"
+        "Damian Lewis",
+        "Richard D. Winters",
+        "Ron Livingston",
+        "Neal McDonough",
+        "Frank John Hughes",
+        "Michael Cudlitz",
+        "James Madio",
+        "Dale Dye"
       ],
-      "diretor": "Tyler Perry",
+      "diretor": "Chase Millsap",
       "generos": [
-        "Comédia",
-        "Romance",
-        "Drama"
+        "Documentário",
+        "Guerra"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bHMtdZFZztcAE5uHHhsY2pWRPB9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 112,
-      "rt_critica": 38,
+      "duracao": 60,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -1536,28 +1720,28 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 38,
+      "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "streaming",
         "servicos": [
           {
-            "nome": "Netflix",
+            "nome": "HBO Max",
             "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            "logo_url": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
           },
           {
-            "nome": "Netflix Standard with Ads",
+            "nome": "HBO Max Amazon Channel",
             "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            "logo_url": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
           }
         ],
-        "link_br": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=BR"
+        "link_br": "https://www.themoviedb.org/movie/1762506-band-of-brothers-legacy/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt38061210/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Why%20Did%20I%20Get%20Married%20Again%3F",
-        "metacritic": "https://www.metacritic.com/search/Why%20Did%20I%20Get%20Married%20Again%3F/"
+        "imdb": "https://www.imdb.com/title/tt33510831/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Band%20of%20Brothers%3A%20Legacy",
+        "metacritic": "https://www.metacritic.com/search/Band%20of%20Brothers%3A%20Legacy/"
       }
     },
     {
@@ -1621,6 +1805,71 @@
         "imdb": "https://www.imdb.com/title/tt43700444/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool",
         "metacritic": "https://www.metacritic.com/search/Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool/"
+      }
+    },
+    {
+      "tmdb_id": 1522689,
+      "imdb_id": "tt38061210",
+      "titulo_original": "Why Did I Get Married Again?",
+      "titulo_ingles": "Why Did I Get Married Again?",
+      "ano": 2026,
+      "data_lancamento": "2026-09-08",
+      "data_qualificacao": "",
+      "sinopse_pt": "Os casais se reencontram para o matrimônio da filha de Marcus e Angela, trazendo à tona dramas novos e antigos. Por que será que essa turma se casou, hein?",
+      "elenco": [
+        "Tyler Perry",
+        "Taraji P. Henson",
+        "Jill Scott",
+        "Richard T. Jones",
+        "Tasha Smith",
+        "Michael Jai White",
+        "Sharon Leal",
+        "Lamman Rucker"
+      ],
+      "diretor": "Tyler Perry",
+      "generos": [
+        "Comédia",
+        "Romance",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bHMtdZFZztcAE5uHHhsY2pWRPB9.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 112,
+      "rt_critica": 38,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 38,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38061210/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Why%20Did%20I%20Get%20Married%20Again%3F",
+        "metacritic": "https://www.metacritic.com/search/Why%20Did%20I%20Get%20Married%20Again%3F/"
       }
     },
     {
@@ -2090,60 +2339,6 @@
       }
     },
     {
-      "tmdb_id": 1731694,
-      "imdb_id": "tt43679852",
-      "titulo_original": "LEGO Star Wars: The Mandalorian",
-      "titulo_ingles": "LEGO Star Wars: The Mandalorian",
-      "ano": 2026,
-      "data_lancamento": "2026-09-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "O Mandaloriano e Grogu se juntam a seus aliados excêntricos para uma festa épica, celebrando seu heroísmo. Enquanto amigos entretêm a turma com histórias de suas aventuras, uma ameaça pirata se aproxima.",
-      "elenco": [
-        "Gavin Hammon",
-        "Amy Sedaris",
-        "Bill Burr",
-        "David Pasquesi",
-        "Katee Sackhoff",
-        "Emily Swallow",
-        "Giancarlo Esposito",
-        "Matthew Wood"
-      ],
-      "diretor": "Chris Buckley",
-      "generos": [
-        "Animação",
-        "Ficção científica",
-        "Aventura",
-        "Família",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 50,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43679852/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=LEGO%20Star%20Wars%3A%20The%20Mandalorian",
-        "metacritic": "https://www.metacritic.com/search/LEGO%20Star%20Wars%3A%20The%20Mandalorian/"
-      }
-    },
-    {
       "tmdb_id": 1752159,
       "imdb_id": "tt44322266",
       "titulo_original": "Turning Point: Generation 9/11",
@@ -2204,6 +2399,60 @@
         "imdb": "https://www.imdb.com/title/tt44322266/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Turning%20Point%3A%20Generation%209%2F11",
         "metacritic": "https://www.metacritic.com/search/Turning%20Point%3A%20Generation%209%2F11/"
+      }
+    },
+    {
+      "tmdb_id": 1731694,
+      "imdb_id": "tt43679852",
+      "titulo_original": "LEGO Star Wars: The Mandalorian",
+      "titulo_ingles": "LEGO Star Wars: The Mandalorian",
+      "ano": 2026,
+      "data_lancamento": "2026-09-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "O Mandaloriano e Grogu se juntam a seus aliados excêntricos para uma festa épica, celebrando seu heroísmo. Enquanto amigos entretêm a turma com histórias de suas aventuras, uma ameaça pirata se aproxima.",
+      "elenco": [
+        "Gavin Hammon",
+        "Amy Sedaris",
+        "Bill Burr",
+        "David Pasquesi",
+        "Katee Sackhoff",
+        "Emily Swallow",
+        "Giancarlo Esposito",
+        "Matthew Wood"
+      ],
+      "diretor": "Chris Buckley",
+      "generos": [
+        "Animação",
+        "Ficção científica",
+        "Aventura",
+        "Família",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 50,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43679852/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=LEGO%20Star%20Wars%3A%20The%20Mandalorian",
+        "metacritic": "https://www.metacritic.com/search/LEGO%20Star%20Wars%3A%20The%20Mandalorian/"
       }
     },
     {
@@ -2363,12 +2612,76 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1482547-zip-wire/watch?locale=BR"
       },
       "links": {
         "imdb": "https://www.imdb.com/title/tt36980377/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Zip%20Wire",
         "metacritic": "https://www.metacritic.com/search/Zip%20Wire/"
+      }
+    },
+    {
+      "tmdb_id": 843352,
+      "imdb_id": "tt12446086",
+      "titulo_original": "Legend of the White Dragon",
+      "titulo_ingles": "Legend of the White Dragon",
+      "ano": 2026,
+      "data_lancamento": "2026-08-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após três anos de esconderijo forçado como fugitivo, Erik Reed —um ex-super-herói conhecido como Dragão Branco— retorna à cidade que jurou proteger. Seu objetivo: limpar seu nome e se reunir com a família que ele mantém em segredo. Apenas uma coisa está em seu caminho: o misterioso Dragon Prime, que não medirá esforços para se vingar do Dragão Branco.",
+      "elenco": [
+        "Jason David Frank",
+        "Aaron Schoenke",
+        "Jason Faunt",
+        "Rachele Brooke Smith",
+        "Michael Madsen",
+        "Andrew Bachelor",
+        "David Ramsey",
+        "Mark Dacascos"
+      ],
+      "diretor": "Aaron Schoenke",
+      "generos": [
+        "Ação",
+        "Fantasia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/yygzww0GACtCMmwhtPG1P01qSx5.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt12446086/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Legend%20of%20the%20White%20Dragon",
+        "metacritic": "https://www.metacritic.com/search/Legend%20of%20the%20White%20Dragon/"
       }
     },
     {
@@ -2434,275 +2747,6 @@
         "imdb": "https://www.imdb.com/title/tt43706402/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Barreda",
         "metacritic": "https://www.metacritic.com/search/Barreda/"
-      }
-    },
-    {
-      "tmdb_id": 843352,
-      "imdb_id": "tt12446086",
-      "titulo_original": "Legend of the White Dragon",
-      "titulo_ingles": "Legend of the White Dragon",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após três anos de esconderijo forçado como fugitivo, Erik Reed —um ex-super-herói conhecido como Dragão Branco— retorna à cidade que jurou proteger. Seu objetivo: limpar seu nome e se reunir com a família que ele mantém em segredo. Apenas uma coisa está em seu caminho: o misterioso Dragon Prime, que não medirá esforços para se vingar do Dragão Branco.",
-      "elenco": [
-        "Jason David Frank",
-        "Aaron Schoenke",
-        "Jason Faunt",
-        "Rachele Brooke Smith",
-        "Michael Madsen",
-        "Andrew Bachelor",
-        "David Ramsey",
-        "Mark Dacascos"
-      ],
-      "diretor": "Aaron Schoenke",
-      "generos": [
-        "Ação",
-        "Fantasia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/yygzww0GACtCMmwhtPG1P01qSx5.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt12446086/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Legend%20of%20the%20White%20Dragon",
-        "metacritic": "https://www.metacritic.com/search/Legend%20of%20the%20White%20Dragon/"
-      }
-    },
-    {
-      "tmdb_id": 1550338,
-      "imdb_id": "tt44147164",
-      "titulo_original": "Öngörü",
-      "titulo_ingles": "The Last Scene",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Selen pode ver o futuro de outras pessoas. Uma visão a leva a um romance inesperado e a um desafio. Quando seu caminho se cruza com Kemal, começa uma luta entre amor e perigo. As escolhas que ela fizer afetarão sua vida e o futuro de Kemal.",
-      "elenco": [
-        "Hilal Altınbilek",
-        "Serkan Çayoğlu",
-        "Olcay Yusufoğlu",
-        "Bora Karakul",
-        "Sema Mumcu",
-        "Gökçen Gökçebağ",
-        "Yiğit Kalkavan",
-        "Sedat Savtak"
-      ],
-      "diretor": "Ali Bilgin",
-      "generos": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/2dlXexLn0PJzzsqVRlxaREBNTJ4.jpg",
-      "pais": [
-        "TR"
-      ],
-      "idiomas": [
-        "tr"
-      ],
-      "duracao": 96,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt44147164/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Scene",
-        "metacritic": "https://www.metacritic.com/search/The%20Last%20Scene/"
-      }
-    },
-    {
-      "tmdb_id": 1480574,
-      "imdb_id": "tt36948232",
-      "titulo_original": "Just Play Dead",
-      "titulo_ingles": "Just Play Dead",
-      "ano": 2026,
-      "data_lancamento": "2026-08-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um gênio do crime planeja forjar a própria morte para receber o dinheiro do seguro e incriminar o amante da esposa. A esposa, por sua vez, trama para matá-lo de verdade e ficar com tudo. Os dois competem numa batalha mortal de inteligência para se superarem.",
-      "elenco": [
-        "Samuel L. Jackson",
-        "Eva Green",
-        "María Pedraza",
-        "Eoin Macken",
-        "Jason Fernández",
-        "Paulo Rivera",
-        "Nicole Ansari-Cox",
-        "Lee Boardman"
-      ],
-      "diretor": "Martin Campbell",
-      "generos": [
-        "Thriller",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/e0WaDBrrBAMcq2stAXCR7rXEsiw.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": 9,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 9,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36948232/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Just%20Play%20Dead",
-        "metacritic": "https://www.metacritic.com/search/Just%20Play%20Dead/"
-      }
-    },
-    {
-      "tmdb_id": 860508,
-      "imdb_id": "tt11561116",
-      "titulo_original": "The Whisper Man",
-      "titulo_ingles": "The Whisper Man",
-      "ano": 2026,
-      "data_lancamento": "2026-08-27",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após o desaparecimento do filho, um viúvo precisa pedir ajuda ao próprio pai: um detetive aposentado que prendeu o assassino em série ligado a esse novo caso.",
-      "elenco": [
-        "Robert De Niro",
-        "Michelle Monaghan",
-        "Adam Scott",
-        "Acston Luca Porto",
-        "Michael Keaton",
-        "Owen Teague",
-        "Hamish Linklater",
-        "Will Brill"
-      ],
-      "diretor": "James Ashcroft",
-      "generos": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/umlg3mqkny7opAfPtBLUGYwZ8xF.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 114,
-      "rt_critica": 46,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 46,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/860508-the-whisper-man/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt11561116/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Whisper%20Man",
-        "metacritic": "https://www.metacritic.com/search/The%20Whisper%20Man/"
-      }
-    },
-    {
-      "tmdb_id": 1462861,
-      "imdb_id": "tt22406048",
-      "titulo_original": "Spider Island",
-      "titulo_ingles": "Spider Island",
-      "ano": 2026,
-      "data_lancamento": "2026-08-27",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um grupo de rapazes e moças só quer se divertir ao sol. O que poderia dar errado?",
-      "elenco": [
-        "Rose Williams",
-        "Tim McInnerny",
-        "Avani Gregg",
-        "Abraham Lewis",
-        "Carlotta Banat",
-        "Anuschka van Lent",
-        "Justin Daniels Anene",
-        "Owen Warner"
-      ],
-      "diretor": "Christopher Smith",
-      "generos": [
-        "Comédia",
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eKw6aF7oNEaTnVvN396Q1is9R1n.jpg",
-      "pais": [
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt22406048/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Spider%20Island",
-        "metacritic": "https://www.metacritic.com/search/Spider%20Island/"
       }
     },
     {
@@ -3257,11 +3301,6 @@
             "nome": "Amazon Prime Video",
             "tipo": "assinatura",
             "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "nome": "Claro tv+",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/olzQMHt2SX7iNy8WDMR299hVFcL.png"
           },
           {
             "nome": "Amazon Prime Video with Ads",
