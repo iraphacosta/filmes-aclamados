@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-10T15:29:15.407Z",
+  "gerado_em": "2026-10-11T15:51:04.135Z",
   "filmes": [
     {
       "tmdb_id": 1236045,
@@ -31,7 +31,8 @@
         "US"
       ],
       "idiomas": [
-        "en"
+        "en",
+        "es"
       ],
       "duracao": 109,
       "rt_critica": null,
@@ -130,11 +131,11 @@
       "sinopse_pt": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
       "elenco": [
         "Jessica Chastain",
-        "Arabella Olivia Clark",
         "Jay Duplass",
-        "Dichen Lachman",
-        "Arian Moayed",
+        "Arabella Olivia Clark",
         "Karen Allen",
+        "Arian Moayed",
+        "Dichen Lachman",
         "Sean Kaufman",
         "Adam Silver"
       ],
@@ -181,12 +182,12 @@
       "elenco": [
         "John Cena",
         "Jessica Biel",
-        "Sam Richardson",
         "Arturo Castro",
+        "Sam Richardson",
         "Teyonah Parris",
-        "Corey Stoll",
-        "Bill Camp",
-        "گلشیفته فراهانی"
+        "Danai Gurira",
+        "گلشیفته فراهانی",
+        "Corey Stoll"
       ],
       "diretor": "Sam Hargrave",
       "generos": [
@@ -361,6 +362,59 @@
         "imdb": "https://www.imdb.com/title/tt39453404/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend",
         "metacritic": "https://www.metacritic.com/search/Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend/"
+      }
+    },
+    {
+      "tmdb_id": 1599191,
+      "imdb_id": "tt47867242",
+      "titulo_original": "仙逆剧场版：弑仙之战",
+      "titulo_ingles": "Renegade Immortal: Battle of the Immortal Slayer",
+      "ano": 2026,
+      "data_lancamento": "2026-10-01",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "史泽鲲",
+        "Li Jiaxiang",
+        "刘思岑",
+        "Guan Shuai",
+        "Si Xi",
+        "杨厚垚",
+        "张如麟",
+        "柳知萧"
+      ],
+      "diretor": "石头熊",
+      "generos": [
+        "Animação",
+        "Ação",
+        "Aventura",
+        "Fantasia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
+      "pais": [
+        "CN"
+      ],
+      "idiomas": [
+        "zh"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt47867242/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Renegade%20Immortal%3A%20Battle%20of%20the%20Immortal%20Slayer",
+        "metacritic": "https://www.metacritic.com/search/Renegade%20Immortal%3A%20Battle%20of%20the%20Immortal%20Slayer/"
       }
     },
     {
@@ -1166,6 +1220,57 @@
       }
     },
     {
+      "tmdb_id": 1643135,
+      "imdb_id": "tt40231163",
+      "titulo_original": "Run Hide Fight: Infidels",
+      "titulo_ingles": "Run Hide Fight: Infidels",
+      "ano": 2026,
+      "data_lancamento": "2026-09-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Jonathan Majors",
+        "JC Kilcoyne",
+        "Tyler Aser",
+        "Stephen Hailo",
+        "James Bingham",
+        "David Lucas",
+        "Chris K. Lee",
+        "Savanna Leigh James"
+      ],
+      "diretor": "Kyle Rankin",
+      "generos": [
+        "Ação",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/gkVq1Pd46NF7AP5XQZfRHjQfCXX.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 129,
+      "rt_critica": 27,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 27,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt40231163/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Run%20Hide%20Fight%3A%20Infidels",
+        "metacritic": "https://www.metacritic.com/search/Run%20Hide%20Fight%3A%20Infidels/"
+      }
+    },
+    {
       "tmdb_id": 1751701,
       "imdb_id": "tt36809539",
       "titulo_original": "After Impact",
@@ -1384,6 +1489,112 @@
       }
     },
     {
+      "tmdb_id": 1228834,
+      "imdb_id": "tt9601292",
+      "titulo_original": "The Fix",
+      "titulo_ingles": "The Fix",
+      "ano": 2026,
+      "data_lancamento": "2026-09-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "Desiludidos com o fim da guerra no Afeganistão, um grupo de ex-agentes da CIA, em desgraça e marcados pela guerra, parte para Teerã com o objetivo de realizar um golpe que mudará suas vidas.",
+      "elenco": [
+        "Zachary Levi",
+        "Liam Neeson",
+        "Wes Chatham",
+        "Titus Welliver",
+        "Navid Negahban",
+        "Annet Mahendru",
+        "Grant Harvey",
+        "Augusto Aguilera"
+      ],
+      "diretor": "Guy Moshe",
+      "generos": [
+        "Ação",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/a1j5writymMPFPyOhBT7s1xX6v6.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "ar",
+        "en"
+      ],
+      "duracao": 142,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt9601292/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Fix",
+        "metacritic": "https://www.metacritic.com/search/The%20Fix/"
+      }
+    },
+    {
+      "tmdb_id": 977942,
+      "imdb_id": "tt36983905",
+      "titulo_original": "The Uprising",
+      "titulo_ingles": "The Uprising",
+      "ano": 2026,
+      "data_lancamento": "2026-09-10",
+      "data_qualificacao": "",
+      "sinopse_pt": "Enquanto a guerra e a peste devastam a Inglaterra do século XIV, um humilde camponês dá início a uma revolta, reunindo um exército de homens e mulheres do povo para desafiar o poder do rei numa luta desesperada por justiça e sobrevivência.",
+      "elenco": [
+        "Andrew Garfield",
+        "Jamie Bell",
+        "Stephen Dillane",
+        "Woody Norman",
+        "Tom Hollander",
+        "Cosmo Jarvis",
+        "Thomasin McKenzie",
+        "Jonny Lee Miller"
+      ],
+      "diretor": "Paul Greengrass",
+      "generos": [
+        "História",
+        "Drama",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/mfDgS3jVrHX8pCCpiKdFQPShL56.jpg",
+      "pais": [
+        "DE",
+        "GB",
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 127,
+      "rt_critica": 55,
+      "rt_publico": null,
+      "metacritic": 53,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 55,
+      "atual_metacritic": 53,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36983905/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Uprising",
+        "metacritic": "https://www.metacritic.com/search/The%20Uprising/"
+      }
+    },
+    {
       "tmdb_id": 1340102,
       "imdb_id": "tt38953026",
       "titulo_original": "Lion Fist",
@@ -1539,164 +1750,6 @@
       }
     },
     {
-      "tmdb_id": 1228834,
-      "imdb_id": "tt9601292",
-      "titulo_original": "The Fix",
-      "titulo_ingles": "The Fix",
-      "ano": 2026,
-      "data_lancamento": "2026-09-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Desiludidos com o fim da guerra no Afeganistão, um grupo de ex-agentes da CIA, em desgraça e marcados pela guerra, parte para Teerã com o objetivo de realizar um golpe que mudará suas vidas.",
-      "elenco": [
-        "Zachary Levi",
-        "Liam Neeson",
-        "Wes Chatham",
-        "Titus Welliver",
-        "Navid Negahban",
-        "Annet Mahendru",
-        "Grant Harvey",
-        "Augusto Aguilera"
-      ],
-      "diretor": "Guy Moshe",
-      "generos": [
-        "Ação",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/a1j5writymMPFPyOhBT7s1xX6v6.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "ar",
-        "en"
-      ],
-      "duracao": 142,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt9601292/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Fix",
-        "metacritic": "https://www.metacritic.com/search/The%20Fix/"
-      }
-    },
-    {
-      "tmdb_id": 977942,
-      "imdb_id": "tt36983905",
-      "titulo_original": "The Uprising",
-      "titulo_ingles": "The Uprising",
-      "ano": 2026,
-      "data_lancamento": "2026-09-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Enquanto a guerra e a peste devastam a Inglaterra do século XIV, um humilde camponês dá início a uma revolta, reunindo um exército de homens e mulheres do povo para desafiar o poder do rei numa luta desesperada por justiça e sobrevivência.",
-      "elenco": [
-        "Andrew Garfield",
-        "Jamie Bell",
-        "Stephen Dillane",
-        "Woody Norman",
-        "Tom Hollander",
-        "Cosmo Jarvis",
-        "Thomasin McKenzie",
-        "Jonny Lee Miller"
-      ],
-      "diretor": "Paul Greengrass",
-      "generos": [
-        "História",
-        "Drama",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/mfDgS3jVrHX8pCCpiKdFQPShL56.jpg",
-      "pais": [
-        "DE",
-        "GB",
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 127,
-      "rt_critica": 55,
-      "rt_publico": null,
-      "metacritic": 53,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 55,
-      "atual_metacritic": 53,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36983905/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Uprising",
-        "metacritic": "https://www.metacritic.com/search/The%20Uprising/"
-      }
-    },
-    {
-      "tmdb_id": 1302904,
-      "imdb_id": "tt32588798",
-      "titulo_original": "Practical Magic 2",
-      "titulo_ingles": "Practical Magic 2",
-      "ano": 2026,
-      "data_lancamento": "2026-09-09",
-      "data_qualificacao": "",
-      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
-      "elenco": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Joey King",
-        "Maisie Williams",
-        "Xolo Maridueña",
-        "Lee Pace",
-        "Dianne Wiest",
-        "Stockard Channing"
-      ],
-      "diretor": "Susanne Bier",
-      "generos": [
-        "Romance",
-        "Fantasia",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uoJvqWGs4702jnqOwe8RABSxT3L.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 130,
-      "rt_critica": 37,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 37,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32588798/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
-        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
-      }
-    },
-    {
       "tmdb_id": 1447853,
       "imdb_id": "tt36150957",
       "titulo_original": "Oasis: Don't Look Back in Anger",
@@ -1754,6 +1807,58 @@
       }
     },
     {
+      "tmdb_id": 1302904,
+      "imdb_id": "tt32588798",
+      "titulo_original": "Practical Magic 2",
+      "titulo_ingles": "Practical Magic 2",
+      "ano": 2026,
+      "data_lancamento": "2026-09-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
+      "elenco": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Joey King",
+        "Maisie Williams",
+        "Xolo Maridueña",
+        "Lee Pace",
+        "Dianne Wiest",
+        "Stockard Channing"
+      ],
+      "diretor": "Susanne Bier",
+      "generos": [
+        "Romance",
+        "Fantasia",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uoJvqWGs4702jnqOwe8RABSxT3L.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 130,
+      "rt_critica": 37,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 37,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32588798/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
+        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
+      }
+    },
+    {
       "tmdb_id": 1440098,
       "imdb_id": "tt36073210",
       "titulo_original": "Enfrentados: Marfil",
@@ -1785,7 +1890,7 @@
         "es"
       ],
       "duracao": 104,
-      "rt_critica": null,
+      "rt_critica": 36,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -1793,7 +1898,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 36,
       "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "streaming",
@@ -2182,6 +2287,71 @@
       }
     },
     {
+      "tmdb_id": 1386315,
+      "imdb_id": "tt34564059",
+      "titulo_original": "The Runner",
+      "titulo_ingles": "The Runner",
+      "ano": 2026,
+      "data_lancamento": "2026-09-03",
+      "data_qualificacao": "",
+      "sinopse_pt": "Maia Marten é uma advogada brilhante de Londres, vê a sua vida ruir com uma ligação durante sua corrida matinal que avisa que seu filho foi sequestrado. Para recuperá-lo, ela deve continuar correndo, obedecer a cada comando e não confiar em ninguém. Cada segundo desta corrida testará até onde vai uma mãe para salvar a vida do seu filho.",
+      "elenco": [
+        "Gal Gadot",
+        "Damian Lewis",
+        "Rory Wilmot",
+        "Alfred Enoch",
+        "Phoenix Di Sebastiani",
+        "Nathan Kirby",
+        "Hélder Fernandes",
+        "Will Austin"
+      ],
+      "diretor": "Kevin Macdonald",
+      "generos": [
+        "Thriller",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/zPlBUyu9rWhVrdiRfSClwMkmQiT.jpg",
+      "pais": [
+        "US",
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 86,
+      "rt_critica": 11,
+      "rt_publico": null,
+      "metacritic": 28,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 11,
+      "atual_metacritic": 28,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt34564059/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Runner",
+        "metacritic": "https://www.metacritic.com/search/The%20Runner/"
+      }
+    },
+    {
       "tmdb_id": 1257147,
       "imdb_id": "tt37458193",
       "titulo_original": "Minha Melhor Amiga",
@@ -2302,71 +2472,6 @@
         "imdb": "https://www.imdb.com/title/tt37752275/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Clash%20of%20the%20Thundermans",
         "metacritic": "https://www.metacritic.com/search/Clash%20of%20the%20Thundermans/"
-      }
-    },
-    {
-      "tmdb_id": 1386315,
-      "imdb_id": "tt34564059",
-      "titulo_original": "The Runner",
-      "titulo_ingles": "The Runner",
-      "ano": 2026,
-      "data_lancamento": "2026-09-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "Maia Marten é uma advogada brilhante de Londres, vê a sua vida ruir com uma ligação durante sua corrida matinal que avisa que seu filho foi sequestrado. Para recuperá-lo, ela deve continuar correndo, obedecer a cada comando e não confiar em ninguém. Cada segundo desta corrida testará até onde vai uma mãe para salvar a vida do seu filho.",
-      "elenco": [
-        "Gal Gadot",
-        "Damian Lewis",
-        "Rory Wilmot",
-        "Alfred Enoch",
-        "Phoenix Di Sebastiani",
-        "Nathan Kirby",
-        "Hélder Fernandes",
-        "Will Austin"
-      ],
-      "diretor": "Kevin Macdonald",
-      "generos": [
-        "Thriller",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/zPlBUyu9rWhVrdiRfSClwMkmQiT.jpg",
-      "pais": [
-        "US",
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 86,
-      "rt_critica": 11,
-      "rt_publico": null,
-      "metacritic": 28,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 11,
-      "atual_metacritic": 28,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1386315-the-runner/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34564059/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Runner",
-        "metacritic": "https://www.metacritic.com/search/The%20Runner/"
       }
     },
     {
@@ -2557,7 +2662,7 @@
         "Jordan Coleman",
         "Maryna Bennett"
       ],
-      "diretor": "Michael Spierig, Peter Spierig",
+      "diretor": "Peter Spierig, Michael Spierig",
       "generos": [
         "Thriller"
       ],
@@ -2714,71 +2819,6 @@
         "imdb": "https://www.imdb.com/title/tt36980377/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Zip%20Wire",
         "metacritic": "https://www.metacritic.com/search/Zip%20Wire/"
-      }
-    },
-    {
-      "tmdb_id": 860508,
-      "imdb_id": "tt11561116",
-      "titulo_original": "The Whisper Man",
-      "titulo_ingles": "The Whisper Man",
-      "ano": 2026,
-      "data_lancamento": "2026-08-27",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após o desaparecimento do filho, um viúvo precisa pedir ajuda ao próprio pai: um detetive aposentado que prendeu o assassino em série ligado a esse novo caso.",
-      "elenco": [
-        "Robert De Niro",
-        "Michelle Monaghan",
-        "Adam Scott",
-        "Acston Luca Porto",
-        "Michael Keaton",
-        "Owen Teague",
-        "Hamish Linklater",
-        "Will Brill"
-      ],
-      "diretor": "James Ashcroft",
-      "generos": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/umlg3mqkny7opAfPtBLUGYwZ8xF.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 114,
-      "rt_critica": 46,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 46,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/860508-the-whisper-man/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt11561116/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Whisper%20Man",
-        "metacritic": "https://www.metacritic.com/search/The%20Whisper%20Man/"
       }
     },
     {
@@ -3178,58 +3218,6 @@
         "imdb": "https://www.imdb.com/title/tt32915652/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=MOBILE%20SUIT%20GUNDAM%20HATHAWAY%20The%20Sorcery%20of%20Nymph%20Circe",
         "metacritic": "https://www.metacritic.com/search/MOBILE%20SUIT%20GUNDAM%20HATHAWAY%20The%20Sorcery%20of%20Nymph%20Circe/"
-      }
-    },
-    {
-      "tmdb_id": 1264805,
-      "imdb_id": "tt37764737",
-      "titulo_original": "만약에 우리",
-      "titulo_ingles": "Once We Were Us",
-      "ano": 2025,
-      "data_lancamento": "2025-12-31",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Koo Kyo-hwan",
-        "문가영",
-        "신정근",
-        "이상엽",
-        "김서원",
-        "임재혁",
-        "김소율",
-        "강말금"
-      ],
-      "diretor": "김도영",
-      "generos": [
-        "Romance",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/3ajXIRwoTGvnlLWVPgZPrHgXIW.jpg",
-      "pais": [
-        "KR"
-      ],
-      "idiomas": [
-        "en",
-        "ko"
-      ],
-      "duracao": 115,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37764737/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Once%20We%20Were%20Us",
-        "metacritic": "https://www.metacritic.com/search/Once%20We%20Were%20Us/"
       }
     },
     {
