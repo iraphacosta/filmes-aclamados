@@ -1,7 +1,56 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-15T14:15:26.440Z",
+  "gerado_em": "2026-10-16T14:04:59.747Z",
   "filmes": [
+    {
+      "tmdb_id": 1255833,
+      "imdb_id": "tt28535715",
+      "titulo_original": "Whalefall",
+      "titulo_ingles": "Whalefall",
+      "ano": 2026,
+      "data_lancamento": "2026-10-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um jovem mergulhador resolveu buscar os restos mortais do seu pai em alto mar, mas no meio dessa triste aventura é capturado por uma baleia cachalote de 25 metros e 60 toneladas. Restando apenas uma hora de oxigênio, ele terá que fazer de tudo para encontrar uma forma de ir embora e seguir a sua vida, mas para isso terá que enfrentar uma grande jornada física e emocional para que ele consiga redescobrir a sua vontade de viver após a vivência do luto.",
+      "elenco": [
+        "Austin Abrams",
+        "Josh Brolin",
+        "Elisabeth Shue",
+        "John Ortiz",
+        "Jane Levy",
+        "Emily Rudd"
+      ],
+      "diretor": "Brian Duffield",
+      "generos": [
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/66fDoNVCtPrP6jIqMpV1sUEcciw.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "de"
+      ],
+      "duracao": 106,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt28535715/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Whalefall",
+        "metacritic": "https://www.metacritic.com/search/Whalefall/"
+      }
+    },
     {
       "tmdb_id": 1153576,
       "imdb_id": "tt27419420",
@@ -15,11 +64,11 @@
         "Andrew Koji",
         "Noah Centineo",
         "Callina Liang",
-        "Joe Anoa'i",
         "David Dastmalchian",
-        "Cody Rhodes",
+        "Eric Andre",
         "Andrew Schulz",
-        "Eric Andre"
+        "Mel Jarnson",
+        "Cody Rhodes"
       ],
       "diretor": "Kitao Sakurai",
       "generos": [
@@ -391,33 +440,39 @@
       }
     },
     {
-      "tmdb_id": 1610703,
-      "imdb_id": "tt35682658",
-      "titulo_original": "Infirmary",
-      "titulo_ingles": "Infirmary",
+      "tmdb_id": 1752355,
+      "imdb_id": "tt39453404",
+      "titulo_original": "Schumacher ’94 – Die Geburt einer Legende",
+      "titulo_ingles": "Schumacher ’94 – The Birth of a Legend",
       "ano": 2026,
       "data_lancamento": "2026-10-02",
       "data_qualificacao": "",
-      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
+      "sinopse_pt": "Corinna Schumacher, Flavio Briatore e outros amigos próximos relembram a turbulenta temporada de 1994, que marcou a ascensão de Michael Schumacher como lenda da Fórmula 1.",
       "elenco": [
-        "Paul Syre",
-        "Mark Anthony Williams",
-        "Danielle Kennedy",
-        "Corinna Wagner-Smith"
+        "Michael Schumacher",
+        "Corinna Schumacher",
+        "Flavio Briatore",
+        "Bernie Ecclestone",
+        "David Coulthard",
+        "Willi Weber",
+        "Kai Ebel",
+        "Heiko Waßer"
       ],
-      "diretor": "Nicholas Pineda",
+      "diretor": "Christin Freitag",
       "generos": [
-        "Terror"
+        "Documentário"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aAhjUysLbHyzOPbvtczuvYCbA7O.jpg",
       "pais": [
-        "US"
+        "DE"
       ],
       "idiomas": [
-        "en"
+        "de",
+        "en",
+        "tr"
       ],
-      "duracao": 85,
-      "rt_critica": 64,
+      "duracao": 107,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -425,15 +480,28 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 64,
+      "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1752355-schumacher-94-die-geburt-einer-legende/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt35682658/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
-        "metacritic": "https://www.metacritic.com/search/Infirmary/"
+        "imdb": "https://www.imdb.com/title/tt39453404/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend",
+        "metacritic": "https://www.metacritic.com/search/Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend/"
       }
     },
     {
@@ -501,39 +569,33 @@
       }
     },
     {
-      "tmdb_id": 1752355,
-      "imdb_id": "tt39453404",
-      "titulo_original": "Schumacher ’94 – Die Geburt einer Legende",
-      "titulo_ingles": "Schumacher ’94 – The Birth of a Legend",
+      "tmdb_id": 1610703,
+      "imdb_id": "tt35682658",
+      "titulo_original": "Infirmary",
+      "titulo_ingles": "Infirmary",
       "ano": 2026,
       "data_lancamento": "2026-10-02",
       "data_qualificacao": "",
-      "sinopse_pt": "Corinna Schumacher, Flavio Briatore e outros amigos próximos relembram a turbulenta temporada de 1994, que marcou a ascensão de Michael Schumacher como lenda da Fórmula 1.",
+      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
       "elenco": [
-        "Michael Schumacher",
-        "Corinna Schumacher",
-        "Flavio Briatore",
-        "Bernie Ecclestone",
-        "David Coulthard",
-        "Willi Weber",
-        "Kai Ebel",
-        "Heiko Waßer"
+        "Paul Syre",
+        "Mark Anthony Williams",
+        "Danielle Kennedy",
+        "Corinna Wagner-Smith"
       ],
-      "diretor": "Christin Freitag",
+      "diretor": "Nicholas Pineda",
       "generos": [
-        "Documentário"
+        "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/aAhjUysLbHyzOPbvtczuvYCbA7O.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
       "pais": [
-        "DE"
+        "US"
       ],
       "idiomas": [
-        "de",
-        "en",
-        "tr"
+        "en"
       ],
-      "duracao": 107,
-      "rt_critica": null,
+      "duracao": 85,
+      "rt_critica": 64,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -541,28 +603,15 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 64,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1752355-schumacher-94-die-geburt-einer-legende/watch?locale=BR"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt39453404/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend",
-        "metacritic": "https://www.metacritic.com/search/Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend/"
+        "imdb": "https://www.imdb.com/title/tt35682658/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
+        "metacritic": "https://www.metacritic.com/search/Infirmary/"
       }
     },
     {
@@ -664,6 +713,57 @@
         "imdb": "https://www.imdb.com/title/tt40071725/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20City%20of%20the%20Living",
         "metacritic": "https://www.metacritic.com/search/The%20City%20of%20the%20Living/"
+      }
+    },
+    {
+      "tmdb_id": 1283515,
+      "imdb_id": "tt32261958",
+      "titulo_original": "Verity",
+      "titulo_ingles": "Verity",
+      "ano": 2026,
+      "data_lancamento": "2026-09-30",
+      "data_qualificacao": "",
+      "sinopse_pt": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
+      "elenco": [
+        "Anne Hathaway",
+        "Dakota Johnson",
+        "Josh Hartnett",
+        "Brady Wagner",
+        "Ismael Cruz Cordova",
+        "Ирина Дворовенко",
+        "Sienna Kulovitz",
+        "K.K. Moggie"
+      ],
+      "diretor": "Michael Showalter",
+      "generos": [
+        "Mistério",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/6Qf3sylInJeyK0fFTfjprnGIXCF.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 114,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32261958/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Verity",
+        "metacritic": "https://www.metacritic.com/search/Verity/"
       }
     },
     {
@@ -782,57 +882,6 @@
         "imdb": "https://www.imdb.com/title/tt44568097/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Widower%3A%20'Til%20Death%20Do%20Us%20Part",
         "metacritic": "https://www.metacritic.com/search/The%20Widower%3A%20'Til%20Death%20Do%20Us%20Part/"
-      }
-    },
-    {
-      "tmdb_id": 1283515,
-      "imdb_id": "tt32261958",
-      "titulo_original": "Verity",
-      "titulo_ingles": "Verity",
-      "ano": 2026,
-      "data_lancamento": "2026-09-30",
-      "data_qualificacao": "",
-      "sinopse_pt": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
-      "elenco": [
-        "Anne Hathaway",
-        "Dakota Johnson",
-        "Josh Hartnett",
-        "Brady Wagner",
-        "Ismael Cruz Cordova",
-        "Ирина Дворовенко",
-        "Sienna Kulovitz",
-        "K.K. Moggie"
-      ],
-      "diretor": "Michael Showalter",
-      "generos": [
-        "Mistério",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/6Qf3sylInJeyK0fFTfjprnGIXCF.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 114,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32261958/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Verity",
-        "metacritic": "https://www.metacritic.com/search/Verity/"
       }
     },
     {
@@ -1188,6 +1237,71 @@
       }
     },
     {
+      "tmdb_id": 1641629,
+      "imdb_id": "tt43617372",
+      "titulo_original": "Toi+Moi - Seuls contre tous",
+      "titulo_ingles": "You+Me - Against the World",
+      "ano": 2026,
+      "data_lancamento": "2026-09-18",
+      "data_qualificacao": "",
+      "sinopse_pt": "Alma Lancaster, 18 anos, parece levar uma vida perfeita dentro de uma família rica que acredita que ela estuda direito. Na verdade, a jovem persegue em segredo o sonho: fazer cinema. No campus, Alma encontra Vadim Arcadi, 20 anos, um estudante solitário com um passado sombrio. Forçados a trabalhar juntos em um filme estudantil, Alma e Vadim se enfrentam, se aproximam e acabam se apaixonando contra a própria vontade. Contudo, o relacionamento deles está ameaçado por uma presença externa. Alguém os observa, determinado a separá-los e a revelar segredos que possam fragilizar a história deles tanto quanto o seu futuro.",
+      "elenco": [
+        "Vittoria Di Savoia",
+        "Lucas Barski",
+        "Zoé Garcia",
+        "Léo Legrand",
+        "Jean-Yves Berteloot",
+        "Suliane Brahim",
+        "Aymeric Fougeron",
+        "Gabrielle Taittinger"
+      ],
+      "diretor": "Manon Gaurin",
+      "generos": [
+        "Romance",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/pkNK6BuKjth9ApJxhjKe34KaHe4.jpg",
+      "pais": [
+        "FR",
+        "US"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 93,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1641629-toi-moi-seuls-contre-tous/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43617372/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=You%2BMe%20-%20Against%20the%20World",
+        "metacritic": "https://www.metacritic.com/search/You%2BMe%20-%20Against%20the%20World/"
+      }
+    },
+    {
       "tmdb_id": 1514863,
       "imdb_id": "tt16478058",
       "titulo_original": "Best of the Best",
@@ -1252,39 +1366,38 @@
       }
     },
     {
-      "tmdb_id": 1641629,
-      "imdb_id": "tt43617372",
-      "titulo_original": "Toi+Moi - Seuls contre tous",
-      "titulo_ingles": "You+Me - Against the World",
+      "tmdb_id": 1191818,
+      "imdb_id": "tt30495381",
+      "titulo_original": "Histoires de la nuit",
+      "titulo_ingles": "The Birthday Party",
       "ano": 2026,
-      "data_lancamento": "2026-09-18",
+      "data_lancamento": "2026-09-16",
       "data_qualificacao": "",
-      "sinopse_pt": "Alma Lancaster, 18 anos, parece levar uma vida perfeita dentro de uma família rica que acredita que ela estuda direito. Na verdade, a jovem persegue em segredo o sonho: fazer cinema. No campus, Alma encontra Vadim Arcadi, 20 anos, um estudante solitário com um passado sombrio. Forçados a trabalhar juntos em um filme estudantil, Alma e Vadim se enfrentam, se aproximam e acabam se apaixonando contra a própria vontade. Contudo, o relacionamento deles está ameaçado por uma presença externa. Alguém os observa, determinado a separá-los e a revelar segredos que possam fragilizar a história deles tanto quanto o seu futuro.",
+      "sinopse_pt": "Nora, Thomas e a filha adolescente vivem isolados em uma fazenda no interior, tendo como única vizinha uma pintora italiana. Enquanto organizam uma festa surpresa de aniversário para Nora, a tranquilidade do lugar é quebrada. Três homens misteriosos surgem e invadem a comemoração, trazendo à tona segredos perigosos e bem guardados do passado.",
       "elenco": [
-        "Vittoria Di Savoia",
-        "Lucas Barski",
-        "Zoé Garcia",
-        "Léo Legrand",
-        "Jean-Yves Berteloot",
-        "Suliane Brahim",
-        "Aymeric Fougeron",
-        "Gabrielle Taittinger"
+        "Hafsia Herzi",
+        "Benoît Magimel",
+        "Bastien Bouillon",
+        "Monica Bellucci",
+        "Tawba El Gharchi",
+        "Paul Hamy",
+        "Alane Delhaye",
+        "Servane Ducorps"
       ],
-      "diretor": "Manon Gaurin",
+      "diretor": "Léa Mysius",
       "generos": [
-        "Romance",
-        "Drama"
+        "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/pkNK6BuKjth9ApJxhjKe34KaHe4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7prAuNDsQPUlHKyXiYNkuofyi0G.jpg",
       "pais": [
         "FR",
-        "US"
+        "BE"
       ],
       "idiomas": [
         "fr"
       ],
-      "duracao": 93,
-      "rt_critica": null,
+      "duracao": 114,
+      "rt_critica": 58,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -1292,28 +1405,15 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 58,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1641629-toi-moi-seuls-contre-tous/watch?locale=BR"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt43617372/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=You%2BMe%20-%20Against%20the%20World",
-        "metacritic": "https://www.metacritic.com/search/You%2BMe%20-%20Against%20the%20World/"
+        "imdb": "https://www.imdb.com/title/tt30495381/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Birthday%20Party",
+        "metacritic": "https://www.metacritic.com/search/The%20Birthday%20Party/"
       }
     },
     {
@@ -1422,108 +1522,6 @@
       }
     },
     {
-      "tmdb_id": 1191818,
-      "imdb_id": "tt30495381",
-      "titulo_original": "Histoires de la nuit",
-      "titulo_ingles": "The Birthday Party",
-      "ano": 2026,
-      "data_lancamento": "2026-09-16",
-      "data_qualificacao": "",
-      "sinopse_pt": "Nora, Thomas e a filha adolescente vivem isolados em uma fazenda no interior, tendo como única vizinha uma pintora italiana. Enquanto organizam uma festa surpresa de aniversário para Nora, a tranquilidade do lugar é quebrada. Três homens misteriosos surgem e invadem a comemoração, trazendo à tona segredos perigosos e bem guardados do passado.",
-      "elenco": [
-        "Hafsia Herzi",
-        "Benoît Magimel",
-        "Bastien Bouillon",
-        "Monica Bellucci",
-        "Tawba El Gharchi",
-        "Paul Hamy",
-        "Alane Delhaye",
-        "Servane Ducorps"
-      ],
-      "diretor": "Léa Mysius",
-      "generos": [
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/7prAuNDsQPUlHKyXiYNkuofyi0G.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 114,
-      "rt_critica": 58,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 58,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt30495381/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Birthday%20Party",
-        "metacritic": "https://www.metacritic.com/search/The%20Birthday%20Party/"
-      }
-    },
-    {
-      "tmdb_id": 1318467,
-      "imdb_id": "tt33253206",
-      "titulo_original": "The Last Kiss",
-      "titulo_ingles": "The Last Kiss",
-      "ano": 2026,
-      "data_lancamento": "2026-09-15",
-      "data_qualificacao": "",
-      "sinopse_pt": "Laurel sempre imaginou que seu primeiro beijo seria como um conto de fadas. Porém, o momento que deveria ser romântico se transforma em pesadelo quando ela descobre estar amaldiçoada com a capacidade de prever a morte de qualquer pessoa que beija. Quando uma visão revela que seu pretendente está destinado a morrer durante uma série de assassinatos misteriosos, Laurel percebe que seus amigos mais próximos também estão em perigo.",
-      "elenco": [
-        "Mckenna Grace",
-        "Arkira Chantaratananond",
-        "Jaden Michael",
-        "Riley Davis",
-        "Bergman Freedman",
-        "Kate Drummond",
-        "Samantha Espie",
-        "Cooper Levy"
-      ],
-      "diretor": "Yoko Okumura",
-      "generos": [
-        "Terror",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33253206/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Kiss",
-        "metacritic": "https://www.metacritic.com/search/The%20Last%20Kiss/"
-      }
-    },
-    {
       "tmdb_id": 1751701,
       "imdb_id": "tt36809539",
       "titulo_original": "After Impact",
@@ -1622,6 +1620,57 @@
         "imdb": "https://www.imdb.com/title/tt40231163/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Run%20Hide%20Fight%3A%20Infidels",
         "metacritic": "https://www.metacritic.com/search/Run%20Hide%20Fight%3A%20Infidels/"
+      }
+    },
+    {
+      "tmdb_id": 1318467,
+      "imdb_id": "tt33253206",
+      "titulo_original": "The Last Kiss",
+      "titulo_ingles": "The Last Kiss",
+      "ano": 2026,
+      "data_lancamento": "2026-09-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "Laurel sempre imaginou que seu primeiro beijo seria como um conto de fadas. Porém, o momento que deveria ser romântico se transforma em pesadelo quando ela descobre estar amaldiçoada com a capacidade de prever a morte de qualquer pessoa que beija. Quando uma visão revela que seu pretendente está destinado a morrer durante uma série de assassinatos misteriosos, Laurel percebe que seus amigos mais próximos também estão em perigo.",
+      "elenco": [
+        "Mckenna Grace",
+        "Arkira Chantaratananond",
+        "Jaden Michael",
+        "Riley Davis",
+        "Bergman Freedman",
+        "Kate Drummond",
+        "Samantha Espie",
+        "Cooper Levy"
+      ],
+      "diretor": "Yoko Okumura",
+      "generos": [
+        "Terror",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33253206/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Kiss",
+        "metacritic": "https://www.metacritic.com/search/The%20Last%20Kiss/"
       }
     },
     {
@@ -1738,57 +1787,6 @@
         "imdb": "https://www.imdb.com/title/tt38616652/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Go%20Team!",
         "metacritic": "https://www.metacritic.com/search/Go%20Team!/"
-      }
-    },
-    {
-      "tmdb_id": 1576934,
-      "imdb_id": "tt9395802",
-      "titulo_original": "The Echo Chamber",
-      "titulo_ingles": "The Echo Chamber",
-      "ano": 2026,
-      "data_lancamento": "2026-09-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "Leo, um célebre produtor musical, leva uma vida glamourosa que começa a fugir do controle. Durante um caso com Anne, uma fisioterapeuta, os limites entre afeto e dependência e desejo e dominação tornam-se cada vez mais incertos. Presos a um ciclo de vai e vem, os dois não conseguem permanecer juntos nem se libertar um do outro. Pelos cômodos do apartamento, a voz de Ava atravessa o tempo, trazendo à tona lembranças, feridas e tudo aquilo que já não pode ser contido. O filme parte do último roteiro de Bernardo Bertolucci.",
-      "elenco": [
-        "Luca Marinelli",
-        "Alicia Vikander",
-        "Susan Sarandon",
-        "Ann Akinjirin",
-        "Peter Coonan",
-        "Antonia Fotaras",
-        "Aomi Muyock"
-      ],
-      "diretor": "Andrea Pallaoro",
-      "generos": [
-        "Drama",
-        "Romance"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/2LfYcKvoj2TCuLNAxLAu3hhZEWz.jpg",
-      "pais": [
-        "IT",
-        "BE"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 123,
-      "rt_critica": 62,
-      "rt_publico": null,
-      "metacritic": 64,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 62,
-      "atual_metacritic": 64,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt9395802/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Echo%20Chamber",
-        "metacritic": "https://www.metacritic.com/search/The%20Echo%20Chamber/"
       }
     },
     {
@@ -2002,55 +2000,54 @@
       }
     },
     {
-      "tmdb_id": 1302904,
-      "imdb_id": "tt32588798",
-      "titulo_original": "Practical Magic 2",
-      "titulo_ingles": "Practical Magic 2",
+      "tmdb_id": 1576934,
+      "imdb_id": "tt9395802",
+      "titulo_original": "The Echo Chamber",
+      "titulo_ingles": "The Echo Chamber",
       "ano": 2026,
-      "data_lancamento": "2026-09-09",
+      "data_lancamento": "2026-09-10",
       "data_qualificacao": "",
-      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
+      "sinopse_pt": "Leo, um célebre produtor musical, leva uma vida glamourosa que começa a fugir do controle. Durante um caso com Anne, uma fisioterapeuta, os limites entre afeto e dependência e desejo e dominação tornam-se cada vez mais incertos. Presos a um ciclo de vai e vem, os dois não conseguem permanecer juntos nem se libertar um do outro. Pelos cômodos do apartamento, a voz de Ava atravessa o tempo, trazendo à tona lembranças, feridas e tudo aquilo que já não pode ser contido. O filme parte do último roteiro de Bernardo Bertolucci.",
       "elenco": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Joey King",
-        "Maisie Williams",
-        "Xolo Maridueña",
-        "Lee Pace",
-        "Dianne Wiest",
-        "Stockard Channing"
+        "Luca Marinelli",
+        "Alicia Vikander",
+        "Susan Sarandon",
+        "Ann Akinjirin",
+        "Peter Coonan",
+        "Antonia Fotaras",
+        "Aomi Muyock"
       ],
-      "diretor": "Susanne Bier",
+      "diretor": "Andrea Pallaoro",
       "generos": [
-        "Romance",
-        "Fantasia",
-        "Comédia"
+        "Drama",
+        "Romance"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/6xb6fv7MluhncJkNU6VtUWCBz3S.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2LfYcKvoj2TCuLNAxLAu3hhZEWz.jpg",
       "pais": [
-        "US"
+        "IT",
+        "BE"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 130,
-      "rt_critica": 37,
+      "duracao": 123,
+      "rt_critica": 62,
       "rt_publico": null,
-      "metacritic": null,
+      "metacritic": 64,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 37,
-      "atual_metacritic": null,
+      "atual_rt": 62,
+      "atual_metacritic": 64,
       "disponibilidade_br": {
-        "estado": "cinema"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt32588798/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
-        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
+        "imdb": "https://www.imdb.com/title/tt9395802/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Echo%20Chamber",
+        "metacritic": "https://www.metacritic.com/search/The%20Echo%20Chamber/"
       }
     },
     {
@@ -2108,6 +2105,122 @@
         "imdb": "https://www.imdb.com/title/tt36150957/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Oasis%3A%20Don't%20Look%20Back%20in%20Anger",
         "metacritic": "https://www.metacritic.com/search/Oasis%3A%20Don't%20Look%20Back%20in%20Anger/"
+      }
+    },
+    {
+      "tmdb_id": 1302904,
+      "imdb_id": "tt32588798",
+      "titulo_original": "Practical Magic 2",
+      "titulo_ingles": "Practical Magic 2",
+      "ano": 2026,
+      "data_lancamento": "2026-09-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
+      "elenco": [
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Joey King",
+        "Maisie Williams",
+        "Xolo Maridueña",
+        "Lee Pace",
+        "Dianne Wiest",
+        "Stockard Channing"
+      ],
+      "diretor": "Susanne Bier",
+      "generos": [
+        "Romance",
+        "Fantasia",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/6xb6fv7MluhncJkNU6VtUWCBz3S.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 130,
+      "rt_critica": 37,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 37,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32588798/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
+        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
+      }
+    },
+    {
+      "tmdb_id": 1440098,
+      "imdb_id": "tt36073210",
+      "titulo_original": "Enfrentados: Marfil",
+      "titulo_ingles": "Drawn Together",
+      "ano": 2026,
+      "data_lancamento": "2026-09-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "Marfil, filha de um empresário espanhol, vê sua vida em Nova York virar de cabeça para baixo quando é sequestrada e libertada sem nenhuma explicação. O pai dela contrata Sebastián Moore para ser seu guarda-costas e, forçados a passar cada minuto do dia juntos, uma atração inevitável surge entre eles em um mundo onde nada é o que parece. Baseado no livro de Mercedes Ron, autora da saga \"Culpados\".",
+      "elenco": [
+        "Ester Expósito",
+        "Hugo Diego Garcia",
+        "Pablo Molinero",
+        "Lluís Homar",
+        "Joaquín Ferreira",
+        "Zoe Bonafonte",
+        "Majo Gámez",
+        "João Bettencourt"
+      ],
+      "diretor": "Óscar Pedraza",
+      "generos": [
+        "Romance",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/99OB0p7ah8wyTphLHrghSJXtmr5.jpg",
+      "pais": [
+        "ES"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 104,
+      "rt_critica": 36,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 36,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36073210/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Drawn%20Together",
+        "metacritic": "https://www.metacritic.com/search/Drawn%20Together/"
       }
     },
     {
@@ -2175,38 +2288,37 @@
       }
     },
     {
-      "tmdb_id": 1440098,
-      "imdb_id": "tt36073210",
-      "titulo_original": "Enfrentados: Marfil",
-      "titulo_ingles": "Drawn Together",
+      "tmdb_id": 1739206,
+      "imdb_id": "tt43700444",
+      "titulo_original": "Untold Mr. T: I Pity the Fool",
+      "titulo_ingles": "Untold Mr. T: I Pity the Fool",
       "ano": 2026,
-      "data_lancamento": "2026-09-09",
+      "data_lancamento": "2026-09-08",
       "data_qualificacao": "",
-      "sinopse_pt": "Marfil, filha de um empresário espanhol, vê sua vida em Nova York virar de cabeça para baixo quando é sequestrada e libertada sem nenhuma explicação. O pai dela contrata Sebastián Moore para ser seu guarda-costas e, forçados a passar cada minuto do dia juntos, uma atração inevitável surge entre eles em um mundo onde nada é o que parece. Baseado no livro de Mercedes Ron, autora da saga \"Culpados\".",
+      "sinopse_pt": "Antes das correntes de ouro, do moicano e da fama de Hollywood de The A-Team e Rocky III, havia Laurence Tureaud. Esta é a extraordinária história de origem por trás de um dos ícones mais improváveis ​​e amados do entretenimento – o Sr.",
       "elenco": [
-        "Ester Expósito",
-        "Hugo Diego Garcia",
-        "Pablo Molinero",
-        "Lluís Homar",
-        "Joaquín Ferreira",
-        "Zoe Bonafonte",
-        "Majo Gámez",
-        "João Bettencourt"
+        "Mr. T",
+        "Erica Nicole Clark",
+        "Terry Crews",
+        "Dirk Benedict",
+        "Scoop Jackson",
+        "Henry O. Hardy",
+        "Sylvester Stallone",
+        "Ronald Reagan"
       ],
-      "diretor": "Óscar Pedraza",
+      "diretor": "Scott Weintrob",
       "generos": [
-        "Romance",
-        "Thriller"
+        "Documentário"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/99OB0p7ah8wyTphLHrghSJXtmr5.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vuuZsx4O3zKvIdvllQvUWanAhLE.jpg",
       "pais": [
-        "ES"
+        "US"
       ],
       "idiomas": [
-        "es"
+        "en"
       ],
-      "duracao": 104,
-      "rt_critica": 36,
+      "duracao": 48,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -2214,28 +2326,28 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 36,
+      "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "streaming",
         "servicos": [
           {
-            "nome": "Amazon Prime Video",
+            "nome": "Netflix",
             "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
           },
           {
-            "nome": "Amazon Prime Video with Ads",
+            "nome": "Netflix Standard with Ads",
             "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
           }
         ],
-        "link_br": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=BR"
+        "link_br": "https://www.themoviedb.org/movie/1739206-untold-mr-t-i-pity-the-fool/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36073210/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Drawn%20Together",
-        "metacritic": "https://www.metacritic.com/search/Drawn%20Together/"
+        "imdb": "https://www.imdb.com/title/tt43700444/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool",
+        "metacritic": "https://www.metacritic.com/search/Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool/"
       }
     },
     {
@@ -2304,69 +2416,6 @@
       }
     },
     {
-      "tmdb_id": 1739206,
-      "imdb_id": "tt43700444",
-      "titulo_original": "Untold Mr. T: I Pity the Fool",
-      "titulo_ingles": "Untold Mr. T: I Pity the Fool",
-      "ano": 2026,
-      "data_lancamento": "2026-09-08",
-      "data_qualificacao": "",
-      "sinopse_pt": "Antes das correntes de ouro, do moicano e da fama de Hollywood de The A-Team e Rocky III, havia Laurence Tureaud. Esta é a extraordinária história de origem por trás de um dos ícones mais improváveis ​​e amados do entretenimento – o Sr.",
-      "elenco": [
-        "Mr. T",
-        "Erica Nicole Clark",
-        "Terry Crews",
-        "Dirk Benedict",
-        "Scoop Jackson",
-        "Henry O. Hardy",
-        "Sylvester Stallone",
-        "Ronald Reagan"
-      ],
-      "diretor": "Scott Weintrob",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vuuZsx4O3zKvIdvllQvUWanAhLE.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 48,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1739206-untold-mr-t-i-pity-the-fool/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43700444/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool",
-        "metacritic": "https://www.metacritic.com/search/Untold%20Mr.%20T%3A%20I%20Pity%20the%20Fool/"
-      }
-    },
-    {
       "tmdb_id": 1377237,
       "imdb_id": "tt31349844",
       "titulo_original": "Runner",
@@ -2420,91 +2469,40 @@
       }
     },
     {
-      "tmdb_id": 1257147,
-      "imdb_id": "tt37458193",
-      "titulo_original": "Minha Melhor Amiga",
-      "titulo_ingles": "My Best Friend",
+      "tmdb_id": 1506560,
+      "imdb_id": "tt37752275",
+      "titulo_original": "Clash of the Thundermans",
+      "titulo_ingles": "Clash of the Thundermans",
       "ano": 2026,
       "data_lancamento": "2026-09-03",
       "data_qualificacao": "",
-      "sinopse_pt": "Júlia e Clara são melhores amigas e vivem o auge dos seus 50 anos. Quando suas filhas viajam para um intercâmbio de alguns meses em Portugal, as duas precisam enfrentar a saudade e o vazio deixado pelas meninas. A dupla decide sacudir a rotina e embarca para a Europa para surpreender as meninas, mas encara diversos perrengues na jornada.",
+      "sinopse_pt": "Quando o novo e perigoso poder de Chloe se manifesta, ela é enviada para um internato para jovens super-heróis. A família se divide: Phoebe, Barb e Billy se escondem com ela, enquanto Max, Hank e Nora vão atrás deles, levando a um confronto que decidirá o futuro de todos.",
       "elenco": [
-        "Ingrid Guimarães",
-        "Mônica Martelli",
-        "Giulia Benite",
-        "Gabi Amaral",
-        "Ricardo Pereira",
-        "Michel Melamed",
-        "Thaila Ayala",
-        "Gustavo Machado"
+        "Kira Kosarin",
+        "Jack Griffo",
+        "Maya Le Clark",
+        "Rosa Blasi",
+        "Chris Tallman",
+        "Diego Velazquez",
+        "Addison Riecke",
+        "Daniele Gaither"
       ],
-      "diretor": "Susana Garcia",
+      "diretor": "Trevor Kirschner",
       "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/wGfTFVeguXDXYrwPQ8QMFsaSK2M.jpg",
-      "pais": [
-        "BR",
-        "PT"
-      ],
-      "idiomas": [
-        "pt"
-      ],
-      "duracao": 125,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37458193/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=My%20Best%20Friend",
-        "metacritic": "https://www.metacritic.com/search/My%20Best%20Friend/"
-      }
-    },
-    {
-      "tmdb_id": 1378537,
-      "imdb_id": "tt34339725",
-      "titulo_original": "मिर्ज़ापुर - द मूवी",
-      "titulo_ingles": "Mirzapur: The Movie",
-      "ano": 2026,
-      "data_lancamento": "2026-09-03",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Pankaj Tripathi",
-        "Ali Fazal",
-        "दिव्येंदु शर्मा",
-        "Jitendra Kumar",
-        "Ravi Kishan",
-        "रसिका दुग्गल",
-        "Mohit Malik",
-        "शीबा चड्ढा"
-      ],
-      "diretor": "Gurmmeet Singh",
-      "generos": [
+        "Cinema TV",
+        "Família",
         "Ação",
-        "Crime",
-        "Drama",
-        "Thriller"
+        "Ficção científica"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6GCxZ7RXjMZbSAd0CGHAfhmpKnL.jpg",
       "pais": [
-        "IN",
+        "CA",
         "US"
       ],
       "idiomas": [
-        "hi"
+        "en"
       ],
-      "duracao": 197,
+      "duracao": 72,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2516,12 +2514,30 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Paramount Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/pkx3klJlwW5JdtaulvDx6hDNtch.png"
+          },
+          {
+            "nome": "Paramount+ Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
+          },
+          {
+            "nome": "Paramount Plus Premium",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt34339725/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mirzapur%3A%20The%20Movie",
-        "metacritic": "https://www.metacritic.com/search/Mirzapur%3A%20The%20Movie/"
+        "imdb": "https://www.imdb.com/title/tt37752275/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Clash%20of%20the%20Thundermans",
+        "metacritic": "https://www.metacritic.com/search/Clash%20of%20the%20Thundermans/"
       }
     },
     {
@@ -2764,7 +2780,7 @@
         "Jordan Coleman",
         "Maryna Bennett"
       ],
-      "diretor": "Michael Spierig, Peter Spierig",
+      "diretor": "Peter Spierig, Michael Spierig",
       "generos": [
         "Thriller"
       ],
@@ -2797,54 +2813,52 @@
       }
     },
     {
-      "tmdb_id": 445466,
-      "imdb_id": "tt6628920",
-      "titulo_original": "Idiots",
-      "titulo_ingles": "Idiots",
+      "tmdb_id": 1187326,
+      "imdb_id": "tt36164852",
+      "titulo_original": "Tadeo Jones y La Lámpara Maravillosa",
+      "titulo_ingles": "Tad and The Magic Lamp",
       "ano": 2026,
-      "data_lancamento": "2026-08-20",
+      "data_lancamento": "2026-08-26",
       "data_qualificacao": "",
-      "sinopse_pt": "Mark e Davis são dois idiotas que aceitam um trabalho aparentemente simples: levar um adolescente rico e problemático até uma clínica de reabilitação. Só que o passageiro tem outros planos, e uma missão fácil se transforma numa jornada cada vez mais delirante, entre drogas, confusão e situações insanas que ninguém ali estava preparado para enfrentar.",
+      "sinopse_pt": "Tadeo, sua namorada Sara e seus amigos Múmia, Jeff e Belzoni embarcam em uma aventura depois que ele acidentalmente desencadeia um feitiço antigo.",
       "elenco": [
-        "Dave Franco",
-        "O'Shea Jackson Jr.",
-        "Mason Thames",
-        "Kiernan Shipka",
-        "Peter Dinklage",
-        "Nicholas Braun",
-        "Lynn Wanlass",
-        "Macon Blair"
+        "Óscar Barberán",
+        "Michelle Jenner",
+        "Luis Posada",
+        "Joseph Balderrama",
+        "Trevor White"
       ],
-      "diretor": "Macon Blair",
+      "diretor": "Enrique Gato",
       "generos": [
+        "Animação",
         "Comédia",
-        "Crime"
+        "Família"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jPRZkZwe15RdRiNJUpn5bls7pu4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sczKkd1Sw7kXU7ZvEUA3C3nFuhE.jpg",
       "pais": [
-        "US"
+        "ES"
       ],
       "idiomas": [
-        "en"
+        "es"
       ],
-      "duracao": 99,
-      "rt_critica": 64,
+      "duracao": 94,
+      "rt_critica": null,
       "rt_publico": null,
-      "metacritic": 62,
+      "metacritic": null,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 64,
-      "atual_metacritic": 62,
+      "atual_rt": null,
+      "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt6628920/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Idiots",
-        "metacritic": "https://www.metacritic.com/search/Idiots/"
+        "imdb": "https://www.imdb.com/title/tt36164852/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Tad%20and%20The%20Magic%20Lamp",
+        "metacritic": "https://www.metacritic.com/search/Tad%20and%20The%20Magic%20Lamp/"
       }
     },
     {
