@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-18T13:23:58.068Z",
+  "gerado_em": "2026-10-19T16:34:21.502Z",
   "filmes": [
     {
       "tmdb_id": 1561726,
@@ -162,8 +162,7 @@
         "US"
       ],
       "idiomas": [
-        "en",
-        "de"
+        "en"
       ],
       "duracao": 106,
       "rt_critica": null,
@@ -245,7 +244,7 @@
       "ano": 2026,
       "data_lancamento": "2026-10-13",
       "data_qualificacao": "",
-      "sinopse_pt": "Em 1993, os lutadores afastados Ryu e Ken Masters são colocados de volta em combate quando a misteriosa Chun-Li os recruta para o próximo Torneio do Guerreiro Global, uma briga brutal de socos, destinos e fúria. Porém, por trás dessa batalha por glória está uma conspiração mortal que os força a se enfrentarem entre si e seus demônios do passado.",
+      "sinopse_pt": "Ambientado em 1993, os lutadores Ryu e Ken Masters são colocados de volta no combate quando a misteriosa Chun-Li os recruta para o próximo World Warrior Tournament: uma brutal briga de socos, destino e fúria. Entretanto, por trás desse campeonato, se esconde uma conspiração mortal que os força a encarar um ao outro e os demônios do passado. E se eles não fizerem, é game over!",
       "elenco": [
         "Andrew Koji",
         "Noah Centineo",
@@ -261,7 +260,7 @@
         "Ação",
         "Fantasia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/pwUb3gdkSrlyMZWs0MFOQg3N5s7.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6gWmrC2GyDbUM1ET5EBg9lxBi7S.jpg",
       "pais": [
         "JP",
         "US"
@@ -691,38 +690,33 @@
       }
     },
     {
-      "tmdb_id": 1458857,
-      "imdb_id": "tt36429458",
-      "titulo_original": "Doing Life",
-      "titulo_ingles": "Doing Life",
+      "tmdb_id": 1610703,
+      "imdb_id": "tt35682658",
+      "titulo_original": "Infirmary",
+      "titulo_ingles": "Infirmary",
       "ano": 2026,
       "data_lancamento": "2026-10-02",
       "data_qualificacao": "",
-      "sinopse_pt": "Quando Anika, uma jovem mãe solo que luta para manter sua família, começa a trocar cartas com Carousel, um detento cumprindo pena, uma improvável ligação se forma à distância e acaba evoluindo de forma inesperada. O vínculo entre eles dá início a uma jornada de amor e redenção, trazendo à tona a esperança de deixar seus passados conturbados para trás e mostrando que até os relacionamentos mais improváveis podem transformar vidas e oferecer uma segunda chance de ser feliz.",
+      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
       "elenco": [
-        "Naomi Baker",
-        "Jay Reeves",
-        "Tamberla Perry",
-        "Karen Obilom",
-        "Jasmine Sargent",
-        "Danielle Moné Truitt",
-        "Lucky Johnson",
-        "Cornell Young IV"
+        "Paul Syre",
+        "Mark Anthony Williams",
+        "Danielle Kennedy",
+        "Corinna Wagner-Smith"
       ],
-      "diretor": "Tyler Perry",
+      "diretor": "Nicholas Pineda",
       "generos": [
-        "Romance",
-        "Drama"
+        "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/kDFNGzkXZPJPXXy1hdO4Do4X3Wh.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 108,
-      "rt_critica": null,
+      "duracao": 85,
+      "rt_critica": 64,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -730,28 +724,15 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 64,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1458857-doing-life/watch?locale=BR"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36429458/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Doing%20Life",
-        "metacritic": "https://www.metacritic.com/search/Doing%20Life/"
+        "imdb": "https://www.imdb.com/title/tt35682658/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
+        "metacritic": "https://www.metacritic.com/search/Infirmary/"
       }
     },
     {
@@ -820,33 +801,38 @@
       }
     },
     {
-      "tmdb_id": 1610703,
-      "imdb_id": "tt35682658",
-      "titulo_original": "Infirmary",
-      "titulo_ingles": "Infirmary",
+      "tmdb_id": 1458857,
+      "imdb_id": "tt36429458",
+      "titulo_original": "Doing Life",
+      "titulo_ingles": "Doing Life",
       "ano": 2026,
       "data_lancamento": "2026-10-02",
       "data_qualificacao": "",
-      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
+      "sinopse_pt": "Quando Anika, uma jovem mãe solo que luta para manter sua família, começa a trocar cartas com Carousel, um detento cumprindo pena, uma improvável ligação se forma à distância e acaba evoluindo de forma inesperada. O vínculo entre eles dá início a uma jornada de amor e redenção, trazendo à tona a esperança de deixar seus passados conturbados para trás e mostrando que até os relacionamentos mais improváveis podem transformar vidas e oferecer uma segunda chance de ser feliz.",
       "elenco": [
-        "Paul Syre",
-        "Mark Anthony Williams",
-        "Danielle Kennedy",
-        "Corinna Wagner-Smith"
+        "Naomi Baker",
+        "Jay Reeves",
+        "Tamberla Perry",
+        "Karen Obilom",
+        "Jasmine Sargent",
+        "Danielle Moné Truitt",
+        "Lucky Johnson",
+        "Cornell Young IV"
       ],
-      "diretor": "Nicholas Pineda",
+      "diretor": "Tyler Perry",
       "generos": [
-        "Terror"
+        "Romance",
+        "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kDFNGzkXZPJPXXy1hdO4Do4X3Wh.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 85,
-      "rt_critica": 64,
+      "duracao": 108,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -854,15 +840,76 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 64,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1458857-doing-life/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36429458/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Doing%20Life",
+        "metacritic": "https://www.metacritic.com/search/Doing%20Life/"
+      }
+    },
+    {
+      "tmdb_id": 1632103,
+      "imdb_id": "tt40071725",
+      "titulo_original": "La città dei vivi",
+      "titulo_ingles": "The City of the Living",
+      "ano": 2026,
+      "data_lancamento": "2026-10-01",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Emanuele Maria Di Stefano",
+        "Valerio Mastandrea",
+        "Simona Senzacqua",
+        "Roberta Mattei",
+        "Gaia Merlonghi"
+      ],
+      "diretor": "Edoardo Gabbriellini",
+      "generos": [
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 103,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt35682658/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
-        "metacritic": "https://www.metacritic.com/search/Infirmary/"
+        "imdb": "https://www.imdb.com/title/tt40071725/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20City%20of%20the%20Living",
+        "metacritic": "https://www.metacritic.com/search/The%20City%20of%20the%20Living/"
       }
     },
     {
@@ -919,54 +966,6 @@
       }
     },
     {
-      "tmdb_id": 1632103,
-      "imdb_id": "tt40071725",
-      "titulo_original": "La città dei vivi",
-      "titulo_ingles": "The City of the Living",
-      "ano": 2026,
-      "data_lancamento": "2026-10-01",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Emanuele Maria Di Stefano",
-        "Valerio Mastandrea",
-        "Simona Senzacqua",
-        "Roberta Mattei",
-        "Gaia Merlonghi"
-      ],
-      "diretor": "Edoardo Gabbriellini",
-      "generos": [
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 103,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt40071725/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20City%20of%20the%20Living",
-        "metacritic": "https://www.metacritic.com/search/The%20City%20of%20the%20Living/"
-      }
-    },
-    {
       "tmdb_id": 1283515,
       "imdb_id": "tt32261958",
       "titulo_original": "Verity",
@@ -1015,60 +1014,6 @@
         "imdb": "https://www.imdb.com/title/tt32261958/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Verity",
         "metacritic": "https://www.metacritic.com/search/Verity/"
-      }
-    },
-    {
-      "tmdb_id": 1758536,
-      "imdb_id": "tt44568097",
-      "titulo_original": "The Widower: 'Til Death Do Us Part",
-      "titulo_ingles": "The Widower: 'Til Death Do Us Part",
-      "ano": 2026,
-      "data_lancamento": "2026-09-30",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um jornalista e um detetive descobrem a verdade sobre um assassino cujo charme mascarou um rastro de casamentos fracassados e mortes suspeitas.",
-      "elenco": [],
-      "diretor": "Chris Smith",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uaqcTQ5X2HGmB3z7BdyJWqi5jnD.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 91,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1758536-the-widower-til-death-do-us-part/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt44568097/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Widower%3A%20'Til%20Death%20Do%20Us%20Part",
-        "metacritic": "https://www.metacritic.com/search/The%20Widower%3A%20'Til%20Death%20Do%20Us%20Part/"
       }
     },
     {
@@ -1136,6 +1081,60 @@
       }
     },
     {
+      "tmdb_id": 1758536,
+      "imdb_id": "tt44568097",
+      "titulo_original": "The Widower: 'Til Death Do Us Part",
+      "titulo_ingles": "The Widower: 'Til Death Do Us Part",
+      "ano": 2026,
+      "data_lancamento": "2026-09-30",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um jornalista e um detetive descobrem a verdade sobre um assassino cujo charme mascarou um rastro de casamentos fracassados e mortes suspeitas.",
+      "elenco": [],
+      "diretor": "Chris Smith",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uaqcTQ5X2HGmB3z7BdyJWqi5jnD.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 91,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1758536-the-widower-til-death-do-us-part/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt44568097/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Widower%3A%20'Til%20Death%20Do%20Us%20Part",
+        "metacritic": "https://www.metacritic.com/search/The%20Widower%3A%20'Til%20Death%20Do%20Us%20Part/"
+      }
+    },
+    {
       "tmdb_id": 1248832,
       "imdb_id": "tt31450459",
       "titulo_original": "Digger",
@@ -1159,7 +1158,7 @@
         "Comédia",
         "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/7i5SCCAooEriurXkraQ1t2stDZx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2qelG58fO3tOSPrDVzOW8hfxY3V.jpg",
       "pais": [
         "US"
       ],
@@ -1927,6 +1926,55 @@
       }
     },
     {
+      "tmdb_id": 487802,
+      "imdb_id": "tt37968650",
+      "titulo_original": "The Last Photograph",
+      "titulo_ingles": "The Last Photograph",
+      "ano": 2026,
+      "data_lancamento": "2026-09-13",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Stuart Martin",
+        "Fra Fee",
+        "Marlon Moreno",
+        "Costanza Andrade"
+      ],
+      "diretor": "Zack Snyder",
+      "generos": [
+        "Aventura",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/to8YnDGzKvkxKweUI4v8iw6RMCs.jpg",
+      "pais": [
+        "US",
+        "ES",
+        "CO"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 135,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37968650/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Photograph",
+        "metacritic": "https://www.metacritic.com/search/The%20Last%20Photograph/"
+      }
+    },
+    {
       "tmdb_id": 1597199,
       "imdb_id": "tt39239726",
       "titulo_original": "Ritorno a Buenos Aires",
@@ -1977,6 +2025,58 @@
         "imdb": "https://www.imdb.com/title/tt39239726/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Back%20to%20Buenos%20Aires",
         "metacritic": "https://www.metacritic.com/search/Back%20to%20Buenos%20Aires/"
+      }
+    },
+    {
+      "tmdb_id": 1375161,
+      "imdb_id": "tt29630464",
+      "titulo_original": "Don't Move",
+      "titulo_ingles": "Don't Move",
+      "ano": 2026,
+      "data_lancamento": "2026-09-11",
+      "data_qualificacao": "",
+      "sinopse_pt": "Megan Forrester se junta ao seu grupo da igreja em um acampamento após perder sua família em um trágico acidente. A viagem toma um rumo diferente quando o grupo acaba por engano em uma área da floresta alvo de um predador perigoso.",
+      "elenco": [
+        "Lyndsy Fonseca",
+        "Russ",
+        "Tom Cavanagh",
+        "Hunter King",
+        "Joseph Lee Anderson",
+        "Rob Riggle",
+        "Brian Quinn",
+        "Matt Biedel"
+      ],
+      "diretor": "Maclain Nelson",
+      "generos": [
+        "Terror",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg",
+      "pais": [
+        "CA",
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 94,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt29630464/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Don't%20Move",
+        "metacritic": "https://www.metacritic.com/search/Don't%20Move/"
       }
     },
     {
@@ -2043,38 +2143,39 @@
       }
     },
     {
-      "tmdb_id": 1375161,
-      "imdb_id": "tt29630464",
-      "titulo_original": "Don't Move",
-      "titulo_ingles": "Don't Move",
+      "tmdb_id": 1340102,
+      "imdb_id": "tt38953026",
+      "titulo_original": "Lion Fist",
+      "titulo_ingles": "Lion Fist",
       "ano": 2026,
-      "data_lancamento": "2026-09-11",
+      "data_lancamento": "2026-09-10",
       "data_qualificacao": "",
-      "sinopse_pt": "Megan Forrester se junta ao seu grupo da igreja em um acampamento após perder sua família em um trágico acidente. A viagem toma um rumo diferente quando o grupo acaba por engano em uma área da floresta alvo de um predador perigoso.",
+      "sinopse_pt": "",
       "elenco": [
-        "Lyndsy Fonseca",
-        "Russ",
-        "Tom Cavanagh",
-        "Hunter King",
-        "Joseph Lee Anderson",
-        "Rob Riggle",
-        "Brian Quinn",
-        "Matt Biedel"
+        "Mathis Landwehr",
+        "Li Yanlong",
+        "Kurt McKinney",
+        "Keith Cooke",
+        "Brice Akuesson",
+        "David Yeung",
+        "Gary Daniels",
+        "Finja Martens"
       ],
-      "diretor": "Maclain Nelson",
+      "diretor": "Taim M. Adams",
       "generos": [
-        "Terror",
-        "Thriller"
+        "Ação"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
       "pais": [
-        "CA",
-        "US"
+        "US",
+        "DE"
       ],
       "idiomas": [
-        "en"
+        "en",
+        "da",
+        "zh"
       ],
-      "duracao": 94,
+      "duracao": 91,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2089,9 +2190,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt29630464/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Don't%20Move",
-        "metacritic": "https://www.metacritic.com/search/Don't%20Move/"
+        "imdb": "https://www.imdb.com/title/tt38953026/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Lion%20Fist",
+        "metacritic": "https://www.metacritic.com/search/Lion%20Fist/"
       }
     },
     {
@@ -2303,111 +2404,6 @@
       }
     },
     {
-      "tmdb_id": 1340102,
-      "imdb_id": "tt38953026",
-      "titulo_original": "Lion Fist",
-      "titulo_ingles": "Lion Fist",
-      "ano": 2026,
-      "data_lancamento": "2026-09-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Mathis Landwehr",
-        "Li Yanlong",
-        "Kurt McKinney",
-        "Keith Cooke",
-        "Brice Akuesson",
-        "David Yeung",
-        "Gary Daniels",
-        "Finja Martens"
-      ],
-      "diretor": "Taim M. Adams",
-      "generos": [
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
-      "pais": [
-        "US",
-        "DE"
-      ],
-      "idiomas": [
-        "en",
-        "da",
-        "zh"
-      ],
-      "duracao": 91,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38953026/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Lion%20Fist",
-        "metacritic": "https://www.metacritic.com/search/Lion%20Fist/"
-      }
-    },
-    {
-      "tmdb_id": 1302904,
-      "imdb_id": "tt32588798",
-      "titulo_original": "Practical Magic 2",
-      "titulo_ingles": "Practical Magic 2",
-      "ano": 2026,
-      "data_lancamento": "2026-09-09",
-      "data_qualificacao": "",
-      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
-      "elenco": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Joey King",
-        "Maisie Williams",
-        "Xolo Maridueña",
-        "Lee Pace",
-        "Dianne Wiest",
-        "Stockard Channing"
-      ],
-      "diretor": "Susanne Bier",
-      "generos": [
-        "Romance",
-        "Fantasia",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/6xb6fv7MluhncJkNU6VtUWCBz3S.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 130,
-      "rt_critica": 37,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 37,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32588798/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
-        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
-      }
-    },
-    {
       "tmdb_id": 1447853,
       "imdb_id": "tt36150957",
       "titulo_original": "Oasis: Don't Look Back in Anger",
@@ -2465,37 +2461,89 @@
       }
     },
     {
-      "tmdb_id": 1208117,
-      "imdb_id": "tt35364812",
-      "titulo_original": "Les Héros du Louvre",
-      "titulo_ingles": "Les Héros du Louvre",
+      "tmdb_id": 1302904,
+      "imdb_id": "tt32588798",
+      "titulo_original": "Practical Magic 2",
+      "titulo_ingles": "Practical Magic 2",
       "ano": 2026,
       "data_lancamento": "2026-09-09",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
       "elenco": [
-        "Kad Merad",
-        "Marie Gillain",
-        "Bernard Le Coq",
-        "Jean-Hugues Anglade",
-        "Ben Attal",
-        "Julia de Nunez",
-        "Fantine Guyot",
-        "Liam Hellmann"
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Joey King",
+        "Maisie Williams",
+        "Xolo Maridueña",
+        "Lee Pace",
+        "Dianne Wiest",
+        "Stockard Channing"
       ],
-      "diretor": "Élie Chouraqui",
+      "diretor": "Susanne Bier",
       "generos": [
-        "Drama",
-        "História"
+        "Romance",
+        "Fantasia",
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/9lWqBSHRcVm5P8EWEOelA6bnRNa.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6xb6fv7MluhncJkNU6VtUWCBz3S.jpg",
       "pais": [
-        "FR"
+        "US"
       ],
       "idiomas": [
-        "fr"
+        "en"
       ],
-      "duracao": 0,
+      "duracao": 130,
+      "rt_critica": 37,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 37,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32588798/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
+        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
+      }
+    },
+    {
+      "tmdb_id": 1762506,
+      "imdb_id": "tt33510831",
+      "titulo_original": "Band of Brothers: Legacy",
+      "titulo_ingles": "Band of Brothers: Legacy",
+      "ano": 2026,
+      "data_lancamento": "2026-09-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma homenagem documental à série que ajudou a preservar a história da Easy Company, em consonância com o 25º aniversário da série limitada original da HBO.",
+      "elenco": [
+        "Damian Lewis",
+        "Richard D. Winters",
+        "Ron Livingston",
+        "Neal McDonough",
+        "Frank John Hughes",
+        "Michael Cudlitz",
+        "James Madio",
+        "Dale Dye"
+      ],
+      "diretor": "Chase Millsap",
+      "generos": [
+        "Documentário",
+        "Guerra"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 60,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2507,77 +2555,25 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35364812/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Les%20H%C3%A9ros%20du%20Louvre",
-        "metacritic": "https://www.metacritic.com/search/Les%20H%C3%A9ros%20du%20Louvre/"
-      }
-    },
-    {
-      "tmdb_id": 1522689,
-      "imdb_id": "tt38061210",
-      "titulo_original": "Why Did I Get Married Again?",
-      "titulo_ingles": "Why Did I Get Married Again?",
-      "ano": 2026,
-      "data_lancamento": "2026-09-08",
-      "data_qualificacao": "",
-      "sinopse_pt": "Os casais se reencontram para o matrimônio da filha de Marcus e Angela, trazendo à tona dramas novos e antigos. Por que será que essa turma se casou, hein?",
-      "elenco": [
-        "Tyler Perry",
-        "Taraji P. Henson",
-        "Jill Scott",
-        "Richard T. Jones",
-        "Tasha Smith",
-        "Michael Jai White",
-        "Sharon Leal",
-        "Lamman Rucker"
-      ],
-      "diretor": "Tyler Perry",
-      "generos": [
-        "Comédia",
-        "Romance",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bHMtdZFZztcAE5uHHhsY2pWRPB9.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 112,
-      "rt_critica": 38,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 38,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
         "estado": "streaming",
         "servicos": [
           {
-            "nome": "Netflix",
+            "nome": "HBO Max",
             "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+            "logo_url": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
           },
           {
-            "nome": "Netflix Standard with Ads",
+            "nome": "HBO Max Amazon Channel",
             "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+            "logo_url": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
           }
         ],
-        "link_br": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=BR"
+        "link_br": "https://www.themoviedb.org/movie/1762506-band-of-brothers-legacy/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt38061210/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Why%20Did%20I%20Get%20Married%20Again%3F",
-        "metacritic": "https://www.metacritic.com/search/Why%20Did%20I%20Get%20Married%20Again%3F/"
+        "imdb": "https://www.imdb.com/title/tt33510831/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Band%20of%20Brothers%3A%20Legacy",
+        "metacritic": "https://www.metacritic.com/search/Band%20of%20Brothers%3A%20Legacy/"
       }
     },
     {
@@ -2802,13 +2798,13 @@
         "Harriet Slater",
         "Arsema Thomas",
         "Tom Brittney",
-        "Virginia Gardner",
         "สหจักร บุญธนกิจ",
         "Korakod Yensuk",
         "Jordan Coleman",
-        "Maryna Bennett"
+        "Maryna Bennett",
+        "Noen Perez"
       ],
-      "diretor": "Michael Spierig, Peter Spierig",
+      "diretor": "Peter Spierig, Michael Spierig",
       "generos": [
         "Thriller"
       ],
