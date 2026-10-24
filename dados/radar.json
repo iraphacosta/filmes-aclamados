@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-23T14:19:22.003Z",
+  "gerado_em": "2026-10-24T13:26:03.367Z",
   "filmes": [
     {
       "tmdb_id": 1400940,
@@ -123,57 +123,6 @@
       }
     },
     {
-      "tmdb_id": 1438966,
-      "imdb_id": "tt36411726",
-      "titulo_original": "Je so’ pazzo",
-      "titulo_ingles": "Je so’ pazzo",
-      "ano": 2026,
-      "data_lancamento": "2026-10-15",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Massimiliano Caiazzo",
-        "Mariasole Pollio",
-        "Giovanni Ludeno",
-        "Giuseppe Brunetti",
-        "Leonardo Bianconi",
-        "Giampiero De Concilio",
-        "Antonia Truppo",
-        "Monica Nappo"
-      ],
-      "diretor": "Nicola Prosatore",
-      "generos": [
-        "Drama",
-        "Música"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 120,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36411726/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Je%20so%E2%80%99%20pazzo",
-        "metacritic": "https://www.metacritic.com/search/Je%20so%E2%80%99%20pazzo/"
-      }
-    },
-    {
       "tmdb_id": 1623256,
       "imdb_id": "tt37070354",
       "titulo_original": "Stormen",
@@ -235,6 +184,57 @@
         "imdb": "https://www.imdb.com/title/tt37070354/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Storm",
         "metacritic": "https://www.metacritic.com/search/The%20Storm/"
+      }
+    },
+    {
+      "tmdb_id": 1438966,
+      "imdb_id": "tt36411726",
+      "titulo_original": "Je so’ pazzo",
+      "titulo_ingles": "Je so’ pazzo",
+      "ano": 2026,
+      "data_lancamento": "2026-10-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Massimiliano Caiazzo",
+        "Mariasole Pollio",
+        "Giovanni Ludeno",
+        "Giuseppe Brunetti",
+        "Leonardo Bianconi",
+        "Giampiero De Concilio",
+        "Antonia Truppo",
+        "Monica Nappo"
+      ],
+      "diretor": "Nicola Prosatore",
+      "generos": [
+        "Drama",
+        "Música"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 120,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36411726/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Je%20so%E2%80%99%20pazzo",
+        "metacritic": "https://www.metacritic.com/search/Je%20so%E2%80%99%20pazzo/"
       }
     },
     {
@@ -392,6 +392,59 @@
       }
     },
     {
+      "tmdb_id": 1742441,
+      "imdb_id": "tt43739386",
+      "titulo_original": "V/H/S/MIXTAPE",
+      "titulo_ingles": "V/H/S/MIXTAPE",
+      "ano": 2026,
+      "data_lancamento": "2026-10-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "Ele apresenta uma nova antologia na qual música e som se tornam uma fonte de terror.",
+      "elenco": [
+        "Mike Derks",
+        "Michael Bishop",
+        "Brad Roberts",
+        "Casey Orr",
+        "Bob Gorman",
+        "Josh Willis",
+        "Christopher Romero Sosa",
+        "Barbara Crampton"
+      ],
+      "diretor": "David Moreau, Renee Zhan, RZA, Ernest R. Dickerson, Flying Lotus, Tobias Forge",
+      "generos": [
+        "Terror",
+        "Música",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+      "pais": [
+        "US",
+        "AE"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 98,
+      "rt_critica": 53,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 53,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43739386/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=V%2FH%2FS%2FMIXTAPE",
+        "metacritic": "https://www.metacritic.com/search/V%2FH%2FS%2FMIXTAPE/"
+      }
+    },
+    {
       "tmdb_id": 1236045,
       "imdb_id": "tt31049299",
       "titulo_original": "Animals",
@@ -454,59 +507,6 @@
         "imdb": "https://www.imdb.com/title/tt31049299/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Animals",
         "metacritic": "https://www.metacritic.com/search/Animals/"
-      }
-    },
-    {
-      "tmdb_id": 1742441,
-      "imdb_id": "tt43739386",
-      "titulo_original": "V/H/S/MIXTAPE",
-      "titulo_ingles": "V/H/S/MIXTAPE",
-      "ano": 2026,
-      "data_lancamento": "2026-10-09",
-      "data_qualificacao": "",
-      "sinopse_pt": "Ele apresenta uma nova antologia na qual música e som se tornam uma fonte de terror.",
-      "elenco": [
-        "Mike Derks",
-        "Michael Bishop",
-        "Brad Roberts",
-        "Casey Orr",
-        "Bob Gorman",
-        "Josh Willis",
-        "Christopher Romero Sosa",
-        "Barbara Crampton"
-      ],
-      "diretor": "David Moreau, Renee Zhan, RZA, Ernest R. Dickerson, Flying Lotus, Tobias Forge",
-      "generos": [
-        "Terror",
-        "Música",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
-      "pais": [
-        "US",
-        "AE"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 98,
-      "rt_critica": 53,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 53,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43739386/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=V%2FH%2FS%2FMIXTAPE",
-        "metacritic": "https://www.metacritic.com/search/V%2FH%2FS%2FMIXTAPE/"
       }
     },
     {
@@ -903,52 +903,6 @@
       }
     },
     {
-      "tmdb_id": 1610703,
-      "imdb_id": "tt35682658",
-      "titulo_original": "Infirmary",
-      "titulo_ingles": "Infirmary",
-      "ano": 2026,
-      "data_lancamento": "2026-10-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
-      "elenco": [
-        "Paul Syre",
-        "Mark Anthony Williams",
-        "Danielle Kennedy",
-        "Corinna Wagner-Smith"
-      ],
-      "diretor": "Nicholas Pineda",
-      "generos": [
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 85,
-      "rt_critica": 64,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 64,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35682658/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
-        "metacritic": "https://www.metacritic.com/search/Infirmary/"
-      }
-    },
-    {
       "tmdb_id": 1458857,
       "imdb_id": "tt36429458",
       "titulo_original": "Doing Life",
@@ -1010,6 +964,52 @@
         "imdb": "https://www.imdb.com/title/tt36429458/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Doing%20Life",
         "metacritic": "https://www.metacritic.com/search/Doing%20Life/"
+      }
+    },
+    {
+      "tmdb_id": 1610703,
+      "imdb_id": "tt35682658",
+      "titulo_original": "Infirmary",
+      "titulo_ingles": "Infirmary",
+      "ano": 2026,
+      "data_lancamento": "2026-10-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
+      "elenco": [
+        "Paul Syre",
+        "Mark Anthony Williams",
+        "Danielle Kennedy",
+        "Corinna Wagner-Smith"
+      ],
+      "diretor": "Nicholas Pineda",
+      "generos": [
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 85,
+      "rt_critica": 64,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 64,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35682658/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
+        "metacritic": "https://www.metacritic.com/search/Infirmary/"
       }
     },
     {
@@ -1210,7 +1210,7 @@
         "en"
       ],
       "duracao": 114,
-      "rt_critica": null,
+      "rt_critica": 31,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -1218,7 +1218,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 31,
       "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "cinema"
@@ -1453,58 +1453,6 @@
       }
     },
     {
-      "tmdb_id": 1291366,
-      "imdb_id": "tt29494959",
-      "titulo_original": "The Deputy",
-      "titulo_ingles": "The Deputy",
-      "ano": 2026,
-      "data_lancamento": "2026-09-25",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um jovem delegado se vê na mira de criminosos perigosos quando o cadáver que ele foi encarregado de vigiar desaparece da cena do crime.",
-      "elenco": [
-        "Duke Nicholson",
-        "William H. Macy",
-        "Tiffany Haddish",
-        "Stephen Dorff",
-        "Devon Ross",
-        "Billie Lourd",
-        "Julia Fox",
-        "Daniel Diemer"
-      ],
-      "diretor": "Matt Sukkar",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 100,
-      "rt_critica": 57,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 57,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt29494959/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Deputy",
-        "metacritic": "https://www.metacritic.com/search/The%20Deputy/"
-      }
-    },
-    {
       "tmdb_id": 1492640,
       "imdb_id": "tt6933238",
       "titulo_original": "UNABOMBER",
@@ -1567,6 +1515,58 @@
         "imdb": "https://www.imdb.com/title/tt6933238/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=UNABOMBER",
         "metacritic": "https://www.metacritic.com/search/UNABOMBER/"
+      }
+    },
+    {
+      "tmdb_id": 1291366,
+      "imdb_id": "tt29494959",
+      "titulo_original": "The Deputy",
+      "titulo_ingles": "The Deputy",
+      "ano": 2026,
+      "data_lancamento": "2026-09-25",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um jovem delegado se vê na mira de criminosos perigosos quando o cadáver que ele foi encarregado de vigiar desaparece da cena do crime.",
+      "elenco": [
+        "Duke Nicholson",
+        "William H. Macy",
+        "Tiffany Haddish",
+        "Stephen Dorff",
+        "Devon Ross",
+        "Billie Lourd",
+        "Julia Fox",
+        "Daniel Diemer"
+      ],
+      "diretor": "Matt Sukkar",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 100,
+      "rt_critica": 57,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 57,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt29494959/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Deputy",
+        "metacritic": "https://www.metacritic.com/search/The%20Deputy/"
       }
     },
     {
@@ -1697,8 +1697,7 @@
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/owdiTFWuWq4UxPth6nXNsO6x74Q.jpg",
       "pais": [
-        "GB",
-        "US"
+        "GB"
       ],
       "idiomas": [
         "en"
@@ -1749,70 +1748,6 @@
         "imdb": "https://www.imdb.com/title/tt37971717/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Last%20Shot",
         "metacritic": "https://www.metacritic.com/search/One%20Last%20Shot/"
-      }
-    },
-    {
-      "tmdb_id": 1514863,
-      "imdb_id": "tt16478058",
-      "titulo_original": "Best of the Best",
-      "titulo_ingles": "Best of the Best",
-      "ano": 2026,
-      "data_lancamento": "2026-09-18",
-      "data_qualificacao": "",
-      "sinopse_pt": "Duas amigas de infância, Maya (Maitreyi Ramakrishnan) e Anjali (Priyanka Kedia), entram para a equipe de dança Bollywood da UCLA, mas logo descobrem que ganhar o campeonato nacional dos EUA vai ser muito mais difícil do que imaginavam.",
-      "elenco": [
-        "Maitreyi Ramakrishnan",
-        "Priyanka Kedia",
-        "Ankur Rathee",
-        "Chaneil Kular",
-        "Shreya Navile",
-        "Becky Alex",
-        "Nihar Duvvuri",
-        "Nico Greetham"
-      ],
-      "diretor": "Lena Khan",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vmjK9vC8usvMQ4dRqKVnx8P18Np.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "hi"
-      ],
-      "duracao": 112,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt16478058/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Best%20of%20the%20Best",
-        "metacritic": "https://www.metacritic.com/search/Best%20of%20the%20Best/"
       }
     },
     {
@@ -1881,6 +1816,70 @@
       }
     },
     {
+      "tmdb_id": 1514863,
+      "imdb_id": "tt16478058",
+      "titulo_original": "Best of the Best",
+      "titulo_ingles": "Best of the Best",
+      "ano": 2026,
+      "data_lancamento": "2026-09-18",
+      "data_qualificacao": "",
+      "sinopse_pt": "Duas amigas de infância, Maya (Maitreyi Ramakrishnan) e Anjali (Priyanka Kedia), entram para a equipe de dança Bollywood da UCLA, mas logo descobrem que ganhar o campeonato nacional dos EUA vai ser muito mais difícil do que imaginavam.",
+      "elenco": [
+        "Maitreyi Ramakrishnan",
+        "Priyanka Kedia",
+        "Ankur Rathee",
+        "Chaneil Kular",
+        "Shreya Navile",
+        "Becky Alex",
+        "Nihar Duvvuri",
+        "Nico Greetham"
+      ],
+      "diretor": "Lena Khan",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vmjK9vC8usvMQ4dRqKVnx8P18Np.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "hi"
+      ],
+      "duracao": 112,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt16478058/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Best%20of%20the%20Best",
+        "metacritic": "https://www.metacritic.com/search/Best%20of%20the%20Best/"
+      }
+    },
+    {
       "tmdb_id": 1191818,
       "imdb_id": "tt30495381",
       "titulo_original": "Histoires de la nuit",
@@ -1929,57 +1928,6 @@
         "imdb": "https://www.imdb.com/title/tt30495381/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Birthday%20Party",
         "metacritic": "https://www.metacritic.com/search/The%20Birthday%20Party/"
-      }
-    },
-    {
-      "tmdb_id": 1466670,
-      "imdb_id": "tt37921158",
-      "titulo_original": "Si tu penses bien",
-      "titulo_ingles": "Think Good",
-      "ano": 2026,
-      "data_lancamento": "2026-09-16",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Monia Chokri",
-        "Niels Schneider",
-        "Rudgy Pajany",
-        "Mina Kavani",
-        "Oussama Kheddam",
-        "Clémentine Célarié",
-        "Christian Benedetti",
-        "Rabah Nait Oufella"
-      ],
-      "diretor": "Géraldine Nakache",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/5ta2QFexeUsZ9AncKkgiWwpJDq.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 94,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37921158/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Think%20Good",
-        "metacritic": "https://www.metacritic.com/search/Think%20Good/"
       }
     },
     {
@@ -2036,37 +1984,37 @@
       }
     },
     {
-      "tmdb_id": 1318467,
-      "imdb_id": "tt33253206",
-      "titulo_original": "The Last Kiss",
-      "titulo_ingles": "The Last Kiss",
+      "tmdb_id": 1466670,
+      "imdb_id": "tt37921158",
+      "titulo_original": "Si tu penses bien",
+      "titulo_ingles": "Think Good",
       "ano": 2026,
-      "data_lancamento": "2026-09-15",
+      "data_lancamento": "2026-09-16",
       "data_qualificacao": "",
-      "sinopse_pt": "Laurel sempre imaginou que seu primeiro beijo seria como um conto de fadas. Porém, o momento que deveria ser romântico se transforma em pesadelo quando ela descobre estar amaldiçoada com a capacidade de prever a morte de qualquer pessoa que beija. Quando uma visão revela que seu pretendente está destinado a morrer durante uma série de assassinatos misteriosos, Laurel percebe que seus amigos mais próximos também estão em perigo.",
+      "sinopse_pt": "",
       "elenco": [
-        "Mckenna Grace",
-        "Arkira Chantaratananond",
-        "Jaden Michael",
-        "Riley Davis",
-        "Bergman Freedman",
-        "Kate Drummond",
-        "Samantha Espie",
-        "Cooper Levy"
+        "Monia Chokri",
+        "Niels Schneider",
+        "Rudgy Pajany",
+        "Mina Kavani",
+        "Oussama Kheddam",
+        "Clémentine Célarié",
+        "Christian Benedetti",
+        "Rabah Nait Oufella"
       ],
-      "diretor": "Yoko Okumura",
+      "diretor": "Géraldine Nakache",
       "generos": [
-        "Terror",
-        "Mistério"
+        "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5ta2QFexeUsZ9AncKkgiWwpJDq.jpg",
       "pais": [
-        "US"
+        "FR",
+        "BE"
       ],
       "idiomas": [
-        "en"
+        "fr"
       ],
-      "duracao": 97,
+      "duracao": 94,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2081,9 +2029,61 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt33253206/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Kiss",
-        "metacritic": "https://www.metacritic.com/search/The%20Last%20Kiss/"
+        "imdb": "https://www.imdb.com/title/tt37921158/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Think%20Good",
+        "metacritic": "https://www.metacritic.com/search/Think%20Good/"
+      }
+    },
+    {
+      "tmdb_id": 1751701,
+      "imdb_id": "tt36809539",
+      "titulo_original": "After Impact",
+      "titulo_ingles": "After Impact",
+      "ano": 2026,
+      "data_lancamento": "2026-09-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "Depois de herdar a enorme estufa de seu pai quando um asteróide ameaça a Terra, Ethan enfrenta traição e isolamento. Sobrevivendo ao impacto no bunker de sua família, maltratado e desesperado, uma voz no rádio revela que não está sozinho.",
+      "elenco": [
+        "Michiel Rensen",
+        "Maxie Li",
+        "Riki Antonievich",
+        "Will Clague",
+        "Stephanie Ramlose",
+        "Lee-Ann Dirks",
+        "James Crompton",
+        "Moehau Hodges-Tai"
+      ],
+      "diretor": "Michiel Rensen, Liam Carter",
+      "generos": [
+        "Ficção científica",
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+      "pais": [
+        "NZ"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 95,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36809539/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=After%20Impact",
+        "metacritic": "https://www.metacritic.com/search/After%20Impact/"
       }
     },
     {
@@ -2138,38 +2138,37 @@
       }
     },
     {
-      "tmdb_id": 1751701,
-      "imdb_id": "tt36809539",
-      "titulo_original": "After Impact",
-      "titulo_ingles": "After Impact",
+      "tmdb_id": 1318467,
+      "imdb_id": "tt33253206",
+      "titulo_original": "The Last Kiss",
+      "titulo_ingles": "The Last Kiss",
       "ano": 2026,
       "data_lancamento": "2026-09-15",
       "data_qualificacao": "",
-      "sinopse_pt": "Depois de herdar a enorme estufa de seu pai quando um asteróide ameaça a Terra, Ethan enfrenta traição e isolamento. Sobrevivendo ao impacto no bunker de sua família, maltratado e desesperado, uma voz no rádio revela que não está sozinho.",
+      "sinopse_pt": "Laurel sempre imaginou que seu primeiro beijo seria como um conto de fadas. Porém, o momento que deveria ser romântico se transforma em pesadelo quando ela descobre estar amaldiçoada com a capacidade de prever a morte de qualquer pessoa que beija. Quando uma visão revela que seu pretendente está destinado a morrer durante uma série de assassinatos misteriosos, Laurel percebe que seus amigos mais próximos também estão em perigo.",
       "elenco": [
-        "Michiel Rensen",
-        "Maxie Li",
-        "Riki Antonievich",
-        "Will Clague",
-        "Stephanie Ramlose",
-        "Lee-Ann Dirks",
-        "James Crompton",
-        "Moehau Hodges-Tai"
+        "Mckenna Grace",
+        "Arkira Chantaratananond",
+        "Jaden Michael",
+        "Riley Davis",
+        "Bergman Freedman",
+        "Kate Drummond",
+        "Samantha Espie",
+        "Cooper Levy"
       ],
-      "diretor": "Michiel Rensen, Liam Carter",
+      "diretor": "Yoko Okumura",
       "generos": [
-        "Ficção científica",
-        "Drama",
-        "Thriller"
+        "Terror",
+        "Mistério"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
       "pais": [
-        "NZ"
+        "US"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 95,
+      "duracao": 97,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2184,9 +2183,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36809539/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=After%20Impact",
-        "metacritic": "https://www.metacritic.com/search/After%20Impact/"
+        "imdb": "https://www.imdb.com/title/tt33253206/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Kiss",
+        "metacritic": "https://www.metacritic.com/search/The%20Last%20Kiss/"
       }
     },
     {
@@ -2407,38 +2406,39 @@
       }
     },
     {
-      "tmdb_id": 1228834,
-      "imdb_id": "tt9601292",
-      "titulo_original": "The Fix",
-      "titulo_ingles": "The Fix",
+      "tmdb_id": 1340102,
+      "imdb_id": "tt38953026",
+      "titulo_original": "Lion Fist",
+      "titulo_ingles": "Lion Fist",
       "ano": 2026,
       "data_lancamento": "2026-09-10",
       "data_qualificacao": "",
-      "sinopse_pt": "Desiludidos com o fim da guerra no Afeganistão, um grupo de ex-agentes da CIA, em desgraça e marcados pela guerra, parte para Teerã com o objetivo de realizar um golpe que mudará suas vidas.",
+      "sinopse_pt": "",
       "elenco": [
-        "Zachary Levi",
-        "Liam Neeson",
-        "Wes Chatham",
-        "Titus Welliver",
-        "Navid Negahban",
-        "Annet Mahendru",
-        "Grant Harvey",
-        "Augusto Aguilera"
+        "Mathis Landwehr",
+        "Li Yanlong",
+        "Kurt McKinney",
+        "Keith Cooke",
+        "Brice Akuesson",
+        "David Yeung",
+        "Gary Daniels",
+        "Finja Martens"
       ],
-      "diretor": "Guy Moshe",
+      "diretor": "Taim M. Adams",
       "generos": [
-        "Ação",
-        "Thriller"
+        "Ação"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/a1j5writymMPFPyOhBT7s1xX6v6.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
       "pais": [
-        "US"
+        "US",
+        "DE"
       ],
       "idiomas": [
-        "ar",
-        "en"
+        "en",
+        "da",
+        "zh"
       ],
-      "duracao": 142,
+      "duracao": 91,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2453,50 +2453,45 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt9601292/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Fix",
-        "metacritic": "https://www.metacritic.com/search/The%20Fix/"
+        "imdb": "https://www.imdb.com/title/tt38953026/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Lion%20Fist",
+        "metacritic": "https://www.metacritic.com/search/Lion%20Fist/"
       }
     },
     {
-      "tmdb_id": 1447853,
-      "imdb_id": "tt36150957",
-      "titulo_original": "Oasis: Don't Look Back in Anger",
-      "titulo_ingles": "Oasis: Don't Look Back in Anger",
+      "tmdb_id": 1302904,
+      "imdb_id": "tt32588798",
+      "titulo_original": "Practical Magic 2",
+      "titulo_ingles": "Practical Magic 2",
       "ano": 2026,
       "data_lancamento": "2026-09-09",
       "data_qualificacao": "",
-      "sinopse_pt": "Os integrantes da banda comentam diretamente sobre o fim do grupo e sobre a decisão de retomar a parceria para a turnê Oasis Live ’25, que levou a banda novamente aos palcos em 2025. O filme registra ensaios, bastidores e apresentações, além de entrevistas conjuntas dos Gallagher, as primeiras realizadas pelos dois em mais de 25 anos.",
+      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
       "elenco": [
-        "Liam Gallagher",
-        "Noel Gallagher",
-        "Paul Arthurs",
-        "Gem Archer",
-        "Andy Bell",
-        "Joey Waronker",
-        "Christian Madden",
-        "Anaïs Gallagher"
+        "Sandra Bullock",
+        "Nicole Kidman",
+        "Joey King",
+        "Maisie Williams",
+        "Xolo Maridueña",
+        "Lee Pace",
+        "Dianne Wiest",
+        "Stockard Channing"
       ],
-      "diretor": "Dylan Southern, Will Lovelace",
+      "diretor": "Susanne Bier",
       "generos": [
-        "Documentário",
-        "Música"
+        "Romance",
+        "Fantasia",
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uDScWBbQ6s1MCKQlekZdLt6wM5M.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/6xb6fv7MluhncJkNU6VtUWCBz3S.jpg",
       "pais": [
-        "GB",
         "US"
       ],
       "idiomas": [
-        "en",
-        "pt",
-        "ko",
-        "it",
-        "es",
-        "ja"
+        "en"
       ],
-      "duracao": 123,
-      "rt_critica": null,
+      "duracao": 130,
+      "rt_critica": 37,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -2504,23 +2499,15 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 37,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1447853-oasis-don-t-look-back-in-anger/watch?locale=BR"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36150957/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Oasis%3A%20Don't%20Look%20Back%20in%20Anger",
-        "metacritic": "https://www.metacritic.com/search/Oasis%3A%20Don't%20Look%20Back%20in%20Anger/"
+        "imdb": "https://www.imdb.com/title/tt32588798/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
+        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
       }
     },
     {
