@@ -1,7 +1,69 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-24T13:26:03.367Z",
+  "gerado_em": "2026-10-25T13:48:14.329Z",
   "filmes": [
+    {
+      "tmdb_id": 1780005,
+      "imdb_id": "tt37961714",
+      "titulo_original": "Contra el huracán",
+      "titulo_ingles": "Surviving Hurricane Otis",
+      "ano": 2026,
+      "data_lancamento": "2026-10-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "No meio do mar, Wirpul e seu meio-irmão Candi lutam pela sobrevivência quando uma tempestade inesperada se transforma no furacão Otis, um furacão de categoria 5, na costa de Acapulco.",
+      "elenco": [
+        "Benny Emmanuel",
+        "Kristyan Ferrer",
+        "Mónica del Carmen",
+        "Mónica Jiménez",
+        "Andrew Leland Rogers",
+        "Gonzalo Vega Jr.",
+        "Daira Mendoza"
+      ],
+      "diretor": "Jorge Michel Grau",
+      "generos": [
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/aAkMQit6uVKpBMbIP8HsJrgXlGG.jpg",
+      "pais": [
+        "MX"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1780005-contra-el-huracan/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37961714/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Surviving%20Hurricane%20Otis",
+        "metacritic": "https://www.metacritic.com/search/Surviving%20Hurricane%20Otis/"
+      }
+    },
     {
       "tmdb_id": 1400940,
       "imdb_id": "tt34890576",
@@ -238,6 +300,57 @@
       }
     },
     {
+      "tmdb_id": 1234139,
+      "imdb_id": "tt33318732",
+      "titulo_original": "ஜெயிலர் 2",
+      "titulo_ingles": "Jailer 2",
+      "ano": 2026,
+      "data_lancamento": "2026-10-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "ரஜினிகாந்த்",
+        "S. J. Suryah",
+        "Suraj Venjaramoodu",
+        "Ramya Krishnan",
+        "Vidya Balan",
+        "Namo Narayanan",
+        "யோகி பாபு",
+        "Mirnaa"
+      ],
+      "diretor": "நெல்சன் திலீப்குமார்",
+      "generos": [
+        "Ação",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "ta"
+      ],
+      "duracao": 163,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33318732/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jailer%202",
+        "metacritic": "https://www.metacritic.com/search/Jailer%202/"
+      }
+    },
+    {
       "tmdb_id": 1255833,
       "imdb_id": "tt28535715",
       "titulo_original": "Whalefall",
@@ -466,7 +579,9 @@
       "diretor": "Ben Affleck",
       "generos": [
         "Thriller",
-        "Drama"
+        "Drama",
+        "Ação",
+        "Crime"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/62vtHEyzKhFRuEOLLiQfPi60mSs.jpg",
       "pais": [
@@ -658,7 +773,7 @@
         "en"
       ],
       "duracao": 113,
-      "rt_critica": null,
+      "rt_critica": 54,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -666,7 +781,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 54,
       "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "cinema"
@@ -779,6 +894,65 @@
       }
     },
     {
+      "tmdb_id": 1788735,
+      "imdb_id": "tt43665190",
+      "titulo_original": "Family Guy Happy Hell-o-ween",
+      "titulo_ingles": "Family Guy Happy Hell-o-ween",
+      "ano": 2026,
+      "data_lancamento": "2026-10-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após uma morte inesperada, Stewie e Brian vão para o Inferno. A dupla enche tanto o saco do Diabo que ele pede as contas e deixa os dois no comando.",
+      "elenco": [
+        "Seth MacFarlane",
+        "Kieran Culkin",
+        "Alex Borstein",
+        "Seth Green",
+        "Mila Kunis",
+        "Patrick Warburton",
+        "Arif Zahir"
+      ],
+      "diretor": "Joe Vaux",
+      "generos": [
+        "Animação",
+        "Terror",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 23,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1788735-family-guy-happy-hell-o-ween/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43665190/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Family%20Guy%20Happy%20Hell-o-ween",
+        "metacritic": "https://www.metacritic.com/search/Family%20Guy%20Happy%20Hell-o-ween/"
+      }
+    },
+    {
       "tmdb_id": 1148365,
       "imdb_id": "tt28498219",
       "titulo_original": "Matchbox the Movie",
@@ -844,37 +1018,38 @@
       }
     },
     {
-      "tmdb_id": 1788735,
-      "imdb_id": "tt43665190",
-      "titulo_original": "Family Guy Happy Hell-o-ween",
-      "titulo_ingles": "Family Guy Happy Hell-o-ween",
+      "tmdb_id": 1752355,
+      "imdb_id": "tt39453404",
+      "titulo_original": "Schumacher ’94 – Die Geburt einer Legende",
+      "titulo_ingles": "Schumacher ’94 – The Birth of a Legend",
       "ano": 2026,
-      "data_lancamento": "2026-10-05",
+      "data_lancamento": "2026-10-02",
       "data_qualificacao": "",
-      "sinopse_pt": "Após uma morte inesperada, Stewie e Brian vão para o Inferno. A dupla enche tanto o saco do Diabo que ele pede as contas e deixa os dois no comando.",
+      "sinopse_pt": "Corinna Schumacher, Flavio Briatore e outros amigos próximos relembram a turbulenta temporada de 1994, que marcou a ascensão de Michael Schumacher como lenda da Fórmula 1.",
       "elenco": [
-        "Seth MacFarlane",
-        "Kieran Culkin",
-        "Alex Borstein",
-        "Seth Green",
-        "Mila Kunis",
-        "Patrick Warburton",
-        "Arif Zahir"
+        "Michael Schumacher",
+        "Corinna Schumacher",
+        "Flavio Briatore",
+        "Bernie Ecclestone",
+        "David Coulthard",
+        "Willi Weber",
+        "Kai Ebel",
+        "Heiko Waßer"
       ],
-      "diretor": "Joe Vaux",
+      "diretor": "Christin Freitag",
       "generos": [
-        "Animação",
-        "Terror",
-        "Comédia"
+        "Documentário"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/aAhjUysLbHyzOPbvtczuvYCbA7O.jpg",
       "pais": [
-        "US"
+        "DE"
       ],
       "idiomas": [
-        "en"
+        "de",
+        "en",
+        "tr"
       ],
-      "duracao": 23,
+      "duracao": 107,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -889,17 +1064,68 @@
         "estado": "streaming",
         "servicos": [
           {
-            "nome": "Disney Plus",
+            "nome": "Netflix",
             "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
           }
         ],
-        "link_br": "https://www.themoviedb.org/movie/1788735-family-guy-happy-hell-o-ween/watch?locale=BR"
+        "link_br": "https://www.themoviedb.org/movie/1752355-schumacher-94-die-geburt-einer-legende/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt43665190/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Family%20Guy%20Happy%20Hell-o-ween",
-        "metacritic": "https://www.metacritic.com/search/Family%20Guy%20Happy%20Hell-o-ween/"
+        "imdb": "https://www.imdb.com/title/tt39453404/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend",
+        "metacritic": "https://www.metacritic.com/search/Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend/"
+      }
+    },
+    {
+      "tmdb_id": 1610703,
+      "imdb_id": "tt35682658",
+      "titulo_original": "Infirmary",
+      "titulo_ingles": "Infirmary",
+      "ano": 2026,
+      "data_lancamento": "2026-10-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
+      "elenco": [
+        "Paul Syre",
+        "Mark Anthony Williams",
+        "Danielle Kennedy",
+        "Corinna Wagner-Smith"
+      ],
+      "diretor": "Nicholas Pineda",
+      "generos": [
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 85,
+      "rt_critica": 64,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 64,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35682658/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
+        "metacritic": "https://www.metacritic.com/search/Infirmary/"
       }
     },
     {
@@ -964,117 +1190,6 @@
         "imdb": "https://www.imdb.com/title/tt36429458/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Doing%20Life",
         "metacritic": "https://www.metacritic.com/search/Doing%20Life/"
-      }
-    },
-    {
-      "tmdb_id": 1610703,
-      "imdb_id": "tt35682658",
-      "titulo_original": "Infirmary",
-      "titulo_ingles": "Infirmary",
-      "ano": 2026,
-      "data_lancamento": "2026-10-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
-      "elenco": [
-        "Paul Syre",
-        "Mark Anthony Williams",
-        "Danielle Kennedy",
-        "Corinna Wagner-Smith"
-      ],
-      "diretor": "Nicholas Pineda",
-      "generos": [
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 85,
-      "rt_critica": 64,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 64,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35682658/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
-        "metacritic": "https://www.metacritic.com/search/Infirmary/"
-      }
-    },
-    {
-      "tmdb_id": 1752355,
-      "imdb_id": "tt39453404",
-      "titulo_original": "Schumacher ’94 – Die Geburt einer Legende",
-      "titulo_ingles": "Schumacher ’94 – The Birth of a Legend",
-      "ano": 2026,
-      "data_lancamento": "2026-10-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "Corinna Schumacher, Flavio Briatore e outros amigos próximos relembram a turbulenta temporada de 1994, que marcou a ascensão de Michael Schumacher como lenda da Fórmula 1.",
-      "elenco": [
-        "Michael Schumacher",
-        "Corinna Schumacher",
-        "Flavio Briatore",
-        "Bernie Ecclestone",
-        "David Coulthard",
-        "Willi Weber",
-        "Kai Ebel",
-        "Heiko Waßer"
-      ],
-      "diretor": "Christin Freitag",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/aAhjUysLbHyzOPbvtczuvYCbA7O.jpg",
-      "pais": [
-        "DE"
-      ],
-      "idiomas": [
-        "de",
-        "en",
-        "tr"
-      ],
-      "duracao": 107,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1752355-schumacher-94-die-geburt-einer-legende/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39453404/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend",
-        "metacritic": "https://www.metacritic.com/search/Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend/"
       }
     },
     {
@@ -1453,6 +1568,58 @@
       }
     },
     {
+      "tmdb_id": 1291366,
+      "imdb_id": "tt29494959",
+      "titulo_original": "The Deputy",
+      "titulo_ingles": "The Deputy",
+      "ano": 2026,
+      "data_lancamento": "2026-09-25",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um jovem delegado se vê na mira de criminosos perigosos quando o cadáver que ele foi encarregado de vigiar desaparece da cena do crime.",
+      "elenco": [
+        "Duke Nicholson",
+        "William H. Macy",
+        "Tiffany Haddish",
+        "Stephen Dorff",
+        "Devon Ross",
+        "Billie Lourd",
+        "Julia Fox",
+        "Daniel Diemer"
+      ],
+      "diretor": "Matt Sukkar",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 100,
+      "rt_critica": 57,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 57,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt29494959/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Deputy",
+        "metacritic": "https://www.metacritic.com/search/The%20Deputy/"
+      }
+    },
+    {
       "tmdb_id": 1492640,
       "imdb_id": "tt6933238",
       "titulo_original": "UNABOMBER",
@@ -1515,58 +1682,6 @@
         "imdb": "https://www.imdb.com/title/tt6933238/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=UNABOMBER",
         "metacritic": "https://www.metacritic.com/search/UNABOMBER/"
-      }
-    },
-    {
-      "tmdb_id": 1291366,
-      "imdb_id": "tt29494959",
-      "titulo_original": "The Deputy",
-      "titulo_ingles": "The Deputy",
-      "ano": 2026,
-      "data_lancamento": "2026-09-25",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um jovem delegado se vê na mira de criminosos perigosos quando o cadáver que ele foi encarregado de vigiar desaparece da cena do crime.",
-      "elenco": [
-        "Duke Nicholson",
-        "William H. Macy",
-        "Tiffany Haddish",
-        "Stephen Dorff",
-        "Devon Ross",
-        "Billie Lourd",
-        "Julia Fox",
-        "Daniel Diemer"
-      ],
-      "diretor": "Matt Sukkar",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 100,
-      "rt_critica": 57,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 57,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt29494959/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Deputy",
-        "metacritic": "https://www.metacritic.com/search/The%20Deputy/"
       }
     },
     {
@@ -1931,6 +2046,57 @@
       }
     },
     {
+      "tmdb_id": 1466670,
+      "imdb_id": "tt37921158",
+      "titulo_original": "Si tu penses bien",
+      "titulo_ingles": "Think Good",
+      "ano": 2026,
+      "data_lancamento": "2026-09-16",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Monia Chokri",
+        "Niels Schneider",
+        "Rudgy Pajany",
+        "Mina Kavani",
+        "Oussama Kheddam",
+        "Clémentine Célarié",
+        "Christian Benedetti",
+        "Rabah Nait Oufella"
+      ],
+      "diretor": "Géraldine Nakache",
+      "generos": [
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/5ta2QFexeUsZ9AncKkgiWwpJDq.jpg",
+      "pais": [
+        "FR",
+        "BE"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 94,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37921158/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Think%20Good",
+        "metacritic": "https://www.metacritic.com/search/Think%20Good/"
+      }
+    },
+    {
       "tmdb_id": 1433583,
       "imdb_id": "tt10794054",
       "titulo_original": "The Weight",
@@ -1984,37 +2150,37 @@
       }
     },
     {
-      "tmdb_id": 1466670,
-      "imdb_id": "tt37921158",
-      "titulo_original": "Si tu penses bien",
-      "titulo_ingles": "Think Good",
+      "tmdb_id": 1318467,
+      "imdb_id": "tt33253206",
+      "titulo_original": "The Last Kiss",
+      "titulo_ingles": "The Last Kiss",
       "ano": 2026,
-      "data_lancamento": "2026-09-16",
+      "data_lancamento": "2026-09-15",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Laurel sempre imaginou que seu primeiro beijo seria como um conto de fadas. Porém, o momento que deveria ser romântico se transforma em pesadelo quando ela descobre estar amaldiçoada com a capacidade de prever a morte de qualquer pessoa que beija. Quando uma visão revela que seu pretendente está destinado a morrer durante uma série de assassinatos misteriosos, Laurel percebe que seus amigos mais próximos também estão em perigo.",
       "elenco": [
-        "Monia Chokri",
-        "Niels Schneider",
-        "Rudgy Pajany",
-        "Mina Kavani",
-        "Oussama Kheddam",
-        "Clémentine Célarié",
-        "Christian Benedetti",
-        "Rabah Nait Oufella"
+        "Mckenna Grace",
+        "Arkira Chantaratananond",
+        "Jaden Michael",
+        "Riley Davis",
+        "Bergman Freedman",
+        "Kate Drummond",
+        "Samantha Espie",
+        "Cooper Levy"
       ],
-      "diretor": "Géraldine Nakache",
+      "diretor": "Yoko Okumura",
       "generos": [
-        "Drama"
+        "Terror",
+        "Mistério"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/5ta2QFexeUsZ9AncKkgiWwpJDq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
       "pais": [
-        "FR",
-        "BE"
+        "US"
       ],
       "idiomas": [
-        "fr"
+        "en"
       ],
-      "duracao": 94,
+      "duracao": 97,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2029,9 +2195,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt37921158/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Think%20Good",
-        "metacritic": "https://www.metacritic.com/search/Think%20Good/"
+        "imdb": "https://www.imdb.com/title/tt33253206/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Kiss",
+        "metacritic": "https://www.metacritic.com/search/The%20Last%20Kiss/"
       }
     },
     {
@@ -2135,57 +2301,6 @@
         "imdb": "https://www.imdb.com/title/tt40231163/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Run%20Hide%20Fight%3A%20Infidels",
         "metacritic": "https://www.metacritic.com/search/Run%20Hide%20Fight%3A%20Infidels/"
-      }
-    },
-    {
-      "tmdb_id": 1318467,
-      "imdb_id": "tt33253206",
-      "titulo_original": "The Last Kiss",
-      "titulo_ingles": "The Last Kiss",
-      "ano": 2026,
-      "data_lancamento": "2026-09-15",
-      "data_qualificacao": "",
-      "sinopse_pt": "Laurel sempre imaginou que seu primeiro beijo seria como um conto de fadas. Porém, o momento que deveria ser romântico se transforma em pesadelo quando ela descobre estar amaldiçoada com a capacidade de prever a morte de qualquer pessoa que beija. Quando uma visão revela que seu pretendente está destinado a morrer durante uma série de assassinatos misteriosos, Laurel percebe que seus amigos mais próximos também estão em perigo.",
-      "elenco": [
-        "Mckenna Grace",
-        "Arkira Chantaratananond",
-        "Jaden Michael",
-        "Riley Davis",
-        "Bergman Freedman",
-        "Kate Drummond",
-        "Samantha Espie",
-        "Cooper Levy"
-      ],
-      "diretor": "Yoko Okumura",
-      "generos": [
-        "Terror",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33253206/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Kiss",
-        "metacritic": "https://www.metacritic.com/search/The%20Last%20Kiss/"
       }
     },
     {
@@ -2351,163 +2466,6 @@
         "imdb": "https://www.imdb.com/title/tt38616652/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Go%20Team!",
         "metacritic": "https://www.metacritic.com/search/Go%20Team!/"
-      }
-    },
-    {
-      "tmdb_id": 1375161,
-      "imdb_id": "tt29630464",
-      "titulo_original": "Don't Move",
-      "titulo_ingles": "Don't Move",
-      "ano": 2026,
-      "data_lancamento": "2026-09-11",
-      "data_qualificacao": "",
-      "sinopse_pt": "Megan Forrester se junta ao seu grupo da igreja em um acampamento após perder sua família em um trágico acidente. A viagem toma um rumo diferente quando o grupo acaba por engano em uma área da floresta alvo de um predador perigoso.",
-      "elenco": [
-        "Lyndsy Fonseca",
-        "Russ",
-        "Tom Cavanagh",
-        "Hunter King",
-        "Joseph Lee Anderson",
-        "Rob Riggle",
-        "Brian Quinn",
-        "Matt Biedel"
-      ],
-      "diretor": "Maclain Nelson",
-      "generos": [
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uh0ZSdM8iOQgHwnUlhhanP8Dkl6.jpg",
-      "pais": [
-        "CA",
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 94,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt29630464/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Don't%20Move",
-        "metacritic": "https://www.metacritic.com/search/Don't%20Move/"
-      }
-    },
-    {
-      "tmdb_id": 1340102,
-      "imdb_id": "tt38953026",
-      "titulo_original": "Lion Fist",
-      "titulo_ingles": "Lion Fist",
-      "ano": 2026,
-      "data_lancamento": "2026-09-10",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Mathis Landwehr",
-        "Li Yanlong",
-        "Kurt McKinney",
-        "Keith Cooke",
-        "Brice Akuesson",
-        "David Yeung",
-        "Gary Daniels",
-        "Finja Martens"
-      ],
-      "diretor": "Taim M. Adams",
-      "generos": [
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/ezFIXWTbIXlBuZ4kKgto4N3i3of.jpg",
-      "pais": [
-        "US",
-        "DE"
-      ],
-      "idiomas": [
-        "en",
-        "da",
-        "zh"
-      ],
-      "duracao": 91,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38953026/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Lion%20Fist",
-        "metacritic": "https://www.metacritic.com/search/Lion%20Fist/"
-      }
-    },
-    {
-      "tmdb_id": 1302904,
-      "imdb_id": "tt32588798",
-      "titulo_original": "Practical Magic 2",
-      "titulo_ingles": "Practical Magic 2",
-      "ano": 2026,
-      "data_lancamento": "2026-09-09",
-      "data_qualificacao": "",
-      "sinopse_pt": "O tempo passou, mas Sally e Gillian ainda são assombradas pela maldição do clã Owen, que todos que amam acabam morrendo. Agora, as duas devem confrontar poderes que ameaçam acabar com sua família de uma vez por todas.",
-      "elenco": [
-        "Sandra Bullock",
-        "Nicole Kidman",
-        "Joey King",
-        "Maisie Williams",
-        "Xolo Maridueña",
-        "Lee Pace",
-        "Dianne Wiest",
-        "Stockard Channing"
-      ],
-      "diretor": "Susanne Bier",
-      "generos": [
-        "Romance",
-        "Fantasia",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/6xb6fv7MluhncJkNU6VtUWCBz3S.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 130,
-      "rt_critica": 37,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 37,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32588798/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Practical%20Magic%202",
-        "metacritic": "https://www.metacritic.com/search/Practical%20Magic%202/"
       }
     },
     {
@@ -2739,7 +2697,7 @@
         "Maryna Bennett",
         "Noen Perez"
       ],
-      "diretor": "Michael Spierig, Peter Spierig",
+      "diretor": "Peter Spierig, Michael Spierig",
       "generos": [
         "Thriller"
       ],
@@ -2870,6 +2828,71 @@
         "imdb": "https://www.imdb.com/title/tt39602215/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Samurai%20and%20the%20Prisoner",
         "metacritic": "https://www.metacritic.com/search/The%20Samurai%20and%20the%20Prisoner/"
+      }
+    },
+    {
+      "tmdb_id": 1322562,
+      "imdb_id": "tt36282134",
+      "titulo_original": "劇場版モノノ怪 第三章 蛇神",
+      "titulo_ingles": "Mononoke the Movie: Chapter III - The Curse of the Serpent",
+      "ano": 2026,
+      "data_lancamento": "2026-05-29",
+      "data_qualificacao": "",
+      "sinopse_pt": "Quando uma tragédia abala Ōoku, paixões humanas distorcidas e ressentimentos acumulados dão origem ao adversário mais temível que o Boticário já enfrentou.",
+      "elenco": [
+        "Hiroshi Kamiya",
+        "Atsumi Tanezaki",
+        "Miyu Irino",
+        "Kenjiro Tsuda",
+        "Yoshiko Sakakibara",
+        "Tomoyo Kurosawa",
+        "Yoko Hikasa",
+        "Haruka Tomatsu"
+      ],
+      "diretor": "中村健治, 越田知明",
+      "generos": [
+        "Animação",
+        "Fantasia",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/3OYkUub7EAJp34nCmybBneCT1NC.jpg",
+      "pais": [
+        "JP"
+      ],
+      "idiomas": [
+        "ja"
+      ],
+      "duracao": 88,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1322562/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36282134/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mononoke%20the%20Movie%3A%20Chapter%20III%20-%20The%20Curse%20of%20the%20Serpent",
+        "metacritic": "https://www.metacritic.com/search/Mononoke%20the%20Movie%3A%20Chapter%20III%20-%20The%20Curse%20of%20the%20Serpent/"
       }
     },
     {
