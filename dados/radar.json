@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-25T13:48:14.329Z",
+  "gerado_em": "2026-10-26T16:14:00.790Z",
   "filmes": [
     {
       "tmdb_id": 1780005,
@@ -62,6 +62,57 @@
         "imdb": "https://www.imdb.com/title/tt37961714/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Surviving%20Hurricane%20Otis",
         "metacritic": "https://www.metacritic.com/search/Surviving%20Hurricane%20Otis/"
+      }
+    },
+    {
+      "tmdb_id": 1418998,
+      "imdb_id": "tt35450621",
+      "titulo_original": "Karma",
+      "titulo_ingles": "Karma",
+      "ano": 2026,
+      "data_lancamento": "2026-10-21",
+      "data_qualificacao": "",
+      "sinopse_pt": "Numa vila no norte da Espanha, Jeanne tenta reconstruir a sua vida com Daniel, que não conhece o seu passado conturbado. Um dia, o afilhado de seis anos de Jeanne desaparece misteriosamente e ela se torna a principal suspeita.",
+      "elenco": [
+        "Marion Cotillard",
+        "Denis Ménochet",
+        "Leonardo Sbaraglia",
+        "Luis Zahera",
+        "Anne Le Forestier",
+        "Alain Blazquez",
+        "Ferran Font Benito",
+        "Stivell Perot"
+      ],
+      "diretor": "Guillaume Canet",
+      "generos": [
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/hwEZ6fOtXX9mIZHSZPoOJW7AvmP.jpg",
+      "pais": [
+        "FR",
+        "CY"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 140,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35450621/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Karma",
+        "metacritic": "https://www.metacritic.com/search/Karma/"
       }
     },
     {
@@ -185,6 +236,57 @@
       }
     },
     {
+      "tmdb_id": 1438966,
+      "imdb_id": "tt36411726",
+      "titulo_original": "Je so’ pazzo",
+      "titulo_ingles": "Je so’ pazzo",
+      "ano": 2026,
+      "data_lancamento": "2026-10-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Massimiliano Caiazzo",
+        "Mariasole Pollio",
+        "Giovanni Ludeno",
+        "Giuseppe Brunetti",
+        "Leonardo Bianconi",
+        "Giampiero De Concilio",
+        "Antonia Truppo",
+        "Monica Nappo"
+      ],
+      "diretor": "Nicola Prosatore",
+      "generos": [
+        "Drama",
+        "Música"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 120,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36411726/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Je%20so%E2%80%99%20pazzo",
+        "metacritic": "https://www.metacritic.com/search/Je%20so%E2%80%99%20pazzo/"
+      }
+    },
+    {
       "tmdb_id": 1623256,
       "imdb_id": "tt37070354",
       "titulo_original": "Stormen",
@@ -249,37 +351,36 @@
       }
     },
     {
-      "tmdb_id": 1438966,
-      "imdb_id": "tt36411726",
-      "titulo_original": "Je so’ pazzo",
-      "titulo_ingles": "Je so’ pazzo",
+      "tmdb_id": 1255833,
+      "imdb_id": "tt28535715",
+      "titulo_original": "Whalefall",
+      "titulo_ingles": "Whalefall",
       "ano": 2026,
-      "data_lancamento": "2026-10-15",
+      "data_lancamento": "2026-10-14",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Um jovem mergulhador resolveu buscar os restos mortais do seu pai em alto mar, mas no meio dessa triste aventura é capturado por uma baleia cachalote de 25 metros e 60 toneladas. Restando apenas uma hora de oxigênio, ele terá que fazer de tudo para encontrar uma forma de ir embora e seguir a sua vida, mas para isso terá que enfrentar uma grande jornada física e emocional para que ele consiga redescobrir a sua vontade de viver após a vivência do luto.",
       "elenco": [
-        "Massimiliano Caiazzo",
-        "Mariasole Pollio",
-        "Giovanni Ludeno",
-        "Giuseppe Brunetti",
-        "Leonardo Bianconi",
-        "Giampiero De Concilio",
-        "Antonia Truppo",
-        "Monica Nappo"
+        "Austin Abrams",
+        "Josh Brolin",
+        "Elisabeth Shue",
+        "John Ortiz",
+        "Jane Levy",
+        "Emily Rudd",
+        "Kamy D. Bruder",
+        "Mark Meloro Jr."
       ],
-      "diretor": "Nicola Prosatore",
+      "diretor": "Brian Duffield",
       "generos": [
-        "Drama",
-        "Música"
+        "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/66fDoNVCtPrP6jIqMpV1sUEcciw.jpg",
       "pais": [
-        "IT"
+        "US"
       ],
       "idiomas": [
-        "it"
+        "en"
       ],
-      "duracao": 120,
+      "duracao": 106,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -291,12 +392,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36411726/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Je%20so%E2%80%99%20pazzo",
-        "metacritic": "https://www.metacritic.com/search/Je%20so%E2%80%99%20pazzo/"
+        "imdb": "https://www.imdb.com/title/tt28535715/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Whalefall",
+        "metacritic": "https://www.metacritic.com/search/Whalefall/"
       }
     },
     {
@@ -348,56 +449,6 @@
         "imdb": "https://www.imdb.com/title/tt33318732/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jailer%202",
         "metacritic": "https://www.metacritic.com/search/Jailer%202/"
-      }
-    },
-    {
-      "tmdb_id": 1255833,
-      "imdb_id": "tt28535715",
-      "titulo_original": "Whalefall",
-      "titulo_ingles": "Whalefall",
-      "ano": 2026,
-      "data_lancamento": "2026-10-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um jovem mergulhador resolveu buscar os restos mortais do seu pai em alto mar, mas no meio dessa triste aventura é capturado por uma baleia cachalote de 25 metros e 60 toneladas. Restando apenas uma hora de oxigênio, ele terá que fazer de tudo para encontrar uma forma de ir embora e seguir a sua vida, mas para isso terá que enfrentar uma grande jornada física e emocional para que ele consiga redescobrir a sua vontade de viver após a vivência do luto.",
-      "elenco": [
-        "Austin Abrams",
-        "Josh Brolin",
-        "Elisabeth Shue",
-        "John Ortiz",
-        "Jane Levy",
-        "Emily Rudd",
-        "Kamy D. Bruder",
-        "Mark Meloro Jr."
-      ],
-      "diretor": "Brian Duffield",
-      "generos": [
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/66fDoNVCtPrP6jIqMpV1sUEcciw.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt28535715/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Whalefall",
-        "metacritic": "https://www.metacritic.com/search/Whalefall/"
       }
     },
     {
@@ -894,65 +945,6 @@
       }
     },
     {
-      "tmdb_id": 1788735,
-      "imdb_id": "tt43665190",
-      "titulo_original": "Family Guy Happy Hell-o-ween",
-      "titulo_ingles": "Family Guy Happy Hell-o-ween",
-      "ano": 2026,
-      "data_lancamento": "2026-10-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após uma morte inesperada, Stewie e Brian vão para o Inferno. A dupla enche tanto o saco do Diabo que ele pede as contas e deixa os dois no comando.",
-      "elenco": [
-        "Seth MacFarlane",
-        "Kieran Culkin",
-        "Alex Borstein",
-        "Seth Green",
-        "Mila Kunis",
-        "Patrick Warburton",
-        "Arif Zahir"
-      ],
-      "diretor": "Joe Vaux",
-      "generos": [
-        "Animação",
-        "Terror",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 23,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1788735-family-guy-happy-hell-o-ween/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43665190/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Family%20Guy%20Happy%20Hell-o-ween",
-        "metacritic": "https://www.metacritic.com/search/Family%20Guy%20Happy%20Hell-o-ween/"
-      }
-    },
-    {
       "tmdb_id": 1148365,
       "imdb_id": "tt28498219",
       "titulo_original": "Matchbox the Movie",
@@ -1015,6 +1007,129 @@
         "imdb": "https://www.imdb.com/title/tt28498219/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Matchbox%20the%20Movie",
         "metacritic": "https://www.metacritic.com/search/Matchbox%20the%20Movie/"
+      }
+    },
+    {
+      "tmdb_id": 1788735,
+      "imdb_id": "tt43665190",
+      "titulo_original": "Family Guy Happy Hell-o-ween",
+      "titulo_ingles": "Family Guy Happy Hell-o-ween",
+      "ano": 2026,
+      "data_lancamento": "2026-10-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após uma morte inesperada, Stewie e Brian vão para o Inferno. A dupla enche tanto o saco do Diabo que ele pede as contas e deixa os dois no comando.",
+      "elenco": [
+        "Seth MacFarlane",
+        "Kieran Culkin",
+        "Alex Borstein",
+        "Seth Green",
+        "Mila Kunis",
+        "Patrick Warburton",
+        "Arif Zahir"
+      ],
+      "diretor": "Joe Vaux",
+      "generos": [
+        "Animação",
+        "Terror",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 23,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1788735-family-guy-happy-hell-o-ween/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43665190/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Family%20Guy%20Happy%20Hell-o-ween",
+        "metacritic": "https://www.metacritic.com/search/Family%20Guy%20Happy%20Hell-o-ween/"
+      }
+    },
+    {
+      "tmdb_id": 1458857,
+      "imdb_id": "tt36429458",
+      "titulo_original": "Doing Life",
+      "titulo_ingles": "Doing Life",
+      "ano": 2026,
+      "data_lancamento": "2026-10-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "Quando Anika, uma jovem mãe solo que luta para manter sua família, começa a trocar cartas com Carousel, um detento cumprindo pena, uma improvável ligação se forma à distância e acaba evoluindo de forma inesperada. O vínculo entre eles dá início a uma jornada de amor e redenção, trazendo à tona a esperança de deixar seus passados conturbados para trás e mostrando que até os relacionamentos mais improváveis podem transformar vidas e oferecer uma segunda chance de ser feliz.",
+      "elenco": [
+        "Naomi Baker",
+        "Jay Reeves",
+        "Tamberla Perry",
+        "Karen Obilom",
+        "Jasmine Sargent",
+        "Danielle Moné Truitt",
+        "Lucky Johnson",
+        "Cornell Young IV"
+      ],
+      "diretor": "Tyler Perry",
+      "generos": [
+        "Romance",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/kDFNGzkXZPJPXXy1hdO4Do4X3Wh.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 108,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1458857-doing-life/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36429458/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Doing%20Life",
+        "metacritic": "https://www.metacritic.com/search/Doing%20Life/"
       }
     },
     {
@@ -1129,118 +1244,6 @@
       }
     },
     {
-      "tmdb_id": 1458857,
-      "imdb_id": "tt36429458",
-      "titulo_original": "Doing Life",
-      "titulo_ingles": "Doing Life",
-      "ano": 2026,
-      "data_lancamento": "2026-10-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "Quando Anika, uma jovem mãe solo que luta para manter sua família, começa a trocar cartas com Carousel, um detento cumprindo pena, uma improvável ligação se forma à distância e acaba evoluindo de forma inesperada. O vínculo entre eles dá início a uma jornada de amor e redenção, trazendo à tona a esperança de deixar seus passados conturbados para trás e mostrando que até os relacionamentos mais improváveis podem transformar vidas e oferecer uma segunda chance de ser feliz.",
-      "elenco": [
-        "Naomi Baker",
-        "Jay Reeves",
-        "Tamberla Perry",
-        "Karen Obilom",
-        "Jasmine Sargent",
-        "Danielle Moné Truitt",
-        "Lucky Johnson",
-        "Cornell Young IV"
-      ],
-      "diretor": "Tyler Perry",
-      "generos": [
-        "Romance",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/kDFNGzkXZPJPXXy1hdO4Do4X3Wh.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 108,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1458857-doing-life/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36429458/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Doing%20Life",
-        "metacritic": "https://www.metacritic.com/search/Doing%20Life/"
-      }
-    },
-    {
-      "tmdb_id": 1632103,
-      "imdb_id": "tt40071725",
-      "titulo_original": "La città dei vivi",
-      "titulo_ingles": "The City of the Living",
-      "ano": 2026,
-      "data_lancamento": "2026-10-01",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Emanuele Maria Di Stefano",
-        "Valerio Mastandrea",
-        "Simona Senzacqua",
-        "Roberta Mattei",
-        "Gaia Merlonghi"
-      ],
-      "diretor": "Edoardo Gabbriellini",
-      "generos": [
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 103,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt40071725/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20City%20of%20the%20Living",
-        "metacritic": "https://www.metacritic.com/search/The%20City%20of%20the%20Living/"
-      }
-    },
-    {
       "tmdb_id": 1599191,
       "imdb_id": "tt47867242",
       "titulo_original": "仙逆剧场版：弑仙之战",
@@ -1291,6 +1294,54 @@
         "imdb": "https://www.imdb.com/title/tt47867242/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Renegade%20Immortal%3A%20Battle%20of%20the%20Immortal%20Slayer",
         "metacritic": "https://www.metacritic.com/search/Renegade%20Immortal%3A%20Battle%20of%20the%20Immortal%20Slayer/"
+      }
+    },
+    {
+      "tmdb_id": 1632103,
+      "imdb_id": "tt40071725",
+      "titulo_original": "La città dei vivi",
+      "titulo_ingles": "The City of the Living",
+      "ano": 2026,
+      "data_lancamento": "2026-10-01",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Emanuele Maria Di Stefano",
+        "Valerio Mastandrea",
+        "Simona Senzacqua",
+        "Roberta Mattei",
+        "Gaia Merlonghi"
+      ],
+      "diretor": "Edoardo Gabbriellini",
+      "generos": [
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 103,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt40071725/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20City%20of%20the%20Living",
+        "metacritic": "https://www.metacritic.com/search/The%20City%20of%20the%20Living/"
       }
     },
     {
@@ -1568,58 +1619,6 @@
       }
     },
     {
-      "tmdb_id": 1291366,
-      "imdb_id": "tt29494959",
-      "titulo_original": "The Deputy",
-      "titulo_ingles": "The Deputy",
-      "ano": 2026,
-      "data_lancamento": "2026-09-25",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um jovem delegado se vê na mira de criminosos perigosos quando o cadáver que ele foi encarregado de vigiar desaparece da cena do crime.",
-      "elenco": [
-        "Duke Nicholson",
-        "William H. Macy",
-        "Tiffany Haddish",
-        "Stephen Dorff",
-        "Devon Ross",
-        "Billie Lourd",
-        "Julia Fox",
-        "Daniel Diemer"
-      ],
-      "diretor": "Matt Sukkar",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 100,
-      "rt_critica": 57,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 57,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt29494959/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Deputy",
-        "metacritic": "https://www.metacritic.com/search/The%20Deputy/"
-      }
-    },
-    {
       "tmdb_id": 1492640,
       "imdb_id": "tt6933238",
       "titulo_original": "UNABOMBER",
@@ -1682,6 +1681,58 @@
         "imdb": "https://www.imdb.com/title/tt6933238/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=UNABOMBER",
         "metacritic": "https://www.metacritic.com/search/UNABOMBER/"
+      }
+    },
+    {
+      "tmdb_id": 1291366,
+      "imdb_id": "tt29494959",
+      "titulo_original": "The Deputy",
+      "titulo_ingles": "The Deputy",
+      "ano": 2026,
+      "data_lancamento": "2026-09-25",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um jovem delegado se vê na mira de criminosos perigosos quando o cadáver que ele foi encarregado de vigiar desaparece da cena do crime.",
+      "elenco": [
+        "Duke Nicholson",
+        "William H. Macy",
+        "Tiffany Haddish",
+        "Stephen Dorff",
+        "Devon Ross",
+        "Billie Lourd",
+        "Julia Fox",
+        "Daniel Diemer"
+      ],
+      "diretor": "Matt Sukkar",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 100,
+      "rt_critica": 57,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 57,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt29494959/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Deputy",
+        "metacritic": "https://www.metacritic.com/search/The%20Deputy/"
       }
     },
     {
@@ -2046,57 +2097,6 @@
       }
     },
     {
-      "tmdb_id": 1466670,
-      "imdb_id": "tt37921158",
-      "titulo_original": "Si tu penses bien",
-      "titulo_ingles": "Think Good",
-      "ano": 2026,
-      "data_lancamento": "2026-09-16",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Monia Chokri",
-        "Niels Schneider",
-        "Rudgy Pajany",
-        "Mina Kavani",
-        "Oussama Kheddam",
-        "Clémentine Célarié",
-        "Christian Benedetti",
-        "Rabah Nait Oufella"
-      ],
-      "diretor": "Géraldine Nakache",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/5ta2QFexeUsZ9AncKkgiWwpJDq.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 94,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37921158/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Think%20Good",
-        "metacritic": "https://www.metacritic.com/search/Think%20Good/"
-      }
-    },
-    {
       "tmdb_id": 1433583,
       "imdb_id": "tt10794054",
       "titulo_original": "The Weight",
@@ -2150,37 +2150,37 @@
       }
     },
     {
-      "tmdb_id": 1318467,
-      "imdb_id": "tt33253206",
-      "titulo_original": "The Last Kiss",
-      "titulo_ingles": "The Last Kiss",
+      "tmdb_id": 1466670,
+      "imdb_id": "tt37921158",
+      "titulo_original": "Si tu penses bien",
+      "titulo_ingles": "Think Good",
       "ano": 2026,
-      "data_lancamento": "2026-09-15",
+      "data_lancamento": "2026-09-16",
       "data_qualificacao": "",
-      "sinopse_pt": "Laurel sempre imaginou que seu primeiro beijo seria como um conto de fadas. Porém, o momento que deveria ser romântico se transforma em pesadelo quando ela descobre estar amaldiçoada com a capacidade de prever a morte de qualquer pessoa que beija. Quando uma visão revela que seu pretendente está destinado a morrer durante uma série de assassinatos misteriosos, Laurel percebe que seus amigos mais próximos também estão em perigo.",
+      "sinopse_pt": "",
       "elenco": [
-        "Mckenna Grace",
-        "Arkira Chantaratananond",
-        "Jaden Michael",
-        "Riley Davis",
-        "Bergman Freedman",
-        "Kate Drummond",
-        "Samantha Espie",
-        "Cooper Levy"
+        "Monia Chokri",
+        "Niels Schneider",
+        "Rudgy Pajany",
+        "Mina Kavani",
+        "Oussama Kheddam",
+        "Clémentine Célarié",
+        "Christian Benedetti",
+        "Rabah Nait Oufella"
       ],
-      "diretor": "Yoko Okumura",
+      "diretor": "Géraldine Nakache",
       "generos": [
-        "Terror",
-        "Mistério"
+        "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/5ta2QFexeUsZ9AncKkgiWwpJDq.jpg",
       "pais": [
-        "US"
+        "FR",
+        "BE"
       ],
       "idiomas": [
-        "en"
+        "fr"
       ],
-      "duracao": 97,
+      "duracao": 94,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2195,9 +2195,60 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt33253206/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Kiss",
-        "metacritic": "https://www.metacritic.com/search/The%20Last%20Kiss/"
+        "imdb": "https://www.imdb.com/title/tt37921158/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Think%20Good",
+        "metacritic": "https://www.metacritic.com/search/Think%20Good/"
+      }
+    },
+    {
+      "tmdb_id": 1643135,
+      "imdb_id": "tt40231163",
+      "titulo_original": "Run Hide Fight: Infidels",
+      "titulo_ingles": "Run Hide Fight: Infidels",
+      "ano": 2026,
+      "data_lancamento": "2026-09-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Jonathan Majors",
+        "JC Kilcoyne",
+        "Tyler Aser",
+        "Stephen Hailo",
+        "James Bingham",
+        "David Lucas",
+        "Chris K. Lee",
+        "Savanna Leigh James"
+      ],
+      "diretor": "Kyle Rankin",
+      "generos": [
+        "Ação",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/gkVq1Pd46NF7AP5XQZfRHjQfCXX.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 129,
+      "rt_critica": 27,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 27,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt40231163/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Run%20Hide%20Fight%3A%20Infidels",
+        "metacritic": "https://www.metacritic.com/search/Run%20Hide%20Fight%3A%20Infidels/"
       }
     },
     {
@@ -2253,38 +2304,38 @@
       }
     },
     {
-      "tmdb_id": 1643135,
-      "imdb_id": "tt40231163",
-      "titulo_original": "Run Hide Fight: Infidels",
-      "titulo_ingles": "Run Hide Fight: Infidels",
+      "tmdb_id": 1318467,
+      "imdb_id": "tt33253206",
+      "titulo_original": "The Last Kiss",
+      "titulo_ingles": "The Last Kiss",
       "ano": 2026,
       "data_lancamento": "2026-09-15",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Laurel sempre imaginou que seu primeiro beijo seria como um conto de fadas. Porém, o momento que deveria ser romântico se transforma em pesadelo quando ela descobre estar amaldiçoada com a capacidade de prever a morte de qualquer pessoa que beija. Quando uma visão revela que seu pretendente está destinado a morrer durante uma série de assassinatos misteriosos, Laurel percebe que seus amigos mais próximos também estão em perigo.",
       "elenco": [
-        "Jonathan Majors",
-        "JC Kilcoyne",
-        "Tyler Aser",
-        "Stephen Hailo",
-        "James Bingham",
-        "David Lucas",
-        "Chris K. Lee",
-        "Savanna Leigh James"
+        "Mckenna Grace",
+        "Arkira Chantaratananond",
+        "Jaden Michael",
+        "Riley Davis",
+        "Bergman Freedman",
+        "Kate Drummond",
+        "Samantha Espie",
+        "Cooper Levy"
       ],
-      "diretor": "Kyle Rankin",
+      "diretor": "Yoko Okumura",
       "generos": [
-        "Ação",
-        "Thriller"
+        "Terror",
+        "Mistério"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/gkVq1Pd46NF7AP5XQZfRHjQfCXX.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 129,
-      "rt_critica": 27,
+      "duracao": 97,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -2292,15 +2343,15 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 27,
+      "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt40231163/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Run%20Hide%20Fight%3A%20Infidels",
-        "metacritic": "https://www.metacritic.com/search/Run%20Hide%20Fight%3A%20Infidels/"
+        "imdb": "https://www.imdb.com/title/tt33253206/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Kiss",
+        "metacritic": "https://www.metacritic.com/search/The%20Last%20Kiss/"
       }
     },
     {
@@ -2403,69 +2454,6 @@
         "imdb": "https://www.imdb.com/title/tt39239726/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Back%20to%20Buenos%20Aires",
         "metacritic": "https://www.metacritic.com/search/Back%20to%20Buenos%20Aires/"
-      }
-    },
-    {
-      "tmdb_id": 1558568,
-      "imdb_id": "tt38616652",
-      "titulo_original": "Gracias, equipo",
-      "titulo_ingles": "Go Team!",
-      "ano": 2026,
-      "data_lancamento": "2026-09-11",
-      "data_qualificacao": "",
-      "sinopse_pt": "Quando o evento de integração dá uma bela caída de nível, a equipe de colaboradores de uma empresa de queijos acha que chegou ao fundo do poço. Até saberem das demissões.",
-      "elenco": [
-        "Alexandra Jiménez",
-        "Maribel Verdú",
-        "Pedro Casablanc",
-        "Raúl Tejón",
-        "Blanca Martínez",
-        "Victor Rebull",
-        "Pepe Viyuela",
-        "Saturnino García"
-      ],
-      "diretor": "Diego Núñez Irigoyen",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/rJzfmcJLqML17sh7jlKV70D6y66.jpg",
-      "pais": [
-        "ES"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 93,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1558568-gracias-equipo/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38616652/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Go%20Team!",
-        "metacritic": "https://www.metacritic.com/search/Go%20Team!/"
       }
     },
     {
