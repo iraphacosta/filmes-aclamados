@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-26T16:14:00.790Z",
+  "gerado_em": "2026-10-27T15:27:46.215Z",
   "filmes": [
     {
       "tmdb_id": 1780005,
@@ -401,57 +401,6 @@
       }
     },
     {
-      "tmdb_id": 1234139,
-      "imdb_id": "tt33318732",
-      "titulo_original": "ஜெயிலர் 2",
-      "titulo_ingles": "Jailer 2",
-      "ano": 2026,
-      "data_lancamento": "2026-10-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "ரஜினிகாந்த்",
-        "S. J. Suryah",
-        "Suraj Venjaramoodu",
-        "Ramya Krishnan",
-        "Vidya Balan",
-        "Namo Narayanan",
-        "யோகி பாபு",
-        "Mirnaa"
-      ],
-      "diretor": "நெல்சன் திலீப்குமார்",
-      "generos": [
-        "Ação",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "ta"
-      ],
-      "duracao": 163,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33318732/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jailer%202",
-        "metacritic": "https://www.metacritic.com/search/Jailer%202/"
-      }
-    },
-    {
       "tmdb_id": 1241803,
       "imdb_id": "tt35518109",
       "titulo_original": "Les Misérables",
@@ -504,6 +453,57 @@
       }
     },
     {
+      "tmdb_id": 1234139,
+      "imdb_id": "tt33318732",
+      "titulo_original": "ஜெயிலர் 2",
+      "titulo_ingles": "Jailer 2",
+      "ano": 2026,
+      "data_lancamento": "2026-10-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "ரஜினிகாந்த்",
+        "S. J. Suryah",
+        "Suraj Venjaramoodu",
+        "Ramya Krishnan",
+        "Vidya Balan",
+        "Namo Narayanan",
+        "யோகி பாபு",
+        "Mirnaa"
+      ],
+      "diretor": "நெல்சன் திலீப்குமார்",
+      "generos": [
+        "Ação",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "ta"
+      ],
+      "duracao": 163,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33318732/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jailer%202",
+        "metacritic": "https://www.metacritic.com/search/Jailer%202/"
+      }
+    },
+    {
       "tmdb_id": 1153576,
       "imdb_id": "tt27419420",
       "titulo_original": "Street Fighter",
@@ -553,59 +553,6 @@
         "imdb": "https://www.imdb.com/title/tt27419420/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Street%20Fighter",
         "metacritic": "https://www.metacritic.com/search/Street%20Fighter/"
-      }
-    },
-    {
-      "tmdb_id": 1742441,
-      "imdb_id": "tt43739386",
-      "titulo_original": "V/H/S/MIXTAPE",
-      "titulo_ingles": "V/H/S/MIXTAPE",
-      "ano": 2026,
-      "data_lancamento": "2026-10-09",
-      "data_qualificacao": "",
-      "sinopse_pt": "Ele apresenta uma nova antologia na qual música e som se tornam uma fonte de terror.",
-      "elenco": [
-        "Mike Derks",
-        "Michael Bishop",
-        "Brad Roberts",
-        "Casey Orr",
-        "Bob Gorman",
-        "Josh Willis",
-        "Christopher Romero Sosa",
-        "Barbara Crampton"
-      ],
-      "diretor": "David Moreau, Renee Zhan, RZA, Ernest R. Dickerson, Flying Lotus, Tobias Forge",
-      "generos": [
-        "Terror",
-        "Música",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
-      "pais": [
-        "US",
-        "AE"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 98,
-      "rt_critica": 53,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 53,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43739386/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=V%2FH%2FS%2FMIXTAPE",
-        "metacritic": "https://www.metacritic.com/search/V%2FH%2FS%2FMIXTAPE/"
       }
     },
     {
@@ -676,6 +623,112 @@
       }
     },
     {
+      "tmdb_id": 1742441,
+      "imdb_id": "tt43739386",
+      "titulo_original": "V/H/S/MIXTAPE",
+      "titulo_ingles": "V/H/S/MIXTAPE",
+      "ano": 2026,
+      "data_lancamento": "2026-10-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "Ele apresenta uma nova antologia na qual música e som se tornam uma fonte de terror.",
+      "elenco": [
+        "Mike Derks",
+        "Michael Bishop",
+        "Brad Roberts",
+        "Casey Orr",
+        "Bob Gorman",
+        "Josh Willis",
+        "Christopher Romero Sosa",
+        "Barbara Crampton"
+      ],
+      "diretor": "David Moreau, Renee Zhan, RZA, Ernest R. Dickerson, Flying Lotus, Tobias Forge",
+      "generos": [
+        "Terror",
+        "Música",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+      "pais": [
+        "US",
+        "AE"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 98,
+      "rt_critica": 53,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 53,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43739386/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=V%2FH%2FS%2FMIXTAPE",
+        "metacritic": "https://www.metacritic.com/search/V%2FH%2FS%2FMIXTAPE/"
+      }
+    },
+    {
+      "tmdb_id": 1412795,
+      "imdb_id": "tt23411728",
+      "titulo_original": "L'estranea",
+      "titulo_ingles": "The Spiral",
+      "ano": 2026,
+      "data_lancamento": "2026-10-08",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Jasmine Trinca",
+        "Romana Maggiora Vergano",
+        "Adriano Giannini",
+        "Valeria Bruni Tedeschi",
+        "Gabriella Telegrafo",
+        "Alessandro Carbonara",
+        "Mariandrea Cesari",
+        "Andrea Rossini"
+      ],
+      "diretor": "Paolo Strippoli",
+      "generos": [
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
+      "pais": [
+        "BE",
+        "FR",
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 115,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt23411728/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Spiral",
+        "metacritic": "https://www.metacritic.com/search/The%20Spiral/"
+      }
+    },
+    {
       "tmdb_id": 1487317,
       "imdb_id": "tt37027309",
       "titulo_original": "Lo dejamos acá",
@@ -737,59 +790,6 @@
         "imdb": "https://www.imdb.com/title/tt37027309/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Therapy%20Done%20Right",
         "metacritic": "https://www.metacritic.com/search/Therapy%20Done%20Right/"
-      }
-    },
-    {
-      "tmdb_id": 1412795,
-      "imdb_id": "tt23411728",
-      "titulo_original": "L'estranea",
-      "titulo_ingles": "The Spiral",
-      "ano": 2026,
-      "data_lancamento": "2026-10-08",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Jasmine Trinca",
-        "Romana Maggiora Vergano",
-        "Adriano Giannini",
-        "Valeria Bruni Tedeschi",
-        "Gabriella Telegrafo",
-        "Alessandro Carbonara",
-        "Mariandrea Cesari",
-        "Andrea Rossini"
-      ],
-      "diretor": "Paolo Strippoli",
-      "generos": [
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg",
-      "pais": [
-        "BE",
-        "FR",
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 115,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt23411728/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Spiral",
-        "metacritic": "https://www.metacritic.com/search/The%20Spiral/"
       }
     },
     {
@@ -1069,38 +1069,33 @@
       }
     },
     {
-      "tmdb_id": 1458857,
-      "imdb_id": "tt36429458",
-      "titulo_original": "Doing Life",
-      "titulo_ingles": "Doing Life",
+      "tmdb_id": 1610703,
+      "imdb_id": "tt35682658",
+      "titulo_original": "Infirmary",
+      "titulo_ingles": "Infirmary",
       "ano": 2026,
       "data_lancamento": "2026-10-02",
       "data_qualificacao": "",
-      "sinopse_pt": "Quando Anika, uma jovem mãe solo que luta para manter sua família, começa a trocar cartas com Carousel, um detento cumprindo pena, uma improvável ligação se forma à distância e acaba evoluindo de forma inesperada. O vínculo entre eles dá início a uma jornada de amor e redenção, trazendo à tona a esperança de deixar seus passados conturbados para trás e mostrando que até os relacionamentos mais improváveis podem transformar vidas e oferecer uma segunda chance de ser feliz.",
+      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
       "elenco": [
-        "Naomi Baker",
-        "Jay Reeves",
-        "Tamberla Perry",
-        "Karen Obilom",
-        "Jasmine Sargent",
-        "Danielle Moné Truitt",
-        "Lucky Johnson",
-        "Cornell Young IV"
+        "Paul Syre",
+        "Mark Anthony Williams",
+        "Danielle Kennedy",
+        "Corinna Wagner-Smith"
       ],
-      "diretor": "Tyler Perry",
+      "diretor": "Nicholas Pineda",
       "generos": [
-        "Romance",
-        "Drama"
+        "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/kDFNGzkXZPJPXXy1hdO4Do4X3Wh.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 108,
-      "rt_critica": null,
+      "duracao": 85,
+      "rt_critica": 64,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -1108,28 +1103,15 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 64,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1458857-doing-life/watch?locale=BR"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36429458/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Doing%20Life",
-        "metacritic": "https://www.metacritic.com/search/Doing%20Life/"
+        "imdb": "https://www.imdb.com/title/tt35682658/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
+        "metacritic": "https://www.metacritic.com/search/Infirmary/"
       }
     },
     {
@@ -1198,33 +1180,38 @@
       }
     },
     {
-      "tmdb_id": 1610703,
-      "imdb_id": "tt35682658",
-      "titulo_original": "Infirmary",
-      "titulo_ingles": "Infirmary",
+      "tmdb_id": 1458857,
+      "imdb_id": "tt36429458",
+      "titulo_original": "Doing Life",
+      "titulo_ingles": "Doing Life",
       "ano": 2026,
       "data_lancamento": "2026-10-02",
       "data_qualificacao": "",
-      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
+      "sinopse_pt": "Quando Anika, uma jovem mãe solo que luta para manter sua família, começa a trocar cartas com Carousel, um detento cumprindo pena, uma improvável ligação se forma à distância e acaba evoluindo de forma inesperada. O vínculo entre eles dá início a uma jornada de amor e redenção, trazendo à tona a esperança de deixar seus passados conturbados para trás e mostrando que até os relacionamentos mais improváveis podem transformar vidas e oferecer uma segunda chance de ser feliz.",
       "elenco": [
-        "Paul Syre",
-        "Mark Anthony Williams",
-        "Danielle Kennedy",
-        "Corinna Wagner-Smith"
+        "Naomi Baker",
+        "Jay Reeves",
+        "Tamberla Perry",
+        "Karen Obilom",
+        "Jasmine Sargent",
+        "Danielle Moné Truitt",
+        "Lucky Johnson",
+        "Cornell Young IV"
       ],
-      "diretor": "Nicholas Pineda",
+      "diretor": "Tyler Perry",
       "generos": [
-        "Terror"
+        "Romance",
+        "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/kDFNGzkXZPJPXXy1hdO4Do4X3Wh.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 85,
-      "rt_critica": 64,
+      "duracao": 108,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -1232,15 +1219,28 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 64,
+      "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1458857-doing-life/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt35682658/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
-        "metacritic": "https://www.metacritic.com/search/Infirmary/"
+        "imdb": "https://www.imdb.com/title/tt36429458/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Doing%20Life",
+        "metacritic": "https://www.metacritic.com/search/Doing%20Life/"
       }
     },
     {
@@ -1254,7 +1254,7 @@
       "sinopse_pt": "",
       "elenco": [
         "史泽鲲",
-        "Li Jiaxiang",
+        "李嘉祥",
         "刘思岑",
         "Guan Shuai",
         "Si Xi",
@@ -1342,57 +1342,6 @@
         "imdb": "https://www.imdb.com/title/tt40071725/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20City%20of%20the%20Living",
         "metacritic": "https://www.metacritic.com/search/The%20City%20of%20the%20Living/"
-      }
-    },
-    {
-      "tmdb_id": 1283515,
-      "imdb_id": "tt32261958",
-      "titulo_original": "Verity",
-      "titulo_ingles": "Verity",
-      "ano": 2026,
-      "data_lancamento": "2026-09-30",
-      "data_qualificacao": "",
-      "sinopse_pt": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
-      "elenco": [
-        "Anne Hathaway",
-        "Dakota Johnson",
-        "Josh Hartnett",
-        "Brady Wagner",
-        "Ismael Cruz Cordova",
-        "Ирина Дворовенко",
-        "Sienna Kulovitz",
-        "K.K. Moggie"
-      ],
-      "diretor": "Michael Showalter",
-      "generos": [
-        "Mistério",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/6Qf3sylInJeyK0fFTfjprnGIXCF.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 114,
-      "rt_critica": 31,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 31,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32261958/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Verity",
-        "metacritic": "https://www.metacritic.com/search/Verity/"
       }
     },
     {
@@ -1514,6 +1463,57 @@
       }
     },
     {
+      "tmdb_id": 1283515,
+      "imdb_id": "tt32261958",
+      "titulo_original": "Verity",
+      "titulo_ingles": "Verity",
+      "ano": 2026,
+      "data_lancamento": "2026-09-30",
+      "data_qualificacao": "",
+      "sinopse_pt": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
+      "elenco": [
+        "Anne Hathaway",
+        "Dakota Johnson",
+        "Josh Hartnett",
+        "Brady Wagner",
+        "Ismael Cruz Cordova",
+        "Ирина Дворовенко",
+        "Sienna Kulovitz",
+        "K.K. Moggie"
+      ],
+      "diretor": "Michael Showalter",
+      "generos": [
+        "Mistério",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qVPzpR4cwO3SNvB4IF4MJRhDXZB.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 114,
+      "rt_critica": 31,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 31,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt32261958/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Verity",
+        "metacritic": "https://www.metacritic.com/search/Verity/"
+      }
+    },
+    {
       "tmdb_id": 1248832,
       "imdb_id": "tt31450459",
       "titulo_original": "Digger",
@@ -1619,6 +1619,58 @@
       }
     },
     {
+      "tmdb_id": 1291366,
+      "imdb_id": "tt29494959",
+      "titulo_original": "The Deputy",
+      "titulo_ingles": "The Deputy",
+      "ano": 2026,
+      "data_lancamento": "2026-09-25",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um jovem delegado se vê na mira de criminosos perigosos quando o cadáver que ele foi encarregado de vigiar desaparece da cena do crime.",
+      "elenco": [
+        "Duke Nicholson",
+        "William H. Macy",
+        "Tiffany Haddish",
+        "Stephen Dorff",
+        "Devon Ross",
+        "Billie Lourd",
+        "Julia Fox",
+        "Daniel Diemer"
+      ],
+      "diretor": "Matt Sukkar",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 100,
+      "rt_critica": 57,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 57,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt29494959/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Deputy",
+        "metacritic": "https://www.metacritic.com/search/The%20Deputy/"
+      }
+    },
+    {
       "tmdb_id": 1492640,
       "imdb_id": "tt6933238",
       "titulo_original": "UNABOMBER",
@@ -1681,58 +1733,6 @@
         "imdb": "https://www.imdb.com/title/tt6933238/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=UNABOMBER",
         "metacritic": "https://www.metacritic.com/search/UNABOMBER/"
-      }
-    },
-    {
-      "tmdb_id": 1291366,
-      "imdb_id": "tt29494959",
-      "titulo_original": "The Deputy",
-      "titulo_ingles": "The Deputy",
-      "ano": 2026,
-      "data_lancamento": "2026-09-25",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um jovem delegado se vê na mira de criminosos perigosos quando o cadáver que ele foi encarregado de vigiar desaparece da cena do crime.",
-      "elenco": [
-        "Duke Nicholson",
-        "William H. Macy",
-        "Tiffany Haddish",
-        "Stephen Dorff",
-        "Devon Ross",
-        "Billie Lourd",
-        "Julia Fox",
-        "Daniel Diemer"
-      ],
-      "diretor": "Matt Sukkar",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 100,
-      "rt_critica": 57,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 57,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt29494959/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Deputy",
-        "metacritic": "https://www.metacritic.com/search/The%20Deputy/"
       }
     },
     {
@@ -1917,6 +1917,70 @@
       }
     },
     {
+      "tmdb_id": 1514863,
+      "imdb_id": "tt16478058",
+      "titulo_original": "Best of the Best",
+      "titulo_ingles": "Best of the Best",
+      "ano": 2026,
+      "data_lancamento": "2026-09-18",
+      "data_qualificacao": "",
+      "sinopse_pt": "Duas amigas de infância, Maya (Maitreyi Ramakrishnan) e Anjali (Priyanka Kedia), entram para a equipe de dança Bollywood da UCLA, mas logo descobrem que ganhar o campeonato nacional dos EUA vai ser muito mais difícil do que imaginavam.",
+      "elenco": [
+        "Maitreyi Ramakrishnan",
+        "Priyanka Kedia",
+        "Ankur Rathee",
+        "Chaneil Kular",
+        "Shreya Navile",
+        "Becky Alex",
+        "Nihar Duvvuri",
+        "Nico Greetham"
+      ],
+      "diretor": "Lena Khan",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vmjK9vC8usvMQ4dRqKVnx8P18Np.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en",
+        "hi"
+      ],
+      "duracao": 112,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt16478058/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Best%20of%20the%20Best",
+        "metacritic": "https://www.metacritic.com/search/Best%20of%20the%20Best/"
+      }
+    },
+    {
       "tmdb_id": 1641629,
       "imdb_id": "tt43617372",
       "titulo_original": "Toi+Moi - Seuls contre tous",
@@ -1979,70 +2043,6 @@
         "imdb": "https://www.imdb.com/title/tt43617372/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=You%2BMe%20-%20Against%20the%20World",
         "metacritic": "https://www.metacritic.com/search/You%2BMe%20-%20Against%20the%20World/"
-      }
-    },
-    {
-      "tmdb_id": 1514863,
-      "imdb_id": "tt16478058",
-      "titulo_original": "Best of the Best",
-      "titulo_ingles": "Best of the Best",
-      "ano": 2026,
-      "data_lancamento": "2026-09-18",
-      "data_qualificacao": "",
-      "sinopse_pt": "Duas amigas de infância, Maya (Maitreyi Ramakrishnan) e Anjali (Priyanka Kedia), entram para a equipe de dança Bollywood da UCLA, mas logo descobrem que ganhar o campeonato nacional dos EUA vai ser muito mais difícil do que imaginavam.",
-      "elenco": [
-        "Maitreyi Ramakrishnan",
-        "Priyanka Kedia",
-        "Ankur Rathee",
-        "Chaneil Kular",
-        "Shreya Navile",
-        "Becky Alex",
-        "Nihar Duvvuri",
-        "Nico Greetham"
-      ],
-      "diretor": "Lena Khan",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vmjK9vC8usvMQ4dRqKVnx8P18Np.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en",
-        "hi"
-      ],
-      "duracao": 112,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt16478058/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Best%20of%20the%20Best",
-        "metacritic": "https://www.metacritic.com/search/Best%20of%20the%20Best/"
       }
     },
     {
@@ -2201,6 +2201,57 @@
       }
     },
     {
+      "tmdb_id": 1318467,
+      "imdb_id": "tt33253206",
+      "titulo_original": "The Last Kiss",
+      "titulo_ingles": "The Last Kiss",
+      "ano": 2026,
+      "data_lancamento": "2026-09-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "Laurel sempre imaginou que seu primeiro beijo seria como um conto de fadas. Porém, o momento que deveria ser romântico se transforma em pesadelo quando ela descobre estar amaldiçoada com a capacidade de prever a morte de qualquer pessoa que beija. Quando uma visão revela que seu pretendente está destinado a morrer durante uma série de assassinatos misteriosos, Laurel percebe que seus amigos mais próximos também estão em perigo.",
+      "elenco": [
+        "Mckenna Grace",
+        "Arkira Chantaratananond",
+        "Jaden Michael",
+        "Riley Davis",
+        "Bergman Freedman",
+        "Kate Drummond",
+        "Samantha Espie",
+        "Cooper Levy"
+      ],
+      "diretor": "Yoko Okumura",
+      "generos": [
+        "Terror",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33253206/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Kiss",
+        "metacritic": "https://www.metacritic.com/search/The%20Last%20Kiss/"
+      }
+    },
+    {
       "tmdb_id": 1643135,
       "imdb_id": "tt40231163",
       "titulo_original": "Run Hide Fight: Infidels",
@@ -2301,57 +2352,6 @@
         "imdb": "https://www.imdb.com/title/tt36809539/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=After%20Impact",
         "metacritic": "https://www.metacritic.com/search/After%20Impact/"
-      }
-    },
-    {
-      "tmdb_id": 1318467,
-      "imdb_id": "tt33253206",
-      "titulo_original": "The Last Kiss",
-      "titulo_ingles": "The Last Kiss",
-      "ano": 2026,
-      "data_lancamento": "2026-09-15",
-      "data_qualificacao": "",
-      "sinopse_pt": "Laurel sempre imaginou que seu primeiro beijo seria como um conto de fadas. Porém, o momento que deveria ser romântico se transforma em pesadelo quando ela descobre estar amaldiçoada com a capacidade de prever a morte de qualquer pessoa que beija. Quando uma visão revela que seu pretendente está destinado a morrer durante uma série de assassinatos misteriosos, Laurel percebe que seus amigos mais próximos também estão em perigo.",
-      "elenco": [
-        "Mckenna Grace",
-        "Arkira Chantaratananond",
-        "Jaden Michael",
-        "Riley Davis",
-        "Bergman Freedman",
-        "Kate Drummond",
-        "Samantha Espie",
-        "Cooper Levy"
-      ],
-      "diretor": "Yoko Okumura",
-      "generos": [
-        "Terror",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cLZ7iFZc25vluSIKt3XtdSTait4.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33253206/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Kiss",
-        "metacritic": "https://www.metacritic.com/search/The%20Last%20Kiss/"
       }
     },
     {
@@ -2685,7 +2685,7 @@
         "Maryna Bennett",
         "Noen Perez"
       ],
-      "diretor": "Peter Spierig, Michael Spierig",
+      "diretor": "Michael Spierig, Peter Spierig",
       "generos": [
         "Thriller"
       ],
@@ -2774,7 +2774,7 @@
       "ano": 2026,
       "data_lancamento": "2026-06-19",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Quando o lorde Murashige Araki se insurge contra o tirânico Nobunaga Oda, ele se vê sitiado dentro das muralhas de seu próprio castelo. Isolado, ele se depara com uma série de crimes misteriosos que desestabilizam a delicada ordem de sua corte, mergulhando a fortaleza no medo e na desconfiança. Com o exército de Oda se aproximando e um traidor escondido em suas fileiras, Murashige é forçado a formar uma aliança improvável com Kanbei Kuroda, um estrategista brilhante, porém perigoso, mantido prisioneiro na fortificação. Com a ajuda de sua esposa, Chiyoho, e de seus generais mais leais, Murashige precisa descobrir a verdade antes que o castelo seja invadido. Adaptação do romance Kokurojo (The Samurai and the Prisoner), de Honobu Yonezawa.",
       "elenco": [
         "Masahiro Motoki",
         "菅田将暉",
