@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-29T16:17:32.952Z",
+  "gerado_em": "2026-10-30T16:05:40.701Z",
   "filmes": [
     {
       "tmdb_id": 1657630,
@@ -208,7 +208,8 @@
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/j835nBIlJp3nkYaf96z0bD4P8Ux.jpg",
       "pais": [
-        "GB"
+        "GB",
+        "US"
       ],
       "idiomas": [
         "en"
@@ -534,57 +535,6 @@
       }
     },
     {
-      "tmdb_id": 1438966,
-      "imdb_id": "tt36411726",
-      "titulo_original": "Je so’ pazzo",
-      "titulo_ingles": "Je so’ pazzo",
-      "ano": 2026,
-      "data_lancamento": "2026-10-15",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Massimiliano Caiazzo",
-        "Mariasole Pollio",
-        "Giovanni Ludeno",
-        "Giuseppe Brunetti",
-        "Leonardo Bianconi",
-        "Giampiero De Concilio",
-        "Antonia Truppo",
-        "Monica Nappo"
-      ],
-      "diretor": "Nicola Prosatore",
-      "generos": [
-        "Drama",
-        "Música"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 120,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36411726/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Je%20so%E2%80%99%20pazzo",
-        "metacritic": "https://www.metacritic.com/search/Je%20so%E2%80%99%20pazzo/"
-      }
-    },
-    {
       "tmdb_id": 1623256,
       "imdb_id": "tt37070354",
       "titulo_original": "Stormen",
@@ -649,6 +599,57 @@
       }
     },
     {
+      "tmdb_id": 1438966,
+      "imdb_id": "tt36411726",
+      "titulo_original": "Je so’ pazzo",
+      "titulo_ingles": "Je so’ pazzo",
+      "ano": 2026,
+      "data_lancamento": "2026-10-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Massimiliano Caiazzo",
+        "Mariasole Pollio",
+        "Giovanni Ludeno",
+        "Giuseppe Brunetti",
+        "Leonardo Bianconi",
+        "Giampiero De Concilio",
+        "Antonia Truppo",
+        "Monica Nappo"
+      ],
+      "diretor": "Nicola Prosatore",
+      "generos": [
+        "Drama",
+        "Música"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 120,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36411726/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Je%20so%E2%80%99%20pazzo",
+        "metacritic": "https://www.metacritic.com/search/Je%20so%E2%80%99%20pazzo/"
+      }
+    },
+    {
       "tmdb_id": 1255833,
       "imdb_id": "tt28535715",
       "titulo_original": "Whalefall",
@@ -696,6 +697,57 @@
         "imdb": "https://www.imdb.com/title/tt28535715/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Whalefall",
         "metacritic": "https://www.metacritic.com/search/Whalefall/"
+      }
+    },
+    {
+      "tmdb_id": 1234139,
+      "imdb_id": "tt33318732",
+      "titulo_original": "ஜெயிலர் 2",
+      "titulo_ingles": "Jailer 2",
+      "ano": 2026,
+      "data_lancamento": "2026-10-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "ரஜினிகாந்த்",
+        "S. J. Suryah",
+        "Suraj Venjaramoodu",
+        "Ramya Krishnan",
+        "Vidya Balan",
+        "Namo Narayanan",
+        "யோகி பாபு",
+        "Mirnaa"
+      ],
+      "diretor": "நெல்சன் திலீப்குமார்",
+      "generos": [
+        "Ação",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "ta"
+      ],
+      "duracao": 163,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33318732/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jailer%202",
+        "metacritic": "https://www.metacritic.com/search/Jailer%202/"
       }
     },
     {
@@ -751,57 +803,6 @@
       }
     },
     {
-      "tmdb_id": 1234139,
-      "imdb_id": "tt33318732",
-      "titulo_original": "ஜெயிலர் 2",
-      "titulo_ingles": "Jailer 2",
-      "ano": 2026,
-      "data_lancamento": "2026-10-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "ரஜினிகாந்த்",
-        "S. J. Suryah",
-        "Suraj Venjaramoodu",
-        "Ramya Krishnan",
-        "Vidya Balan",
-        "Namo Narayanan",
-        "யோகி பாபு",
-        "Mirnaa"
-      ],
-      "diretor": "நெல்சன் திலீப்குமார்",
-      "generos": [
-        "Ação",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "ta"
-      ],
-      "duracao": 163,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33318732/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jailer%202",
-        "metacritic": "https://www.metacritic.com/search/Jailer%202/"
-      }
-    },
-    {
       "tmdb_id": 1153576,
       "imdb_id": "tt27419420",
       "titulo_original": "Street Fighter",
@@ -851,6 +852,59 @@
         "imdb": "https://www.imdb.com/title/tt27419420/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Street%20Fighter",
         "metacritic": "https://www.metacritic.com/search/Street%20Fighter/"
+      }
+    },
+    {
+      "tmdb_id": 1742441,
+      "imdb_id": "tt43739386",
+      "titulo_original": "V/H/S/MIXTAPE",
+      "titulo_ingles": "V/H/S/MIXTAPE",
+      "ano": 2026,
+      "data_lancamento": "2026-10-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "Ele apresenta uma nova antologia na qual música e som se tornam uma fonte de terror.",
+      "elenco": [
+        "Mike Derks",
+        "Michael Bishop",
+        "Brad Roberts",
+        "Casey Orr",
+        "Bob Gorman",
+        "Josh Willis",
+        "Christopher Romero Sosa",
+        "Barbara Crampton"
+      ],
+      "diretor": "David Moreau, Renee Zhan, RZA, Ernest R. Dickerson, Flying Lotus, Tobias Forge",
+      "generos": [
+        "Terror",
+        "Música",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+      "pais": [
+        "US",
+        "AE"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 98,
+      "rt_critica": 53,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 53,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43739386/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=V%2FH%2FS%2FMIXTAPE",
+        "metacritic": "https://www.metacritic.com/search/V%2FH%2FS%2FMIXTAPE/"
       }
     },
     {
@@ -918,59 +972,6 @@
         "imdb": "https://www.imdb.com/title/tt31049299/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Animals",
         "metacritic": "https://www.metacritic.com/search/Animals/"
-      }
-    },
-    {
-      "tmdb_id": 1742441,
-      "imdb_id": "tt43739386",
-      "titulo_original": "V/H/S/MIXTAPE",
-      "titulo_ingles": "V/H/S/MIXTAPE",
-      "ano": 2026,
-      "data_lancamento": "2026-10-09",
-      "data_qualificacao": "",
-      "sinopse_pt": "Ele apresenta uma nova antologia na qual música e som se tornam uma fonte de terror.",
-      "elenco": [
-        "Mike Derks",
-        "Michael Bishop",
-        "Brad Roberts",
-        "Casey Orr",
-        "Bob Gorman",
-        "Josh Willis",
-        "Christopher Romero Sosa",
-        "Barbara Crampton"
-      ],
-      "diretor": "David Moreau, Renee Zhan, RZA, Ernest R. Dickerson, Flying Lotus, Tobias Forge",
-      "generos": [
-        "Terror",
-        "Música",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
-      "pais": [
-        "US",
-        "AE"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 98,
-      "rt_critica": 53,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 53,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43739386/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=V%2FH%2FS%2FMIXTAPE",
-        "metacritic": "https://www.metacritic.com/search/V%2FH%2FS%2FMIXTAPE/"
       }
     },
     {
@@ -1142,56 +1143,6 @@
       }
     },
     {
-      "tmdb_id": 1400837,
-      "imdb_id": "tt36586020",
-      "titulo_original": "Other Mommy",
-      "titulo_ingles": "Other Mommy",
-      "ano": 2026,
-      "data_lancamento": "2026-10-07",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
-      "elenco": [
-        "Jessica Chastain",
-        "Jay Duplass",
-        "Arabella Olivia Clark",
-        "Karen Allen",
-        "Arian Moayed",
-        "Dichen Lachman",
-        "Sean Kaufman",
-        "Adam Silver"
-      ],
-      "diretor": "Rob Savage",
-      "generos": [
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/j6eXMsykSZnXJT20YTdsdS9PXPj.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 93,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36586020/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Other%20Mommy",
-        "metacritic": "https://www.metacritic.com/search/Other%20Mommy/"
-      }
-    },
-    {
       "tmdb_id": 1429592,
       "imdb_id": "tt37799310",
       "titulo_original": "Ni vue, ni connue",
@@ -1240,6 +1191,56 @@
         "imdb": "https://www.imdb.com/title/tt37799310/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=All%20About%20Corinne",
         "metacritic": "https://www.metacritic.com/search/All%20About%20Corinne/"
+      }
+    },
+    {
+      "tmdb_id": 1400837,
+      "imdb_id": "tt36586020",
+      "titulo_original": "Other Mommy",
+      "titulo_ingles": "Other Mommy",
+      "ano": 2026,
+      "data_lancamento": "2026-10-07",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
+      "elenco": [
+        "Jessica Chastain",
+        "Jay Duplass",
+        "Arabella Olivia Clark",
+        "Karen Allen",
+        "Arian Moayed",
+        "Dichen Lachman",
+        "Sean Kaufman",
+        "Adam Silver"
+      ],
+      "diretor": "Rob Savage",
+      "generos": [
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/j6eXMsykSZnXJT20YTdsdS9PXPj.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 93,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36586020/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Other%20Mommy",
+        "metacritic": "https://www.metacritic.com/search/Other%20Mommy/"
       }
     },
     {
@@ -1367,116 +1368,6 @@
       }
     },
     {
-      "tmdb_id": 1458857,
-      "imdb_id": "tt36429458",
-      "titulo_original": "Doing Life",
-      "titulo_ingles": "Doing Life",
-      "ano": 2026,
-      "data_lancamento": "2026-10-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "Quando Anika, uma jovem mãe solo que luta para manter sua família, começa a trocar cartas com Carousel, um detento cumprindo pena, uma improvável ligação se forma à distância e acaba evoluindo de forma inesperada. O vínculo entre eles dá início a uma jornada de amor e redenção, trazendo à tona a esperança de deixar seus passados conturbados para trás e mostrando que até os relacionamentos mais improváveis podem transformar vidas e oferecer uma segunda chance de ser feliz.",
-      "elenco": [
-        "Naomi Baker",
-        "Jay Reeves",
-        "Tamberla Perry",
-        "Karen Obilom",
-        "Jasmine Sargent",
-        "Danielle Moné Truitt",
-        "Lucky Johnson",
-        "Cornell Young IV"
-      ],
-      "diretor": "Tyler Perry",
-      "generos": [
-        "Romance",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/kDFNGzkXZPJPXXy1hdO4Do4X3Wh.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 108,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1458857-doing-life/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36429458/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Doing%20Life",
-        "metacritic": "https://www.metacritic.com/search/Doing%20Life/"
-      }
-    },
-    {
-      "tmdb_id": 1610703,
-      "imdb_id": "tt35682658",
-      "titulo_original": "Infirmary",
-      "titulo_ingles": "Infirmary",
-      "ano": 2026,
-      "data_lancamento": "2026-10-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
-      "elenco": [
-        "Paul Syre",
-        "Mark Anthony Williams",
-        "Danielle Kennedy",
-        "Corinna Wagner-Smith"
-      ],
-      "diretor": "Nicholas Pineda",
-      "generos": [
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 85,
-      "rt_critica": 64,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 64,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35682658/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
-        "metacritic": "https://www.metacritic.com/search/Infirmary/"
-      }
-    },
-    {
       "tmdb_id": 1752355,
       "imdb_id": "tt39453404",
       "titulo_original": "Schumacher ’94 – Die Geburt einer Legende",
@@ -1542,34 +1433,83 @@
       }
     },
     {
-      "tmdb_id": 1632103,
-      "imdb_id": "tt40071725",
-      "titulo_original": "La città dei vivi",
-      "titulo_ingles": "The City of the Living",
+      "tmdb_id": 1610703,
+      "imdb_id": "tt35682658",
+      "titulo_original": "Infirmary",
+      "titulo_ingles": "Infirmary",
       "ano": 2026,
-      "data_lancamento": "2026-10-01",
+      "data_lancamento": "2026-10-02",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
       "elenco": [
-        "Emanuele Maria Di Stefano",
-        "Valerio Mastandrea",
-        "Simona Senzacqua",
-        "Roberta Mattei",
-        "Gaia Merlonghi"
+        "Paul Syre",
+        "Mark Anthony Williams",
+        "Danielle Kennedy",
+        "Corinna Wagner-Smith"
       ],
-      "diretor": "Edoardo Gabbriellini",
+      "diretor": "Nicholas Pineda",
       "generos": [
-        "Drama",
-        "Thriller"
+        "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
       "pais": [
-        "IT"
+        "US"
       ],
       "idiomas": [
-        "it"
+        "en"
       ],
-      "duracao": 103,
+      "duracao": 85,
+      "rt_critica": 64,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 64,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35682658/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
+        "metacritic": "https://www.metacritic.com/search/Infirmary/"
+      }
+    },
+    {
+      "tmdb_id": 1458857,
+      "imdb_id": "tt36429458",
+      "titulo_original": "Doing Life",
+      "titulo_ingles": "Doing Life",
+      "ano": 2026,
+      "data_lancamento": "2026-10-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "Quando Anika, uma jovem mãe solo que luta para manter sua família, começa a trocar cartas com Carousel, um detento cumprindo pena, uma improvável ligação se forma à distância e acaba evoluindo de forma inesperada. O vínculo entre eles dá início a uma jornada de amor e redenção, trazendo à tona a esperança de deixar seus passados conturbados para trás e mostrando que até os relacionamentos mais improváveis podem transformar vidas e oferecer uma segunda chance de ser feliz.",
+      "elenco": [
+        "Naomi Baker",
+        "Jay Reeves",
+        "Tamberla Perry",
+        "Karen Obilom",
+        "Jasmine Sargent",
+        "Danielle Moné Truitt",
+        "Lucky Johnson",
+        "Cornell Young IV"
+      ],
+      "diretor": "Tyler Perry",
+      "generos": [
+        "Romance",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/kDFNGzkXZPJPXXy1hdO4Do4X3Wh.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 108,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1581,12 +1521,25 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1458857-doing-life/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt40071725/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20City%20of%20the%20Living",
-        "metacritic": "https://www.metacritic.com/search/The%20City%20of%20the%20Living/"
+        "imdb": "https://www.imdb.com/title/tt36429458/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Doing%20Life",
+        "metacritic": "https://www.metacritic.com/search/Doing%20Life/"
       }
     },
     {
@@ -1643,6 +1596,54 @@
       }
     },
     {
+      "tmdb_id": 1632103,
+      "imdb_id": "tt40071725",
+      "titulo_original": "La città dei vivi",
+      "titulo_ingles": "The City of the Living",
+      "ano": 2026,
+      "data_lancamento": "2026-10-01",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Emanuele Maria Di Stefano",
+        "Valerio Mastandrea",
+        "Simona Senzacqua",
+        "Roberta Mattei",
+        "Gaia Merlonghi"
+      ],
+      "diretor": "Edoardo Gabbriellini",
+      "generos": [
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 103,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt40071725/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20City%20of%20the%20Living",
+        "metacritic": "https://www.metacritic.com/search/The%20City%20of%20the%20Living/"
+      }
+    },
+    {
       "tmdb_id": 1283515,
       "imdb_id": "tt32261958",
       "titulo_original": "Verity",
@@ -1664,8 +1665,7 @@
       "diretor": "Michael Showalter",
       "generos": [
         "Mistério",
-        "Thriller",
-        "Drama"
+        "Thriller"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/fy7q7xcyUjHXiKRuYblhcUTgBn0.jpg",
       "pais": [
@@ -1674,7 +1674,7 @@
       "idiomas": [
         "en"
       ],
-      "duracao": 121,
+      "duracao": 117,
       "rt_critica": 31,
       "rt_publico": null,
       "metacritic": null,
@@ -2624,7 +2624,7 @@
         "Maryna Bennett",
         "Noen Perez"
       ],
-      "diretor": "Peter Spierig, Michael Spierig",
+      "diretor": "Michael Spierig, Peter Spierig",
       "generos": [
         "Thriller"
       ],
