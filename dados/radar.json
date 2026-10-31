@@ -1,7 +1,72 @@
 {
   "versao": 1,
-  "gerado_em": "2026-10-30T16:05:40.701Z",
+  "gerado_em": "2026-10-31T15:25:25.229Z",
   "filmes": [
+    {
+      "tmdb_id": 1541477,
+      "imdb_id": "tt38504402",
+      "titulo_original": "Noi un po' meglio",
+      "titulo_ingles": "You, Me, Us",
+      "ano": 2026,
+      "data_lancamento": "2026-10-29",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma mulher independente e um homem que sonha com uma família optam pela adoção, mas suas realidades e visões de mundo diferentes colocam o relacionamento à prova.",
+      "elenco": [
+        "Elio Germano",
+        "Maria Chiara Giannetta",
+        "Lidia Vitale",
+        "Anna Bonaiuto",
+        "Diop Virginia",
+        "Francesca De Martini",
+        "Caterina Guzzanti",
+        "Sofia Luchetti"
+      ],
+      "diretor": "Daniele Luchetti",
+      "generos": [
+        "Drama",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/dlCvghl1H12X7glOXUpSa0gtTxB.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it",
+        "de"
+      ],
+      "duracao": 107,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1541477-noi-un-po-meglio/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38504402/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=You%2C%20Me%2C%20Us",
+        "metacritic": "https://www.metacritic.com/search/You%2C%20Me%2C%20Us/"
+      }
+    },
     {
       "tmdb_id": 1657630,
       "imdb_id": "tt39120306",
@@ -55,6 +120,61 @@
         "imdb": "https://www.imdb.com/title/tt39120306/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Awakening",
         "metacritic": "https://www.metacritic.com/search/The%20Awakening/"
+      }
+    },
+    {
+      "tmdb_id": 1437925,
+      "imdb_id": "tt36899180",
+      "titulo_original": "Moulin",
+      "titulo_ingles": "Moulin",
+      "ano": 2026,
+      "data_lancamento": "2026-10-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Gilles Lellouche",
+        "Lars Eidinger",
+        "Louise Bourgoin",
+        "Marcin Czarnik",
+        "Max Warburton",
+        "Félix Lefebvre",
+        "Hortense de Gromard",
+        "Théo Costa-Marini"
+      ],
+      "diretor": "László Nemes",
+      "generos": [
+        "História",
+        "Drama",
+        "Guerra"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/niEnEAPjqc2Mey6IiVPtBun45ZV.jpg",
+      "pais": [
+        "FR",
+        "BE",
+        "US"
+      ],
+      "idiomas": [
+        "de",
+        "fr"
+      ],
+      "duracao": 130,
+      "rt_critica": 64,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 64,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36899180/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Moulin",
+        "metacritic": "https://www.metacritic.com/search/Moulin/"
       }
     },
     {
@@ -373,13 +493,13 @@
       "sinopse_pt": "A determinada adolescente Prue McKeel embarca em uma missão desesperada de resgate depois que seu irmão caçula é sequestrado por um bando de corvos. Acompanhada por seu colega de classe desajeitado, mas leal, Curtis Mehlberg, Prue navega por um mundo habitado por animais falantes, bandidos e figuras poderosas movidas pela dor e pela ambição. À medida que a dupla é arrastada para um conflito que ameaça o equilíbrio da própria floresta, Prue precisa descobrir uma força e uma crença que jamais soube que possuía.",
       "elenco": [
         "Peyton Elizabeth Lee",
-        "Carey Mulligan",
         "Jacob Tremblay",
+        "Carey Mulligan",
         "Mahershala Ali",
+        "Richard E. Grant",
         "Angela Bassett",
         "Awkwafina",
-        "Jake Johnson",
-        "Charlie Day"
+        "Amandla Stenberg"
       ],
       "diretor": "Travis Knight",
       "generos": [
@@ -535,6 +655,57 @@
       }
     },
     {
+      "tmdb_id": 1438966,
+      "imdb_id": "tt36411726",
+      "titulo_original": "Je so’ pazzo",
+      "titulo_ingles": "Je so’ pazzo",
+      "ano": 2026,
+      "data_lancamento": "2026-10-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Massimiliano Caiazzo",
+        "Mariasole Pollio",
+        "Giovanni Ludeno",
+        "Giuseppe Brunetti",
+        "Leonardo Bianconi",
+        "Giampiero De Concilio",
+        "Antonia Truppo",
+        "Monica Nappo"
+      ],
+      "diretor": "Nicola Prosatore",
+      "generos": [
+        "Drama",
+        "Música"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 120,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36411726/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Je%20so%E2%80%99%20pazzo",
+        "metacritic": "https://www.metacritic.com/search/Je%20so%E2%80%99%20pazzo/"
+      }
+    },
+    {
       "tmdb_id": 1623256,
       "imdb_id": "tt37070354",
       "titulo_original": "Stormen",
@@ -599,57 +770,6 @@
       }
     },
     {
-      "tmdb_id": 1438966,
-      "imdb_id": "tt36411726",
-      "titulo_original": "Je so’ pazzo",
-      "titulo_ingles": "Je so’ pazzo",
-      "ano": 2026,
-      "data_lancamento": "2026-10-15",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Massimiliano Caiazzo",
-        "Mariasole Pollio",
-        "Giovanni Ludeno",
-        "Giuseppe Brunetti",
-        "Leonardo Bianconi",
-        "Giampiero De Concilio",
-        "Antonia Truppo",
-        "Monica Nappo"
-      ],
-      "diretor": "Nicola Prosatore",
-      "generos": [
-        "Drama",
-        "Música"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 120,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36411726/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Je%20so%E2%80%99%20pazzo",
-        "metacritic": "https://www.metacritic.com/search/Je%20so%E2%80%99%20pazzo/"
-      }
-    },
-    {
       "tmdb_id": 1255833,
       "imdb_id": "tt28535715",
       "titulo_original": "Whalefall",
@@ -697,57 +817,6 @@
         "imdb": "https://www.imdb.com/title/tt28535715/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Whalefall",
         "metacritic": "https://www.metacritic.com/search/Whalefall/"
-      }
-    },
-    {
-      "tmdb_id": 1234139,
-      "imdb_id": "tt33318732",
-      "titulo_original": "ஜெயிலர் 2",
-      "titulo_ingles": "Jailer 2",
-      "ano": 2026,
-      "data_lancamento": "2026-10-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "ரஜினிகாந்த்",
-        "S. J. Suryah",
-        "Suraj Venjaramoodu",
-        "Ramya Krishnan",
-        "Vidya Balan",
-        "Namo Narayanan",
-        "யோகி பாபு",
-        "Mirnaa"
-      ],
-      "diretor": "நெல்சன் திலீப்குமார்",
-      "generos": [
-        "Ação",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "ta"
-      ],
-      "duracao": 163,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33318732/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jailer%202",
-        "metacritic": "https://www.metacritic.com/search/Jailer%202/"
       }
     },
     {
@@ -803,6 +872,58 @@
       }
     },
     {
+      "tmdb_id": 1234139,
+      "imdb_id": "tt33318732",
+      "titulo_original": "ஜெயிலர் 2",
+      "titulo_ingles": "Jailer 2",
+      "ano": 2026,
+      "data_lancamento": "2026-10-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "ரஜினிகாந்த்",
+        "S. J. Suryah",
+        "Suraj Venjaramoodu",
+        "Ramya Krishnan",
+        "Vidya Balan",
+        "Namo Narayanan",
+        "யோகி பாபு",
+        "Mirnaa"
+      ],
+      "diretor": "நெல்சன் திலீப்குமார்",
+      "generos": [
+        "Ação",
+        "Comédia",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "ta"
+      ],
+      "duracao": 163,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33318732/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jailer%202",
+        "metacritic": "https://www.metacritic.com/search/Jailer%202/"
+      }
+    },
+    {
       "tmdb_id": 1153576,
       "imdb_id": "tt27419420",
       "titulo_original": "Street Fighter",
@@ -855,40 +976,39 @@
       }
     },
     {
-      "tmdb_id": 1742441,
-      "imdb_id": "tt43739386",
-      "titulo_original": "V/H/S/MIXTAPE",
-      "titulo_ingles": "V/H/S/MIXTAPE",
+      "tmdb_id": 1507696,
+      "imdb_id": "tt37522541",
+      "titulo_original": "Apocalipsis Z: Nuevo mundo",
+      "titulo_ingles": "Apocalypse Z: New World",
       "ano": 2026,
       "data_lancamento": "2026-10-09",
       "data_qualificacao": "",
-      "sinopse_pt": "Ele apresenta uma nova antologia na qual música e som se tornam uma fonte de terror.",
+      "sinopse_pt": "Após o surto do vírus TSJ, as Ilhas Canárias se tornaram o último refúgio da Europa. Quando uma missão parte rumo a Madri em busca de suprimentos, Roberto se junta à equipe com intenções duvidosas. Cercados por infectados e divididos por lealdades conflitantes, eles precisam lutar pela sobrevivência e enfrentar um dilema moral: salvar a própria pele ou arriscar tudo pelo que resta da humanidade.",
       "elenco": [
-        "Mike Derks",
-        "Michael Bishop",
-        "Brad Roberts",
-        "Casey Orr",
-        "Bob Gorman",
-        "Josh Willis",
-        "Christopher Romero Sosa",
-        "Barbara Crampton"
+        "Carlos Alcaide",
+        "Julia Martínez",
+        "Mario Mayo",
+        "Mónica López",
+        "Tamara Casellas",
+        "Santiago Vaca Narvaja",
+        "José María Yázpik",
+        "Berta Vázquez"
       ],
-      "diretor": "David Moreau, Renee Zhan, RZA, Ernest R. Dickerson, Flying Lotus, Tobias Forge",
+      "diretor": "Carles Torrens",
       "generos": [
-        "Terror",
-        "Música",
-        "Thriller"
+        "Ação",
+        "Thriller",
+        "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/tzk90shtAI6WaoDIjLLVten7oov.jpg",
       "pais": [
-        "US",
-        "AE"
+        "ES"
       ],
       "idiomas": [
-        "en"
+        "es"
       ],
       "duracao": 98,
-      "rt_critica": 53,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -896,15 +1016,28 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 53,
+      "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Amazon Prime Video",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+          },
+          {
+            "nome": "Amazon Prime Video with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1507696-apocalipsis-z-nuevo-mundo/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt43739386/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=V%2FH%2FS%2FMIXTAPE",
-        "metacritic": "https://www.metacritic.com/search/V%2FH%2FS%2FMIXTAPE/"
+        "imdb": "https://www.imdb.com/title/tt37522541/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Apocalypse%20Z%3A%20New%20World",
+        "metacritic": "https://www.metacritic.com/search/Apocalypse%20Z%3A%20New%20World/"
       }
     },
     {
@@ -972,6 +1105,59 @@
         "imdb": "https://www.imdb.com/title/tt31049299/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Animals",
         "metacritic": "https://www.metacritic.com/search/Animals/"
+      }
+    },
+    {
+      "tmdb_id": 1742441,
+      "imdb_id": "tt43739386",
+      "titulo_original": "V/H/S/MIXTAPE",
+      "titulo_ingles": "V/H/S/MIXTAPE",
+      "ano": 2026,
+      "data_lancamento": "2026-10-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "Ele apresenta uma nova antologia na qual música e som se tornam uma fonte de terror.",
+      "elenco": [
+        "Mike Derks",
+        "Michael Bishop",
+        "Brad Roberts",
+        "Casey Orr",
+        "Bob Gorman",
+        "Josh Willis",
+        "Christopher Romero Sosa",
+        "Barbara Crampton"
+      ],
+      "diretor": "David Moreau, Renee Zhan, RZA, Ernest R. Dickerson, Flying Lotus, Tobias Forge",
+      "generos": [
+        "Terror",
+        "Música",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+      "pais": [
+        "US",
+        "AE"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 98,
+      "rt_critica": 53,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 53,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43739386/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=V%2FH%2FS%2FMIXTAPE",
+        "metacritic": "https://www.metacritic.com/search/V%2FH%2FS%2FMIXTAPE/"
       }
     },
     {
@@ -1092,6 +1278,57 @@
       }
     },
     {
+      "tmdb_id": 1429592,
+      "imdb_id": "tt37799310",
+      "titulo_original": "Ni vue, ni connue",
+      "titulo_ingles": "All About Corinne",
+      "ano": 2026,
+      "data_lancamento": "2026-10-07",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Isabelle Huppert",
+        "Sandrine Kiberlain",
+        "Anne Marivin",
+        "Vincent Dedienne",
+        "Diane Kruger",
+        "Emmanuelle Bercot",
+        "Thomas Jolly",
+        "Ana Girardot"
+      ],
+      "diretor": "Marc Fitoussi",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/GcKNC7T2iYGwUxTXqpmKmIJQ2l.jpg",
+      "pais": [
+        "FR",
+        "BE"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 115,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37799310/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=All%20About%20Corinne",
+        "metacritic": "https://www.metacritic.com/search/All%20About%20Corinne/"
+      }
+    },
+    {
       "tmdb_id": 1281331,
       "imdb_id": "tt37510326",
       "titulo_original": "The Social Reckoning",
@@ -1143,57 +1380,6 @@
       }
     },
     {
-      "tmdb_id": 1429592,
-      "imdb_id": "tt37799310",
-      "titulo_original": "Ni vue, ni connue",
-      "titulo_ingles": "All About Corinne",
-      "ano": 2026,
-      "data_lancamento": "2026-10-07",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Isabelle Huppert",
-        "Sandrine Kiberlain",
-        "Anne Marivin",
-        "Vincent Dedienne",
-        "Diane Kruger",
-        "Emmanuelle Bercot",
-        "Thomas Jolly",
-        "Ana Girardot"
-      ],
-      "diretor": "Marc Fitoussi",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/sXqiQw6cwZlp4B8OnT3LRGC6wgR.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 115,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37799310/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=All%20About%20Corinne",
-        "metacritic": "https://www.metacritic.com/search/All%20About%20Corinne/"
-      }
-    },
-    {
       "tmdb_id": 1400837,
       "imdb_id": "tt36586020",
       "titulo_original": "Other Mommy",
@@ -1241,6 +1427,65 @@
         "imdb": "https://www.imdb.com/title/tt36586020/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Other%20Mommy",
         "metacritic": "https://www.metacritic.com/search/Other%20Mommy/"
+      }
+    },
+    {
+      "tmdb_id": 1788735,
+      "imdb_id": "tt43665190",
+      "titulo_original": "Family Guy Happy Hell-o-ween",
+      "titulo_ingles": "Family Guy Happy Hell-o-ween",
+      "ano": 2026,
+      "data_lancamento": "2026-10-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após uma morte inesperada, Stewie e Brian vão para o Inferno. A dupla enche tanto o saco do Diabo que ele pede as contas e deixa os dois no comando.",
+      "elenco": [
+        "Seth MacFarlane",
+        "Kieran Culkin",
+        "Alex Borstein",
+        "Seth Green",
+        "Mila Kunis",
+        "Patrick Warburton",
+        "Arif Zahir"
+      ],
+      "diretor": "Joe Vaux",
+      "generos": [
+        "Animação",
+        "Terror",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 23,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1788735-family-guy-happy-hell-o-ween/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43665190/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Family%20Guy%20Happy%20Hell-o-ween",
+        "metacritic": "https://www.metacritic.com/search/Family%20Guy%20Happy%20Hell-o-ween/"
       }
     },
     {
@@ -1306,130 +1551,6 @@
         "imdb": "https://www.imdb.com/title/tt28498219/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Matchbox%20the%20Movie",
         "metacritic": "https://www.metacritic.com/search/Matchbox%20the%20Movie/"
-      }
-    },
-    {
-      "tmdb_id": 1788735,
-      "imdb_id": "tt43665190",
-      "titulo_original": "Family Guy Happy Hell-o-ween",
-      "titulo_ingles": "Family Guy Happy Hell-o-ween",
-      "ano": 2026,
-      "data_lancamento": "2026-10-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após uma morte inesperada, Stewie e Brian vão para o Inferno. A dupla enche tanto o saco do Diabo que ele pede as contas e deixa os dois no comando.",
-      "elenco": [
-        "Seth MacFarlane",
-        "Kieran Culkin",
-        "Alex Borstein",
-        "Seth Green",
-        "Mila Kunis",
-        "Patrick Warburton",
-        "Arif Zahir"
-      ],
-      "diretor": "Joe Vaux",
-      "generos": [
-        "Animação",
-        "Terror",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 23,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1788735-family-guy-happy-hell-o-ween/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43665190/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Family%20Guy%20Happy%20Hell-o-ween",
-        "metacritic": "https://www.metacritic.com/search/Family%20Guy%20Happy%20Hell-o-ween/"
-      }
-    },
-    {
-      "tmdb_id": 1752355,
-      "imdb_id": "tt39453404",
-      "titulo_original": "Schumacher ’94 – Die Geburt einer Legende",
-      "titulo_ingles": "Schumacher ’94 – The Birth of a Legend",
-      "ano": 2026,
-      "data_lancamento": "2026-10-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "Corinna Schumacher, Flavio Briatore e outros amigos próximos relembram a turbulenta temporada de 1994, que marcou a ascensão de Michael Schumacher como lenda da Fórmula 1.",
-      "elenco": [
-        "Michael Schumacher",
-        "Corinna Schumacher",
-        "Flavio Briatore",
-        "Bernie Ecclestone",
-        "David Coulthard",
-        "Willi Weber",
-        "Kai Ebel",
-        "Heiko Waßer"
-      ],
-      "diretor": "Christin Freitag",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/aAhjUysLbHyzOPbvtczuvYCbA7O.jpg",
-      "pais": [
-        "DE"
-      ],
-      "idiomas": [
-        "de",
-        "en",
-        "tr"
-      ],
-      "duracao": 107,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1752355-schumacher-94-die-geburt-einer-legende/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39453404/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend",
-        "metacritic": "https://www.metacritic.com/search/Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend/"
       }
     },
     {
@@ -1543,6 +1664,119 @@
       }
     },
     {
+      "tmdb_id": 1752355,
+      "imdb_id": "tt39453404",
+      "titulo_original": "Schumacher ’94 – Die Geburt einer Legende",
+      "titulo_ingles": "Schumacher ’94 – The Birth of a Legend",
+      "ano": 2026,
+      "data_lancamento": "2026-10-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "Corinna Schumacher, Flavio Briatore e outros amigos próximos relembram a turbulenta temporada de 1994, que marcou a ascensão de Michael Schumacher como lenda da Fórmula 1.",
+      "elenco": [
+        "Michael Schumacher",
+        "Corinna Schumacher",
+        "Flavio Briatore",
+        "Bernie Ecclestone",
+        "David Coulthard",
+        "Willi Weber",
+        "Kai Ebel",
+        "Heiko Waßer"
+      ],
+      "diretor": "Christin Freitag",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/aAhjUysLbHyzOPbvtczuvYCbA7O.jpg",
+      "pais": [
+        "DE"
+      ],
+      "idiomas": [
+        "de",
+        "en",
+        "tr"
+      ],
+      "duracao": 107,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1752355-schumacher-94-die-geburt-einer-legende/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39453404/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend",
+        "metacritic": "https://www.metacritic.com/search/Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend/"
+      }
+    },
+    {
+      "tmdb_id": 1632103,
+      "imdb_id": "tt40071725",
+      "titulo_original": "La città dei vivi",
+      "titulo_ingles": "The City of the Living",
+      "ano": 2026,
+      "data_lancamento": "2026-10-01",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Emanuele Maria Di Stefano",
+        "Valerio Mastandrea",
+        "Simona Senzacqua",
+        "Roberta Mattei",
+        "Gaia Merlonghi"
+      ],
+      "diretor": "Edoardo Gabbriellini",
+      "generos": [
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 103,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt40071725/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20City%20of%20the%20Living",
+        "metacritic": "https://www.metacritic.com/search/The%20City%20of%20the%20Living/"
+      }
+    },
+    {
       "tmdb_id": 1599191,
       "imdb_id": "tt47867242",
       "titulo_original": "仙逆剧场版：弑仙之战",
@@ -1596,54 +1830,6 @@
       }
     },
     {
-      "tmdb_id": 1632103,
-      "imdb_id": "tt40071725",
-      "titulo_original": "La città dei vivi",
-      "titulo_ingles": "The City of the Living",
-      "ano": 2026,
-      "data_lancamento": "2026-10-01",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Emanuele Maria Di Stefano",
-        "Valerio Mastandrea",
-        "Simona Senzacqua",
-        "Roberta Mattei",
-        "Gaia Merlonghi"
-      ],
-      "diretor": "Edoardo Gabbriellini",
-      "generos": [
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 103,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt40071725/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20City%20of%20the%20Living",
-        "metacritic": "https://www.metacritic.com/search/The%20City%20of%20the%20Living/"
-      }
-    },
-    {
       "tmdb_id": 1283515,
       "imdb_id": "tt32261958",
       "titulo_original": "Verity",
@@ -1692,6 +1878,111 @@
         "imdb": "https://www.imdb.com/title/tt32261958/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Verity",
         "metacritic": "https://www.metacritic.com/search/Verity/"
+      }
+    },
+    {
+      "tmdb_id": 1321666,
+      "imdb_id": "tt37082105",
+      "titulo_original": "Lalka",
+      "titulo_ingles": "The Doll",
+      "ano": 2026,
+      "data_lancamento": "2026-09-30",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Marcin Dorociński",
+        "Kamila Urzędowska",
+        "Marek Kondrat",
+        "Andrzej Seweryn",
+        "Krystyna Janda",
+        "Maria Dębska",
+        "Mateusz Damięcki",
+        "Agata Kulesza"
+      ],
+      "diretor": "Maciej Kawalski",
+      "generos": [
+        "Romance",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/6vN4ppExgYQXuCeyXkrEfnvTqIT.jpg",
+      "pais": [
+        "PL"
+      ],
+      "idiomas": [
+        "pl"
+      ],
+      "duracao": 162,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37082105/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Doll",
+        "metacritic": "https://www.metacritic.com/search/The%20Doll/"
+      }
+    },
+    {
+      "tmdb_id": 1758536,
+      "imdb_id": "tt44568097",
+      "titulo_original": "The Widower: 'Til Death Do Us Part",
+      "titulo_ingles": "The Widower: 'Til Death Do Us Part",
+      "ano": 2026,
+      "data_lancamento": "2026-09-30",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um jornalista e um detetive descobrem a verdade sobre um assassino cujo charme mascarou um rastro de casamentos fracassados e mortes suspeitas.",
+      "elenco": [],
+      "diretor": "Chris Smith",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uaqcTQ5X2HGmB3z7BdyJWqi5jnD.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 91,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1758536-the-widower-til-death-do-us-part/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt44568097/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Widower%3A%20'Til%20Death%20Do%20Us%20Part",
+        "metacritic": "https://www.metacritic.com/search/The%20Widower%3A%20'Til%20Death%20Do%20Us%20Part/"
       }
     },
     {
@@ -1756,60 +2047,6 @@
         "imdb": "https://www.imdb.com/title/tt43750202/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Livestream%20from%20Hell",
         "metacritic": "https://www.metacritic.com/search/Livestream%20from%20Hell/"
-      }
-    },
-    {
-      "tmdb_id": 1758536,
-      "imdb_id": "tt44568097",
-      "titulo_original": "The Widower: 'Til Death Do Us Part",
-      "titulo_ingles": "The Widower: 'Til Death Do Us Part",
-      "ano": 2026,
-      "data_lancamento": "2026-09-30",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um jornalista e um detetive descobrem a verdade sobre um assassino cujo charme mascarou um rastro de casamentos fracassados e mortes suspeitas.",
-      "elenco": [],
-      "diretor": "Chris Smith",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uaqcTQ5X2HGmB3z7BdyJWqi5jnD.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 91,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1758536-the-widower-til-death-do-us-part/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt44568097/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Widower%3A%20'Til%20Death%20Do%20Us%20Part",
-        "metacritic": "https://www.metacritic.com/search/The%20Widower%3A%20'Til%20Death%20Do%20Us%20Part/"
       }
     },
     {
@@ -2280,71 +2517,6 @@
       }
     },
     {
-      "tmdb_id": 1641629,
-      "imdb_id": "tt43617372",
-      "titulo_original": "Toi+Moi - Seuls contre tous",
-      "titulo_ingles": "You+Me - Against the World",
-      "ano": 2026,
-      "data_lancamento": "2026-09-18",
-      "data_qualificacao": "",
-      "sinopse_pt": "Alma Lancaster, 18 anos, parece levar uma vida perfeita dentro de uma família rica que acredita que ela estuda direito. Na verdade, a jovem persegue em segredo o sonho: fazer cinema. No campus, Alma encontra Vadim Arcadi, 20 anos, um estudante solitário com um passado sombrio. Forçados a trabalhar juntos em um filme estudantil, Alma e Vadim se enfrentam, se aproximam e acabam se apaixonando contra a própria vontade. Contudo, o relacionamento deles está ameaçado por uma presença externa. Alguém os observa, determinado a separá-los e a revelar segredos que possam fragilizar a história deles tanto quanto o seu futuro.",
-      "elenco": [
-        "Vittoria Di Savoia",
-        "Lucas Barski",
-        "Zoé Garcia",
-        "Léo Legrand",
-        "Jean-Yves Berteloot",
-        "Suliane Brahim",
-        "Aymeric Fougeron",
-        "Gabrielle Taittinger"
-      ],
-      "diretor": "Manon Gaurin",
-      "generos": [
-        "Romance",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/pkNK6BuKjth9ApJxhjKe34KaHe4.jpg",
-      "pais": [
-        "FR",
-        "US"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 93,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1641629-toi-moi-seuls-contre-tous/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43617372/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=You%2BMe%20-%20Against%20the%20World",
-        "metacritic": "https://www.metacritic.com/search/You%2BMe%20-%20Against%20the%20World/"
-      }
-    },
-    {
       "tmdb_id": 1191818,
       "imdb_id": "tt30495381",
       "titulo_original": "Histoires de la nuit",
@@ -2520,7 +2692,6 @@
       "diretor": "Adam Wingard",
       "generos": [
         "Ação",
-        "Terror",
         "Thriller"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/S8yJg9VlcDRB55CFIBAF7V2lZ3.jpg",
@@ -2551,61 +2722,6 @@
       }
     },
     {
-      "tmdb_id": 1380417,
-      "imdb_id": "tt34379051",
-      "titulo_original": "By Any Means",
-      "titulo_ingles": "By Any Means",
-      "ano": 2026,
-      "data_lancamento": "2026-09-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um jovem agente negro do FBI é convocado para encontrar os culpados pela morte do ativista Vernon Dahmer. Para isso, ele precisa trabalhar ao lado de Gregory Scarpa, um dos assassinos mais notórios da máfia e acostumado a lidar com problemas usando violência e métodos questionáveis.",
-      "elenco": [
-        "Yahya Abdul-Mateen II",
-        "Mark Wahlberg",
-        "Nicole Beharie",
-        "Josh Lucas",
-        "David Strathairn",
-        "Giancarlo Esposito",
-        "Ethan Embry",
-        "LisaGay Hamilton"
-      ],
-      "diretor": "Elegance Bratton",
-      "generos": [
-        "Thriller",
-        "História",
-        "Crime",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/3tQCQgJii07tbDDrd9DCEZRJEK2.jpg",
-      "pais": [
-        "US",
-        "AU",
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 106,
-      "rt_critica": 50,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 50,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34379051/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=By%20Any%20Means",
-        "metacritic": "https://www.metacritic.com/search/By%20Any%20Means/"
-      }
-    },
-    {
       "tmdb_id": 1101412,
       "imdb_id": "tt31192372",
       "titulo_original": "Fall 2: Deadpoint",
@@ -2624,7 +2740,7 @@
         "Maryna Bennett",
         "Noen Perez"
       ],
-      "diretor": "Michael Spierig, Peter Spierig",
+      "diretor": "Peter Spierig, Michael Spierig",
       "generos": [
         "Thriller"
       ],
@@ -2896,10 +3012,10 @@
       "diretor": "اصغر فرهادی",
       "generos": [
         "Drama",
-        "Mistério",
-        "Thriller"
+        "Thriller",
+        "Mistério"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/skVHP9WjL0N7urDMJGXev2RwoK8.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vyrIBiX5iD2c5Ru38DljRx9VgEm.jpg",
       "pais": [
         "FR",
         "BE",
@@ -2910,7 +3026,7 @@
       "idiomas": [
         "fr"
       ],
-      "duracao": 139,
+      "duracao": 140,
       "rt_critica": 19,
       "rt_publico": null,
       "metacritic": 41,
@@ -3202,62 +3318,6 @@
       }
     },
     {
-      "tmdb_id": 1520507,
-      "imdb_id": "tt34730492",
-      "titulo_original": "Come ti muovi, sbagli",
-      "titulo_ingles": "Damned If You Do, Damned If You Don't",
-      "ano": 2025,
-      "data_lancamento": "2025-09-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um professor aposentado tem sua rotina tranquila transformada pela chegada da filha em crise e de seus dois netos indisciplinados. Em meio ao caos familiar, ele redescobre o amor, a dor dos vínculos e a necessidade humana de se conectar.",
-      "elenco": [
-        "Gianni Di Gregorio",
-        "Greta Scarano",
-        "Tom Wlaschiha",
-        "Anna Losano",
-        "Pietro Serpi",
-        "Iaia Forte"
-      ],
-      "diretor": "Gianni Di Gregorio",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/8Smz4OL8wylQ1u7Ahj4Nk84B4a8.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 101,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Reserva Imovision Amazon Channel",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/c0sG3OmJrwYnUeAISP4IxlQBbSE.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1520507-come-ti-muovi-sbagli/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt34730492/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Damned%20If%20You%20Do%2C%20Damned%20If%20You%20Don't",
-        "metacritic": "https://www.metacritic.com/search/Damned%20If%20You%20Do%2C%20Damned%20If%20You%20Don't/"
-      }
-    },
-    {
       "tmdb_id": 1176932,
       "imdb_id": "tt35300281",
       "titulo_original": "Ein Mädchen namens Willow",
@@ -3308,59 +3368,6 @@
         "imdb": "https://www.imdb.com/title/tt35300281/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Girl%20Named%20Willow",
         "metacritic": "https://www.metacritic.com/search/A%20Girl%20Named%20Willow/"
-      }
-    },
-    {
-      "tmdb_id": 1288328,
-      "imdb_id": "tt32448428",
-      "titulo_original": "L'abbaglio",
-      "titulo_ingles": "The Illusion",
-      "ano": 2025,
-      "data_lancamento": "2025-01-16",
-      "data_qualificacao": "",
-      "sinopse_pt": "Durante a histórica Expedição dos Mil, Giuseppe Garibaldi coloca em prática uma ousada estratégia para derrotar o exército dos Bourbon e avançar rumo à unificação da Itália. Enquanto a campanha avança, manobras criativas e imprevisíveis de dois soldados rebeldes são úteis para conquistar a Sicília. Repleta de blefes e ilusões, a missão é capaz de mudar o rumo da História.",
-      "elenco": [
-        "Toni Servillo",
-        "Salvatore Ficarra",
-        "Valentino Picone",
-        "Tommaso Ragno",
-        "Giulia Andò",
-        "Pascal Greggory",
-        "Leonardo Maltese",
-        "Andrea Gherpelli"
-      ],
-      "diretor": "Roberto Andò",
-      "generos": [
-        "Drama",
-        "Comédia",
-        "História"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/3mWC3uDDOzSRacf3eujVPVLP8DH.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it",
-        "fr"
-      ],
-      "duracao": 133,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32448428/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Illusion",
-        "metacritic": "https://www.metacritic.com/search/The%20Illusion/"
       }
     }
   ]
