@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-01T16:10:56.701Z",
+  "gerado_em": "2026-11-02T19:39:02.426Z",
   "filmes": [
     {
       "tmdb_id": 1813355,
@@ -16,8 +16,8 @@
         "Isabel DeRoy-Olson",
         "Michael Podemski",
         "Zahn McClarnon",
-        "Brandon Oakes",
         "MorningStar Angeline",
+        "Brandon Oakes",
         "Jennifer Podemski",
         "Kimberly Guerrero"
       ],
@@ -88,8 +88,8 @@
       ],
       "diretor": "Daniel Sánchez Arévalo",
       "generos": [
+        "Thriller",
         "Drama",
-        "Ação",
         "Crime"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/2UcuNset77zceI6dCO59pkIcctZ.jpg",
@@ -718,6 +718,69 @@
       }
     },
     {
+      "tmdb_id": 1620918,
+      "imdb_id": "tt44822485",
+      "titulo_original": "Norm: The Tale of Norm Macdonald",
+      "titulo_ingles": "Norm: The Tale of Norm Macdonald",
+      "ano": 2026,
+      "data_lancamento": "2026-10-16",
+      "data_qualificacao": "",
+      "sinopse_pt": "O documentário de Judd Apatow sobre Norm Macdonald usa imagens de arquivo, fotos e vídeos caseiros para narrar a carreira da lenda do SNL - do âncora do \"Weekend Update\" ao mestre da comédia absurda e inexpressiva cuja influência perdura.",
+      "elenco": [
+        "Norm Macdonald",
+        "Adam Sandler",
+        "David Letterman",
+        "Jim Carrey",
+        "Jane Fonda",
+        "Sarah Silverman",
+        "Conan O'Brien",
+        "Harland Williams"
+      ],
+      "diretor": "Judd Apatow",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 127,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1620918-norm-the-tale-of-norm-macdonald/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt44822485/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Norm%3A%20The%20Tale%20of%20Norm%20Macdonald",
+        "metacritic": "https://www.metacritic.com/search/Norm%3A%20The%20Tale%20of%20Norm%20Macdonald/"
+      }
+    },
+    {
       "tmdb_id": 1561726,
       "imdb_id": "tt38672588",
       "titulo_original": "Masterplan",
@@ -960,12 +1023,12 @@
       "data_qualificacao": "",
       "sinopse_pt": "",
       "elenco": [
-        "ரஜினிகாந்த்",
+        "Rajinikanth",
         "S. J. Suryah",
         "Suraj Venjaramoodu",
         "Ramya Krishnan",
         "Vidya Balan",
-        "Namo Narayanan",
+        "Namo Narayana",
         "யோகி பாபு",
         "Mirnaa"
       ],
@@ -1117,8 +1180,8 @@
       "sinopse_pt": "Após o surto do vírus TSJ, as Ilhas Canárias se tornaram o último refúgio da Europa. Quando uma missão parte rumo a Madri em busca de suprimentos, Roberto se junta à equipe com intenções duvidosas. Cercados por infectados e divididos por lealdades conflitantes, eles precisam lutar pela sobrevivência e enfrentar um dilema moral: salvar a própria pele ou arriscar tudo pelo que resta da humanidade.",
       "elenco": [
         "Carlos Alcaide",
-        "José María Yázpik",
         "Julia Martínez",
+        "José María Yázpik",
         "Mónica López",
         "Tamara Casellas",
         "Berta Vázquez",
@@ -1561,6 +1624,65 @@
       }
     },
     {
+      "tmdb_id": 1788735,
+      "imdb_id": "tt43665190",
+      "titulo_original": "Family Guy Happy Hell-o-ween",
+      "titulo_ingles": "Family Guy Happy Hell-o-ween",
+      "ano": 2026,
+      "data_lancamento": "2026-10-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após uma morte inesperada, Stewie e Brian vão para o Inferno. A dupla enche tanto o saco do Diabo que ele pede as contas e deixa os dois no comando.",
+      "elenco": [
+        "Seth MacFarlane",
+        "Kieran Culkin",
+        "Alex Borstein",
+        "Seth Green",
+        "Mila Kunis",
+        "Patrick Warburton",
+        "Arif Zahir"
+      ],
+      "diretor": "Joe Vaux",
+      "generos": [
+        "Animação",
+        "Terror",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 23,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1788735-family-guy-happy-hell-o-ween/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43665190/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Family%20Guy%20Happy%20Hell-o-ween",
+        "metacritic": "https://www.metacritic.com/search/Family%20Guy%20Happy%20Hell-o-ween/"
+      }
+    },
+    {
       "tmdb_id": 1148365,
       "imdb_id": "tt28498219",
       "titulo_original": "Matchbox the Movie",
@@ -1623,65 +1745,6 @@
         "imdb": "https://www.imdb.com/title/tt28498219/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Matchbox%20the%20Movie",
         "metacritic": "https://www.metacritic.com/search/Matchbox%20the%20Movie/"
-      }
-    },
-    {
-      "tmdb_id": 1788735,
-      "imdb_id": "tt43665190",
-      "titulo_original": "Family Guy Happy Hell-o-ween",
-      "titulo_ingles": "Family Guy Happy Hell-o-ween",
-      "ano": 2026,
-      "data_lancamento": "2026-10-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após uma morte inesperada, Stewie e Brian vão para o Inferno. A dupla enche tanto o saco do Diabo que ele pede as contas e deixa os dois no comando.",
-      "elenco": [
-        "Seth MacFarlane",
-        "Kieran Culkin",
-        "Alex Borstein",
-        "Seth Green",
-        "Mila Kunis",
-        "Patrick Warburton",
-        "Arif Zahir"
-      ],
-      "diretor": "Joe Vaux",
-      "generos": [
-        "Animação",
-        "Terror",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 23,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1788735-family-guy-happy-hell-o-ween/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43665190/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Family%20Guy%20Happy%20Hell-o-ween",
-        "metacritic": "https://www.metacritic.com/search/Family%20Guy%20Happy%20Hell-o-ween/"
       }
     },
     {
@@ -1860,59 +1923,6 @@
       }
     },
     {
-      "tmdb_id": 1599191,
-      "imdb_id": "tt47867242",
-      "titulo_original": "仙逆剧场版：弑仙之战",
-      "titulo_ingles": "Renegade Immortal: Battle of the Immortal Slayer",
-      "ano": 2026,
-      "data_lancamento": "2026-10-01",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "史泽鲲",
-        "李嘉祥",
-        "刘思岑",
-        "Guan Shuai",
-        "Si Xi",
-        "杨厚垚",
-        "张如麟",
-        "柳知萧"
-      ],
-      "diretor": "石头熊",
-      "generos": [
-        "Animação",
-        "Ação",
-        "Aventura",
-        "Fantasia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
-      "pais": [
-        "CN"
-      ],
-      "idiomas": [
-        "zh"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt47867242/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Renegade%20Immortal%3A%20Battle%20of%20the%20Immortal%20Slayer",
-        "metacritic": "https://www.metacritic.com/search/Renegade%20Immortal%3A%20Battle%20of%20the%20Immortal%20Slayer/"
-      }
-    },
-    {
       "tmdb_id": 1632103,
       "imdb_id": "tt40071725",
       "titulo_original": "La città dei vivi",
@@ -1961,6 +1971,59 @@
       }
     },
     {
+      "tmdb_id": 1599191,
+      "imdb_id": "tt47867242",
+      "titulo_original": "仙逆剧场版：弑仙之战",
+      "titulo_ingles": "Renegade Immortal: Battle of the Immortal Slayer",
+      "ano": 2026,
+      "data_lancamento": "2026-10-01",
+      "data_qualificacao": "",
+      "sinopse_pt": "Preso em uma perseguição fatal no Reino Celestial do Trovão, Wang Lin enfrenta sua crise suprema. Veja o azarão desafiar as probabilidades, virar o jogo em um contra-ataque que abala o mundo e alcançar o feito supremo e magnífico: DERROTAR UM CELESTIAL.",
+      "elenco": [
+        "史泽鲲",
+        "李嘉祥",
+        "刘思岑",
+        "Guan Shuai",
+        "Si Xi",
+        "杨厚垚",
+        "张如麟",
+        "柳知萧"
+      ],
+      "diretor": "石头熊",
+      "generos": [
+        "Animação",
+        "Ação",
+        "Aventura",
+        "Fantasia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/cpgLuRAT8SW7YiZaBYUGZ43GiLL.jpg",
+      "pais": [
+        "CN"
+      ],
+      "idiomas": [
+        "zh"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt47867242/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Renegade%20Immortal%3A%20Battle%20of%20the%20Immortal%20Slayer",
+        "metacritic": "https://www.metacritic.com/search/Renegade%20Immortal%3A%20Battle%20of%20the%20Immortal%20Slayer/"
+      }
+    },
+    {
       "tmdb_id": 1283515,
       "imdb_id": "tt32261958",
       "titulo_original": "Verity",
@@ -1975,7 +2038,7 @@
         "Josh Hartnett",
         "Brady Wagner",
         "Ismael Cruz Cordova",
-        "Ирина Дворовенко",
+        "Ірина Дворовенко",
         "Sienna Kulovitz",
         "K.K. Moggie"
       ],
@@ -2286,6 +2349,58 @@
       }
     },
     {
+      "tmdb_id": 1291366,
+      "imdb_id": "tt29494959",
+      "titulo_original": "The Deputy",
+      "titulo_ingles": "The Deputy",
+      "ano": 2026,
+      "data_lancamento": "2026-09-25",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um jovem delegado se vê na mira de criminosos perigosos quando o cadáver que ele foi encarregado de vigiar desaparece da cena do crime.",
+      "elenco": [
+        "Duke Nicholson",
+        "William H. Macy",
+        "Tiffany Haddish",
+        "Stephen Dorff",
+        "Devon Ross",
+        "Billie Lourd",
+        "Julia Fox",
+        "Daniel Diemer"
+      ],
+      "diretor": "Matt Sukkar",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 100,
+      "rt_critica": 57,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 57,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt29494959/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Deputy",
+        "metacritic": "https://www.metacritic.com/search/The%20Deputy/"
+      }
+    },
+    {
       "tmdb_id": 1492640,
       "imdb_id": "tt6933238",
       "titulo_original": "UNABOMBER",
@@ -2351,58 +2466,6 @@
       }
     },
     {
-      "tmdb_id": 1291366,
-      "imdb_id": "tt29494959",
-      "titulo_original": "The Deputy",
-      "titulo_ingles": "The Deputy",
-      "ano": 2026,
-      "data_lancamento": "2026-09-25",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um jovem delegado se vê na mira de criminosos perigosos quando o cadáver que ele foi encarregado de vigiar desaparece da cena do crime.",
-      "elenco": [
-        "Duke Nicholson",
-        "William H. Macy",
-        "Tiffany Haddish",
-        "Stephen Dorff",
-        "Devon Ross",
-        "Billie Lourd",
-        "Julia Fox",
-        "Daniel Diemer"
-      ],
-      "diretor": "Matt Sukkar",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 100,
-      "rt_critica": 57,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 57,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt29494959/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Deputy",
-        "metacritic": "https://www.metacritic.com/search/The%20Deputy/"
-      }
-    },
-    {
       "tmdb_id": 1376400,
       "imdb_id": "tt32329539",
       "titulo_original": "Crawlers",
@@ -2451,57 +2514,6 @@
         "imdb": "https://www.imdb.com/title/tt32329539/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Crawlers",
         "metacritic": "https://www.metacritic.com/search/Crawlers/"
-      }
-    },
-    {
-      "tmdb_id": 1507877,
-      "imdb_id": "tt38584405",
-      "titulo_original": "Garance",
-      "titulo_ingles": "Another Day",
-      "ano": 2026,
-      "data_lancamento": "2026-09-23",
-      "data_qualificacao": "",
-      "sinopse_pt": "Garance é uma jovem atriz, mas não é uma estrela. Ela lida com tudo da melhor maneira possível, corajosa, alegre, como uma guerreira, e encontra no álcool um combustível incondicional, uma fonte de conforto. Garance muda de vida e inicia uma jornada de oito anos repleta de mudanças, trabalho, encontros, festas e ansiedades, alegrias e dificuldades… Uma revolução íntima, amigável e sexual. Mas ela bebe cada vez mais. Até a própria possibilidade da morte…",
-      "elenco": [
-        "Adèle Exarchopoulos",
-        "Sara Giraudeau",
-        "Anne Suarez",
-        "Sara-Jeanne Drillaud",
-        "Rudgy Pajany",
-        "Raya Martigny",
-        "Mathilde Roehrich",
-        "Jehnny Beth"
-      ],
-      "diretor": "Jeanne Herry",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/lPbCVN8Zlb95Bdney1hqGfgEbDV.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 120,
-      "rt_critica": 50,
-      "rt_publico": null,
-      "metacritic": 56,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 50,
-      "atual_metacritic": 56,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38584405/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Another%20Day",
-        "metacritic": "https://www.metacritic.com/search/Another%20Day/"
       }
     },
     {
@@ -2729,7 +2741,7 @@
         "Maryna Bennett",
         "Noen Perez"
       ],
-      "diretor": "Peter Spierig, Michael Spierig",
+      "diretor": "Michael Spierig, Peter Spierig",
       "generos": [
         "Thriller"
       ],
