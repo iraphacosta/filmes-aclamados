@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-02T19:39:02.426Z",
+  "gerado_em": "2026-11-03T17:11:43.695Z",
   "filmes": [
     {
       "tmdb_id": 1813355,
@@ -134,6 +134,61 @@
       }
     },
     {
+      "tmdb_id": 1657630,
+      "imdb_id": "tt39120306",
+      "titulo_original": "El despertar",
+      "titulo_ingles": "The Awakening",
+      "ano": 2026,
+      "data_lancamento": "2026-10-29",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Claudio Cataño",
+        "Alejandro Buitrago",
+        "Hector Sánchez",
+        "Andrea Olaya",
+        "Quique Sanmartin",
+        "Jaisson Jeack",
+        "Carlos Mariño",
+        "Andres Londono"
+      ],
+      "diretor": "Jaime Osorio Márquez",
+      "generos": [
+        "Terror",
+        "Ação",
+        "Guerra",
+        "Fantasia",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/w3YJx1PPPC6aiVKusxfc9QA0uYS.jpg",
+      "pais": [
+        "CO"
+      ],
+      "idiomas": [
+        "es",
+        "ur"
+      ],
+      "duracao": 96,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39120306/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Awakening",
+        "metacritic": "https://www.metacritic.com/search/The%20Awakening/"
+      }
+    },
+    {
       "tmdb_id": 1541477,
       "imdb_id": "tt38504402",
       "titulo_original": "Noi un po' meglio",
@@ -196,61 +251,6 @@
         "imdb": "https://www.imdb.com/title/tt38504402/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=You%2C%20Me%2C%20Us",
         "metacritic": "https://www.metacritic.com/search/You%2C%20Me%2C%20Us/"
-      }
-    },
-    {
-      "tmdb_id": 1657630,
-      "imdb_id": "tt39120306",
-      "titulo_original": "El despertar",
-      "titulo_ingles": "The Awakening",
-      "ano": 2026,
-      "data_lancamento": "2026-10-29",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Claudio Cataño",
-        "Alejandro Buitrago",
-        "Hector Sánchez",
-        "Andrea Olaya",
-        "Quique Sanmartin",
-        "Jaisson Jeack",
-        "Carlos Mariño",
-        "Andres Londono"
-      ],
-      "diretor": "Jaime Osorio Márquez",
-      "generos": [
-        "Terror",
-        "Ação",
-        "Guerra",
-        "Fantasia",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/w3YJx1PPPC6aiVKusxfc9QA0uYS.jpg",
-      "pais": [
-        "CO"
-      ],
-      "idiomas": [
-        "es",
-        "ur"
-      ],
-      "duracao": 96,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39120306/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Awakening",
-        "metacritic": "https://www.metacritic.com/search/The%20Awakening/"
       }
     },
     {
@@ -370,6 +370,123 @@
         "imdb": "https://www.imdb.com/title/tt37180686/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Drive%20-%20The%20Pretenders",
         "metacritic": "https://www.metacritic.com/search/Drive%20-%20The%20Pretenders/"
+      }
+    },
+    {
+      "tmdb_id": 1453407,
+      "imdb_id": "tt39631280",
+      "titulo_original": "ग़ज़ब रात",
+      "titulo_ingles": "Gajab Raat",
+      "ano": 2026,
+      "data_lancamento": "2026-10-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "Manoj Bajpayee lidera o elenco no papel de um homem moralmente ambíguo que precisa salvar uma mulher e expor uma conspiração mortal em uma noite implacável.",
+      "elenco": [
+        "मनोज बाजपेयी",
+        "Divya Dutta",
+        "Akshay Oberoi",
+        "Saqib Saleem",
+        "Shraddha Das",
+        "Rajiv Gupta",
+        "Aditi Sandhya Sharma",
+        "Nushrratt Bharuccha"
+      ],
+      "diretor": "Ritesh Shah",
+      "generos": [
+        "Thriller",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jqUuc0hkNrrcmp2XWbi859RAwDb.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "hi",
+        "en"
+      ],
+      "duracao": 123,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1453407/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39631280/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Gajab%20Raat",
+        "metacritic": "https://www.metacritic.com/search/Gajab%20Raat/"
+      }
+    },
+    {
+      "tmdb_id": 1643567,
+      "imdb_id": "tt40311603",
+      "titulo_original": "Ghosts: The Possession of Button House",
+      "titulo_ingles": "Ghosts: The Possession of Button House",
+      "ano": 2026,
+      "data_lancamento": "2026-10-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Simon Farnaby",
+        "Jim Howick",
+        "Ben Willbond",
+        "Laurence Rickard",
+        "Martha Howe-Douglas",
+        "Lolly Adefope",
+        "Mathew Baynton",
+        "Charlotte Ritchie"
+      ],
+      "diretor": "Simon Hynd",
+      "generos": [
+        "Fantasia",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/vdRbC8masrQDyhFHLOGECEMllPV.jpg",
+      "pais": [
+        "GB"
+      ],
+      "idiomas": [
+        "en",
+        "it"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt40311603/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ghosts%3A%20The%20Possession%20of%20Button%20House",
+        "metacritic": "https://www.metacritic.com/search/Ghosts%3A%20The%20Possession%20of%20Button%20House/"
       }
     },
     {
@@ -614,58 +731,6 @@
       }
     },
     {
-      "tmdb_id": 791523,
-      "imdb_id": "tt2056785",
-      "titulo_original": "Wildwood",
-      "titulo_ingles": "Wildwood",
-      "ano": 2026,
-      "data_lancamento": "2026-10-19",
-      "data_qualificacao": "",
-      "sinopse_pt": "A determinada adolescente Prue McKeel embarca em uma missão desesperada de resgate depois que seu irmão caçula é sequestrado por um bando de corvos. Acompanhada por seu colega de classe desajeitado, mas leal, Curtis Mehlberg, Prue navega por um mundo habitado por animais falantes, bandidos e figuras poderosas movidas pela dor e pela ambição. À medida que a dupla é arrastada para um conflito que ameaça o equilíbrio da própria floresta, Prue precisa descobrir uma força e uma crença que jamais soube que possuía.",
-      "elenco": [
-        "Peyton Elizabeth Lee",
-        "Jacob Tremblay",
-        "Carey Mulligan",
-        "Mahershala Ali",
-        "Richard E. Grant",
-        "Angela Bassett",
-        "Awkwafina",
-        "Amandla Stenberg"
-      ],
-      "diretor": "Travis Knight",
-      "generos": [
-        "Animação",
-        "Aventura",
-        "Fantasia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/mcuUYNWGJHPEaRumOlgSZCzMRPc.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 130,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt2056785/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Wildwood",
-        "metacritic": "https://www.metacritic.com/search/Wildwood/"
-      }
-    },
-    {
       "tmdb_id": 1400940,
       "imdb_id": "tt34890576",
       "titulo_original": "Clayface",
@@ -700,14 +765,14 @@
       "duracao": 109,
       "rt_critica": null,
       "rt_publico": null,
-      "metacritic": null,
+      "metacritic": 59,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
       "atual_rt": null,
-      "atual_metacritic": null,
+      "atual_metacritic": 59,
       "disponibilidade_br": {
         "estado": "cinema"
       },
@@ -715,69 +780,6 @@
         "imdb": "https://www.imdb.com/title/tt34890576/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Clayface",
         "metacritic": "https://www.metacritic.com/search/Clayface/"
-      }
-    },
-    {
-      "tmdb_id": 1620918,
-      "imdb_id": "tt44822485",
-      "titulo_original": "Norm: The Tale of Norm Macdonald",
-      "titulo_ingles": "Norm: The Tale of Norm Macdonald",
-      "ano": 2026,
-      "data_lancamento": "2026-10-16",
-      "data_qualificacao": "",
-      "sinopse_pt": "O documentário de Judd Apatow sobre Norm Macdonald usa imagens de arquivo, fotos e vídeos caseiros para narrar a carreira da lenda do SNL - do âncora do \"Weekend Update\" ao mestre da comédia absurda e inexpressiva cuja influência perdura.",
-      "elenco": [
-        "Norm Macdonald",
-        "Adam Sandler",
-        "David Letterman",
-        "Jim Carrey",
-        "Jane Fonda",
-        "Sarah Silverman",
-        "Conan O'Brien",
-        "Harland Williams"
-      ],
-      "diretor": "Judd Apatow",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 127,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1620918-norm-the-tale-of-norm-macdonald/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt44822485/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Norm%3A%20The%20Tale%20of%20Norm%20Macdonald",
-        "metacritic": "https://www.metacritic.com/search/Norm%3A%20The%20Tale%20of%20Norm%20Macdonald/"
       }
     },
     {
@@ -849,37 +851,36 @@
       }
     },
     {
-      "tmdb_id": 1438966,
-      "imdb_id": "tt36411726",
-      "titulo_original": "Je so’ pazzo",
-      "titulo_ingles": "Je so’ pazzo",
+      "tmdb_id": 1620918,
+      "imdb_id": "tt44822485",
+      "titulo_original": "Norm: The Tale of Norm Macdonald",
+      "titulo_ingles": "Norm: The Tale of Norm Macdonald",
       "ano": 2026,
-      "data_lancamento": "2026-10-15",
+      "data_lancamento": "2026-10-16",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "O documentário de Judd Apatow sobre Norm Macdonald usa imagens de arquivo, fotos e vídeos caseiros para narrar a carreira da lenda do SNL - do âncora do \"Weekend Update\" ao mestre da comédia absurda e inexpressiva cuja influência perdura.",
       "elenco": [
-        "Massimiliano Caiazzo",
-        "Mariasole Pollio",
-        "Giovanni Ludeno",
-        "Giuseppe Brunetti",
-        "Leonardo Bianconi",
-        "Giampiero De Concilio",
-        "Antonia Truppo",
-        "Monica Nappo"
+        "Norm Macdonald",
+        "Adam Sandler",
+        "David Letterman",
+        "Jim Carrey",
+        "Jane Fonda",
+        "Sarah Silverman",
+        "Conan O'Brien",
+        "Harland Williams"
       ],
-      "diretor": "Nicola Prosatore",
+      "diretor": "Judd Apatow",
       "generos": [
-        "Drama",
-        "Música"
+        "Documentário"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
       "pais": [
-        "IT"
+        "US"
       ],
       "idiomas": [
-        "it"
+        "en"
       ],
-      "duracao": 120,
+      "duracao": 127,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -891,12 +892,25 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1620918-norm-the-tale-of-norm-macdonald/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36411726/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Je%20so%E2%80%99%20pazzo",
-        "metacritic": "https://www.metacritic.com/search/Je%20so%E2%80%99%20pazzo/"
+        "imdb": "https://www.imdb.com/title/tt44822485/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Norm%3A%20The%20Tale%20of%20Norm%20Macdonald",
+        "metacritic": "https://www.metacritic.com/search/Norm%3A%20The%20Tale%20of%20Norm%20Macdonald/"
       }
     },
     {
@@ -961,6 +975,57 @@
         "imdb": "https://www.imdb.com/title/tt37070354/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Storm",
         "metacritic": "https://www.metacritic.com/search/The%20Storm/"
+      }
+    },
+    {
+      "tmdb_id": 1438966,
+      "imdb_id": "tt36411726",
+      "titulo_original": "Je so’ pazzo",
+      "titulo_ingles": "Je so’ pazzo",
+      "ano": 2026,
+      "data_lancamento": "2026-10-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Massimiliano Caiazzo",
+        "Mariasole Pollio",
+        "Giovanni Ludeno",
+        "Giuseppe Brunetti",
+        "Leonardo Bianconi",
+        "Giampiero De Concilio",
+        "Antonia Truppo",
+        "Monica Nappo"
+      ],
+      "diretor": "Nicola Prosatore",
+      "generos": [
+        "Drama",
+        "Música"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 120,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36411726/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Je%20so%E2%80%99%20pazzo",
+        "metacritic": "https://www.metacritic.com/search/Je%20so%E2%80%99%20pazzo/"
       }
     },
     {
@@ -1167,6 +1232,69 @@
         "imdb": "https://www.imdb.com/title/tt27419420/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Street%20Fighter",
         "metacritic": "https://www.metacritic.com/search/Street%20Fighter/"
+      }
+    },
+    {
+      "tmdb_id": 1790935,
+      "imdb_id": "tt48437216",
+      "titulo_original": "Instadocs: AI Gone Wild",
+      "titulo_ingles": "Instadocs: AI Gone Wild",
+      "ano": 2026,
+      "data_lancamento": "2026-10-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "A IA cometeu um crime? Uma investigação do incidente Hugging Face, explorando como esse ataque cibernético pode ser um sinal de alerta para o futuro da humanidade.",
+      "elenco": [
+        "Kevin Roose",
+        "Clément Delangue",
+        "Nitasha Tiku",
+        "Ryan Greenblatt",
+        "Daniel Kokotajlo",
+        "Sam Altman",
+        "Elon Musk",
+        "Dario Amodei"
+      ],
+      "diretor": "",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/5SiWmbjNLD2H0Xt9Cdjisrdku27.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 27,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1790935-instadocs-ai-gone-wild/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt48437216/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Instadocs%3A%20AI%20Gone%20Wild",
+        "metacritic": "https://www.metacritic.com/search/Instadocs%3A%20AI%20Gone%20Wild/"
       }
     },
     {
@@ -1624,65 +1752,6 @@
       }
     },
     {
-      "tmdb_id": 1788735,
-      "imdb_id": "tt43665190",
-      "titulo_original": "Family Guy Happy Hell-o-ween",
-      "titulo_ingles": "Family Guy Happy Hell-o-ween",
-      "ano": 2026,
-      "data_lancamento": "2026-10-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após uma morte inesperada, Stewie e Brian vão para o Inferno. A dupla enche tanto o saco do Diabo que ele pede as contas e deixa os dois no comando.",
-      "elenco": [
-        "Seth MacFarlane",
-        "Kieran Culkin",
-        "Alex Borstein",
-        "Seth Green",
-        "Mila Kunis",
-        "Patrick Warburton",
-        "Arif Zahir"
-      ],
-      "diretor": "Joe Vaux",
-      "generos": [
-        "Animação",
-        "Terror",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 23,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1788735-family-guy-happy-hell-o-ween/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43665190/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Family%20Guy%20Happy%20Hell-o-ween",
-        "metacritic": "https://www.metacritic.com/search/Family%20Guy%20Happy%20Hell-o-ween/"
-      }
-    },
-    {
       "tmdb_id": 1148365,
       "imdb_id": "tt28498219",
       "titulo_original": "Matchbox the Movie",
@@ -1745,6 +1814,65 @@
         "imdb": "https://www.imdb.com/title/tt28498219/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Matchbox%20the%20Movie",
         "metacritic": "https://www.metacritic.com/search/Matchbox%20the%20Movie/"
+      }
+    },
+    {
+      "tmdb_id": 1788735,
+      "imdb_id": "tt43665190",
+      "titulo_original": "Family Guy Happy Hell-o-ween",
+      "titulo_ingles": "Family Guy Happy Hell-o-ween",
+      "ano": 2026,
+      "data_lancamento": "2026-10-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "Após uma morte inesperada, Stewie e Brian vão para o Inferno. A dupla enche tanto o saco do Diabo que ele pede as contas e deixa os dois no comando.",
+      "elenco": [
+        "Seth MacFarlane",
+        "Kieran Culkin",
+        "Alex Borstein",
+        "Seth Green",
+        "Mila Kunis",
+        "Patrick Warburton",
+        "Arif Zahir"
+      ],
+      "diretor": "Joe Vaux",
+      "generos": [
+        "Animação",
+        "Terror",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 23,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1788735-family-guy-happy-hell-o-ween/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43665190/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Family%20Guy%20Happy%20Hell-o-ween",
+        "metacritic": "https://www.metacritic.com/search/Family%20Guy%20Happy%20Hell-o-ween/"
       }
     },
     {
@@ -1923,54 +2051,6 @@
       }
     },
     {
-      "tmdb_id": 1632103,
-      "imdb_id": "tt40071725",
-      "titulo_original": "La città dei vivi",
-      "titulo_ingles": "The City of the Living",
-      "ano": 2026,
-      "data_lancamento": "2026-10-01",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Emanuele Maria Di Stefano",
-        "Valerio Mastandrea",
-        "Simona Senzacqua",
-        "Roberta Mattei",
-        "Gaia Merlonghi"
-      ],
-      "diretor": "Edoardo Gabbriellini",
-      "generos": [
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 103,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt40071725/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20City%20of%20the%20Living",
-        "metacritic": "https://www.metacritic.com/search/The%20City%20of%20the%20Living/"
-      }
-    },
-    {
       "tmdb_id": 1599191,
       "imdb_id": "tt47867242",
       "titulo_original": "仙逆剧场版：弑仙之战",
@@ -2021,6 +2101,54 @@
         "imdb": "https://www.imdb.com/title/tt47867242/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Renegade%20Immortal%3A%20Battle%20of%20the%20Immortal%20Slayer",
         "metacritic": "https://www.metacritic.com/search/Renegade%20Immortal%3A%20Battle%20of%20the%20Immortal%20Slayer/"
+      }
+    },
+    {
+      "tmdb_id": 1632103,
+      "imdb_id": "tt40071725",
+      "titulo_original": "La città dei vivi",
+      "titulo_ingles": "The City of the Living",
+      "ano": 2026,
+      "data_lancamento": "2026-10-01",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Emanuele Maria Di Stefano",
+        "Valerio Mastandrea",
+        "Simona Senzacqua",
+        "Roberta Mattei",
+        "Gaia Merlonghi"
+      ],
+      "diretor": "Edoardo Gabbriellini",
+      "generos": [
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 103,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt40071725/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20City%20of%20the%20Living",
+        "metacritic": "https://www.metacritic.com/search/The%20City%20of%20the%20Living/"
       }
     },
     {
@@ -2466,57 +2594,6 @@
       }
     },
     {
-      "tmdb_id": 1376400,
-      "imdb_id": "tt32329539",
-      "titulo_original": "Crawlers",
-      "titulo_ingles": "Crawlers",
-      "ano": 2026,
-      "data_lancamento": "2026-09-24",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Matilda Lutz",
-        "Gary Anthony Stennette",
-        "Elena Sanz",
-        "Andrea Scott Méndez",
-        "Isabella Marie Egizi",
-        "Sam Lucas Smith",
-        "Gregg Sulkin",
-        "Melina Matthews"
-      ],
-      "diretor": "Ángel Gómez Hernández",
-      "generos": [
-        "Terror",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/lNXeEpg4yLSRwXwOeR5lbPgwbqL.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 80,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32329539/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Crawlers",
-        "metacritic": "https://www.metacritic.com/search/Crawlers/"
-      }
-    },
-    {
       "tmdb_id": 1191818,
       "imdb_id": "tt30495381",
       "titulo_original": "Histoires de la nuit",
@@ -2748,7 +2825,8 @@
       "poster_url": "https://image.tmdb.org/t/p/w500/xtxEvJACNnbz3WYmJ5mYT1a0KGk.jpg",
       "pais": [
         "GB",
-        "US"
+        "US",
+        "TH"
       ],
       "idiomas": [
         "en"
@@ -3054,62 +3132,6 @@
         "imdb": "https://www.imdb.com/title/tt36282134/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Mononoke%20the%20Movie%3A%20Chapter%20III%20-%20The%20Curse%20of%20the%20Serpent",
         "metacritic": "https://www.metacritic.com/search/Mononoke%20the%20Movie%3A%20Chapter%20III%20-%20The%20Curse%20of%20the%20Serpent/"
-      }
-    },
-    {
-      "tmdb_id": 1157869,
-      "imdb_id": "tt36646880",
-      "titulo_original": "Histoires parallèles",
-      "titulo_ingles": "Parallel Tales",
-      "ano": 2026,
-      "data_lancamento": "2026-05-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "Em busca de inspiração para seu novo romance, Sylvie, uma escritora francesa em crise criativa, passa os dias observando secretamente os vizinhos do prédio em frente ao seu apartamento em Paris. Tentando recuperar o brilho de seus anos de prestígio, ela transforma a rotina alheia em matéria-prima para sua escrita. Mas, quando contrata Adam para ajudá-la nas tarefas do dia a dia, a linha entre observação e interferência começa a se desfazer, desencadeando consequências inesperadas para ela, seus vizinhos e sua própria ficção.",
-      "elenco": [
-        "Isabelle Huppert",
-        "Virginie Efira",
-        "Vincent Cassel",
-        "Pierre Niney",
-        "Adam Bessa",
-        "Catherine Deneuve",
-        "India Hair",
-        "Véronique Ruggia Saura"
-      ],
-      "diretor": "اصغر فرهادی",
-      "generos": [
-        "Drama",
-        "Thriller",
-        "Mistério"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vyrIBiX5iD2c5Ru38DljRx9VgEm.jpg",
-      "pais": [
-        "FR",
-        "BE",
-        "IT",
-        "US",
-        "SA"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 140,
-      "rt_critica": 19,
-      "rt_publico": null,
-      "metacritic": 41,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 19,
-      "atual_metacritic": 41,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36646880/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Parallel%20Tales",
-        "metacritic": "https://www.metacritic.com/search/Parallel%20Tales/"
       }
     },
     {
