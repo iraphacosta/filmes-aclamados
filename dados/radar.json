@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-05T17:30:24.653Z",
+  "gerado_em": "2026-11-06T16:51:42.529Z",
   "filmes": [
     {
       "tmdb_id": 1813355,
@@ -437,68 +437,6 @@
       }
     },
     {
-      "tmdb_id": 1780005,
-      "imdb_id": "tt37961714",
-      "titulo_original": "Contra el huracán",
-      "titulo_ingles": "Surviving Hurricane Otis",
-      "ano": 2026,
-      "data_lancamento": "2026-10-23",
-      "data_qualificacao": "",
-      "sinopse_pt": "No meio do mar, Wirpul e seu meio-irmão Candi lutam pela sobrevivência quando uma tempestade inesperada se transforma no furacão Otis, um furacão de categoria 5, na costa de Acapulco.",
-      "elenco": [
-        "Benny Emmanuel",
-        "Kristyan Ferrer",
-        "Mónica del Carmen",
-        "Mónica Jiménez",
-        "Andrew Leland Rogers",
-        "Gonzalo Vega Jr.",
-        "Daira Mendoza"
-      ],
-      "diretor": "Jorge Michel Grau",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/aAkMQit6uVKpBMbIP8HsJrgXlGG.jpg",
-      "pais": [
-        "MX"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1780005-contra-el-huracan/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37961714/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Surviving%20Hurricane%20Otis",
-        "metacritic": "https://www.metacritic.com/search/Surviving%20Hurricane%20Otis/"
-      }
-    },
-    {
       "tmdb_id": 1453407,
       "imdb_id": "tt39631280",
       "titulo_original": "ग़ज़ब रात",
@@ -613,6 +551,68 @@
         "imdb": "https://www.imdb.com/title/tt40311603/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ghosts%3A%20The%20Possession%20of%20Button%20House",
         "metacritic": "https://www.metacritic.com/search/Ghosts%3A%20The%20Possession%20of%20Button%20House/"
+      }
+    },
+    {
+      "tmdb_id": 1780005,
+      "imdb_id": "tt37961714",
+      "titulo_original": "Contra el huracán",
+      "titulo_ingles": "Surviving Hurricane Otis",
+      "ano": 2026,
+      "data_lancamento": "2026-10-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "No meio do mar, Wirpul e seu meio-irmão Candi lutam pela sobrevivência quando uma tempestade inesperada se transforma no furacão Otis, um furacão de categoria 5, na costa de Acapulco.",
+      "elenco": [
+        "Benny Emmanuel",
+        "Kristyan Ferrer",
+        "Mónica del Carmen",
+        "Mónica Jiménez",
+        "Andrew Leland Rogers",
+        "Gonzalo Vega Jr.",
+        "Daira Mendoza"
+      ],
+      "diretor": "Jorge Michel Grau",
+      "generos": [
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/aAkMQit6uVKpBMbIP8HsJrgXlGG.jpg",
+      "pais": [
+        "MX"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1780005-contra-el-huracan/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37961714/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Surviving%20Hurricane%20Otis",
+        "metacritic": "https://www.metacritic.com/search/Surviving%20Hurricane%20Otis/"
       }
     },
     {
@@ -899,6 +899,69 @@
       }
     },
     {
+      "tmdb_id": 1620918,
+      "imdb_id": "tt44822485",
+      "titulo_original": "Norm: The Tale of Norm Macdonald",
+      "titulo_ingles": "Norm: The Tale of Norm Macdonald",
+      "ano": 2026,
+      "data_lancamento": "2026-10-16",
+      "data_qualificacao": "",
+      "sinopse_pt": "O documentário de Judd Apatow sobre Norm Macdonald usa imagens de arquivo, fotos e vídeos caseiros para narrar a carreira da lenda do SNL - do âncora do \"Weekend Update\" ao mestre da comédia absurda e inexpressiva cuja influência perdura.",
+      "elenco": [
+        "Norm Macdonald",
+        "Adam Sandler",
+        "David Letterman",
+        "Jim Carrey",
+        "Jane Fonda",
+        "Sarah Silverman",
+        "Conan O'Brien",
+        "Harland Williams"
+      ],
+      "diretor": "Judd Apatow",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 127,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1620918-norm-the-tale-of-norm-macdonald/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt44822485/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Norm%3A%20The%20Tale%20of%20Norm%20Macdonald",
+        "metacritic": "https://www.metacritic.com/search/Norm%3A%20The%20Tale%20of%20Norm%20Macdonald/"
+      }
+    },
+    {
       "tmdb_id": 1561726,
       "imdb_id": "tt38672588",
       "titulo_original": "Masterplan",
@@ -967,120 +1030,6 @@
       }
     },
     {
-      "tmdb_id": 1620918,
-      "imdb_id": "tt44822485",
-      "titulo_original": "Norm: The Tale of Norm Macdonald",
-      "titulo_ingles": "Norm: The Tale of Norm Macdonald",
-      "ano": 2026,
-      "data_lancamento": "2026-10-16",
-      "data_qualificacao": "",
-      "sinopse_pt": "O documentário de Judd Apatow sobre Norm Macdonald usa imagens de arquivo, fotos e vídeos caseiros para narrar a carreira da lenda do SNL - do âncora do \"Weekend Update\" ao mestre da comédia absurda e inexpressiva cuja influência perdura.",
-      "elenco": [
-        "Norm Macdonald",
-        "Adam Sandler",
-        "David Letterman",
-        "Jim Carrey",
-        "Jane Fonda",
-        "Sarah Silverman",
-        "Conan O'Brien",
-        "Harland Williams"
-      ],
-      "diretor": "Judd Apatow",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 127,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1620918-norm-the-tale-of-norm-macdonald/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt44822485/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Norm%3A%20The%20Tale%20of%20Norm%20Macdonald",
-        "metacritic": "https://www.metacritic.com/search/Norm%3A%20The%20Tale%20of%20Norm%20Macdonald/"
-      }
-    },
-    {
-      "tmdb_id": 1438966,
-      "imdb_id": "tt36411726",
-      "titulo_original": "Je so’ pazzo",
-      "titulo_ingles": "Je so’ pazzo",
-      "ano": 2026,
-      "data_lancamento": "2026-10-15",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Massimiliano Caiazzo",
-        "Mariasole Pollio",
-        "Giovanni Ludeno",
-        "Giuseppe Brunetti",
-        "Leonardo Bianconi",
-        "Giampiero De Concilio",
-        "Antonia Truppo",
-        "Monica Nappo"
-      ],
-      "diretor": "Nicola Prosatore",
-      "generos": [
-        "Drama",
-        "Música"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 120,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36411726/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Je%20so%E2%80%99%20pazzo",
-        "metacritic": "https://www.metacritic.com/search/Je%20so%E2%80%99%20pazzo/"
-      }
-    },
-    {
       "tmdb_id": 1623256,
       "imdb_id": "tt37070354",
       "titulo_original": "Stormen",
@@ -1145,6 +1094,57 @@
       }
     },
     {
+      "tmdb_id": 1438966,
+      "imdb_id": "tt36411726",
+      "titulo_original": "Je so’ pazzo",
+      "titulo_ingles": "Je so’ pazzo",
+      "ano": 2026,
+      "data_lancamento": "2026-10-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Massimiliano Caiazzo",
+        "Mariasole Pollio",
+        "Giovanni Ludeno",
+        "Giuseppe Brunetti",
+        "Leonardo Bianconi",
+        "Giampiero De Concilio",
+        "Antonia Truppo",
+        "Monica Nappo"
+      ],
+      "diretor": "Nicola Prosatore",
+      "generos": [
+        "Drama",
+        "Música"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 120,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36411726/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Je%20so%E2%80%99%20pazzo",
+        "metacritic": "https://www.metacritic.com/search/Je%20so%E2%80%99%20pazzo/"
+      }
+    },
+    {
       "tmdb_id": 1255833,
       "imdb_id": "tt28535715",
       "titulo_original": "Whalefall",
@@ -1192,58 +1192,6 @@
         "imdb": "https://www.imdb.com/title/tt28535715/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Whalefall",
         "metacritic": "https://www.metacritic.com/search/Whalefall/"
-      }
-    },
-    {
-      "tmdb_id": 1234139,
-      "imdb_id": "tt33318732",
-      "titulo_original": "ஜெயிலர் 2",
-      "titulo_ingles": "Jailer 2",
-      "ano": 2026,
-      "data_lancamento": "2026-10-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Rajinikanth",
-        "S. J. Suryah",
-        "Suraj Venjaramoodu",
-        "Ramya Krishnan",
-        "Vidya Balan",
-        "Namo Narayana",
-        "யோகி பாபு",
-        "Mirnaa"
-      ],
-      "diretor": "நெல்சன் திலீப்குமார்",
-      "generos": [
-        "Ação",
-        "Comédia",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "ta"
-      ],
-      "duracao": 163,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33318732/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jailer%202",
-        "metacritic": "https://www.metacritic.com/search/Jailer%202/"
       }
     },
     {
@@ -1296,6 +1244,58 @@
         "imdb": "https://www.imdb.com/title/tt35518109/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Les%20Mis%C3%A9rables",
         "metacritic": "https://www.metacritic.com/search/Les%20Mis%C3%A9rables/"
+      }
+    },
+    {
+      "tmdb_id": 1234139,
+      "imdb_id": "tt33318732",
+      "titulo_original": "ஜெயிலர் 2",
+      "titulo_ingles": "Jailer 2",
+      "ano": 2026,
+      "data_lancamento": "2026-10-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Rajinikanth",
+        "S. J. Suryah",
+        "Suraj Venjaramoodu",
+        "Ramya Krishnan",
+        "Vidya Balan",
+        "Namo Narayana",
+        "யோகி பாபு",
+        "Mirnaa"
+      ],
+      "diretor": "நெல்சன் திலீப்குமார்",
+      "generos": [
+        "Ação",
+        "Comédia",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "ta"
+      ],
+      "duracao": 163,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33318732/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jailer%202",
+        "metacritic": "https://www.metacritic.com/search/Jailer%202/"
       }
     },
     {
@@ -1479,59 +1479,6 @@
       }
     },
     {
-      "tmdb_id": 1742441,
-      "imdb_id": "tt43739386",
-      "titulo_original": "V/H/S/MIXTAPE",
-      "titulo_ingles": "V/H/S/MIXTAPE",
-      "ano": 2026,
-      "data_lancamento": "2026-10-09",
-      "data_qualificacao": "",
-      "sinopse_pt": "Ele apresenta uma nova antologia na qual música e som se tornam uma fonte de terror.",
-      "elenco": [
-        "Mike Derks",
-        "Michael Bishop",
-        "Brad Roberts",
-        "Casey Orr",
-        "Bob Gorman",
-        "Josh Willis",
-        "Christopher Romero Sosa",
-        "Barbara Crampton"
-      ],
-      "diretor": "David Moreau, Renee Zhan, RZA, Ernest R. Dickerson, Flying Lotus, Tobias Forge",
-      "generos": [
-        "Terror",
-        "Música",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
-      "pais": [
-        "US",
-        "AE"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 98,
-      "rt_critica": 53,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 53,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43739386/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=V%2FH%2FS%2FMIXTAPE",
-        "metacritic": "https://www.metacritic.com/search/V%2FH%2FS%2FMIXTAPE/"
-      }
-    },
-    {
       "tmdb_id": 1236045,
       "imdb_id": "tt31049299",
       "titulo_original": "Animals",
@@ -1596,6 +1543,59 @@
         "imdb": "https://www.imdb.com/title/tt31049299/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Animals",
         "metacritic": "https://www.metacritic.com/search/Animals/"
+      }
+    },
+    {
+      "tmdb_id": 1742441,
+      "imdb_id": "tt43739386",
+      "titulo_original": "V/H/S/MIXTAPE",
+      "titulo_ingles": "V/H/S/MIXTAPE",
+      "ano": 2026,
+      "data_lancamento": "2026-10-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "Ele apresenta uma nova antologia na qual música e som se tornam uma fonte de terror.",
+      "elenco": [
+        "Mike Derks",
+        "Michael Bishop",
+        "Brad Roberts",
+        "Casey Orr",
+        "Bob Gorman",
+        "Josh Willis",
+        "Christopher Romero Sosa",
+        "Barbara Crampton"
+      ],
+      "diretor": "David Moreau, Renee Zhan, RZA, Ernest R. Dickerson, Flying Lotus, Tobias Forge",
+      "generos": [
+        "Terror",
+        "Música",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+      "pais": [
+        "US",
+        "AE"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 98,
+      "rt_critica": 53,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 53,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43739386/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=V%2FH%2FS%2FMIXTAPE",
+        "metacritic": "https://www.metacritic.com/search/V%2FH%2FS%2FMIXTAPE/"
       }
     },
     {
@@ -1992,6 +1992,52 @@
       }
     },
     {
+      "tmdb_id": 1610703,
+      "imdb_id": "tt35682658",
+      "titulo_original": "Infirmary",
+      "titulo_ingles": "Infirmary",
+      "ano": 2026,
+      "data_lancamento": "2026-10-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
+      "elenco": [
+        "Paul Syre",
+        "Mark Anthony Williams",
+        "Danielle Kennedy",
+        "Corinna Wagner-Smith"
+      ],
+      "diretor": "Nicholas Pineda",
+      "generos": [
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 85,
+      "rt_critica": 64,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 64,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35682658/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
+        "metacritic": "https://www.metacritic.com/search/Infirmary/"
+      }
+    },
+    {
       "tmdb_id": 1458857,
       "imdb_id": "tt36429458",
       "titulo_original": "Doing Life",
@@ -2053,52 +2099,6 @@
         "imdb": "https://www.imdb.com/title/tt36429458/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Doing%20Life",
         "metacritic": "https://www.metacritic.com/search/Doing%20Life/"
-      }
-    },
-    {
-      "tmdb_id": 1610703,
-      "imdb_id": "tt35682658",
-      "titulo_original": "Infirmary",
-      "titulo_ingles": "Infirmary",
-      "ano": 2026,
-      "data_lancamento": "2026-10-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
-      "elenco": [
-        "Paul Syre",
-        "Mark Anthony Williams",
-        "Danielle Kennedy",
-        "Corinna Wagner-Smith"
-      ],
-      "diretor": "Nicholas Pineda",
-      "generos": [
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 85,
-      "rt_critica": 64,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 64,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35682658/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
-        "metacritic": "https://www.metacritic.com/search/Infirmary/"
       }
     },
     {
@@ -2167,6 +2167,54 @@
       }
     },
     {
+      "tmdb_id": 1632103,
+      "imdb_id": "tt40071725",
+      "titulo_original": "La città dei vivi",
+      "titulo_ingles": "The City of the Living",
+      "ano": 2026,
+      "data_lancamento": "2026-10-01",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Emanuele Maria Di Stefano",
+        "Valerio Mastandrea",
+        "Simona Senzacqua",
+        "Roberta Mattei",
+        "Gaia Merlonghi"
+      ],
+      "diretor": "Edoardo Gabbriellini",
+      "generos": [
+        "Drama",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 103,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt40071725/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20City%20of%20the%20Living",
+        "metacritic": "https://www.metacritic.com/search/The%20City%20of%20the%20Living/"
+      }
+    },
+    {
       "tmdb_id": 1599191,
       "imdb_id": "tt47867242",
       "titulo_original": "仙逆剧场版：弑仙之战",
@@ -2217,54 +2265,6 @@
         "imdb": "https://www.imdb.com/title/tt47867242/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Renegade%20Immortal%3A%20Battle%20of%20the%20Immortal%20Slayer",
         "metacritic": "https://www.metacritic.com/search/Renegade%20Immortal%3A%20Battle%20of%20the%20Immortal%20Slayer/"
-      }
-    },
-    {
-      "tmdb_id": 1632103,
-      "imdb_id": "tt40071725",
-      "titulo_original": "La città dei vivi",
-      "titulo_ingles": "The City of the Living",
-      "ano": 2026,
-      "data_lancamento": "2026-10-01",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Emanuele Maria Di Stefano",
-        "Valerio Mastandrea",
-        "Simona Senzacqua",
-        "Roberta Mattei",
-        "Gaia Merlonghi"
-      ],
-      "diretor": "Edoardo Gabbriellini",
-      "generos": [
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 103,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt40071725/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20City%20of%20the%20Living",
-        "metacritic": "https://www.metacritic.com/search/The%20City%20of%20the%20Living/"
       }
     },
     {
@@ -2380,57 +2380,6 @@
         "imdb": "https://www.imdb.com/title/tt43750202/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Livestream%20from%20Hell",
         "metacritic": "https://www.metacritic.com/search/Livestream%20from%20Hell/"
-      }
-    },
-    {
-      "tmdb_id": 1321666,
-      "imdb_id": "tt37082105",
-      "titulo_original": "Lalka",
-      "titulo_ingles": "The Doll",
-      "ano": 2026,
-      "data_lancamento": "2026-09-30",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Marcin Dorociński",
-        "Kamila Urzędowska",
-        "Marek Kondrat",
-        "Andrzej Seweryn",
-        "Krystyna Janda",
-        "Maria Dębska",
-        "Mateusz Damięcki",
-        "Agata Kulesza"
-      ],
-      "diretor": "Maciej Kawalski",
-      "generos": [
-        "Romance",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/6vN4ppExgYQXuCeyXkrEfnvTqIT.jpg",
-      "pais": [
-        "PL"
-      ],
-      "idiomas": [
-        "pl"
-      ],
-      "duracao": 162,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37082105/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Doll",
-        "metacritic": "https://www.metacritic.com/search/The%20Doll/"
       }
     },
     {
@@ -2715,7 +2664,7 @@
         "Maryna Bennett",
         "Noen Perez"
       ],
-      "diretor": "Peter Spierig, Michael Spierig",
+      "diretor": "Michael Spierig, Peter Spierig",
       "generos": [
         "Thriller"
       ],
@@ -3166,6 +3115,59 @@
       }
     },
     {
+      "tmdb_id": 1563588,
+      "imdb_id": "tt37664358",
+      "titulo_original": "Hangar Rojo",
+      "titulo_ingles": "The Red Hangar",
+      "ano": 2026,
+      "data_lancamento": "2026-05-08",
+      "data_qualificacao": "",
+      "sinopse_pt": "Enquanto o golpe militar chileno se espalha pelo país, o Capitão Jorge Silva — ex-chefe da Inteligência da Força Aérea — recebe uma ordem que mudará sua vida para sempre: transformar a Academia da Força Aérea, onde agora treina jovens cadetes, em um centro de detenção e tortura.",
+      "elenco": [
+        "Nicolás Zárate",
+        "Boris Quercia",
+        "Marcial Tagle",
+        "Catalina Stuardo",
+        "Arón Hernández",
+        "Taiu Braver Iosovich",
+        "Juan Cano"
+      ],
+      "diretor": "Juan Pablo Sallato",
+      "generos": [
+        "Drama",
+        "História",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/e2smZi0wCDFgCbx2gSwbCetPZhF.jpg",
+      "pais": [
+        "CL",
+        "AR",
+        "IT"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 81,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37664358/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Red%20Hangar",
+        "metacritic": "https://www.metacritic.com/search/The%20Red%20Hangar/"
+      }
+    },
+    {
       "tmdb_id": 1130948,
       "imdb_id": "tt27844906",
       "titulo_original": "Rosebush Pruning",
@@ -3255,7 +3257,9 @@
         "CY",
         "GB"
       ],
-      "idiomas": [],
+      "idiomas": [
+        "en"
+      ],
       "duracao": 103,
       "rt_critica": 35,
       "rt_publico": null,
