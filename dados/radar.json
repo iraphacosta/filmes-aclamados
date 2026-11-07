@@ -1,7 +1,137 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-06T16:51:42.529Z",
+  "gerado_em": "2026-11-07T15:48:44.909Z",
   "filmes": [
+    {
+      "tmdb_id": 1654940,
+      "imdb_id": "tt39400541",
+      "titulo_original": "余命一年、男をかう",
+      "titulo_ingles": "One Year to Live, Buy a Man",
+      "ano": 2026,
+      "data_lancamento": "2026-11-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "A cautelosa Yui Katakura, de 40 anos, recebe um diagnóstico de câncer com um ano de vida, transformando sua perspectiva. Ela conhece Sena, um anfitrião falido de cabelos rosados, paga 720.000 ienes por sua companhia, e seu vínculo incomum se transforma em um amor inesperado.",
+      "elenco": [
+        "柴咲コウ",
+        "赤楚衛二",
+        "筒井道隆",
+        "西田尚美",
+        "鳴海唯",
+        "宮世琉弥",
+        "近藤公園",
+        "濱田マリ"
+      ],
+      "diretor": "Hiroki Kazama",
+      "generos": [
+        "Romance",
+        "Drama",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/fNYUEhXilEBouvcPnnVxkJgTxlF.jpg",
+      "pais": [
+        "JP"
+      ],
+      "idiomas": [
+        "ja",
+        "pt"
+      ],
+      "duracao": 109,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1654940/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39400541/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Year%20to%20Live%2C%20Buy%20a%20Man",
+        "metacritic": "https://www.metacritic.com/search/One%20Year%20to%20Live%2C%20Buy%20a%20Man/"
+      }
+    },
+    {
+      "tmdb_id": 1570488,
+      "imdb_id": "tt38515310",
+      "titulo_original": "A Dog's Perfect Christmas",
+      "titulo_ingles": "A Dog's Perfect Christmas",
+      "ano": 2026,
+      "data_lancamento": "2026-11-04",
+      "data_qualificacao": "",
+      "sinopse_pt": "Depois que uma emergência médica separa a família Goss, o determinado cãozinho Winstead faz de tudo para reunir seus humanos antes da véspera de Natal.",
+      "elenco": [
+        "Dennis Quaid",
+        "Milo Ventimiglia",
+        "Brooke Lena Johnson",
+        "Kathleen Rose Perkins",
+        "Jennifer Tilly",
+        "Thomas Haden Church",
+        "Mary Steenburgen",
+        "Ethan Loomis"
+      ],
+      "diretor": "Cathryn Michon",
+      "generos": [
+        "Comédia",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/2YhgEEGYOQfl3CzoRcYys8b6JxH.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 102,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1570488-a-dog-s-perfect-christmas/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38515310/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Dog's%20Perfect%20Christmas",
+        "metacritic": "https://www.metacritic.com/search/A%20Dog's%20Perfect%20Christmas/"
+      }
+    },
     {
       "tmdb_id": 1813355,
       "imdb_id": "tt50389959",
@@ -65,6 +195,69 @@
         "imdb": "https://www.imdb.com/title/tt50389959/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Story%20of%20Derry",
         "metacritic": "https://www.metacritic.com/search/A%20Story%20of%20Derry/"
+      }
+    },
+    {
+      "tmdb_id": 1789549,
+      "imdb_id": "tt38999812",
+      "titulo_original": "Das Geschenk",
+      "titulo_ingles": "The Birthday​ Gift​",
+      "ano": 2026,
+      "data_lancamento": "2026-10-30",
+      "data_qualificacao": "",
+      "sinopse_pt": "Marlene quer uma festa do pijama perfeita para o aniversário do filho. Só que os convidados bagunceiros não estão muito interessados em seguir as regras.",
+      "elenco": [
+        "Jeanne Goursaud",
+        "Edin Hasanović",
+        "Heiner Lauterbach",
+        "Levin Wopp",
+        "Sogol Faghani",
+        "Enzo Brumm",
+        "Berit Künnecke",
+        "Amal Keller"
+      ],
+      "diretor": "Vanessa Jopp",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4sc5p6NiMKpv5Ef9iShXplJsY3G.jpg",
+      "pais": [
+        "DE"
+      ],
+      "idiomas": [
+        "de"
+      ],
+      "duracao": 89,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1789549-das-geschenk/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38999812/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Birthday%E2%80%8B%20Gift%E2%80%8B",
+        "metacritic": "https://www.metacritic.com/search/The%20Birthday%E2%80%8B%20Gift%E2%80%8B/"
       }
     },
     {
@@ -318,6 +511,58 @@
       }
     },
     {
+      "tmdb_id": 1430841,
+      "imdb_id": "tt37740990",
+      "titulo_original": "Le fantôme de l'opéra",
+      "titulo_ingles": "The Phantom of the Opera",
+      "ano": 2026,
+      "data_lancamento": "2026-10-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Deva Cassel",
+        "Julien de Saint Jean",
+        "Romain Duris",
+        "Dorothée Gilbert",
+        "Axel Auriant",
+        "Laïka Blanc-Francard",
+        "Guillaume Diop",
+        "Florence Banks"
+      ],
+      "diretor": "Alexandre Castagnetti",
+      "generos": [
+        "Thriller",
+        "Romance",
+        "Mistério"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/2aU9dLDES0IdxB4sGYeeoJ7DOjA.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 134,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37740990/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Phantom%20of%20the%20Opera",
+        "metacritic": "https://www.metacritic.com/search/The%20Phantom%20of%20the%20Opera/"
+      }
+    },
+    {
       "tmdb_id": 1437925,
       "imdb_id": "tt36899180",
       "titulo_original": "Moulin",
@@ -398,7 +643,9 @@
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/d2lY6L7gOa1GeDkRNBAoVmnK9ne.jpg",
       "pais": [
-        "DE"
+        "DE",
+        "CA",
+        "US"
       ],
       "idiomas": [
         "de"
@@ -434,6 +681,68 @@
         "imdb": "https://www.imdb.com/title/tt37180686/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Drive%20-%20The%20Pretenders",
         "metacritic": "https://www.metacritic.com/search/Drive%20-%20The%20Pretenders/"
+      }
+    },
+    {
+      "tmdb_id": 1780005,
+      "imdb_id": "tt37961714",
+      "titulo_original": "Contra el huracán",
+      "titulo_ingles": "Surviving Hurricane Otis",
+      "ano": 2026,
+      "data_lancamento": "2026-10-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "No meio do mar, Wirpul e seu meio-irmão Candi lutam pela sobrevivência quando uma tempestade inesperada se transforma no furacão Otis, um furacão de categoria 5, na costa de Acapulco.",
+      "elenco": [
+        "Benny Emmanuel",
+        "Kristyan Ferrer",
+        "Mónica del Carmen",
+        "Mónica Jiménez",
+        "Andrew Leland Rogers",
+        "Gonzalo Vega Jr.",
+        "Daira Mendoza"
+      ],
+      "diretor": "Jorge Michel Grau",
+      "generos": [
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/aAkMQit6uVKpBMbIP8HsJrgXlGG.jpg",
+      "pais": [
+        "MX"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1780005-contra-el-huracan/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37961714/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Surviving%20Hurricane%20Otis",
+        "metacritic": "https://www.metacritic.com/search/Surviving%20Hurricane%20Otis/"
       }
     },
     {
@@ -551,68 +860,6 @@
         "imdb": "https://www.imdb.com/title/tt40311603/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ghosts%3A%20The%20Possession%20of%20Button%20House",
         "metacritic": "https://www.metacritic.com/search/Ghosts%3A%20The%20Possession%20of%20Button%20House/"
-      }
-    },
-    {
-      "tmdb_id": 1780005,
-      "imdb_id": "tt37961714",
-      "titulo_original": "Contra el huracán",
-      "titulo_ingles": "Surviving Hurricane Otis",
-      "ano": 2026,
-      "data_lancamento": "2026-10-23",
-      "data_qualificacao": "",
-      "sinopse_pt": "No meio do mar, Wirpul e seu meio-irmão Candi lutam pela sobrevivência quando uma tempestade inesperada se transforma no furacão Otis, um furacão de categoria 5, na costa de Acapulco.",
-      "elenco": [
-        "Benny Emmanuel",
-        "Kristyan Ferrer",
-        "Mónica del Carmen",
-        "Mónica Jiménez",
-        "Andrew Leland Rogers",
-        "Gonzalo Vega Jr.",
-        "Daira Mendoza"
-      ],
-      "diretor": "Jorge Michel Grau",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/aAkMQit6uVKpBMbIP8HsJrgXlGG.jpg",
-      "pais": [
-        "MX"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1780005-contra-el-huracan/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37961714/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Surviving%20Hurricane%20Otis",
-        "metacritic": "https://www.metacritic.com/search/Surviving%20Hurricane%20Otis/"
       }
     },
     {
@@ -899,69 +1146,6 @@
       }
     },
     {
-      "tmdb_id": 1620918,
-      "imdb_id": "tt44822485",
-      "titulo_original": "Norm: The Tale of Norm Macdonald",
-      "titulo_ingles": "Norm: The Tale of Norm Macdonald",
-      "ano": 2026,
-      "data_lancamento": "2026-10-16",
-      "data_qualificacao": "",
-      "sinopse_pt": "O documentário de Judd Apatow sobre Norm Macdonald usa imagens de arquivo, fotos e vídeos caseiros para narrar a carreira da lenda do SNL - do âncora do \"Weekend Update\" ao mestre da comédia absurda e inexpressiva cuja influência perdura.",
-      "elenco": [
-        "Norm Macdonald",
-        "Adam Sandler",
-        "David Letterman",
-        "Jim Carrey",
-        "Jane Fonda",
-        "Sarah Silverman",
-        "Conan O'Brien",
-        "Harland Williams"
-      ],
-      "diretor": "Judd Apatow",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 127,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1620918-norm-the-tale-of-norm-macdonald/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt44822485/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Norm%3A%20The%20Tale%20of%20Norm%20Macdonald",
-        "metacritic": "https://www.metacritic.com/search/Norm%3A%20The%20Tale%20of%20Norm%20Macdonald/"
-      }
-    },
-    {
       "tmdb_id": 1561726,
       "imdb_id": "tt38672588",
       "titulo_original": "Masterplan",
@@ -1027,6 +1211,69 @@
         "imdb": "https://www.imdb.com/title/tt38672588/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Masterplan",
         "metacritic": "https://www.metacritic.com/search/Masterplan/"
+      }
+    },
+    {
+      "tmdb_id": 1620918,
+      "imdb_id": "tt44822485",
+      "titulo_original": "Norm: The Tale of Norm Macdonald",
+      "titulo_ingles": "Norm: The Tale of Norm Macdonald",
+      "ano": 2026,
+      "data_lancamento": "2026-10-16",
+      "data_qualificacao": "",
+      "sinopse_pt": "O documentário de Judd Apatow sobre Norm Macdonald usa imagens de arquivo, fotos e vídeos caseiros para narrar a carreira da lenda do SNL - do âncora do \"Weekend Update\" ao mestre da comédia absurda e inexpressiva cuja influência perdura.",
+      "elenco": [
+        "Norm Macdonald",
+        "Adam Sandler",
+        "David Letterman",
+        "Jim Carrey",
+        "Jane Fonda",
+        "Sarah Silverman",
+        "Conan O'Brien",
+        "Harland Williams"
+      ],
+      "diretor": "Judd Apatow",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 127,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1620918-norm-the-tale-of-norm-macdonald/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt44822485/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Norm%3A%20The%20Tale%20of%20Norm%20Macdonald",
+        "metacritic": "https://www.metacritic.com/search/Norm%3A%20The%20Tale%20of%20Norm%20Macdonald/"
       }
     },
     {
@@ -1195,58 +1442,6 @@
       }
     },
     {
-      "tmdb_id": 1241803,
-      "imdb_id": "tt35518109",
-      "titulo_original": "Les Misérables",
-      "titulo_ingles": "Les Misérables",
-      "ano": 2026,
-      "data_lancamento": "2026-10-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Vincent Lindon",
-        "Tahar Rahim",
-        "Camille Cottin",
-        "Benjamin Lavernhe",
-        "Noémie Merlant",
-        "Vassili Schneider",
-        "Megan Northam",
-        "Marie Colomb"
-      ],
-      "diretor": "Fred Cavayé",
-      "generos": [
-        "História",
-        "Romance",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 178,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35518109/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Les%20Mis%C3%A9rables",
-        "metacritic": "https://www.metacritic.com/search/Les%20Mis%C3%A9rables/"
-      }
-    },
-    {
       "tmdb_id": 1234139,
       "imdb_id": "tt33318732",
       "titulo_original": "ஜெயிலர் 2",
@@ -1296,6 +1491,58 @@
         "imdb": "https://www.imdb.com/title/tt33318732/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jailer%202",
         "metacritic": "https://www.metacritic.com/search/Jailer%202/"
+      }
+    },
+    {
+      "tmdb_id": 1241803,
+      "imdb_id": "tt35518109",
+      "titulo_original": "Les Misérables",
+      "titulo_ingles": "Les Misérables",
+      "ano": 2026,
+      "data_lancamento": "2026-10-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Vincent Lindon",
+        "Tahar Rahim",
+        "Camille Cottin",
+        "Benjamin Lavernhe",
+        "Noémie Merlant",
+        "Vassili Schneider",
+        "Megan Northam",
+        "Marie Colomb"
+      ],
+      "diretor": "Fred Cavayé",
+      "generos": [
+        "História",
+        "Romance",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 178,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35518109/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Les%20Mis%C3%A9rables",
+        "metacritic": "https://www.metacritic.com/search/Les%20Mis%C3%A9rables/"
       }
     },
     {
@@ -1479,6 +1726,59 @@
       }
     },
     {
+      "tmdb_id": 1742441,
+      "imdb_id": "tt43739386",
+      "titulo_original": "V/H/S/MIXTAPE",
+      "titulo_ingles": "V/H/S/MIXTAPE",
+      "ano": 2026,
+      "data_lancamento": "2026-10-09",
+      "data_qualificacao": "",
+      "sinopse_pt": "Ele apresenta uma nova antologia na qual música e som se tornam uma fonte de terror.",
+      "elenco": [
+        "Mike Derks",
+        "Michael Bishop",
+        "Brad Roberts",
+        "Casey Orr",
+        "Bob Gorman",
+        "Josh Willis",
+        "Christopher Romero Sosa",
+        "Barbara Crampton"
+      ],
+      "diretor": "David Moreau, Renee Zhan, RZA, Ernest R. Dickerson, Flying Lotus, Tobias Forge",
+      "generos": [
+        "Terror",
+        "Música",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+      "pais": [
+        "US",
+        "AE"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 98,
+      "rt_critica": 53,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": 53,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43739386/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=V%2FH%2FS%2FMIXTAPE",
+        "metacritic": "https://www.metacritic.com/search/V%2FH%2FS%2FMIXTAPE/"
+      }
+    },
+    {
       "tmdb_id": 1236045,
       "imdb_id": "tt31049299",
       "titulo_original": "Animals",
@@ -1543,59 +1843,6 @@
         "imdb": "https://www.imdb.com/title/tt31049299/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Animals",
         "metacritic": "https://www.metacritic.com/search/Animals/"
-      }
-    },
-    {
-      "tmdb_id": 1742441,
-      "imdb_id": "tt43739386",
-      "titulo_original": "V/H/S/MIXTAPE",
-      "titulo_ingles": "V/H/S/MIXTAPE",
-      "ano": 2026,
-      "data_lancamento": "2026-10-09",
-      "data_qualificacao": "",
-      "sinopse_pt": "Ele apresenta uma nova antologia na qual música e som se tornam uma fonte de terror.",
-      "elenco": [
-        "Mike Derks",
-        "Michael Bishop",
-        "Brad Roberts",
-        "Casey Orr",
-        "Bob Gorman",
-        "Josh Willis",
-        "Christopher Romero Sosa",
-        "Barbara Crampton"
-      ],
-      "diretor": "David Moreau, Renee Zhan, RZA, Ernest R. Dickerson, Flying Lotus, Tobias Forge",
-      "generos": [
-        "Terror",
-        "Música",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
-      "pais": [
-        "US",
-        "AE"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 98,
-      "rt_critica": 53,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 53,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43739386/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=V%2FH%2FS%2FMIXTAPE",
-        "metacritic": "https://www.metacritic.com/search/V%2FH%2FS%2FMIXTAPE/"
       }
     },
     {
@@ -1868,65 +2115,6 @@
       }
     },
     {
-      "tmdb_id": 1788735,
-      "imdb_id": "tt43665190",
-      "titulo_original": "Family Guy Happy Hell-o-ween",
-      "titulo_ingles": "Family Guy Happy Hell-o-ween",
-      "ano": 2026,
-      "data_lancamento": "2026-10-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "Após uma morte inesperada, Stewie e Brian vão para o Inferno. A dupla enche tanto o saco do Diabo que ele pede as contas e deixa os dois no comando.",
-      "elenco": [
-        "Seth MacFarlane",
-        "Kieran Culkin",
-        "Alex Borstein",
-        "Seth Green",
-        "Mila Kunis",
-        "Patrick Warburton",
-        "Arif Zahir"
-      ],
-      "diretor": "Joe Vaux",
-      "generos": [
-        "Animação",
-        "Terror",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 23,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1788735-family-guy-happy-hell-o-ween/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43665190/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Family%20Guy%20Happy%20Hell-o-ween",
-        "metacritic": "https://www.metacritic.com/search/Family%20Guy%20Happy%20Hell-o-ween/"
-      }
-    },
-    {
       "tmdb_id": 1148365,
       "imdb_id": "tt28498219",
       "titulo_original": "Matchbox the Movie",
@@ -1992,33 +2180,38 @@
       }
     },
     {
-      "tmdb_id": 1610703,
-      "imdb_id": "tt35682658",
-      "titulo_original": "Infirmary",
-      "titulo_ingles": "Infirmary",
+      "tmdb_id": 1788735,
+      "imdb_id": "tt43665190",
+      "titulo_original": "Family Guy Happy Hell-o-ween",
+      "titulo_ingles": "Family Guy Happy Hell-o-ween",
       "ano": 2026,
-      "data_lancamento": "2026-10-02",
+      "data_lancamento": "2026-10-05",
       "data_qualificacao": "",
-      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
+      "sinopse_pt": "Após uma morte inesperada, Stewie e Brian vão para o Inferno. A dupla enche tanto o saco do Diabo que ele pede as contas e deixa os dois no comando.",
       "elenco": [
-        "Paul Syre",
-        "Mark Anthony Williams",
-        "Danielle Kennedy",
-        "Corinna Wagner-Smith"
+        "Seth MacFarlane",
+        "Kieran Culkin",
+        "Alex Borstein",
+        "Seth Green",
+        "Mila Kunis",
+        "Patrick Warburton",
+        "Arif Zahir"
       ],
-      "diretor": "Nicholas Pineda",
+      "diretor": "Joe Vaux",
       "generos": [
-        "Terror"
+        "Animação",
+        "Terror",
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
       "pais": [
         "US"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 85,
-      "rt_critica": 64,
+      "duracao": 23,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -2026,15 +2219,23 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 64,
+      "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "nao_lancado"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1788735-family-guy-happy-hell-o-ween/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt35682658/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
-        "metacritic": "https://www.metacritic.com/search/Infirmary/"
+        "imdb": "https://www.imdb.com/title/tt43665190/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Family%20Guy%20Happy%20Hell-o-ween",
+        "metacritic": "https://www.metacritic.com/search/Family%20Guy%20Happy%20Hell-o-ween/"
       }
     },
     {
@@ -2167,35 +2368,33 @@
       }
     },
     {
-      "tmdb_id": 1632103,
-      "imdb_id": "tt40071725",
-      "titulo_original": "La città dei vivi",
-      "titulo_ingles": "The City of the Living",
+      "tmdb_id": 1610703,
+      "imdb_id": "tt35682658",
+      "titulo_original": "Infirmary",
+      "titulo_ingles": "Infirmary",
       "ano": 2026,
-      "data_lancamento": "2026-10-01",
+      "data_lancamento": "2026-10-02",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
       "elenco": [
-        "Emanuele Maria Di Stefano",
-        "Valerio Mastandrea",
-        "Simona Senzacqua",
-        "Roberta Mattei",
-        "Gaia Merlonghi"
+        "Paul Syre",
+        "Mark Anthony Williams",
+        "Danielle Kennedy",
+        "Corinna Wagner-Smith"
       ],
-      "diretor": "Edoardo Gabbriellini",
+      "diretor": "Nicholas Pineda",
       "generos": [
-        "Drama",
-        "Thriller"
+        "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
       "pais": [
-        "IT"
+        "US"
       ],
       "idiomas": [
-        "it"
+        "en"
       ],
-      "duracao": 103,
-      "rt_critica": null,
+      "duracao": 85,
+      "rt_critica": 64,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -2203,15 +2402,15 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": null,
+      "atual_rt": 64,
       "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt40071725/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20City%20of%20the%20Living",
-        "metacritic": "https://www.metacritic.com/search/The%20City%20of%20the%20Living/"
+        "imdb": "https://www.imdb.com/title/tt35682658/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
+        "metacritic": "https://www.metacritic.com/search/Infirmary/"
       }
     },
     {
@@ -2319,70 +2518,6 @@
       }
     },
     {
-      "tmdb_id": 1437195,
-      "imdb_id": "tt43750202",
-      "titulo_original": "Livestream from Hell",
-      "titulo_ingles": "Livestream from Hell",
-      "ano": 2026,
-      "data_lancamento": "2026-09-30",
-      "data_qualificacao": "",
-      "sinopse_pt": "Kevin Hart se une aos streamers Kai Cenat e Druski para fazer uma live histórica em sua mansão supertecnológica. Tudo vira um caos hilário até que a zoeira se transforma em pânico e um assassinato de verdade acontece diante das câmeras, prendendo o trio e os convidados famosos em uma comédia de terror e mistério eletrizante assistida por milhões de espectadores.",
-      "elenco": [
-        "Kevin Hart",
-        "Kai Cenat",
-        "Druski",
-        "Kam Patterson",
-        "Chen-Ruei'Ray' Hsu",
-        "Kel Mitchell",
-        "Sexyy Red",
-        "Duke Dennis"
-      ],
-      "diretor": "David Janoff",
-      "generos": [
-        "Terror",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/1bK88wukSx3FAhYEjH2p8RRkyH9.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 78,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Amazon Prime Video",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-          },
-          {
-            "nome": "Amazon Prime Video with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1437195-livestream-from-hell/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43750202/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Livestream%20from%20Hell",
-        "metacritic": "https://www.metacritic.com/search/Livestream%20from%20Hell/"
-      }
-    },
-    {
       "tmdb_id": 1248832,
       "imdb_id": "tt31450459",
       "titulo_original": "Digger",
@@ -2434,57 +2569,6 @@
         "imdb": "https://www.imdb.com/title/tt31450459/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Digger",
         "metacritic": "https://www.metacritic.com/search/Digger/"
-      }
-    },
-    {
-      "tmdb_id": 1191818,
-      "imdb_id": "tt30495381",
-      "titulo_original": "Histoires de la nuit",
-      "titulo_ingles": "The Birthday Party",
-      "ano": 2026,
-      "data_lancamento": "2026-09-16",
-      "data_qualificacao": "",
-      "sinopse_pt": "Nora, Thomas e a filha adolescente vivem isolados em uma fazenda no interior, tendo como única vizinha uma pintora italiana. Enquanto organizam uma festa surpresa de aniversário para Nora, a tranquilidade do lugar é quebrada. Três homens misteriosos surgem e invadem a comemoração, trazendo à tona segredos perigosos e bem guardados do passado.",
-      "elenco": [
-        "Hafsia Herzi",
-        "Benoît Magimel",
-        "Bastien Bouillon",
-        "Monica Bellucci",
-        "Tawba El Gharchi",
-        "Paul Hamy",
-        "Alane Delhaye",
-        "Servane Ducorps"
-      ],
-      "diretor": "Léa Mysius",
-      "generos": [
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/7prAuNDsQPUlHKyXiYNkuofyi0G.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 114,
-      "rt_critica": 58,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 58,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt30495381/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Birthday%20Party",
-        "metacritic": "https://www.metacritic.com/search/The%20Birthday%20Party/"
       }
     },
     {
@@ -2678,7 +2762,7 @@
         "en"
       ],
       "duracao": 100,
-      "rt_critica": 53,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": 53,
       "imdb_publico": null,
@@ -2686,7 +2770,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 53,
+      "atual_rt": null,
       "atual_metacritic": 53,
       "disponibilidade_br": {
         "estado": "cinema"
@@ -2798,6 +2882,11 @@
             "logo_url": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
           },
           {
+            "nome": "Claro tv+",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/olzQMHt2SX7iNy8WDMR299hVFcL.png"
+          },
+          {
             "nome": "HBO Max Amazon Channel",
             "tipo": "assinatura",
             "logo_url": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
@@ -2809,66 +2898,6 @@
         "imdb": "https://www.imdb.com/title/tt30505578/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Feed",
         "metacritic": "https://www.metacritic.com/search/Feed/"
-      }
-    },
-    {
-      "tmdb_id": 1307118,
-      "imdb_id": "tt32654916",
-      "titulo_original": "Soulm8te",
-      "titulo_ingles": "Soulm8te",
-      "ano": 2026,
-      "data_lancamento": "2026-07-31",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um homem adquire um androide com inteligência artificial para lidar com o luto de sua falecida esposa. No entanto, ao tentar criar uma parceira verdadeiramente senciente, ele acaba transformando, inadvertidamente, um robô inofensivo em uma alma gêmea mortal.",
-      "elenco": [
-        "David Rysdahl",
-        "Lily Sullivan",
-        "Claudia Doumit",
-        "Arty Froushan",
-        "Elijah Isaiah Cook",
-        "Mara Huf",
-        "Sydney Blackburn",
-        "Isabelle Bonfrer"
-      ],
-      "diretor": "Kate Dolan",
-      "generos": [
-        "Terror",
-        "Ficção científica",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/l7zdh8qUKDNCGApX3KBOBUOoIdd.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 101,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1307118-soulm8te/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32654916/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Soulm8te",
-        "metacritic": "https://www.metacritic.com/search/Soulm8te/"
       }
     },
     {
@@ -3206,7 +3235,7 @@
         "en"
       ],
       "duracao": 97,
-      "rt_critica": 16,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": 45,
       "imdb_publico": null,
@@ -3214,7 +3243,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 16,
+      "atual_rt": null,
       "atual_metacritic": 45,
       "disponibilidade_br": {
         "estado": "cinema"
@@ -3312,7 +3341,7 @@
         "en"
       ],
       "duracao": 103,
-      "rt_critica": 27,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
       "imdb_publico": null,
@@ -3320,7 +3349,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 27,
+      "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
         "estado": "streaming",
