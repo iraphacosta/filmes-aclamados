@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-09T19:56:41.319Z",
+  "gerado_em": "2026-11-10T17:10:53.500Z",
   "filmes": [
     {
       "tmdb_id": 1654940,
@@ -66,6 +66,57 @@
         "imdb": "https://www.imdb.com/title/tt39400541/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Year%20to%20Live%2C%20Buy%20a%20Man",
         "metacritic": "https://www.metacritic.com/search/One%20Year%20to%20Live%2C%20Buy%20a%20Man/"
+      }
+    },
+    {
+      "tmdb_id": 1003494,
+      "imdb_id": "tt35494574",
+      "titulo_original": "L’Affaire Marie-Claire",
+      "titulo_ingles": "Women on Trial",
+      "ano": 2026,
+      "data_lancamento": "2026-11-04",
+      "data_qualificacao": "",
+      "sinopse_pt": "Novembro de 1972. Um julgamento histórico no tribunal de Bobigny mobiliza a França. Marie-Claire Chevalier, de 16 anos, é acusada de realizar um aborto ilegal. Sua mãe e as mulheres que a ajudaram também vão a julgamento. A advogada, Gisèle Halimi, assume um risco inédito: em vez de declarar suas clientes culpadas, coloca a própria lei no banco dos réus, desafiando o sistema e arriscando tudo.",
+      "elenco": [
+        "Charlotte Gainsbourg",
+        "Cécile de France",
+        "Grégory Gadebois",
+        "Saül Benchetrit",
+        "Sarah Suco",
+        "Florence Loiret Caille",
+        "Xavier Robic",
+        "Quentin Gouverneur"
+      ],
+      "diretor": "Lauriane Escaffre, Yvo Muller",
+      "generos": [
+        "História",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eJyYB3D5YeJp20r3yZFwQW23Rp3.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 102,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35494574/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Women%20on%20Trial",
+        "metacritic": "https://www.metacritic.com/search/Women%20on%20Trial/"
       }
     },
     {
@@ -306,6 +357,69 @@
       }
     },
     {
+      "tmdb_id": 1789549,
+      "imdb_id": "tt38999812",
+      "titulo_original": "Das Geschenk",
+      "titulo_ingles": "The Birthday​ Gift​",
+      "ano": 2026,
+      "data_lancamento": "2026-10-30",
+      "data_qualificacao": "",
+      "sinopse_pt": "Marlene quer uma festa do pijama perfeita para o aniversário do filho. Só que os convidados bagunceiros não estão muito interessados em seguir as regras.",
+      "elenco": [
+        "Jeanne Goursaud",
+        "Edin Hasanović",
+        "Heiner Lauterbach",
+        "Levin Wopp",
+        "Sogol Faghani",
+        "Enzo Brumm",
+        "Berit Künnecke",
+        "Amal Keller"
+      ],
+      "diretor": "Vanessa Jopp",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4sc5p6NiMKpv5Ef9iShXplJsY3G.jpg",
+      "pais": [
+        "DE"
+      ],
+      "idiomas": [
+        "de"
+      ],
+      "duracao": 89,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1789549-das-geschenk/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38999812/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Birthday%E2%80%8B%20Gift%E2%80%8B",
+        "metacritic": "https://www.metacritic.com/search/The%20Birthday%E2%80%8B%20Gift%E2%80%8B/"
+      }
+    },
+    {
       "tmdb_id": 1571955,
       "imdb_id": "tt38793125",
       "titulo_original": "Colisión",
@@ -369,69 +483,6 @@
         "imdb": "https://www.imdb.com/title/tt38793125/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Collision%20Course",
         "metacritic": "https://www.metacritic.com/search/Collision%20Course/"
-      }
-    },
-    {
-      "tmdb_id": 1789549,
-      "imdb_id": "tt38999812",
-      "titulo_original": "Das Geschenk",
-      "titulo_ingles": "The Birthday​ Gift​",
-      "ano": 2026,
-      "data_lancamento": "2026-10-30",
-      "data_qualificacao": "",
-      "sinopse_pt": "Marlene quer uma festa do pijama perfeita para o aniversário do filho. Só que os convidados bagunceiros não estão muito interessados em seguir as regras.",
-      "elenco": [
-        "Jeanne Goursaud",
-        "Edin Hasanović",
-        "Heiner Lauterbach",
-        "Levin Wopp",
-        "Sogol Faghani",
-        "Enzo Brumm",
-        "Berit Künnecke",
-        "Amal Keller"
-      ],
-      "diretor": "Vanessa Jopp",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4sc5p6NiMKpv5Ef9iShXplJsY3G.jpg",
-      "pais": [
-        "DE"
-      ],
-      "idiomas": [
-        "de"
-      ],
-      "duracao": 89,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1789549-das-geschenk/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38999812/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Birthday%E2%80%8B%20Gift%E2%80%8B",
-        "metacritic": "https://www.metacritic.com/search/The%20Birthday%E2%80%8B%20Gift%E2%80%8B/"
       }
     },
     {
@@ -619,41 +670,37 @@
       }
     },
     {
-      "tmdb_id": 1437925,
-      "imdb_id": "tt36899180",
-      "titulo_original": "Moulin",
-      "titulo_ingles": "Moulin",
+      "tmdb_id": 1544163,
+      "imdb_id": "tt39969491",
+      "titulo_original": "Quelques mots d'amour",
+      "titulo_ingles": "Words of Love",
       "ano": 2026,
       "data_lancamento": "2026-10-28",
       "data_qualificacao": "",
       "sinopse_pt": "",
       "elenco": [
-        "Gilles Lellouche",
-        "Lars Eidinger",
-        "Louise Bourgoin",
-        "Marcin Czarnik",
-        "Max Warburton",
-        "Félix Lefebvre",
-        "Hortense de Gromard",
-        "Théo Costa-Marini"
+        "Hafsia Herzi",
+        "Nour Salam",
+        "Ella Bedoucha",
+        "Aïdan Djouadi",
+        "Mateo Danila",
+        "Charlie Lugassy",
+        "Eden Sarfati",
+        "Paulette Chetrit"
       ],
-      "diretor": "László Nemes",
+      "diretor": "Rudi Rosenberg",
       "generos": [
-        "História",
-        "Drama",
-        "Guerra"
+        "Comédia",
+        "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/niEnEAPjqc2Mey6IiVPtBun45ZV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lUSCFTt9YWRbDG6kkUQBIUZ0IFc.jpg",
       "pais": [
-        "FR",
-        "BE",
-        "US"
+        "FR"
       ],
       "idiomas": [
-        "de",
         "fr"
       ],
-      "duracao": 130,
+      "duracao": 95,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -668,9 +715,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt36899180/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Moulin",
-        "metacritic": "https://www.metacritic.com/search/Moulin/"
+        "imdb": "https://www.imdb.com/title/tt39969491/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Words%20of%20Love",
+        "metacritic": "https://www.metacritic.com/search/Words%20of%20Love/"
       }
     },
     {
@@ -723,6 +770,61 @@
         "imdb": "https://www.imdb.com/title/tt37740990/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Phantom%20of%20the%20Opera",
         "metacritic": "https://www.metacritic.com/search/The%20Phantom%20of%20the%20Opera/"
+      }
+    },
+    {
+      "tmdb_id": 1437925,
+      "imdb_id": "tt36899180",
+      "titulo_original": "Moulin",
+      "titulo_ingles": "Moulin",
+      "ano": 2026,
+      "data_lancamento": "2026-10-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Gilles Lellouche",
+        "Lars Eidinger",
+        "Louise Bourgoin",
+        "Marcin Czarnik",
+        "Max Warburton",
+        "Félix Lefebvre",
+        "Hortense de Gromard",
+        "Théo Costa-Marini"
+      ],
+      "diretor": "László Nemes",
+      "generos": [
+        "História",
+        "Drama",
+        "Guerra"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/niEnEAPjqc2Mey6IiVPtBun45ZV.jpg",
+      "pais": [
+        "FR",
+        "BE",
+        "US"
+      ],
+      "idiomas": [
+        "de",
+        "fr"
+      ],
+      "duracao": 130,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36899180/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Moulin",
+        "metacritic": "https://www.metacritic.com/search/Moulin/"
       }
     },
     {
@@ -789,71 +891,6 @@
         "imdb": "https://www.imdb.com/title/tt37180686/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Drive%20-%20The%20Pretenders",
         "metacritic": "https://www.metacritic.com/search/Drive%20-%20The%20Pretenders/"
-      }
-    },
-    {
-      "tmdb_id": 1453407,
-      "imdb_id": "tt39631280",
-      "titulo_original": "ग़ज़ब रात",
-      "titulo_ingles": "Gajab Raat",
-      "ano": 2026,
-      "data_lancamento": "2026-10-23",
-      "data_qualificacao": "",
-      "sinopse_pt": "Manoj Bajpayee lidera o elenco no papel de um homem moralmente ambíguo que precisa salvar uma mulher e expor uma conspiração mortal em uma noite implacável.",
-      "elenco": [
-        "मनोज बाजपेयी",
-        "Divya Dutta",
-        "Akshay Oberoi",
-        "Saqib Saleem",
-        "Shraddha Das",
-        "Rajiv Gupta",
-        "Aditi Sandhya Sharma",
-        "Nushrratt Bharuccha"
-      ],
-      "diretor": "Ritesh Shah",
-      "generos": [
-        "Thriller",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/jqUuc0hkNrrcmp2XWbi859RAwDb.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "hi",
-        "en"
-      ],
-      "duracao": 123,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1453407/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39631280/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Gajab%20Raat",
-        "metacritic": "https://www.metacritic.com/search/Gajab%20Raat/"
       }
     },
     {
@@ -968,6 +1005,71 @@
         "imdb": "https://www.imdb.com/title/tt40311603/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ghosts%3A%20The%20Possession%20of%20Button%20House",
         "metacritic": "https://www.metacritic.com/search/Ghosts%3A%20The%20Possession%20of%20Button%20House/"
+      }
+    },
+    {
+      "tmdb_id": 1453407,
+      "imdb_id": "tt39631280",
+      "titulo_original": "ग़ज़ब रात",
+      "titulo_ingles": "Gajab Raat",
+      "ano": 2026,
+      "data_lancamento": "2026-10-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "Manoj Bajpayee lidera o elenco no papel de um homem moralmente ambíguo que precisa salvar uma mulher e expor uma conspiração mortal em uma noite implacável.",
+      "elenco": [
+        "मनोज बाजपेयी",
+        "Divya Dutta",
+        "Akshay Oberoi",
+        "Saqib Saleem",
+        "Shraddha Das",
+        "Rajiv Gupta",
+        "Aditi Sandhya Sharma",
+        "Nushrratt Bharuccha"
+      ],
+      "diretor": "Ritesh Shah",
+      "generos": [
+        "Thriller",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/jqUuc0hkNrrcmp2XWbi859RAwDb.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "hi",
+        "en"
+      ],
+      "duracao": 123,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1453407/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39631280/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Gajab%20Raat",
+        "metacritic": "https://www.metacritic.com/search/Gajab%20Raat/"
       }
     },
     {
@@ -1254,69 +1356,6 @@
       }
     },
     {
-      "tmdb_id": 1620918,
-      "imdb_id": "tt44822485",
-      "titulo_original": "Norm: The Tale of Norm Macdonald",
-      "titulo_ingles": "Norm: The Tale of Norm Macdonald",
-      "ano": 2026,
-      "data_lancamento": "2026-10-16",
-      "data_qualificacao": "",
-      "sinopse_pt": "O documentário de Judd Apatow sobre Norm Macdonald usa imagens de arquivo, fotos e vídeos caseiros para narrar a carreira da lenda do SNL - do âncora do \"Weekend Update\" ao mestre da comédia absurda e inexpressiva cuja influência perdura.",
-      "elenco": [
-        "Norm Macdonald",
-        "Adam Sandler",
-        "David Letterman",
-        "Jim Carrey",
-        "Jane Fonda",
-        "Sarah Silverman",
-        "Conan O'Brien",
-        "Harland Williams"
-      ],
-      "diretor": "Judd Apatow",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 127,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1620918-norm-the-tale-of-norm-macdonald/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt44822485/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Norm%3A%20The%20Tale%20of%20Norm%20Macdonald",
-        "metacritic": "https://www.metacritic.com/search/Norm%3A%20The%20Tale%20of%20Norm%20Macdonald/"
-      }
-    },
-    {
       "tmdb_id": 1561726,
       "imdb_id": "tt38672588",
       "titulo_original": "Masterplan",
@@ -1385,6 +1424,120 @@
       }
     },
     {
+      "tmdb_id": 1620918,
+      "imdb_id": "tt44822485",
+      "titulo_original": "Norm: The Tale of Norm Macdonald",
+      "titulo_ingles": "Norm: The Tale of Norm Macdonald",
+      "ano": 2026,
+      "data_lancamento": "2026-10-16",
+      "data_qualificacao": "",
+      "sinopse_pt": "O documentário de Judd Apatow sobre Norm Macdonald usa imagens de arquivo, fotos e vídeos caseiros para narrar a carreira da lenda do SNL - do âncora do \"Weekend Update\" ao mestre da comédia absurda e inexpressiva cuja influência perdura.",
+      "elenco": [
+        "Norm Macdonald",
+        "Adam Sandler",
+        "David Letterman",
+        "Jim Carrey",
+        "Jane Fonda",
+        "Sarah Silverman",
+        "Conan O'Brien",
+        "Harland Williams"
+      ],
+      "diretor": "Judd Apatow",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 127,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1620918-norm-the-tale-of-norm-macdonald/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt44822485/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Norm%3A%20The%20Tale%20of%20Norm%20Macdonald",
+        "metacritic": "https://www.metacritic.com/search/Norm%3A%20The%20Tale%20of%20Norm%20Macdonald/"
+      }
+    },
+    {
+      "tmdb_id": 1438966,
+      "imdb_id": "tt36411726",
+      "titulo_original": "Je so’ pazzo",
+      "titulo_ingles": "Je so’ pazzo",
+      "ano": 2026,
+      "data_lancamento": "2026-10-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Massimiliano Caiazzo",
+        "Mariasole Pollio",
+        "Giovanni Ludeno",
+        "Giuseppe Brunetti",
+        "Leonardo Bianconi",
+        "Giampiero De Concilio",
+        "Antonia Truppo",
+        "Monica Nappo"
+      ],
+      "diretor": "Nicola Prosatore",
+      "generos": [
+        "Drama",
+        "Música"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 120,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36411726/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Je%20so%E2%80%99%20pazzo",
+        "metacritic": "https://www.metacritic.com/search/Je%20so%E2%80%99%20pazzo/"
+      }
+    },
+    {
       "tmdb_id": 1623256,
       "imdb_id": "tt37070354",
       "titulo_original": "Stormen",
@@ -1449,57 +1602,6 @@
       }
     },
     {
-      "tmdb_id": 1438966,
-      "imdb_id": "tt36411726",
-      "titulo_original": "Je so’ pazzo",
-      "titulo_ingles": "Je so’ pazzo",
-      "ano": 2026,
-      "data_lancamento": "2026-10-15",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Massimiliano Caiazzo",
-        "Mariasole Pollio",
-        "Giovanni Ludeno",
-        "Giuseppe Brunetti",
-        "Leonardo Bianconi",
-        "Giampiero De Concilio",
-        "Antonia Truppo",
-        "Monica Nappo"
-      ],
-      "diretor": "Nicola Prosatore",
-      "generos": [
-        "Drama",
-        "Música"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 120,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36411726/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Je%20so%E2%80%99%20pazzo",
-        "metacritic": "https://www.metacritic.com/search/Je%20so%E2%80%99%20pazzo/"
-      }
-    },
-    {
       "tmdb_id": 1255833,
       "imdb_id": "tt28535715",
       "titulo_original": "Whalefall",
@@ -1547,58 +1649,6 @@
         "imdb": "https://www.imdb.com/title/tt28535715/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Whalefall",
         "metacritic": "https://www.metacritic.com/search/Whalefall/"
-      }
-    },
-    {
-      "tmdb_id": 1234139,
-      "imdb_id": "tt33318732",
-      "titulo_original": "ஜெயிலர் 2",
-      "titulo_ingles": "Jailer 2",
-      "ano": 2026,
-      "data_lancamento": "2026-10-14",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Rajinikanth",
-        "S. J. Suryah",
-        "Suraj Venjaramoodu",
-        "Ramya Krishnan",
-        "Vidya Balan",
-        "Namo Narayana",
-        "யோகி பாபு",
-        "Mirnaa"
-      ],
-      "diretor": "நெல்சன் திலீப்குமார்",
-      "generos": [
-        "Ação",
-        "Comédia",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
-      "pais": [
-        "IN"
-      ],
-      "idiomas": [
-        "ta"
-      ],
-      "duracao": 163,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt33318732/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jailer%202",
-        "metacritic": "https://www.metacritic.com/search/Jailer%202/"
       }
     },
     {
@@ -1651,6 +1701,58 @@
         "imdb": "https://www.imdb.com/title/tt35518109/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Les%20Mis%C3%A9rables",
         "metacritic": "https://www.metacritic.com/search/Les%20Mis%C3%A9rables/"
+      }
+    },
+    {
+      "tmdb_id": 1234139,
+      "imdb_id": "tt33318732",
+      "titulo_original": "ஜெயிலர் 2",
+      "titulo_ingles": "Jailer 2",
+      "ano": 2026,
+      "data_lancamento": "2026-10-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Rajinikanth",
+        "S. J. Suryah",
+        "Suraj Venjaramoodu",
+        "Ramya Krishnan",
+        "Vidya Balan",
+        "Namo Narayana",
+        "யோகி பாபு",
+        "Mirnaa"
+      ],
+      "diretor": "நெல்சன் திலீப்குமார்",
+      "generos": [
+        "Ação",
+        "Comédia",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "ta"
+      ],
+      "duracao": 163,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt33318732/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jailer%202",
+        "metacritic": "https://www.metacritic.com/search/Jailer%202/"
       }
     },
     {
@@ -2176,56 +2278,6 @@
       }
     },
     {
-      "tmdb_id": 1400837,
-      "imdb_id": "tt36586020",
-      "titulo_original": "Other Mommy",
-      "titulo_ingles": "Other Mommy",
-      "ano": 2026,
-      "data_lancamento": "2026-10-07",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
-      "elenco": [
-        "Jessica Chastain",
-        "Jay Duplass",
-        "Arabella Olivia Clark",
-        "Karen Allen",
-        "Arian Moayed",
-        "Dichen Lachman",
-        "Sean Kaufman",
-        "Adam Silver"
-      ],
-      "diretor": "Rob Savage",
-      "generos": [
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/j6eXMsykSZnXJT20YTdsdS9PXPj.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 93,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36586020/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Other%20Mommy",
-        "metacritic": "https://www.metacritic.com/search/Other%20Mommy/"
-      }
-    },
-    {
       "tmdb_id": 1429592,
       "imdb_id": "tt37799310",
       "titulo_original": "Ni vue, ni connue",
@@ -2274,6 +2326,56 @@
         "imdb": "https://www.imdb.com/title/tt37799310/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=All%20About%20Corinne",
         "metacritic": "https://www.metacritic.com/search/All%20About%20Corinne/"
+      }
+    },
+    {
+      "tmdb_id": 1400837,
+      "imdb_id": "tt36586020",
+      "titulo_original": "Other Mommy",
+      "titulo_ingles": "Other Mommy",
+      "ano": 2026,
+      "data_lancamento": "2026-10-07",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma menina de 8 anos, filha de um casal que enfrenta problemas conjugais, encara uma entidade sinistra que sai do seu armário e torna-se cada vez mais ameaçadora para a família.",
+      "elenco": [
+        "Jessica Chastain",
+        "Jay Duplass",
+        "Arabella Olivia Clark",
+        "Karen Allen",
+        "Arian Moayed",
+        "Dichen Lachman",
+        "Sean Kaufman",
+        "Adam Silver"
+      ],
+      "diretor": "Rob Savage",
+      "generos": [
+        "Terror"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/rGebmBZ7QHlbUEaZn3ufiJeyOfQ.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 94,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36586020/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Other%20Mommy",
+        "metacritic": "https://www.metacritic.com/search/Other%20Mommy/"
       }
     },
     {
@@ -2401,117 +2503,6 @@
       }
     },
     {
-      "tmdb_id": 1752355,
-      "imdb_id": "tt39453404",
-      "titulo_original": "Schumacher ’94 – Die Geburt einer Legende",
-      "titulo_ingles": "Schumacher ’94 – The Birth of a Legend",
-      "ano": 2026,
-      "data_lancamento": "2026-10-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "Corinna Schumacher, Flavio Briatore e outros amigos próximos relembram a turbulenta temporada de 1994, que marcou a ascensão de Michael Schumacher como lenda da Fórmula 1.",
-      "elenco": [
-        "Michael Schumacher",
-        "Corinna Schumacher",
-        "Flavio Briatore",
-        "Bernie Ecclestone",
-        "David Coulthard",
-        "Willi Weber",
-        "Kai Ebel",
-        "Heiko Waßer"
-      ],
-      "diretor": "Christin Freitag",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/aAhjUysLbHyzOPbvtczuvYCbA7O.jpg",
-      "pais": [
-        "DE"
-      ],
-      "idiomas": [
-        "de",
-        "en",
-        "tr"
-      ],
-      "duracao": 107,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1752355-schumacher-94-die-geburt-einer-legende/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39453404/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend",
-        "metacritic": "https://www.metacritic.com/search/Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend/"
-      }
-    },
-    {
-      "tmdb_id": 1610703,
-      "imdb_id": "tt35682658",
-      "titulo_original": "Infirmary",
-      "titulo_ingles": "Infirmary",
-      "ano": 2026,
-      "data_lancamento": "2026-10-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
-      "elenco": [
-        "Paul Syre",
-        "Mark Anthony Williams",
-        "Danielle Kennedy",
-        "Corinna Wagner-Smith"
-      ],
-      "diretor": "Nicholas Pineda",
-      "generos": [
-        "Terror"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 85,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35682658/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
-        "metacritic": "https://www.metacritic.com/search/Infirmary/"
-      }
-    },
-    {
       "tmdb_id": 1458857,
       "imdb_id": "tt36429458",
       "titulo_original": "Doing Life",
@@ -2576,38 +2567,84 @@
       }
     },
     {
-      "tmdb_id": 1515692,
-      "imdb_id": "tt44090278",
-      "titulo_original": "பத்தா",
-      "titulo_ingles": "Baththa",
+      "tmdb_id": 1610703,
+      "imdb_id": "tt35682658",
+      "titulo_original": "Infirmary",
+      "titulo_ingles": "Infirmary",
       "ano": 2026,
-      "data_lancamento": "2026-10-01",
+      "data_lancamento": "2026-10-02",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Um guarda desapareceu em sua primeira noite em um antigo hospital psiquiátrico em 2023. Suas imagens de câmera corporal mostram incidentes inexplicáveis que continuam confundindo os investigadores.",
       "elenco": [
-        "Vijay Sethupathi",
-        "Sai Prithviraj",
-        "Lijomol Jose",
-        "Sahasra Sree",
-        "Santhy Balachandran",
-        "Arjun Chidambaram",
-        "Hari Krishnan",
-        "Ajay Ghosh"
+        "Paul Syre",
+        "Mark Anthony Williams",
+        "Danielle Kennedy",
+        "Corinna Wagner-Smith"
       ],
-      "diretor": "Balaji Tharaneetharan",
+      "diretor": "Nicholas Pineda",
       "generos": [
-        "Drama",
-        "Comédia",
-        "Ação"
+        "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/bHiAp8WWHgfUrJmRnoiw4URYGcq.jpg",
       "pais": [
-        "IN"
+        "US"
       ],
       "idiomas": [
-        "ta"
+        "en"
       ],
-      "duracao": 159,
+      "duracao": 85,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35682658/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Infirmary",
+        "metacritic": "https://www.metacritic.com/search/Infirmary/"
+      }
+    },
+    {
+      "tmdb_id": 1752355,
+      "imdb_id": "tt39453404",
+      "titulo_original": "Schumacher ’94 – Die Geburt einer Legende",
+      "titulo_ingles": "Schumacher ’94 – The Birth of a Legend",
+      "ano": 2026,
+      "data_lancamento": "2026-10-02",
+      "data_qualificacao": "",
+      "sinopse_pt": "Corinna Schumacher, Flavio Briatore e outros amigos próximos relembram a turbulenta temporada de 1994, que marcou a ascensão de Michael Schumacher como lenda da Fórmula 1.",
+      "elenco": [
+        "Michael Schumacher",
+        "Corinna Schumacher",
+        "Flavio Briatore",
+        "Bernie Ecclestone",
+        "David Coulthard",
+        "Willi Weber",
+        "Kai Ebel",
+        "Heiko Waßer"
+      ],
+      "diretor": "Christin Freitag",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/aAhjUysLbHyzOPbvtczuvYCbA7O.jpg",
+      "pais": [
+        "DE"
+      ],
+      "idiomas": [
+        "de",
+        "en",
+        "tr"
+      ],
+      "duracao": 107,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2632,63 +2669,12 @@
             "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
           }
         ],
-        "link_br": "https://www.themoviedb.org/movie/1515692/watch?locale=BR"
+        "link_br": "https://www.themoviedb.org/movie/1752355-schumacher-94-die-geburt-einer-legende/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt44090278/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Baththa",
-        "metacritic": "https://www.metacritic.com/search/Baththa/"
-      }
-    },
-    {
-      "tmdb_id": 1283515,
-      "imdb_id": "tt32261958",
-      "titulo_original": "Verity",
-      "titulo_ingles": "Verity",
-      "ano": 2026,
-      "data_lancamento": "2026-09-30",
-      "data_qualificacao": "",
-      "sinopse_pt": "A escritora Lowen Ashleigh está à beira da falência quando aceita a oportunidade de sua vida: completar os livros restantes de uma série de sucesso que Verity Crawford, autora de thrillers best-sellers, não consegue terminar após um acidente misterioso. Ao chegar à luxuosa propriedade dos Crawford, Ashleigh percebe gradualmente que as coisas não são exatamente o que parecem.",
-      "elenco": [
-        "Dakota Johnson",
-        "Anne Hathaway",
-        "Josh Hartnett",
-        "Brady Wagner",
-        "Ismael Cruz Cordova",
-        "Ірина Дворовенко",
-        "Sienna Kulovitz",
-        "K.K. Moggie"
-      ],
-      "diretor": "Michael Showalter",
-      "generos": [
-        "Mistério",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/fy7q7xcyUjHXiKRuYblhcUTgBn0.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 117,
-      "rt_critica": 31,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": 31,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32261958/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Verity",
-        "metacritic": "https://www.metacritic.com/search/Verity/"
+        "imdb": "https://www.imdb.com/title/tt39453404/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend",
+        "metacritic": "https://www.metacritic.com/search/Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend/"
       }
     },
     {
@@ -2817,7 +2803,7 @@
         "Maryna Bennett",
         "Noen Perez"
       ],
-      "diretor": "Peter Spierig, Michael Spierig",
+      "diretor": "Michael Spierig, Peter Spierig",
       "generos": [
         "Thriller"
       ],
