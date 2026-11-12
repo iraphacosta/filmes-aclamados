@@ -1,7 +1,110 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-11T17:18:53.091Z",
+  "gerado_em": "2026-11-12T17:40:38.712Z",
   "filmes": [
+    {
+      "tmdb_id": 1583853,
+      "imdb_id": "tt38984314",
+      "titulo_original": "Se domani non torno",
+      "titulo_ingles": "Se domani non torno",
+      "ano": 2026,
+      "data_lancamento": "2026-11-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Sabrina Martina",
+        "Filippo Timi",
+        "Tecla Bossi",
+        "Tommaso Allione",
+        "Massimo Scola",
+        "Carmen Lorenzo",
+        "Marianna Caporali",
+        "Filippo Sottoriva"
+      ],
+      "diretor": "Paola Randi",
+      "generos": [
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 107,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38984314/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Se%20domani%20non%20torno",
+        "metacritic": "https://www.metacritic.com/search/Se%20domani%20non%20torno/"
+      }
+    },
+    {
+      "tmdb_id": 1402181,
+      "imdb_id": "tt38192494",
+      "titulo_original": "சீன்",
+      "titulo_ingles": "Scene",
+      "ano": 2026,
+      "data_lancamento": "2026-11-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "சூர்யா",
+        "നസ്രിയ നസീം",
+        "Naslen",
+        "Anandaraj",
+        "Suresh Mathiyalagan",
+        "Lal",
+        "Raj Priyan",
+        "Rajalakshmi"
+      ],
+      "diretor": "Jithu Madhavan",
+      "generos": [
+        "Comédia",
+        "Crime",
+        "Romance",
+        "Ação"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/1vjVJKpdT6gha7cpkmDJODpk8mU.jpg",
+      "pais": [
+        "IN"
+      ],
+      "idiomas": [
+        "ta"
+      ],
+      "duracao": 149,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38192494/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Scene",
+        "metacritic": "https://www.metacritic.com/search/Scene/"
+      }
+    },
     {
       "tmdb_id": 1654940,
       "imdb_id": "tt39400541",
@@ -69,107 +172,6 @@
       }
     },
     {
-      "tmdb_id": 1583853,
-      "imdb_id": "tt38984314",
-      "titulo_original": "Se domani non torno",
-      "titulo_ingles": "Se domani non torno",
-      "ano": 2026,
-      "data_lancamento": "2026-11-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Sabrina Martina",
-        "Filippo Timi",
-        "Tecla Bossi",
-        "Tommaso Allione",
-        "Massimo Scola",
-        "Carmen Lorenzo",
-        "Marianna Caporali",
-        "Filippo Sottoriva"
-      ],
-      "diretor": "Paola Randi",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 107,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38984314/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Se%20domani%20non%20torno",
-        "metacritic": "https://www.metacritic.com/search/Se%20domani%20non%20torno/"
-      }
-    },
-    {
-      "tmdb_id": 1003494,
-      "imdb_id": "tt35494574",
-      "titulo_original": "L’Affaire Marie-Claire",
-      "titulo_ingles": "Women on Trial",
-      "ano": 2026,
-      "data_lancamento": "2026-11-04",
-      "data_qualificacao": "",
-      "sinopse_pt": "Novembro de 1972. Um julgamento histórico no tribunal de Bobigny mobiliza a França. Marie-Claire Chevalier, de 16 anos, é acusada de realizar um aborto ilegal. Sua mãe e as mulheres que a ajudaram também vão a julgamento. A advogada, Gisèle Halimi, assume um risco inédito: em vez de declarar suas clientes culpadas, coloca a própria lei no banco dos réus, desafiando o sistema e arriscando tudo.",
-      "elenco": [
-        "Charlotte Gainsbourg",
-        "Cécile de France",
-        "Grégory Gadebois",
-        "Saül Benchetrit",
-        "Sarah Suco",
-        "Florence Loiret Caille",
-        "Xavier Robic",
-        "Quentin Gouverneur"
-      ],
-      "diretor": "Lauriane Escaffre, Yvo Muller",
-      "generos": [
-        "História",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eJyYB3D5YeJp20r3yZFwQW23Rp3.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 102,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35494574/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Women%20on%20Trial",
-        "metacritic": "https://www.metacritic.com/search/Women%20on%20Trial/"
-      }
-    },
-    {
       "tmdb_id": 1570488,
       "imdb_id": "tt38515310",
       "titulo_original": "A Dog's Perfect Christmas",
@@ -231,6 +233,57 @@
         "imdb": "https://www.imdb.com/title/tt38515310/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Dog's%20Perfect%20Christmas",
         "metacritic": "https://www.metacritic.com/search/A%20Dog's%20Perfect%20Christmas/"
+      }
+    },
+    {
+      "tmdb_id": 1003494,
+      "imdb_id": "tt35494574",
+      "titulo_original": "L’Affaire Marie-Claire",
+      "titulo_ingles": "Women on Trial",
+      "ano": 2026,
+      "data_lancamento": "2026-11-04",
+      "data_qualificacao": "",
+      "sinopse_pt": "Novembro de 1972. Um julgamento histórico no tribunal de Bobigny mobiliza a França. Marie-Claire Chevalier, de 16 anos, é acusada de realizar um aborto ilegal. Sua mãe e as mulheres que a ajudaram também vão a julgamento. A advogada, Gisèle Halimi, assume um risco inédito: em vez de declarar suas clientes culpadas, coloca a própria lei no banco dos réus, desafiando o sistema e arriscando tudo.",
+      "elenco": [
+        "Charlotte Gainsbourg",
+        "Cécile de France",
+        "Grégory Gadebois",
+        "Saül Benchetrit",
+        "Sarah Suco",
+        "Florence Loiret Caille",
+        "Xavier Robic",
+        "Quentin Gouverneur"
+      ],
+      "diretor": "Lauriane Escaffre, Yvo Muller",
+      "generos": [
+        "História",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eJyYB3D5YeJp20r3yZFwQW23Rp3.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 102,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35494574/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Women%20on%20Trial",
+        "metacritic": "https://www.metacritic.com/search/Women%20on%20Trial/"
       }
     },
     {
@@ -720,37 +773,38 @@
       }
     },
     {
-      "tmdb_id": 1544163,
-      "imdb_id": "tt39969491",
-      "titulo_original": "Quelques mots d'amour",
-      "titulo_ingles": "Words of Love",
+      "tmdb_id": 1430841,
+      "imdb_id": "tt37740990",
+      "titulo_original": "Le fantôme de l'opéra",
+      "titulo_ingles": "The Phantom of the Opera",
       "ano": 2026,
       "data_lancamento": "2026-10-28",
       "data_qualificacao": "",
       "sinopse_pt": "",
       "elenco": [
-        "Hafsia Herzi",
-        "Nour Salam",
-        "Ella Bedoucha",
-        "Aïdan Djouadi",
-        "Mateo Danila",
-        "Charlie Lugassy",
-        "Eden Sarfati",
-        "Paulette Chetrit"
+        "Deva Cassel",
+        "Julien de Saint Jean",
+        "Romain Duris",
+        "Dorothée Gilbert",
+        "Axel Auriant",
+        "Laïka Blanc-Francard",
+        "Guillaume Diop",
+        "Florence Banks"
       ],
-      "diretor": "Rudi Rosenberg",
+      "diretor": "Alexandre Castagnetti",
       "generos": [
-        "Comédia",
-        "Drama"
+        "Thriller",
+        "Romance",
+        "Mistério"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/lUSCFTt9YWRbDG6kkUQBIUZ0IFc.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/2aU9dLDES0IdxB4sGYeeoJ7DOjA.jpg",
       "pais": [
         "FR"
       ],
       "idiomas": [
         "fr"
       ],
-      "duracao": 95,
+      "duracao": 134,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -765,9 +819,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt39969491/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Words%20of%20Love",
-        "metacritic": "https://www.metacritic.com/search/Words%20of%20Love/"
+        "imdb": "https://www.imdb.com/title/tt37740990/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Phantom%20of%20the%20Opera",
+        "metacritic": "https://www.metacritic.com/search/The%20Phantom%20of%20the%20Opera/"
       }
     },
     {
@@ -826,38 +880,37 @@
       }
     },
     {
-      "tmdb_id": 1430841,
-      "imdb_id": "tt37740990",
-      "titulo_original": "Le fantôme de l'opéra",
-      "titulo_ingles": "The Phantom of the Opera",
+      "tmdb_id": 1544163,
+      "imdb_id": "tt39969491",
+      "titulo_original": "Quelques mots d'amour",
+      "titulo_ingles": "Words of Love",
       "ano": 2026,
       "data_lancamento": "2026-10-28",
       "data_qualificacao": "",
       "sinopse_pt": "",
       "elenco": [
-        "Deva Cassel",
-        "Julien de Saint Jean",
-        "Romain Duris",
-        "Dorothée Gilbert",
-        "Axel Auriant",
-        "Laïka Blanc-Francard",
-        "Guillaume Diop",
-        "Florence Banks"
+        "Hafsia Herzi",
+        "Nour Salam",
+        "Ella Bedoucha",
+        "Aïdan Djouadi",
+        "Mateo Danila",
+        "Charlie Lugassy",
+        "Eden Sarfati",
+        "Paulette Chetrit"
       ],
-      "diretor": "Alexandre Castagnetti",
+      "diretor": "Rudi Rosenberg",
       "generos": [
-        "Thriller",
-        "Romance",
-        "Mistério"
+        "Comédia",
+        "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/2aU9dLDES0IdxB4sGYeeoJ7DOjA.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lUSCFTt9YWRbDG6kkUQBIUZ0IFc.jpg",
       "pais": [
         "FR"
       ],
       "idiomas": [
         "fr"
       ],
-      "duracao": 134,
+      "duracao": 95,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -872,9 +925,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt37740990/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Phantom%20of%20the%20Opera",
-        "metacritic": "https://www.metacritic.com/search/The%20Phantom%20of%20the%20Opera/"
+        "imdb": "https://www.imdb.com/title/tt39969491/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Words%20of%20Love",
+        "metacritic": "https://www.metacritic.com/search/Words%20of%20Love/"
       }
     },
     {
@@ -941,68 +994,6 @@
         "imdb": "https://www.imdb.com/title/tt37180686/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Drive%20-%20The%20Pretenders",
         "metacritic": "https://www.metacritic.com/search/Drive%20-%20The%20Pretenders/"
-      }
-    },
-    {
-      "tmdb_id": 1780005,
-      "imdb_id": "tt37961714",
-      "titulo_original": "Contra el huracán",
-      "titulo_ingles": "Surviving Hurricane Otis",
-      "ano": 2026,
-      "data_lancamento": "2026-10-23",
-      "data_qualificacao": "",
-      "sinopse_pt": "No meio do mar, Wirpul e seu meio-irmão Candi lutam pela sobrevivência quando uma tempestade inesperada se transforma no furacão Otis, um furacão de categoria 5, na costa de Acapulco.",
-      "elenco": [
-        "Benny Emmanuel",
-        "Kristyan Ferrer",
-        "Mónica del Carmen",
-        "Mónica Jiménez",
-        "Andrew Leland Rogers",
-        "Gonzalo Vega Jr.",
-        "Daira Mendoza"
-      ],
-      "diretor": "Jorge Michel Grau",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/aAkMQit6uVKpBMbIP8HsJrgXlGG.jpg",
-      "pais": [
-        "MX"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1780005-contra-el-huracan/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37961714/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Surviving%20Hurricane%20Otis",
-        "metacritic": "https://www.metacritic.com/search/Surviving%20Hurricane%20Otis/"
       }
     },
     {
@@ -1120,6 +1111,68 @@
         "imdb": "https://www.imdb.com/title/tt40311603/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ghosts%3A%20The%20Possession%20of%20Button%20House",
         "metacritic": "https://www.metacritic.com/search/Ghosts%3A%20The%20Possession%20of%20Button%20House/"
+      }
+    },
+    {
+      "tmdb_id": 1780005,
+      "imdb_id": "tt37961714",
+      "titulo_original": "Contra el huracán",
+      "titulo_ingles": "Surviving Hurricane Otis",
+      "ano": 2026,
+      "data_lancamento": "2026-10-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "No meio do mar, Wirpul e seu meio-irmão Candi lutam pela sobrevivência quando uma tempestade inesperada se transforma no furacão Otis, um furacão de categoria 5, na costa de Acapulco.",
+      "elenco": [
+        "Benny Emmanuel",
+        "Kristyan Ferrer",
+        "Mónica del Carmen",
+        "Mónica Jiménez",
+        "Andrew Leland Rogers",
+        "Gonzalo Vega Jr.",
+        "Daira Mendoza"
+      ],
+      "diretor": "Jorge Michel Grau",
+      "generos": [
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/aAkMQit6uVKpBMbIP8HsJrgXlGG.jpg",
+      "pais": [
+        "MX"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1780005-contra-el-huracan/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37961714/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Surviving%20Hurricane%20Otis",
+        "metacritic": "https://www.metacritic.com/search/Surviving%20Hurricane%20Otis/"
       }
     },
     {
@@ -1537,6 +1590,57 @@
       }
     },
     {
+      "tmdb_id": 1438966,
+      "imdb_id": "tt36411726",
+      "titulo_original": "Je so’ pazzo",
+      "titulo_ingles": "Je so’ pazzo",
+      "ano": 2026,
+      "data_lancamento": "2026-10-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Massimiliano Caiazzo",
+        "Mariasole Pollio",
+        "Giovanni Ludeno",
+        "Giuseppe Brunetti",
+        "Leonardo Bianconi",
+        "Giampiero De Concilio",
+        "Antonia Truppo",
+        "Monica Nappo"
+      ],
+      "diretor": "Nicola Prosatore",
+      "generos": [
+        "Drama",
+        "Música"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 120,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36411726/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Je%20so%E2%80%99%20pazzo",
+        "metacritic": "https://www.metacritic.com/search/Je%20so%E2%80%99%20pazzo/"
+      }
+    },
+    {
       "tmdb_id": 1623256,
       "imdb_id": "tt37070354",
       "titulo_original": "Stormen",
@@ -1598,57 +1702,6 @@
         "imdb": "https://www.imdb.com/title/tt37070354/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Storm",
         "metacritic": "https://www.metacritic.com/search/The%20Storm/"
-      }
-    },
-    {
-      "tmdb_id": 1438966,
-      "imdb_id": "tt36411726",
-      "titulo_original": "Je so’ pazzo",
-      "titulo_ingles": "Je so’ pazzo",
-      "ano": 2026,
-      "data_lancamento": "2026-10-15",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Massimiliano Caiazzo",
-        "Mariasole Pollio",
-        "Giovanni Ludeno",
-        "Giuseppe Brunetti",
-        "Leonardo Bianconi",
-        "Giampiero De Concilio",
-        "Antonia Truppo",
-        "Monica Nappo"
-      ],
-      "diretor": "Nicola Prosatore",
-      "generos": [
-        "Drama",
-        "Música"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eDfWOV5oad5wbI8AdzsMhnq7Zbd.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 120,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt36411726/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Je%20so%E2%80%99%20pazzo",
-        "metacritic": "https://www.metacritic.com/search/Je%20so%E2%80%99%20pazzo/"
       }
     },
     {
@@ -1778,7 +1831,7 @@
         "Comédia",
         "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/1ei2UWNDRx5xKR7HjvEj17qExvL.jpg",
       "pais": [
         "IN"
       ],
@@ -1820,7 +1873,7 @@
         "Callina Liang",
         "David Dastmalchian",
         "Andrew Schulz",
-        "Joe Anoa'i",
+        "Roman Reigns",
         "Cody Rhodes",
         "Jason Momoa"
       ],
@@ -2349,7 +2402,7 @@
       "generos": [
         "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/rGebmBZ7QHlbUEaZn3ufiJeyOfQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/hiuBB4ZqGbL7uihdVPUahFtg7Zr.jpg",
       "pais": [
         "US"
       ],
@@ -2374,57 +2427,6 @@
         "imdb": "https://www.imdb.com/title/tt36586020/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Other%20Mommy",
         "metacritic": "https://www.metacritic.com/search/Other%20Mommy/"
-      }
-    },
-    {
-      "tmdb_id": 1429592,
-      "imdb_id": "tt37799310",
-      "titulo_original": "Ni vue, ni connue",
-      "titulo_ingles": "All About Corinne",
-      "ano": 2026,
-      "data_lancamento": "2026-10-07",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Isabelle Huppert",
-        "Sandrine Kiberlain",
-        "Anne Marivin",
-        "Vincent Dedienne",
-        "Diane Kruger",
-        "Emmanuelle Bercot",
-        "Thomas Jolly",
-        "Ana Girardot"
-      ],
-      "diretor": "Marc Fitoussi",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/GcKNC7T2iYGwUxTXqpmKmIJQ2l.jpg",
-      "pais": [
-        "FR",
-        "BE"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 115,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37799310/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=All%20About%20Corinne",
-        "metacritic": "https://www.metacritic.com/search/All%20About%20Corinne/"
       }
     },
     {
@@ -2493,97 +2495,41 @@
       }
     },
     {
-      "tmdb_id": 1788735,
-      "imdb_id": "tt43665190",
-      "titulo_original": "Family Guy Happy Hell-o-ween",
-      "titulo_ingles": "Family Guy Happy Hell-o-ween",
+      "tmdb_id": 1244523,
+      "imdb_id": "tt10377864",
+      "titulo_original": "Beware Boiúna",
+      "titulo_ingles": "Beware Boiúna",
       "ano": 2026,
-      "data_lancamento": "2026-10-05",
+      "data_lancamento": "2026-10-01",
       "data_qualificacao": "",
-      "sinopse_pt": "Após uma morte inesperada, Stewie e Brian vão para o Inferno. A dupla enche tanto o saco do Diabo que ele pede as contas e deixa os dois no comando.",
+      "sinopse_pt": "Um grupo de jovens médicos embarca em missão humanitária na Amazônia, cada um com seus próprios interesses ocultos. No entanto, nem todos recebem bem a chegada do grupo, e a visita deles desperta um predador ancestral: a Boiúna. A criatura mítica retorna para defender seu território. Em meio à selva densa, trava-se uma luta pela sobrevivência, e as fronteiras entre caçador e presa, herói e vilão, tornam-se cada vez mais tênues.",
       "elenco": [
-        "Seth MacFarlane",
-        "Kieran Culkin",
-        "Alex Borstein",
-        "Seth Green",
-        "Mila Kunis",
-        "Patrick Warburton",
-        "Arif Zahir"
+        "Kiana Madeira",
+        "Jessica Rothe",
+        "Will Close",
+        "Juan Pablo Shuk",
+        "Logan Marshall-Green",
+        "Jaime Newball",
+        "Jackson Bews",
+        "Tonfy Andoque"
       ],
-      "diretor": "Joe Vaux",
+      "diretor": "Mike P. Nelson",
       "generos": [
-        "Animação",
         "Terror",
-        "Comédia"
+        "Thriller",
+        "Ação"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/r2HKWQ4kCQsEEsCAQGn5qsl4H29.jpg",
       "pais": [
-        "US"
+        "US",
+        "DE",
+        "CO"
       ],
       "idiomas": [
-        "en"
-      ],
-      "duracao": 23,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1788735-family-guy-happy-hell-o-ween/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43665190/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Family%20Guy%20Happy%20Hell-o-ween",
-        "metacritic": "https://www.metacritic.com/search/Family%20Guy%20Happy%20Hell-o-ween/"
-      }
-    },
-    {
-      "tmdb_id": 1752355,
-      "imdb_id": "tt39453404",
-      "titulo_original": "Schumacher ’94 – Die Geburt einer Legende",
-      "titulo_ingles": "Schumacher ’94 – The Birth of a Legend",
-      "ano": 2026,
-      "data_lancamento": "2026-10-02",
-      "data_qualificacao": "",
-      "sinopse_pt": "Corinna Schumacher, Flavio Briatore e outros amigos próximos relembram a turbulenta temporada de 1994, que marcou a ascensão de Michael Schumacher como lenda da Fórmula 1.",
-      "elenco": [
-        "Michael Schumacher",
-        "Corinna Schumacher",
-        "Flavio Briatore",
-        "Bernie Ecclestone",
-        "David Coulthard",
-        "Willi Weber",
-        "Kai Ebel",
-        "Heiko Waßer"
-      ],
-      "diretor": "Christin Freitag",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/aAhjUysLbHyzOPbvtczuvYCbA7O.jpg",
-      "pais": [
-        "DE"
-      ],
-      "idiomas": [
-        "de",
         "en",
-        "tr"
+        "pt"
       ],
-      "duracao": 107,
+      "duracao": 103,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2595,25 +2541,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1752355-schumacher-94-die-geburt-einer-legende/watch?locale=BR"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt39453404/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend",
-        "metacritic": "https://www.metacritic.com/search/Schumacher%20%E2%80%9994%20%E2%80%93%20The%20Birth%20of%20a%20Legend/"
+        "imdb": "https://www.imdb.com/title/tt10377864/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Beware%20Boi%C3%BAna",
+        "metacritic": "https://www.metacritic.com/search/Beware%20Boi%C3%BAna/"
       }
     },
     {
@@ -2630,7 +2563,8 @@
         "Anthony Bajon",
         "Mélanie Laurent",
         "Carole Bouquet",
-        "Gwendal Kerdelhue"
+        "Gwendal Kerdelhue",
+        "Antoine Signac"
       ],
       "diretor": "Tristan Séguéla",
       "generos": [
@@ -2687,7 +2621,7 @@
       "data_qualificacao": "",
       "sinopse_pt": "Um transportador de elite embarca em uma missão urgente: entregar um órgão vital para salvar a vida de uma garotinha de sete anos. O que parecia ser uma tarefa objetiva logo se transforma em uma corrida frenética contra o tempo quando uma perigosa organização criminosa entra em cena para impedir o sucesso da entrega.",
       "elenco": [
-        "Alan Ritchson",
+        "Alan Michael Ritchson",
         "Owen Wilson",
         "Rodrigo Santoro",
         "Leila George",
@@ -3312,6 +3246,60 @@
       }
     },
     {
+      "tmdb_id": 1404684,
+      "imdb_id": "tt36842933",
+      "titulo_original": "Juste une illusion",
+      "titulo_ingles": "Just an Illusion",
+      "ano": 2026,
+      "data_lancamento": "2026-04-15",
+      "data_qualificacao": "",
+      "sinopse_pt": "Em 1985, Vincent, prestes a completar 13 anos, vive em uma família de classe média na periferia de Paris, entre um irmão mais velho e pais em conflito constante. Nesse universo instável entre a infância e a adolescência, surgem as primeiras questões sobre identidade, família, amizade e religião, e os primeiros impulsos amorosos que começam a redesenhar sua relação com o mundo.",
+      "elenco": [
+        "Louis Garrel",
+        "Camille Cottin",
+        "Simon Boublil",
+        "Alexis Rosenstiehl",
+        "Pierre Lottin",
+        "Jeanne Lamartine",
+        "Rony Kramer",
+        "Giorgia Sinicorni"
+      ],
+      "diretor": "Olivier Nakache, Éric Toledano",
+      "generos": [
+        "Comédia",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/t900fOIoXaIfztfBQqLunAysfTH.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr",
+        "en",
+        "it",
+        "he"
+      ],
+      "duracao": 118,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt36842933/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Just%20an%20Illusion",
+        "metacritic": "https://www.metacritic.com/search/Just%20an%20Illusion/"
+      }
+    },
+    {
       "tmdb_id": 1217931,
       "imdb_id": "tt29762861",
       "titulo_original": "Vampires of the Velvet Lounge",
@@ -3371,58 +3359,6 @@
       }
     },
     {
-      "tmdb_id": 1315657,
-      "imdb_id": "tt32888226",
-      "titulo_original": "Gelbe Briefe",
-      "titulo_ingles": "Yellow Letters",
-      "ano": 2026,
-      "data_lancamento": "2026-03-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "Em Ancara, Derya e Aziz formam um respeitado casal de artistas: ela é atriz, ele é dramaturgo e professor. Durante a estreia de uma nova peça, um gesto de desobediência os coloca sob investigação do Estado. Em poucos dias, perdem o trabalho e a casa e precisam se mudar com a filha adolescente para Istambul. À medida que o dinheiro escasseia e a pressão autoritária invade a vida doméstica, suas convicções, o casamento e o futuro da família são postos à prova.",
-      "elenco": [
-        "Özgü Namal",
-        "Tansu Biçer",
-        "İpek Bilgin",
-        "Leyla Smyrna Cabas",
-        "Kerem Can",
-        "Yusuf Akgün",
-        "Emre Bakar",
-        "Aziz Çapkurt"
-      ],
-      "diretor": "İlker Çatak",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vmj5omYa1lSckKxFJcuWr7FJPNk.jpg",
-      "pais": [
-        "FR",
-        "DE",
-        "TR"
-      ],
-      "idiomas": [
-        "tr"
-      ],
-      "duracao": 127,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt32888226/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Yellow%20Letters",
-        "metacritic": "https://www.metacritic.com/search/Yellow%20Letters/"
-      }
-    },
-    {
       "tmdb_id": 1510325,
       "imdb_id": "tt36454256",
       "titulo_original": "Gioia mia",
@@ -3470,6 +3406,59 @@
         "imdb": "https://www.imdb.com/title/tt36454256/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Sweetheart",
         "metacritic": "https://www.metacritic.com/search/Sweetheart/"
+      }
+    },
+    {
+      "tmdb_id": 1176932,
+      "imdb_id": "tt35300281",
+      "titulo_original": "Ein Mädchen namens Willow",
+      "titulo_ingles": "A Girl Named Willow",
+      "ano": 2025,
+      "data_lancamento": "2025-02-27",
+      "data_qualificacao": "",
+      "sinopse_pt": "O que Willow deve fazer com uma floresta que herdou de sua tia-avó Alwina? E não só isso- Alwina também deixou para Willow uma pequena casa e, acima de tudo, sua bruxaria. Mas será que Willow realmente quer aceitar essa herança e tudo que vem com ela? Alem disso, ela precisa encontrar outras três meninas que possuem o dom da magia e, juntas, salvar a floresta.",
+      "elenco": [
+        "Ava Petsch",
+        "Cora Trube",
+        "Anna von Seld",
+        "Mary Tölle",
+        "Golo Euler",
+        "Diana Amft",
+        "Melika Foroutan",
+        "Michael Ostrowski"
+      ],
+      "diretor": "Mike Marzuk",
+      "generos": [
+        "Família",
+        "Aventura",
+        "Fantasia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/pBEDFBQtoxuUqlGbwi5G9atyrrt.jpg",
+      "pais": [
+        "DE",
+        "AT"
+      ],
+      "idiomas": [
+        "de"
+      ],
+      "duracao": 100,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "cinema"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35300281/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Girl%20Named%20Willow",
+        "metacritic": "https://www.metacritic.com/search/A%20Girl%20Named%20Willow/"
       }
     }
   ]
