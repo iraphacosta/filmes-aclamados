@@ -1,71 +1,7 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-19T18:26:00.115Z",
+  "gerado_em": "2026-11-20T17:55:20.728Z",
   "filmes": [
-    {
-      "tmdb_id": 1551025,
-      "imdb_id": "tt6611324",
-      "titulo_original": "Guarding Stars",
-      "titulo_ingles": "Guarding Stars",
-      "ano": 2026,
-      "data_lancamento": "2026-11-18",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma guarda-costas pragmática tem que proteger um ator de Hollywood durante as festas de fim de ano, mas o clima esquenta, segredos vêm à tona e o Natal fica bem mais complicado.",
-      "elenco": [
-        "Leighton Meester",
-        "Jared Padalecki",
-        "Andie MacDowell",
-        "Walker Hayes",
-        "Noah LaLonde",
-        "Toby Sandeman",
-        "Phil Brooks",
-        "Ava Max"
-      ],
-      "diretor": "Elizabeth Allen Rosenbaum",
-      "generos": [
-        "Romance",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/lcjabMgrRfWGs81vq9vGK0tERDo.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 109,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1551025-guarding-stars/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt6611324/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Guarding%20Stars",
-        "metacritic": "https://www.metacritic.com/search/Guarding%20Stars/"
-      }
-    },
     {
       "tmdb_id": 1131943,
       "imdb_id": "tt24818230",
@@ -132,6 +68,70 @@
       }
     },
     {
+      "tmdb_id": 1551025,
+      "imdb_id": "tt6611324",
+      "titulo_original": "Guarding Stars",
+      "titulo_ingles": "Guarding Stars",
+      "ano": 2026,
+      "data_lancamento": "2026-11-18",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma guarda-costas pragmática tem que proteger um ator de Hollywood durante as festas de fim de ano, mas o clima esquenta, segredos vêm à tona e o Natal fica bem mais complicado.",
+      "elenco": [
+        "Leighton Meester",
+        "Jared Padalecki",
+        "Andie MacDowell",
+        "Walker Hayes",
+        "Noah LaLonde",
+        "Toby Sandeman",
+        "Phil Brooks",
+        "Ava Max"
+      ],
+      "diretor": "Elizabeth Allen Rosenbaum",
+      "generos": [
+        "Romance",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/lcjabMgrRfWGs81vq9vGK0tERDo.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 109,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1551025-guarding-stars/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt6611324/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Guarding%20Stars",
+        "metacritic": "https://www.metacritic.com/search/Guarding%20Stars/"
+      }
+    },
+    {
       "tmdb_id": 1300968,
       "imdb_id": "tt32558705",
       "titulo_original": "The Hunger Games: Sunrise on the Reaping",
@@ -182,6 +182,67 @@
         "imdb": "https://www.imdb.com/title/tt32558705/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Hunger%20Games%3A%20Sunrise%20on%20the%20Reaping",
         "metacritic": "https://www.metacritic.com/search/The%20Hunger%20Games%3A%20Sunrise%20on%20the%20Reaping/"
+      }
+    },
+    {
+      "tmdb_id": 1716604,
+      "imdb_id": "tt43596156",
+      "titulo_original": "A Proud Family Wizmas",
+      "titulo_ingles": "A Proud Family Wizmas",
+      "ano": 2026,
+      "data_lancamento": "2026-11-14",
+      "data_qualificacao": "",
+      "sinopse_pt": "Quando o desabafo de Penny Radical sobre o WizNatal e a comercialização do Natal faz o Papai Noel desiste de suas funções na noite de Natal. Penny se sente culpada, então resolve vestir a roupa vermelha e fica no lugar do Papai Noel. Enquanto Penny vai espalhando a alegria natalina com a ajuda dos elfos atrevidos do Papai Noel, ela se dá conta de que o espírito do Natal continua mais vivo do que nunca.",
+      "elenco": [
+        "Kyla Pratt",
+        "Tommy Davidson",
+        "Paula Jai Parker",
+        "Jo Marie Payton",
+        "Cedric the Entertainer",
+        "Karen Malina White",
+        "Soleil Moon Frye",
+        "Alisa Reyes"
+      ],
+      "diretor": "Bruce W. Smith",
+      "generos": [
+        "Animação",
+        "Comédia",
+        "Música",
+        "Cinema TV"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/xfDYqv4GSPMm1sK7yADzd9l5bex.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 51,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1716604-a-proud-family-wizmas/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt43596156/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Proud%20Family%20Wizmas",
+        "metacritic": "https://www.metacritic.com/search/A%20Proud%20Family%20Wizmas/"
       }
     },
     {
@@ -246,6 +307,71 @@
         "imdb": "https://www.imdb.com/title/tt38213251/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Heartland",
         "metacritic": "https://www.metacritic.com/search/Heartland/"
+      }
+    },
+    {
+      "tmdb_id": 1780407,
+      "imdb_id": "tt47791876",
+      "titulo_original": "Snoopy Presents: 12 Days of Snoopy",
+      "titulo_ingles": "Snoopy Presents: 12 Days of Snoopy",
+      "ano": 2026,
+      "data_lancamento": "2026-11-12",
+      "data_qualificacao": "",
+      "sinopse_pt": "Na intenção de sair da lista dos malcriados do Papai Noel, Snoopy dá tudo de si para ser o melhor beagle da cidade.",
+      "elenco": [
+        "Riley Kai Vargas",
+        "Terry McGurrin",
+        "Rob Tinkler",
+        "Kitai O'Garro",
+        "Josephine Nisbett",
+        "Grace Nicolaou-Wood",
+        "Jo-Hannah Atchison",
+        "Lexi Perri"
+      ],
+      "diretor": "Matt Ferguson",
+      "generos": [
+        "Animação",
+        "Família"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/AccTOvxpGMfPM8mO8GrAxUY8zix.jpg",
+      "pais": [
+        "US",
+        "CA"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 33,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Apple TV",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png"
+          },
+          {
+            "nome": "Apple TV Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/giKLP7saeUA0WykEPRyZUcOVv92.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1780407-snoopy-presents-12-days-of-snoopy/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt47791876/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snoopy%20Presents%3A%2012%20Days%20of%20Snoopy",
+        "metacritic": "https://www.metacritic.com/search/Snoopy%20Presents%3A%2012%20Days%20of%20Snoopy/"
       }
     },
     {
@@ -378,38 +504,38 @@
       }
     },
     {
-      "tmdb_id": 1780407,
-      "imdb_id": "tt47791876",
-      "titulo_original": "Snoopy Presents: 12 Days of Snoopy",
-      "titulo_ingles": "Snoopy Presents: 12 Days of Snoopy",
+      "tmdb_id": 1567605,
+      "imdb_id": "tt38773219",
+      "titulo_original": "Ebenezer",
+      "titulo_ingles": "Ebenezer",
       "ano": 2026,
-      "data_lancamento": "2026-11-12",
+      "data_lancamento": "2026-11-11",
       "data_qualificacao": "",
-      "sinopse_pt": "Na intenção de sair da lista dos malcriados do Papai Noel, Snoopy dá tudo de si para ser o melhor beagle da cidade.",
+      "sinopse_pt": "Ebenezer Scrooge é um velho avarento que recebe a visita do fantasma de seu antigo sócio, Jacob Marley, e dos Espíritos do Natal Passado, Presente e Futuro. Os encontros o força a confrontar o próprio passado e a lutar por uma segunda chance de ser feliz.",
       "elenco": [
-        "Riley Kai Vargas",
-        "Terry McGurrin",
-        "Rob Tinkler",
-        "Kitai O'Garro",
-        "Josephine Nisbett",
-        "Grace Nicolaou-Wood",
-        "Jo-Hannah Atchison",
-        "Lexi Perri"
+        "Johnny Depp",
+        "Rupert Grint",
+        "Daisy Ridley",
+        "Ian McKellen",
+        "Andrea Riseborough",
+        "Sam Claflin",
+        "Tramell Tillman",
+        "Arthur Conti"
       ],
-      "diretor": "Matt Ferguson",
+      "diretor": "Ti West",
       "generos": [
-        "Animação",
-        "Família"
+        "Fantasia",
+        "Comédia"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/AccTOvxpGMfPM8mO8GrAxUY8zix.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7MBeM27NNcCYUszjTNYJUycPDhV.jpg",
       "pais": [
         "US",
-        "CA"
+        "GB"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 33,
+      "duracao": 115,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -421,25 +547,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Apple TV",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png"
-          },
-          {
-            "nome": "Apple TV Amazon Channel",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rerVCu9auZrgxTTiZu1criqrQzg.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1780407-snoopy-presents-12-days-of-snoopy/watch?locale=BR"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt47791876/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snoopy%20Presents%3A%2012%20Days%20of%20Snoopy",
-        "metacritic": "https://www.metacritic.com/search/Snoopy%20Presents%3A%2012%20Days%20of%20Snoopy/"
+        "imdb": "https://www.imdb.com/title/tt38773219/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ebenezer",
+        "metacritic": "https://www.metacritic.com/search/Ebenezer/"
       }
     },
     {
@@ -510,6 +623,57 @@
       }
     },
     {
+      "tmdb_id": 1193614,
+      "imdb_id": "tt39562962",
+      "titulo_original": "Il faut brûler maman",
+      "titulo_ingles": "Il faut brûler maman",
+      "ano": 2026,
+      "data_lancamento": "2026-11-11",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Louise Coldefy",
+        "Julia Piaton",
+        "Artus",
+        "Albert Dupontel",
+        "Johann Dionnet",
+        "Fred Epaud",
+        "Henri Gruvman",
+        "Matthieu Cante"
+      ],
+      "diretor": "Albert Dupontel",
+      "generos": [
+        "Comédia",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/3KDbl3m07R9hsFgM04JetRSJWeR.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39562962/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Il%20faut%20br%C3%BBler%20maman",
+        "metacritic": "https://www.metacritic.com/search/Il%20faut%20br%C3%BBler%20maman/"
+      }
+    },
+    {
       "tmdb_id": 1559980,
       "imdb_id": "tt38420997",
       "titulo_original": "The Gospel of Christmas",
@@ -572,109 +736,6 @@
         "imdb": "https://www.imdb.com/title/tt38420997/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Gospel%20of%20Christmas",
         "metacritic": "https://www.metacritic.com/search/The%20Gospel%20of%20Christmas/"
-      }
-    },
-    {
-      "tmdb_id": 1567605,
-      "imdb_id": "tt38773219",
-      "titulo_original": "Ebenezer",
-      "titulo_ingles": "Ebenezer",
-      "ano": 2026,
-      "data_lancamento": "2026-11-11",
-      "data_qualificacao": "",
-      "sinopse_pt": "Ebenezer Scrooge é um velho avarento que recebe a visita do fantasma de seu antigo sócio, Jacob Marley, e dos Espíritos do Natal Passado, Presente e Futuro. Os encontros o força a confrontar o próprio passado e a lutar por uma segunda chance de ser feliz.",
-      "elenco": [
-        "Johnny Depp",
-        "Rupert Grint",
-        "Daisy Ridley",
-        "Ian McKellen",
-        "Andrea Riseborough",
-        "Sam Claflin",
-        "Tramell Tillman",
-        "Arthur Conti"
-      ],
-      "diretor": "Ti West",
-      "generos": [
-        "Fantasia",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/7MBeM27NNcCYUszjTNYJUycPDhV.jpg",
-      "pais": [
-        "US",
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 115,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "cinema"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38773219/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ebenezer",
-        "metacritic": "https://www.metacritic.com/search/Ebenezer/"
-      }
-    },
-    {
-      "tmdb_id": 1193614,
-      "imdb_id": "tt39562962",
-      "titulo_original": "Il faut brûler maman",
-      "titulo_ingles": "Il faut brûler maman",
-      "ano": 2026,
-      "data_lancamento": "2026-11-11",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Louise Coldefy",
-        "Julia Piaton",
-        "Artus",
-        "Albert Dupontel",
-        "Johann Dionnet",
-        "Fred Epaud",
-        "Henri Gruvman",
-        "Matthieu Cante"
-      ],
-      "diretor": "Albert Dupontel",
-      "generos": [
-        "Comédia",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/3KDbl3m07R9hsFgM04JetRSJWeR.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39562962/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Il%20faut%20br%C3%BBler%20maman",
-        "metacritic": "https://www.metacritic.com/search/Il%20faut%20br%C3%BBler%20maman/"
       }
     },
     {
@@ -759,7 +820,8 @@
         "AU"
       ],
       "idiomas": [
-        "en"
+        "en",
+        "ay"
       ],
       "duracao": 128,
       "rt_critica": null,
@@ -834,7 +896,7 @@
           {
             "nome": "Apple TV Amazon Channel",
             "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rerVCu9auZrgxTTiZu1criqrQzg.png"
+            "logo_url": "https://image.tmdb.org/t/p/w92/giKLP7saeUA0WykEPRyZUcOVv92.png"
           }
         ],
         "link_br": "https://www.themoviedb.org/movie/1050981-being-heumann/watch?locale=BR"
@@ -843,6 +905,57 @@
         "imdb": "https://www.imdb.com/title/tt15095848/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Being%20Heumann",
         "metacritic": "https://www.metacritic.com/search/Being%20Heumann/"
+      }
+    },
+    {
+      "tmdb_id": 1562642,
+      "imdb_id": "tt38686316",
+      "titulo_original": "Ghost Soldier",
+      "titulo_ingles": "Ghost Soldier",
+      "ano": 2026,
+      "data_lancamento": "2026-11-06",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um engenheiro de sistemas de armas e ex-boina verde protege seus vizinhos em Wyoming contra uma corporação implacável que ameaça sua comunidade rural.",
+      "elenco": [
+        "Jim Caviezel",
+        "Cameron Gayden",
+        "Olivia Thirlby",
+        "Shea Whigham",
+        "Beau Knapp",
+        "Michael Ironside",
+        "Garret Dillahunt",
+        "Carlos Gómez"
+      ],
+      "diretor": "William Eubank",
+      "generos": [
+        "Ação",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/h1MUn834b2u1FDQWObUBwp5jlHJ.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 90,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38686316/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ghost%20Soldier",
+        "metacritic": "https://www.metacritic.com/search/Ghost%20Soldier/"
       }
     },
     {
@@ -963,57 +1076,6 @@
       }
     },
     {
-      "tmdb_id": 1562642,
-      "imdb_id": "tt38686316",
-      "titulo_original": "Ghost Soldier",
-      "titulo_ingles": "Ghost Soldier",
-      "ano": 2026,
-      "data_lancamento": "2026-11-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um engenheiro de sistemas de armas e ex-boina verde protege seus vizinhos em Wyoming contra uma corporação implacável que ameaça sua comunidade rural.",
-      "elenco": [
-        "Jim Caviezel",
-        "Cameron Gayden",
-        "Olivia Thirlby",
-        "Shea Whigham",
-        "Beau Knapp",
-        "Michael Ironside",
-        "Garret Dillahunt",
-        "Carlos Gómez"
-      ],
-      "diretor": "William Eubank",
-      "generos": [
-        "Ação",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/h1MUn834b2u1FDQWObUBwp5jlHJ.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 90,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38686316/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ghost%20Soldier",
-        "metacritic": "https://www.metacritic.com/search/Ghost%20Soldier/"
-      }
-    },
-    {
       "tmdb_id": 656908,
       "imdb_id": "tt27988879",
       "titulo_original": "रामायणम्",
@@ -1065,6 +1127,57 @@
         "imdb": "https://www.imdb.com/title/tt27988879/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ramayana%3A%20Rise%20of%20a%20Legend",
         "metacritic": "https://www.metacritic.com/search/Ramayana%3A%20Rise%20of%20a%20Legend/"
+      }
+    },
+    {
+      "tmdb_id": 1600653,
+      "imdb_id": "tt39219651",
+      "titulo_original": "The 12 Dates of Christmas",
+      "titulo_ingles": "The 12 Dates of Christmas",
+      "ano": 2026,
+      "data_lancamento": "2026-11-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Lucy Hale",
+        "Ian Harding",
+        "Greer Grammer",
+        "Paul Ben-Victor",
+        "Kahyun Kim",
+        "Penelope Ann Miller",
+        "David Lipper",
+        "Carter Jenkins"
+      ],
+      "diretor": "David Lipper",
+      "generos": [
+        "Comédia",
+        "Romance"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/w82vKEoYNZ9SxYxvccxO85CnZKE.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39219651/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%2012%20Dates%20of%20Christmas",
+        "metacritic": "https://www.metacritic.com/search/The%2012%20Dates%20of%20Christmas/"
       }
     },
     {
@@ -1236,57 +1349,6 @@
       }
     },
     {
-      "tmdb_id": 1003494,
-      "imdb_id": "tt35494574",
-      "titulo_original": "L’Affaire Marie-Claire",
-      "titulo_ingles": "Women on Trial",
-      "ano": 2026,
-      "data_lancamento": "2026-11-04",
-      "data_qualificacao": "",
-      "sinopse_pt": "Novembro de 1972. Um julgamento histórico no tribunal de Bobigny mobiliza a França. Marie-Claire Chevalier, de 16 anos, é acusada de realizar um aborto ilegal. Sua mãe e as mulheres que a ajudaram também vão a julgamento. A advogada, Gisèle Halimi, assume um risco inédito: em vez de declarar suas clientes culpadas, coloca a própria lei no banco dos réus, desafiando o sistema e arriscando tudo.",
-      "elenco": [
-        "Charlotte Gainsbourg",
-        "Cécile de France",
-        "Grégory Gadebois",
-        "Saül Benchetrit",
-        "Sarah Suco",
-        "Florence Loiret Caille",
-        "Xavier Robic",
-        "Quentin Gouverneur"
-      ],
-      "diretor": "Lauriane Escaffre, Yvo Muller",
-      "generos": [
-        "História",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eJyYB3D5YeJp20r3yZFwQW23Rp3.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 102,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35494574/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Women%20on%20Trial",
-        "metacritic": "https://www.metacritic.com/search/Women%20on%20Trial/"
-      }
-    },
-    {
       "tmdb_id": 1570488,
       "imdb_id": "tt38515310",
       "titulo_original": "A Dog's Perfect Christmas",
@@ -1348,6 +1410,57 @@
         "imdb": "https://www.imdb.com/title/tt38515310/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Dog's%20Perfect%20Christmas",
         "metacritic": "https://www.metacritic.com/search/A%20Dog's%20Perfect%20Christmas/"
+      }
+    },
+    {
+      "tmdb_id": 1003494,
+      "imdb_id": "tt35494574",
+      "titulo_original": "L’Affaire Marie-Claire",
+      "titulo_ingles": "Women on Trial",
+      "ano": 2026,
+      "data_lancamento": "2026-11-04",
+      "data_qualificacao": "",
+      "sinopse_pt": "Novembro de 1972. Um julgamento histórico no tribunal de Bobigny mobiliza a França. Marie-Claire Chevalier, de 16 anos, é acusada de realizar um aborto ilegal. Sua mãe e as mulheres que a ajudaram também vão a julgamento. A advogada, Gisèle Halimi, assume um risco inédito: em vez de declarar suas clientes culpadas, coloca a própria lei no banco dos réus, desafiando o sistema e arriscando tudo.",
+      "elenco": [
+        "Charlotte Gainsbourg",
+        "Cécile de France",
+        "Grégory Gadebois",
+        "Saül Benchetrit",
+        "Sarah Suco",
+        "Florence Loiret Caille",
+        "Xavier Robic",
+        "Quentin Gouverneur"
+      ],
+      "diretor": "Lauriane Escaffre, Yvo Muller",
+      "generos": [
+        "História",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eJyYB3D5YeJp20r3yZFwQW23Rp3.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 102,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35494574/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Women%20on%20Trial",
+        "metacritic": "https://www.metacritic.com/search/Women%20on%20Trial/"
       }
     },
     {
@@ -1524,6 +1637,69 @@
       }
     },
     {
+      "tmdb_id": 1789549,
+      "imdb_id": "tt38999812",
+      "titulo_original": "Das Geschenk",
+      "titulo_ingles": "The Birthday​ Gift​",
+      "ano": 2026,
+      "data_lancamento": "2026-10-30",
+      "data_qualificacao": "",
+      "sinopse_pt": "Marlene quer uma festa do pijama perfeita para o aniversário do filho. Só que os convidados bagunceiros não estão muito interessados em seguir as regras.",
+      "elenco": [
+        "Jeanne Goursaud",
+        "Edin Hasanović",
+        "Heiner Lauterbach",
+        "Levin Wopp",
+        "Sogol Faghani",
+        "Enzo Brumm",
+        "Berit Künnecke",
+        "Amal Keller"
+      ],
+      "diretor": "Vanessa Jopp",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/4sc5p6NiMKpv5Ef9iShXplJsY3G.jpg",
+      "pais": [
+        "DE"
+      ],
+      "idiomas": [
+        "de"
+      ],
+      "duracao": 89,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1789549-das-geschenk/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38999812/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Birthday%E2%80%8B%20Gift%E2%80%8B",
+        "metacritic": "https://www.metacritic.com/search/The%20Birthday%E2%80%8B%20Gift%E2%80%8B/"
+      }
+    },
+    {
       "tmdb_id": 1571955,
       "imdb_id": "tt38793125",
       "titulo_original": "Colisión",
@@ -1587,69 +1763,6 @@
         "imdb": "https://www.imdb.com/title/tt38793125/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Collision%20Course",
         "metacritic": "https://www.metacritic.com/search/Collision%20Course/"
-      }
-    },
-    {
-      "tmdb_id": 1789549,
-      "imdb_id": "tt38999812",
-      "titulo_original": "Das Geschenk",
-      "titulo_ingles": "The Birthday​ Gift​",
-      "ano": 2026,
-      "data_lancamento": "2026-10-30",
-      "data_qualificacao": "",
-      "sinopse_pt": "Marlene quer uma festa do pijama perfeita para o aniversário do filho. Só que os convidados bagunceiros não estão muito interessados em seguir as regras.",
-      "elenco": [
-        "Jeanne Goursaud",
-        "Edin Hasanović",
-        "Heiner Lauterbach",
-        "Levin Wopp",
-        "Sogol Faghani",
-        "Enzo Brumm",
-        "Berit Künnecke",
-        "Amal Keller"
-      ],
-      "diretor": "Vanessa Jopp",
-      "generos": [
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/4sc5p6NiMKpv5Ef9iShXplJsY3G.jpg",
-      "pais": [
-        "DE"
-      ],
-      "idiomas": [
-        "de"
-      ],
-      "duracao": 89,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1789549-das-geschenk/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38999812/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Birthday%E2%80%8B%20Gift%E2%80%8B",
-        "metacritic": "https://www.metacritic.com/search/The%20Birthday%E2%80%8B%20Gift%E2%80%8B/"
       }
     },
     {
@@ -1769,61 +1882,6 @@
       }
     },
     {
-      "tmdb_id": 1657630,
-      "imdb_id": "tt39120306",
-      "titulo_original": "El despertar",
-      "titulo_ingles": "The Awakening",
-      "ano": 2026,
-      "data_lancamento": "2026-10-29",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Claudio Cataño",
-        "Alejandro Buitrago",
-        "Hector Sánchez",
-        "Andrea Olaya",
-        "Quique Sanmartin",
-        "Jaisson Jeack",
-        "Carlos Mariño",
-        "Andres Londono"
-      ],
-      "diretor": "Jaime Osorio Márquez",
-      "generos": [
-        "Terror",
-        "Ação",
-        "Guerra",
-        "Fantasia",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/w3YJx1PPPC6aiVKusxfc9QA0uYS.jpg",
-      "pais": [
-        "CO"
-      ],
-      "idiomas": [
-        "es",
-        "ur"
-      ],
-      "duracao": 96,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39120306/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Awakening",
-        "metacritic": "https://www.metacritic.com/search/The%20Awakening/"
-      }
-    },
-    {
       "tmdb_id": 1541477,
       "imdb_id": "tt38504402",
       "titulo_original": "Noi, un po' meglio",
@@ -1889,6 +1947,61 @@
       }
     },
     {
+      "tmdb_id": 1657630,
+      "imdb_id": "tt39120306",
+      "titulo_original": "El despertar",
+      "titulo_ingles": "The Awakening",
+      "ano": 2026,
+      "data_lancamento": "2026-10-29",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Claudio Cataño",
+        "Alejandro Buitrago",
+        "Hector Sánchez",
+        "Andrea Olaya",
+        "Quique Sanmartin",
+        "Jaisson Jeack",
+        "Carlos Mariño",
+        "Andres Londono"
+      ],
+      "diretor": "Jaime Osorio Márquez",
+      "generos": [
+        "Terror",
+        "Ação",
+        "Guerra",
+        "Fantasia",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/w3YJx1PPPC6aiVKusxfc9QA0uYS.jpg",
+      "pais": [
+        "CO"
+      ],
+      "idiomas": [
+        "es",
+        "ur"
+      ],
+      "duracao": 96,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39120306/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Awakening",
+        "metacritic": "https://www.metacritic.com/search/The%20Awakening/"
+      }
+    },
+    {
       "tmdb_id": 1506710,
       "imdb_id": "tt37601990",
       "titulo_original": "Dio ride",
@@ -1937,57 +2050,6 @@
         "imdb": "https://www.imdb.com/title/tt37601990/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=God%20Laughs",
         "metacritic": "https://www.metacritic.com/search/God%20Laughs/"
-      }
-    },
-    {
-      "tmdb_id": 1544163,
-      "imdb_id": "tt39969491",
-      "titulo_original": "Quelques mots d'amour",
-      "titulo_ingles": "Words of Love",
-      "ano": 2026,
-      "data_lancamento": "2026-10-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Hafsia Herzi",
-        "Nour Salam",
-        "Ella Bedoucha",
-        "Aïdan Djouadi",
-        "Mateo Danila",
-        "Charlie Lugassy",
-        "Eden Sarfati",
-        "Paulette Chetrit"
-      ],
-      "diretor": "Rudi Rosenberg",
-      "generos": [
-        "Comédia",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/lUSCFTt9YWRbDG6kkUQBIUZ0IFc.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 95,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39969491/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Words%20of%20Love",
-        "metacritic": "https://www.metacritic.com/search/Words%20of%20Love/"
       }
     },
     {
@@ -2043,6 +2105,57 @@
         "imdb": "https://www.imdb.com/title/tt36899180/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Moulin",
         "metacritic": "https://www.metacritic.com/search/Moulin/"
+      }
+    },
+    {
+      "tmdb_id": 1544163,
+      "imdb_id": "tt39969491",
+      "titulo_original": "Quelques mots d'amour",
+      "titulo_ingles": "Words of Love",
+      "ano": 2026,
+      "data_lancamento": "2026-10-28",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Hafsia Herzi",
+        "Nour Salam",
+        "Ella Bedoucha",
+        "Aïdan Djouadi",
+        "Mateo Danila",
+        "Charlie Lugassy",
+        "Eden Sarfati",
+        "Paulette Chetrit"
+      ],
+      "diretor": "Rudi Rosenberg",
+      "generos": [
+        "Comédia",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/lUSCFTt9YWRbDG6kkUQBIUZ0IFc.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 95,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39969491/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Words%20of%20Love",
+        "metacritic": "https://www.metacritic.com/search/Words%20of%20Love/"
       }
     },
     {
@@ -2511,6 +2624,26 @@
             "nome": "Paramount Plus Premium",
             "tipo": "assinatura",
             "logo_url": "https://image.tmdb.org/t/p/w92/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "aluguel",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+          },
+          {
+            "nome": "Apple TV Store",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+          },
+          {
+            "nome": "Amazon Video",
+            "tipo": "compra",
+            "logo_url": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
           }
         ],
         "link_br": "https://www.themoviedb.org/movie/1480856-hanging-by-a-wire/watch?locale=BR"
@@ -2519,58 +2652,6 @@
         "imdb": "https://www.imdb.com/title/tt37405791/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Hanging%20by%20a%20Wire",
         "metacritic": "https://www.metacritic.com/search/Hanging%20by%20a%20Wire/"
-      }
-    },
-    {
-      "tmdb_id": 1504972,
-      "imdb_id": "tt43645716",
-      "titulo_original": "Une femme aujourd’hui",
-      "titulo_ingles": "A Woman Today",
-      "ano": 2026,
-      "data_lancamento": "2026-10-21",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Ariane Ascaride",
-        "Jean-Pierre Darroussin",
-        "Grégoire Leprince-Ringuet",
-        "Gérard Meylan",
-        "Lola Naymark",
-        "Robinson Stévenin",
-        "Patrick Bonnel",
-        "Marilou Aussilloux"
-      ],
-      "diretor": "Robert Guédiguian",
-      "generos": [
-        "Comédia",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/vBNsvbJsb9fnSre8TakYNJbU1ey.jpg",
-      "pais": [
-        "FR",
-        "IT"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 123,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt43645716/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Woman%20Today",
-        "metacritic": "https://www.metacritic.com/search/A%20Woman%20Today/"
       }
     },
     {
@@ -2622,70 +2703,6 @@
         "imdb": "https://www.imdb.com/title/tt35450621/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Karma",
         "metacritic": "https://www.metacritic.com/search/Karma/"
-      }
-    },
-    {
-      "tmdb_id": 1802674,
-      "imdb_id": "tt49317723",
-      "titulo_original": "Hot Wheels Let's Race: Attack of the T-Rex",
-      "titulo_ingles": "Hot Wheels Let's Race: Attack of the T-Rex",
-      "ano": 2026,
-      "data_lancamento": "2026-10-20",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Carter Burney",
-        "Amari McCoy",
-        "Josh Keaton",
-        "Risa Mei",
-        "Griffen Campbell",
-        "Charlie Schlatter"
-      ],
-      "diretor": "Motonori Sakakibara",
-      "generos": [
-        "Animação",
-        "Família",
-        "Ação"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg",
-      "pais": [
-        "US",
-        "JP"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 47,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1802674-hot-wheels-let-s-race-attack-of-the-t-rex/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt49317723/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Hot%20Wheels%20Let's%20Race%3A%20Attack%20of%20the%20T-Rex",
-        "metacritic": "https://www.metacritic.com/search/Hot%20Wheels%20Let's%20Race%3A%20Attack%20of%20the%20T-Rex/"
       }
     },
     {
@@ -2877,9 +2894,9 @@
       ],
       "diretor": "Mike P. Nelson",
       "generos": [
+        "Aventura",
         "Terror",
-        "Thriller",
-        "Ação"
+        "Thriller"
       ],
       "poster_url": "https://image.tmdb.org/t/p/w500/mCyttsR7mW91v2Mpy5AXMCtWKAK.jpg",
       "pais": [
@@ -3051,7 +3068,7 @@
       "generos": [
         "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/zuhbisyyICXuYR8k3lE6pTpq5Vl.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/31IFLl2WfI1a58YPiGDrWBsfxwW.jpg",
       "pais": [
         "GB",
         "IE",
