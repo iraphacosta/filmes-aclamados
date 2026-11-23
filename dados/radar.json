@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "gerado_em": "2026-11-22T17:15:54.151Z",
+  "gerado_em": "2026-11-23T21:35:17.709Z",
   "filmes": [
     {
       "tmdb_id": 1568060,
@@ -87,7 +87,7 @@
         "Peter Dinklage",
         "Bette Midler"
       ],
-      "diretor": "Alyce Tzue",
+      "diretor": "Alyce Tzue, John Ripa",
       "generos": [
         "Animação",
         "Família",
@@ -137,168 +137,56 @@
       }
     },
     {
-      "tmdb_id": 1613021,
-      "imdb_id": "tt39314834",
-      "titulo_original": "Camembert",
-      "titulo_ingles": "Camembert",
+      "tmdb_id": 1300968,
+      "imdb_id": "tt32558705",
+      "titulo_original": "The Hunger Games: Sunrise on the Reaping",
+      "titulo_ingles": "The Hunger Games: Sunrise on the Reaping",
       "ano": 2026,
       "data_lancamento": "2026-11-18",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Revisite o mundo de Panem 24 anos antes dos eventos de Jogos Vorazes, começando na manhã da colheita dos 50º Jogos Vorazes, também conhecida como o Segundo Massacre Quaternário.",
       "elenco": [
-        "Kristin Scott Thomas",
-        "Alex Lutz",
-        "Pascale Arbillot",
-        "Bernard Le Coq",
-        "Guillermo Guiz",
-        "Bertrand Goncalves",
-        "Anaïde Rozam",
-        "Sacha Vanbockestal"
+        "Joseph Zada",
+        "Jesse Plemons",
+        "Ralph Fiennes",
+        "Glenn Close",
+        "Mckenna Grace",
+        "Whitney Peak",
+        "Elle Fanning",
+        "Kieran Culkin"
       ],
-      "diretor": "Matthieu Rumani, Nicolas Slomka",
+      "diretor": "Francis Lawrence",
       "generos": [
-        "Comédia"
+        "Ficção científica",
+        "Ação",
+        "Aventura"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/6SXZREznWh5vAQCcndzRuu2Q3Se.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/ibZ6GSHtCeC7fLDJ2uyXNemgYwr.jpg",
       "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39314834/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Camembert",
-        "metacritic": "https://www.metacritic.com/search/Camembert/"
-      }
-    },
-    {
-      "tmdb_id": 1551025,
-      "imdb_id": "tt6611324",
-      "titulo_original": "Guarding Stars",
-      "titulo_ingles": "Guarding Stars",
-      "ano": 2026,
-      "data_lancamento": "2026-11-18",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma guarda-costas pragmática tem que proteger um ator de Hollywood durante as festas de fim de ano, mas o clima esquenta, segredos vêm à tona e o Natal fica bem mais complicado.",
-      "elenco": [
-        "Leighton Meester",
-        "Jared Padalecki",
-        "Andie MacDowell",
-        "Walker Hayes",
-        "Noah LaLonde",
-        "Toby Sandeman",
-        "Phil Brooks",
-        "Ava Max"
-      ],
-      "diretor": "Elizabeth Allen Rosenbaum",
-      "generos": [
-        "Romance",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/lcjabMgrRfWGs81vq9vGK0tERDo.jpg",
-      "pais": [
-        "US"
+        "US",
+        "DE"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 109,
+      "duracao": 158,
       "rt_critica": null,
       "rt_publico": null,
-      "metacritic": null,
+      "metacritic": 56,
       "imdb_publico": null,
       "criterio_qualificacao": "rt",
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
       "atual_rt": null,
-      "atual_metacritic": null,
+      "atual_metacritic": 56,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1551025-guarding-stars/watch?locale=BR"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt6611324/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Guarding%20Stars",
-        "metacritic": "https://www.metacritic.com/search/Guarding%20Stars/"
-      }
-    },
-    {
-      "tmdb_id": 1502759,
-      "imdb_id": "tt37424290",
-      "titulo_original": "Jupiter",
-      "titulo_ingles": "Jupiter",
-      "ano": 2026,
-      "data_lancamento": "2026-11-18",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Denis Ménochet",
-        "Ella Rumpf",
-        "Céline Sallette",
-        "Dominique Blanc",
-        "Reda Kateb",
-        "André Dussollier",
-        "Frédéric Pierrot",
-        "Cédric Kahn"
-      ],
-      "diretor": "Alexandre Smia",
-      "generos": [
-        "Drama",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/cl7wDxqCkEy0IEuvVq47SrH6dn3.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 87,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37424290/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jupiter",
-        "metacritic": "https://www.metacritic.com/search/Jupiter/"
+        "imdb": "https://www.imdb.com/title/tt32558705/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Hunger%20Games%3A%20Sunrise%20on%20the%20Reaping",
+        "metacritic": "https://www.metacritic.com/search/The%20Hunger%20Games%3A%20Sunrise%20on%20the%20Reaping/"
       }
     },
     {
@@ -367,39 +255,37 @@
       }
     },
     {
-      "tmdb_id": 1300968,
-      "imdb_id": "tt32558705",
-      "titulo_original": "The Hunger Games: Sunrise on the Reaping",
-      "titulo_ingles": "The Hunger Games: Sunrise on the Reaping",
+      "tmdb_id": 1502759,
+      "imdb_id": "tt37424290",
+      "titulo_original": "Jupiter",
+      "titulo_ingles": "Jupiter",
       "ano": 2026,
       "data_lancamento": "2026-11-18",
       "data_qualificacao": "",
-      "sinopse_pt": "Revisite o mundo de Panem 24 anos antes dos eventos de Jogos Vorazes, começando na manhã da colheita dos 50º Jogos Vorazes, também conhecida como o Segundo Massacre Quaternário.",
+      "sinopse_pt": "",
       "elenco": [
-        "Joseph Zada",
-        "Jesse Plemons",
-        "Ralph Fiennes",
-        "Glenn Close",
-        "Mckenna Grace",
-        "Whitney Peak",
-        "Elle Fanning",
-        "Kieran Culkin"
+        "Denis Ménochet",
+        "Ella Rumpf",
+        "Céline Sallette",
+        "Dominique Blanc",
+        "Reda Kateb",
+        "André Dussollier",
+        "Frédéric Pierrot",
+        "Cédric Kahn"
       ],
-      "diretor": "Francis Lawrence",
+      "diretor": "Alexandre Smia",
       "generos": [
-        "Ficção científica",
-        "Ação",
-        "Aventura"
+        "Drama",
+        "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/ibZ6GSHtCeC7fLDJ2uyXNemgYwr.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/cl7wDxqCkEy0IEuvVq47SrH6dn3.jpg",
       "pais": [
-        "US",
-        "DE"
+        "FR"
       ],
       "idiomas": [
-        "en"
+        "fr"
       ],
-      "duracao": 158,
+      "duracao": 87,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -411,12 +297,126 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "cinema"
+        "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt32558705/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Hunger%20Games%3A%20Sunrise%20on%20the%20Reaping",
-        "metacritic": "https://www.metacritic.com/search/The%20Hunger%20Games%3A%20Sunrise%20on%20the%20Reaping/"
+        "imdb": "https://www.imdb.com/title/tt37424290/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Jupiter",
+        "metacritic": "https://www.metacritic.com/search/Jupiter/"
+      }
+    },
+    {
+      "tmdb_id": 1551025,
+      "imdb_id": "tt6611324",
+      "titulo_original": "Guarding Stars",
+      "titulo_ingles": "Guarding Stars",
+      "ano": 2026,
+      "data_lancamento": "2026-11-18",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma guarda-costas pragmática tem que proteger um ator de Hollywood durante as festas de fim de ano, mas o clima esquenta, segredos vêm à tona e o Natal fica bem mais complicado.",
+      "elenco": [
+        "Leighton Meester",
+        "Jared Padalecki",
+        "Andie MacDowell",
+        "Walker Hayes",
+        "Noah LaLonde",
+        "Toby Sandeman",
+        "Phil Brooks",
+        "Ava Max"
+      ],
+      "diretor": "Elizabeth Allen Rosenbaum",
+      "generos": [
+        "Romance",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/lcjabMgrRfWGs81vq9vGK0tERDo.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 109,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1551025-guarding-stars/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt6611324/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Guarding%20Stars",
+        "metacritic": "https://www.metacritic.com/search/Guarding%20Stars/"
+      }
+    },
+    {
+      "tmdb_id": 1613021,
+      "imdb_id": "tt39314834",
+      "titulo_original": "Camembert",
+      "titulo_ingles": "Camembert",
+      "ano": 2026,
+      "data_lancamento": "2026-11-18",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Kristin Scott Thomas",
+        "Alex Lutz",
+        "Pascale Arbillot",
+        "Bernard Le Coq",
+        "Guillermo Guiz",
+        "Bertrand Goncalves",
+        "Anaïde Rozam",
+        "Sacha Vanbockestal"
+      ],
+      "diretor": "Matthieu Rumani, Nicolas Slomka",
+      "generos": [
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/6SXZREznWh5vAQCcndzRuu2Q3Se.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39314834/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Camembert",
+        "metacritic": "https://www.metacritic.com/search/Camembert/"
       }
     },
     {
@@ -542,71 +542,6 @@
         "imdb": "https://www.imdb.com/title/tt38213251/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Heartland",
         "metacritic": "https://www.metacritic.com/search/Heartland/"
-      }
-    },
-    {
-      "tmdb_id": 1780407,
-      "imdb_id": "tt47791876",
-      "titulo_original": "Snoopy Presents: 12 Days of Snoopy",
-      "titulo_ingles": "Snoopy Presents: 12 Days of Snoopy",
-      "ano": 2026,
-      "data_lancamento": "2026-11-12",
-      "data_qualificacao": "",
-      "sinopse_pt": "Na intenção de sair da lista dos malcriados do Papai Noel, Snoopy dá tudo de si para ser o melhor beagle da cidade.",
-      "elenco": [
-        "Riley Kai Vargas",
-        "Terry McGurrin",
-        "Rob Tinkler",
-        "Kitai O'Garro",
-        "Josephine Nisbett",
-        "Grace Nicolaou-Wood",
-        "Jo-Hannah Atchison",
-        "Lexi Perri"
-      ],
-      "diretor": "Matt Ferguson",
-      "generos": [
-        "Animação",
-        "Família"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/AccTOvxpGMfPM8mO8GrAxUY8zix.jpg",
-      "pais": [
-        "US",
-        "CA"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 33,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Apple TV",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png"
-          },
-          {
-            "nome": "Apple TV Amazon Channel",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/giKLP7saeUA0WykEPRyZUcOVv92.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1780407-snoopy-presents-12-days-of-snoopy/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt47791876/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snoopy%20Presents%3A%2012%20Days%20of%20Snoopy",
-        "metacritic": "https://www.metacritic.com/search/Snoopy%20Presents%3A%2012%20Days%20of%20Snoopy/"
       }
     },
     {
@@ -789,39 +724,38 @@
       }
     },
     {
-      "tmdb_id": 1567605,
-      "imdb_id": "tt38773219",
-      "titulo_original": "Ebenezer",
-      "titulo_ingles": "Ebenezer",
+      "tmdb_id": 1780407,
+      "imdb_id": "tt47791876",
+      "titulo_original": "Snoopy Presents: 12 Days of Snoopy",
+      "titulo_ingles": "Snoopy Presents: 12 Days of Snoopy",
       "ano": 2026,
-      "data_lancamento": "2026-11-11",
+      "data_lancamento": "2026-11-12",
       "data_qualificacao": "",
-      "sinopse_pt": "Ebenezer Scrooge é um velho avarento que recebe a visita do fantasma de seu antigo sócio, Jacob Marley, e dos Espíritos do Natal Passado, Presente e Futuro. Os encontros o força a confrontar o próprio passado e a lutar por uma segunda chance de ser feliz.",
+      "sinopse_pt": "Na intenção de sair da lista dos malcriados do Papai Noel, Snoopy dá tudo de si para ser o melhor beagle da cidade.",
       "elenco": [
-        "Johnny Depp",
-        "Rupert Grint",
-        "Daisy Ridley",
-        "Ian McKellen",
-        "Andrea Riseborough",
-        "Sam Claflin",
-        "Tramell Tillman",
-        "Arthur Conti"
+        "Riley Kai Vargas",
+        "Terry McGurrin",
+        "Rob Tinkler",
+        "Kitai O'Garro",
+        "Josephine Nisbett",
+        "Grace Nicolaou-Wood",
+        "Jo-Hannah Atchison",
+        "Lexi Perri"
       ],
-      "diretor": "Ti West",
+      "diretor": "Matt Ferguson",
       "generos": [
-        "Fantasia",
-        "Drama",
-        "Terror"
+        "Animação",
+        "Família"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/7MBeM27NNcCYUszjTNYJUycPDhV.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/AccTOvxpGMfPM8mO8GrAxUY8zix.jpg",
       "pais": [
         "US",
-        "GB"
+        "CA"
       ],
       "idiomas": [
         "en"
       ],
-      "duracao": 115,
+      "duracao": 33,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -833,12 +767,143 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "cinema"
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Apple TV",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/v9SnyvYt0U3KGgBH3Sbh3z4yODe.png"
+          },
+          {
+            "nome": "Apple TV Amazon Channel",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/giKLP7saeUA0WykEPRyZUcOVv92.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1780407-snoopy-presents-12-days-of-snoopy/watch?locale=BR"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt38773219/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ebenezer",
-        "metacritic": "https://www.metacritic.com/search/Ebenezer/"
+        "imdb": "https://www.imdb.com/title/tt47791876/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Snoopy%20Presents%3A%2012%20Days%20of%20Snoopy",
+        "metacritic": "https://www.metacritic.com/search/Snoopy%20Presents%3A%2012%20Days%20of%20Snoopy/"
+      }
+    },
+    {
+      "tmdb_id": 1616687,
+      "imdb_id": "tt39370926",
+      "titulo_original": "Serangan Balik",
+      "titulo_ingles": "Never Surrender",
+      "ano": 2026,
+      "data_lancamento": "2026-11-11",
+      "data_qualificacao": "",
+      "sinopse_pt": "Depois que uma gangue violenta invade sua casa isolada, um veterano atormentado pela culpa e os netos que ele mal conhece precisam unir forças para sobreviver.",
+      "elenco": [
+        "Lukman Sardi",
+        "Callista Arum",
+        "Sulthan Hamonangan",
+        "Derby Romero",
+        "Donny Alamsyah",
+        "Dennis Adishwara",
+        "Ismi Melinda",
+        "David Hendrawan"
+      ],
+      "diretor": "Sidharta Tata",
+      "generos": [
+        "Ação",
+        "Crime",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/k0f4a5RVBwLJUq3UYXnfcOaXjCu.jpg",
+      "pais": [
+        "ID"
+      ],
+      "idiomas": [
+        "id",
+        "jv",
+        "en"
+      ],
+      "duracao": 140,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1616687-serangan-balik/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39370926/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Never%20Surrender",
+        "metacritic": "https://www.metacritic.com/search/Never%20Surrender/"
+      }
+    },
+    {
+      "tmdb_id": 1193614,
+      "imdb_id": "tt39562962",
+      "titulo_original": "Il faut brûler maman",
+      "titulo_ingles": "Il faut brûler maman",
+      "ano": 2026,
+      "data_lancamento": "2026-11-11",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Louise Coldefy",
+        "Julia Piaton",
+        "Artus",
+        "Albert Dupontel",
+        "Johann Dionnet",
+        "Fred Epaud",
+        "Henri Gruvman",
+        "Matthieu Cante"
+      ],
+      "diretor": "Albert Dupontel",
+      "generos": [
+        "Comédia",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/3KDbl3m07R9hsFgM04JetRSJWeR.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 0,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39562962/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Il%20faut%20br%C3%BBler%20maman",
+        "metacritic": "https://www.metacritic.com/search/Il%20faut%20br%C3%BBler%20maman/"
       }
     },
     {
@@ -907,91 +972,39 @@
       }
     },
     {
-      "tmdb_id": 1193614,
-      "imdb_id": "tt39562962",
-      "titulo_original": "Il faut brûler maman",
-      "titulo_ingles": "Il faut brûler maman",
+      "tmdb_id": 1567605,
+      "imdb_id": "tt38773219",
+      "titulo_original": "Ebenezer",
+      "titulo_ingles": "Ebenezer",
       "ano": 2026,
       "data_lancamento": "2026-11-11",
       "data_qualificacao": "",
-      "sinopse_pt": "",
+      "sinopse_pt": "Ebenezer Scrooge é um velho avarento que recebe a visita do fantasma de seu antigo sócio, Jacob Marley, e dos Espíritos do Natal Passado, Presente e Futuro. Os encontros o força a confrontar o próprio passado e a lutar por uma segunda chance de ser feliz.",
       "elenco": [
-        "Louise Coldefy",
-        "Julia Piaton",
-        "Artus",
-        "Albert Dupontel",
-        "Johann Dionnet",
-        "Fred Epaud",
-        "Henri Gruvman",
-        "Matthieu Cante"
+        "Johnny Depp",
+        "Rupert Grint",
+        "Daisy Ridley",
+        "Ian McKellen",
+        "Andrea Riseborough",
+        "Sam Claflin",
+        "Tramell Tillman",
+        "Arthur Conti"
       ],
-      "diretor": "Albert Dupontel",
+      "diretor": "Ti West",
       "generos": [
-        "Comédia",
-        "Drama"
+        "Fantasia",
+        "Drama",
+        "Terror"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/3KDbl3m07R9hsFgM04JetRSJWeR.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/7MBeM27NNcCYUszjTNYJUycPDhV.jpg",
       "pais": [
-        "FR"
+        "US",
+        "GB"
       ],
       "idiomas": [
-        "fr"
-      ],
-      "duracao": 0,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39562962/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Il%20faut%20br%C3%BBler%20maman",
-        "metacritic": "https://www.metacritic.com/search/Il%20faut%20br%C3%BBler%20maman/"
-      }
-    },
-    {
-      "tmdb_id": 1616687,
-      "imdb_id": "tt39370926",
-      "titulo_original": "Serangan Balik",
-      "titulo_ingles": "Never Surrender",
-      "ano": 2026,
-      "data_lancamento": "2026-11-11",
-      "data_qualificacao": "",
-      "sinopse_pt": "Depois que uma gangue violenta invade sua casa isolada, um veterano atormentado pela culpa e os netos que ele mal conhece precisam unir forças para sobreviver.",
-      "elenco": [
-        "Lukman Sardi",
-        "Callista Arum",
-        "Sulthan Hamonangan",
-        "Derby Romero",
-        "Donny Alamsyah",
-        "Dennis Adishwara",
-        "Ismi Melinda",
-        "David Hendrawan"
-      ],
-      "diretor": "Sidharta Tata",
-      "generos": [
-        "Ação",
-        "Crime",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/k0f4a5RVBwLJUq3UYXnfcOaXjCu.jpg",
-      "pais": [
-        "ID"
-      ],
-      "idiomas": [
-        "id",
-        "jv",
         "en"
       ],
-      "duracao": 140,
+      "duracao": 115,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -1003,25 +1016,12 @@
       "atual_rt": null,
       "atual_metacritic": null,
       "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1616687-serangan-balik/watch?locale=BR"
+        "estado": "cinema"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt39370926/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Never%20Surrender",
-        "metacritic": "https://www.metacritic.com/search/Never%20Surrender/"
+        "imdb": "https://www.imdb.com/title/tt38773219/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ebenezer",
+        "metacritic": "https://www.metacritic.com/search/Ebenezer/"
       }
     },
     {
@@ -1100,7 +1100,7 @@
         "Drama",
         "História"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/yGJDq5MAzGcFal1oFwLedeGkWGX.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/vXT9vzSqNypCydx0x7QXizN4CNO.jpg",
       "pais": [
         "US",
         "AU"
@@ -1127,174 +1127,6 @@
         "imdb": "https://www.imdb.com/title/tt11995650/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=I%20Play%20Rocky",
         "metacritic": "https://www.metacritic.com/search/I%20Play%20Rocky/"
-      }
-    },
-    {
-      "tmdb_id": 1798383,
-      "imdb_id": "tt49241977",
-      "titulo_original": "Wolves Up Close with Bertie Gregory",
-      "titulo_ingles": "Wolves Up Close with Bertie Gregory",
-      "ano": 2026,
-      "data_lancamento": "2026-11-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "Bertie viaja ao Canadá para encarar, em uma região remota, sua missão mais desafiadora até hoje: filmar uma matilha de lobos enfrentando o alce, sua presa mais imponente e perigosa.",
-      "elenco": [
-        "Bertie Gregory",
-        "Albert 'Butch' Saunders",
-        "Mike Reimer"
-      ],
-      "diretor": "Rick Smith",
-      "generos": [
-        "Documentário"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/rZ7YcMTeNWKv2EINz0MWuZfNdUQ.jpg",
-      "pais": [
-        "US",
-        "GB"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 44,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Disney Plus",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1798383-wolves-up-close-with-bertie-gregory/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt49241977/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Wolves%20Up%20Close%20with%20Bertie%20Gregory",
-        "metacritic": "https://www.metacritic.com/search/Wolves%20Up%20Close%20with%20Bertie%20Gregory/"
-      }
-    },
-    {
-      "tmdb_id": 1562642,
-      "imdb_id": "tt38686316",
-      "titulo_original": "Ghost Soldier",
-      "titulo_ingles": "Ghost Soldier",
-      "ano": 2026,
-      "data_lancamento": "2026-11-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "Um engenheiro de sistemas de armas e ex-boina verde protege seus vizinhos em Wyoming contra uma corporação implacável que ameaça sua comunidade rural.",
-      "elenco": [
-        "Jim Caviezel",
-        "Cameron Gayden",
-        "Olivia Thirlby",
-        "Shea Whigham",
-        "Beau Knapp",
-        "Michael Ironside",
-        "Garret Dillahunt",
-        "Carlos Gómez"
-      ],
-      "diretor": "William Eubank",
-      "generos": [
-        "Ação",
-        "Thriller"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/h1MUn834b2u1FDQWObUBwp5jlHJ.jpg",
-      "pais": [
-        "US"
-      ],
-      "idiomas": [
-        "en"
-      ],
-      "duracao": 90,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38686316/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ghost%20Soldier",
-        "metacritic": "https://www.metacritic.com/search/Ghost%20Soldier/"
-      }
-    },
-    {
-      "tmdb_id": 1794569,
-      "imdb_id": "tt48500521",
-      "titulo_original": "Desprotexida: el crimen de Pazos",
-      "titulo_ingles": "Unprotected: Murder in Galicia",
-      "ano": 2026,
-      "data_lancamento": "2026-11-06",
-      "data_qualificacao": "",
-      "sinopse_pt": "Uma agressão na própria casa deixa uma mulher lutando pela vida, e a polícia teme um segundo ataque. Este documentário analisa como o sistema não conseguiu protegê-la.",
-      "elenco": [
-        "Eduardo Pérez \"Perreras\"",
-        "Maribel Tarrazo",
-        "Corona Salgado",
-        "Eduardo Pérez",
-        "Javier González",
-        "Fernando Serulla"
-      ],
-      "diretor": "Jorge Laplace",
-      "generos": [
-        "Documentário",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/prtj1gy8LjO2JmVGMfTjyzinTKA.jpg",
-      "pais": [
-        "ES"
-      ],
-      "idiomas": [
-        "gl",
-        "es"
-      ],
-      "duracao": 65,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1794569-desprotexida-el-crimen-de-pazos/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt48500521/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Unprotected%3A%20Murder%20in%20Galicia",
-        "metacritic": "https://www.metacritic.com/search/Unprotected%3A%20Murder%20in%20Galicia/"
       }
     },
     {
@@ -1362,6 +1194,174 @@
       }
     },
     {
+      "tmdb_id": 1798383,
+      "imdb_id": "tt49241977",
+      "titulo_original": "Wolves Up Close with Bertie Gregory",
+      "titulo_ingles": "Wolves Up Close with Bertie Gregory",
+      "ano": 2026,
+      "data_lancamento": "2026-11-06",
+      "data_qualificacao": "",
+      "sinopse_pt": "Bertie viaja ao Canadá para encarar, em uma região remota, sua missão mais desafiadora até hoje: filmar uma matilha de lobos enfrentando o alce, sua presa mais imponente e perigosa.",
+      "elenco": [
+        "Bertie Gregory",
+        "Albert 'Butch' Saunders",
+        "Mike Reimer"
+      ],
+      "diretor": "Rick Smith",
+      "generos": [
+        "Documentário"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/rZ7YcMTeNWKv2EINz0MWuZfNdUQ.jpg",
+      "pais": [
+        "US",
+        "GB"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 44,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Disney Plus",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1798383-wolves-up-close-with-bertie-gregory/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt49241977/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Wolves%20Up%20Close%20with%20Bertie%20Gregory",
+        "metacritic": "https://www.metacritic.com/search/Wolves%20Up%20Close%20with%20Bertie%20Gregory/"
+      }
+    },
+    {
+      "tmdb_id": 1794569,
+      "imdb_id": "tt48500521",
+      "titulo_original": "Desprotexida: el crimen de Pazos",
+      "titulo_ingles": "Unprotected: Murder in Galicia",
+      "ano": 2026,
+      "data_lancamento": "2026-11-06",
+      "data_qualificacao": "",
+      "sinopse_pt": "Uma agressão na própria casa deixa uma mulher lutando pela vida, e a polícia teme um segundo ataque. Este documentário analisa como o sistema não conseguiu protegê-la.",
+      "elenco": [
+        "Eduardo Pérez \"Perreras\"",
+        "Maribel Tarrazo",
+        "Corona Salgado",
+        "Eduardo Pérez",
+        "Javier González",
+        "Fernando Serulla"
+      ],
+      "diretor": "Jorge Laplace",
+      "generos": [
+        "Documentário",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/prtj1gy8LjO2JmVGMfTjyzinTKA.jpg",
+      "pais": [
+        "ES"
+      ],
+      "idiomas": [
+        "gl",
+        "es"
+      ],
+      "duracao": 65,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1794569-desprotexida-el-crimen-de-pazos/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt48500521/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Unprotected%3A%20Murder%20in%20Galicia",
+        "metacritic": "https://www.metacritic.com/search/Unprotected%3A%20Murder%20in%20Galicia/"
+      }
+    },
+    {
+      "tmdb_id": 1562642,
+      "imdb_id": "tt38686316",
+      "titulo_original": "Ghost Soldier",
+      "titulo_ingles": "Ghost Soldier",
+      "ano": 2026,
+      "data_lancamento": "2026-11-06",
+      "data_qualificacao": "",
+      "sinopse_pt": "Um engenheiro de sistemas de armas e ex-boina verde protege seus vizinhos em Wyoming contra uma corporação implacável que ameaça sua comunidade rural.",
+      "elenco": [
+        "Jim Caviezel",
+        "Cameron Gayden",
+        "Olivia Thirlby",
+        "Shea Whigham",
+        "Beau Knapp",
+        "Michael Ironside",
+        "Garret Dillahunt",
+        "Carlos Gómez"
+      ],
+      "diretor": "William Eubank",
+      "generos": [
+        "Ação",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/h1MUn834b2u1FDQWObUBwp5jlHJ.jpg",
+      "pais": [
+        "US"
+      ],
+      "idiomas": [
+        "en"
+      ],
+      "duracao": 90,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38686316/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ghost%20Soldier",
+        "metacritic": "https://www.metacritic.com/search/Ghost%20Soldier/"
+      }
+    },
+    {
       "tmdb_id": 656908,
       "imdb_id": "tt27988879",
       "titulo_original": "रामायणम्",
@@ -1413,122 +1413,6 @@
         "imdb": "https://www.imdb.com/title/tt27988879/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ramayana%3A%20Rise%20of%20a%20Legend",
         "metacritic": "https://www.metacritic.com/search/Ramayana%3A%20Rise%20of%20a%20Legend/"
-      }
-    },
-    {
-      "tmdb_id": 1654940,
-      "imdb_id": "tt39400541",
-      "titulo_original": "余命一年、男をかう",
-      "titulo_ingles": "One Year to Live, Buy a Man",
-      "ano": 2026,
-      "data_lancamento": "2026-11-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "A cautelosa Yui Katakura, de 40 anos, recebe um diagnóstico de câncer com um ano de vida, transformando sua perspectiva. Ela conhece Sena, um anfitrião falido de cabelos rosados, paga 720.000 ienes por sua companhia, e seu vínculo incomum se transforma em um amor inesperado.",
-      "elenco": [
-        "柴咲コウ",
-        "赤楚衛二",
-        "筒井道隆",
-        "西田尚美",
-        "鳴海唯",
-        "宮世琉弥",
-        "近藤公園",
-        "濱田マリ"
-      ],
-      "diretor": "Hiroki Kazama",
-      "generos": [
-        "Romance",
-        "Drama",
-        "Comédia"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/fNYUEhXilEBouvcPnnVxkJgTxlF.jpg",
-      "pais": [
-        "JP"
-      ],
-      "idiomas": [
-        "ja",
-        "pt"
-      ],
-      "duracao": 109,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1654940-yu-ming-yi-nian-nan-okau/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39400541/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Year%20to%20Live%2C%20Buy%20a%20Man",
-        "metacritic": "https://www.metacritic.com/search/One%20Year%20to%20Live%2C%20Buy%20a%20Man/"
-      }
-    },
-    {
-      "tmdb_id": 1583853,
-      "imdb_id": "tt38984314",
-      "titulo_original": "Se domani non torno",
-      "titulo_ingles": "Se domani non torno",
-      "ano": 2026,
-      "data_lancamento": "2026-11-05",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Sabrina Martina",
-        "Filippo Timi",
-        "Tecla Bossi",
-        "Tommaso Allione",
-        "Massimo Scola",
-        "Carmen Lorenzo",
-        "Marianna Caporali",
-        "Filippo Sottoriva"
-      ],
-      "diretor": "Paola Randi",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
-      "pais": [
-        "IT"
-      ],
-      "idiomas": [
-        "it"
-      ],
-      "duracao": 107,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38984314/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Se%20domani%20non%20torno",
-        "metacritic": "https://www.metacritic.com/search/Se%20domani%20non%20torno/"
       }
     },
     {
@@ -1635,6 +1519,123 @@
       }
     },
     {
+      "tmdb_id": 1654940,
+      "imdb_id": "tt39400541",
+      "titulo_original": "余命一年、男をかう",
+      "titulo_ingles": "One Year to Live, Buy a Man",
+      "ano": 2026,
+      "data_lancamento": "2026-11-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "A cautelosa Yui Katakura, de 40 anos, recebe um diagnóstico de câncer com um ano de vida, transformando sua perspectiva. Ela conhece Sena, um anfitrião falido de cabelos rosados, paga 720.000 ienes por sua companhia, e seu vínculo incomum se transforma em um amor inesperado.",
+      "elenco": [
+        "柴咲コウ",
+        "赤楚衛二",
+        "筒井道隆",
+        "西田尚美",
+        "鳴海唯",
+        "宮世琉弥",
+        "近藤公園",
+        "濱田マリ"
+      ],
+      "diretor": "Hiroki Kazama",
+      "generos": [
+        "Romance",
+        "Drama",
+        "Comédia"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/fNYUEhXilEBouvcPnnVxkJgTxlF.jpg",
+      "pais": [
+        "JP"
+      ],
+      "idiomas": [
+        "ja",
+        "pt",
+        "pl"
+      ],
+      "duracao": 109,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1654940-yu-ming-yi-nian-nan-okau/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39400541/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=One%20Year%20to%20Live%2C%20Buy%20a%20Man",
+        "metacritic": "https://www.metacritic.com/search/One%20Year%20to%20Live%2C%20Buy%20a%20Man/"
+      }
+    },
+    {
+      "tmdb_id": 1583853,
+      "imdb_id": "tt38984314",
+      "titulo_original": "Se domani non torno",
+      "titulo_ingles": "Se domani non torno",
+      "ano": 2026,
+      "data_lancamento": "2026-11-05",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Sabrina Martina",
+        "Filippo Timi",
+        "Tecla Bossi",
+        "Tommaso Allione",
+        "Massimo Scola",
+        "Carmen Lorenzo",
+        "Marianna Caporali",
+        "Filippo Sottoriva"
+      ],
+      "diretor": "Paola Randi",
+      "generos": [
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg",
+      "pais": [
+        "IT"
+      ],
+      "idiomas": [
+        "it"
+      ],
+      "duracao": 107,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38984314/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Se%20domani%20non%20torno",
+        "metacritic": "https://www.metacritic.com/search/Se%20domani%20non%20torno/"
+      }
+    },
+    {
       "tmdb_id": 1642568,
       "imdb_id": "tt40210362",
       "titulo_original": "The Last Temptation of Becky",
@@ -1646,11 +1647,11 @@
       "elenco": [
         "Lulu Wilson",
         "Neil Patrick Harris",
-        "James Urbaniak",
         "Kate Siegel",
-        "Desmond Eastwood",
+        "James Urbaniak",
         "Brandon Flynn",
         "Catherine Walker",
+        "Aoife Hughes",
         "Noah Leggott"
       ],
       "diretor": "Jenn Wexler",
@@ -1685,6 +1686,57 @@
         "imdb": "https://www.imdb.com/title/tt40210362/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Last%20Temptation%20of%20Becky",
         "metacritic": "https://www.metacritic.com/search/The%20Last%20Temptation%20of%20Becky/"
+      }
+    },
+    {
+      "tmdb_id": 1003494,
+      "imdb_id": "tt35494574",
+      "titulo_original": "L’Affaire Marie-Claire",
+      "titulo_ingles": "Women on Trial",
+      "ano": 2026,
+      "data_lancamento": "2026-11-04",
+      "data_qualificacao": "",
+      "sinopse_pt": "Novembro de 1972. Um julgamento histórico no tribunal de Bobigny mobiliza a França. Marie-Claire Chevalier, de 16 anos, é acusada de realizar um aborto ilegal. Sua mãe e as mulheres que a ajudaram também vão a julgamento. A advogada, Gisèle Halimi, assume um risco inédito: em vez de declarar suas clientes culpadas, coloca a própria lei no banco dos réus, desafiando o sistema e arriscando tudo.",
+      "elenco": [
+        "Charlotte Gainsbourg",
+        "Cécile de France",
+        "Grégory Gadebois",
+        "Saül Benchetrit",
+        "Sarah Suco",
+        "Florence Loiret Caille",
+        "Xavier Robic",
+        "Quentin Gouverneur"
+      ],
+      "diretor": "Yvo Muller, Lauriane Escaffre",
+      "generos": [
+        "História",
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/eJyYB3D5YeJp20r3yZFwQW23Rp3.jpg",
+      "pais": [
+        "FR"
+      ],
+      "idiomas": [
+        "fr"
+      ],
+      "duracao": 102,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt35494574/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Women%20on%20Trial",
+        "metacritic": "https://www.metacritic.com/search/Women%20on%20Trial/"
       }
     },
     {
@@ -1749,57 +1801,6 @@
         "imdb": "https://www.imdb.com/title/tt38515310/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Dog's%20Perfect%20Christmas",
         "metacritic": "https://www.metacritic.com/search/A%20Dog's%20Perfect%20Christmas/"
-      }
-    },
-    {
-      "tmdb_id": 1003494,
-      "imdb_id": "tt35494574",
-      "titulo_original": "L’Affaire Marie-Claire",
-      "titulo_ingles": "Women on Trial",
-      "ano": 2026,
-      "data_lancamento": "2026-11-04",
-      "data_qualificacao": "",
-      "sinopse_pt": "Novembro de 1972. Um julgamento histórico no tribunal de Bobigny mobiliza a França. Marie-Claire Chevalier, de 16 anos, é acusada de realizar um aborto ilegal. Sua mãe e as mulheres que a ajudaram também vão a julgamento. A advogada, Gisèle Halimi, assume um risco inédito: em vez de declarar suas clientes culpadas, coloca a própria lei no banco dos réus, desafiando o sistema e arriscando tudo.",
-      "elenco": [
-        "Charlotte Gainsbourg",
-        "Cécile de France",
-        "Grégory Gadebois",
-        "Saül Benchetrit",
-        "Sarah Suco",
-        "Florence Loiret Caille",
-        "Xavier Robic",
-        "Quentin Gouverneur"
-      ],
-      "diretor": "Lauriane Escaffre, Yvo Muller",
-      "generos": [
-        "História",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/eJyYB3D5YeJp20r3yZFwQW23Rp3.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 102,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt35494574/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Women%20on%20Trial",
-        "metacritic": "https://www.metacritic.com/search/Women%20on%20Trial/"
       }
     },
     {
@@ -1922,7 +1923,7 @@
       "elenco": [
         "Kiawentiio",
         "Isabel DeRoy-Olson",
-        "Michael Podemski",
+        "Michael Podemski-Bedard",
         "Zahn McClarnon",
         "MorningStar Angeline",
         "Brandon Oakes",
@@ -1973,6 +1974,72 @@
         "imdb": "https://www.imdb.com/title/tt50389959/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=A%20Story%20of%20Derry",
         "metacritic": "https://www.metacritic.com/search/A%20Story%20of%20Derry/"
+      }
+    },
+    {
+      "tmdb_id": 1571955,
+      "imdb_id": "tt38793125",
+      "titulo_original": "Colisión",
+      "titulo_ingles": "Collision Course",
+      "ano": 2026,
+      "data_lancamento": "2026-10-30",
+      "data_qualificacao": "",
+      "sinopse_pt": "Em meio à crise financeira espanhola, um grupo planeja roubar um banco. Mas o acidente envolvendo seu carro de fuga destrói a frágil aliança que existe entre eles.",
+      "elenco": [
+        "Laia Costa",
+        "Karra Elejalde",
+        "Luis Zahera",
+        "Tamar Novas",
+        "Álvaro Cervantes",
+        "Lluís Homar",
+        "Luz Valdenebro",
+        "Víctor Duplá"
+      ],
+      "diretor": "Daniel Sánchez Arévalo",
+      "generos": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/2UcuNset77zceI6dCO59pkIcctZ.jpg",
+      "pais": [
+        "ES"
+      ],
+      "idiomas": [
+        "es",
+        "pt"
+      ],
+      "duracao": 106,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1571955-colision/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt38793125/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Collision%20Course",
+        "metacritic": "https://www.metacritic.com/search/Collision%20Course/"
       }
     },
     {
@@ -2091,72 +2158,6 @@
       }
     },
     {
-      "tmdb_id": 1571955,
-      "imdb_id": "tt38793125",
-      "titulo_original": "Colisión",
-      "titulo_ingles": "Collision Course",
-      "ano": 2026,
-      "data_lancamento": "2026-10-30",
-      "data_qualificacao": "",
-      "sinopse_pt": "Em meio à crise financeira espanhola, um grupo planeja roubar um banco. Mas o acidente envolvendo seu carro de fuga destrói a frágil aliança que existe entre eles.",
-      "elenco": [
-        "Laia Costa",
-        "Karra Elejalde",
-        "Luis Zahera",
-        "Tamar Novas",
-        "Álvaro Cervantes",
-        "Lluís Homar",
-        "Luz Valdenebro",
-        "Víctor Duplá"
-      ],
-      "diretor": "Daniel Sánchez Arévalo",
-      "generos": [
-        "Thriller",
-        "Drama",
-        "Crime"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/2UcuNset77zceI6dCO59pkIcctZ.jpg",
-      "pais": [
-        "ES"
-      ],
-      "idiomas": [
-        "es",
-        "pt"
-      ],
-      "duracao": 106,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1571955-colision/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt38793125/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Collision%20Course",
-        "metacritic": "https://www.metacritic.com/search/Collision%20Course/"
-      }
-    },
-    {
       "tmdb_id": 1294189,
       "imdb_id": "tt13611778",
       "titulo_original": "The Mongoose",
@@ -2218,6 +2219,61 @@
         "imdb": "https://www.imdb.com/title/tt13611778/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Mongoose",
         "metacritic": "https://www.metacritic.com/search/The%20Mongoose/"
+      }
+    },
+    {
+      "tmdb_id": 1657630,
+      "imdb_id": "tt39120306",
+      "titulo_original": "El despertar",
+      "titulo_ingles": "The Awakening",
+      "ano": 2026,
+      "data_lancamento": "2026-10-29",
+      "data_qualificacao": "",
+      "sinopse_pt": "",
+      "elenco": [
+        "Claudio Cataño",
+        "Alejandro Buitrago",
+        "Hector Sánchez",
+        "Andrea Olaya",
+        "Quique Sanmartin",
+        "Jaisson Jeack",
+        "Carlos Mariño",
+        "Andres Londono"
+      ],
+      "diretor": "Jaime Osorio Márquez",
+      "generos": [
+        "Terror",
+        "Ação",
+        "Guerra",
+        "Fantasia",
+        "Thriller"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/w3YJx1PPPC6aiVKusxfc9QA0uYS.jpg",
+      "pais": [
+        "CO"
+      ],
+      "idiomas": [
+        "es",
+        "ur"
+      ],
+      "duracao": 96,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "nao_lancado"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt39120306/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Awakening",
+        "metacritic": "https://www.metacritic.com/search/The%20Awakening/"
       }
     },
     {
@@ -2337,41 +2393,37 @@
       }
     },
     {
-      "tmdb_id": 1657630,
-      "imdb_id": "tt39120306",
-      "titulo_original": "El despertar",
-      "titulo_ingles": "The Awakening",
+      "tmdb_id": 1544163,
+      "imdb_id": "tt39969491",
+      "titulo_original": "Quelques mots d'amour",
+      "titulo_ingles": "Words of Love",
       "ano": 2026,
-      "data_lancamento": "2026-10-29",
+      "data_lancamento": "2026-10-28",
       "data_qualificacao": "",
       "sinopse_pt": "",
       "elenco": [
-        "Claudio Cataño",
-        "Alejandro Buitrago",
-        "Hector Sánchez",
-        "Andrea Olaya",
-        "Quique Sanmartin",
-        "Jaisson Jeack",
-        "Carlos Mariño",
-        "Andres Londono"
+        "Hafsia Herzi",
+        "Nour Salam",
+        "Ella Bedoucha",
+        "Aïdan Djouadi",
+        "Mateo Danila",
+        "Charlie Lugassy",
+        "Eden Sarfati",
+        "Paulette Chetrit"
       ],
-      "diretor": "Jaime Osorio Márquez",
+      "diretor": "Rudi Rosenberg",
       "generos": [
-        "Terror",
-        "Ação",
-        "Guerra",
-        "Fantasia",
-        "Thriller"
+        "Comédia",
+        "Drama"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/w3YJx1PPPC6aiVKusxfc9QA0uYS.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/lUSCFTt9YWRbDG6kkUQBIUZ0IFc.jpg",
       "pais": [
-        "CO"
+        "FR"
       ],
       "idiomas": [
-        "es",
-        "ur"
+        "fr"
       ],
-      "duracao": 96,
+      "duracao": 95,
       "rt_critica": null,
       "rt_publico": null,
       "metacritic": null,
@@ -2386,9 +2438,9 @@
         "estado": "nao_lancado"
       },
       "links": {
-        "imdb": "https://www.imdb.com/title/tt39120306/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=The%20Awakening",
-        "metacritic": "https://www.metacritic.com/search/The%20Awakening/"
+        "imdb": "https://www.imdb.com/title/tt39969491/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Words%20of%20Love",
+        "metacritic": "https://www.metacritic.com/search/Words%20of%20Love/"
       }
     },
     {
@@ -2499,57 +2551,6 @@
       }
     },
     {
-      "tmdb_id": 1544163,
-      "imdb_id": "tt39969491",
-      "titulo_original": "Quelques mots d'amour",
-      "titulo_ingles": "Words of Love",
-      "ano": 2026,
-      "data_lancamento": "2026-10-28",
-      "data_qualificacao": "",
-      "sinopse_pt": "",
-      "elenco": [
-        "Hafsia Herzi",
-        "Nour Salam",
-        "Ella Bedoucha",
-        "Aïdan Djouadi",
-        "Mateo Danila",
-        "Charlie Lugassy",
-        "Eden Sarfati",
-        "Paulette Chetrit"
-      ],
-      "diretor": "Rudi Rosenberg",
-      "generos": [
-        "Comédia",
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/lUSCFTt9YWRbDG6kkUQBIUZ0IFc.jpg",
-      "pais": [
-        "FR"
-      ],
-      "idiomas": [
-        "fr"
-      ],
-      "duracao": 95,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "nao_lancado"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt39969491/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Words%20of%20Love",
-        "metacritic": "https://www.metacritic.com/search/Words%20of%20Love/"
-      }
-    },
-    {
       "tmdb_id": 1596275,
       "imdb_id": "tt37180686",
       "titulo_original": "Drive – The Pretenders",
@@ -2613,68 +2614,6 @@
         "imdb": "https://www.imdb.com/title/tt37180686/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Drive%20-%20The%20Pretenders",
         "metacritic": "https://www.metacritic.com/search/Drive%20-%20The%20Pretenders/"
-      }
-    },
-    {
-      "tmdb_id": 1780005,
-      "imdb_id": "tt37961714",
-      "titulo_original": "Contra el huracán",
-      "titulo_ingles": "Surviving Hurricane Otis",
-      "ano": 2026,
-      "data_lancamento": "2026-10-23",
-      "data_qualificacao": "",
-      "sinopse_pt": "No meio do mar, Wirpul e seu meio-irmão Candi lutam pela sobrevivência quando uma tempestade inesperada se transforma no furacão Otis, um furacão de categoria 5, na costa de Acapulco.",
-      "elenco": [
-        "Benny Emmanuel",
-        "Kristyan Ferrer",
-        "Mónica del Carmen",
-        "Mónica Jiménez",
-        "Andrew Leland Rogers",
-        "Gonzalo Vega Jr.",
-        "Daira Mendoza"
-      ],
-      "diretor": "Jorge Michel Grau",
-      "generos": [
-        "Drama"
-      ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/aAkMQit6uVKpBMbIP8HsJrgXlGG.jpg",
-      "pais": [
-        "MX"
-      ],
-      "idiomas": [
-        "es"
-      ],
-      "duracao": 97,
-      "rt_critica": null,
-      "rt_publico": null,
-      "metacritic": null,
-      "imdb_publico": null,
-      "criterio_qualificacao": "rt",
-      "historico": [],
-      "pico_rt": null,
-      "pico_metacritic": null,
-      "atual_rt": null,
-      "atual_metacritic": null,
-      "disponibilidade_br": {
-        "estado": "streaming",
-        "servicos": [
-          {
-            "nome": "Netflix",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-          },
-          {
-            "nome": "Netflix Standard with Ads",
-            "tipo": "assinatura",
-            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-          }
-        ],
-        "link_br": "https://www.themoviedb.org/movie/1780005-contra-el-huracan/watch?locale=BR"
-      },
-      "links": {
-        "imdb": "https://www.imdb.com/title/tt37961714/",
-        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Surviving%20Hurricane%20Otis",
-        "metacritic": "https://www.metacritic.com/search/Surviving%20Hurricane%20Otis/"
       }
     },
     {
@@ -2792,6 +2731,68 @@
         "imdb": "https://www.imdb.com/title/tt40311603/",
         "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Ghosts%3A%20The%20Possession%20of%20Button%20House",
         "metacritic": "https://www.metacritic.com/search/Ghosts%3A%20The%20Possession%20of%20Button%20House/"
+      }
+    },
+    {
+      "tmdb_id": 1780005,
+      "imdb_id": "tt37961714",
+      "titulo_original": "Contra el huracán",
+      "titulo_ingles": "Surviving Hurricane Otis",
+      "ano": 2026,
+      "data_lancamento": "2026-10-23",
+      "data_qualificacao": "",
+      "sinopse_pt": "No meio do mar, Wirpul e seu meio-irmão Candi lutam pela sobrevivência quando uma tempestade inesperada se transforma no furacão Otis, um furacão de categoria 5, na costa de Acapulco.",
+      "elenco": [
+        "Benny Emmanuel",
+        "Kristyan Ferrer",
+        "Mónica del Carmen",
+        "Mónica Jiménez",
+        "Andrew Leland Rogers",
+        "Gonzalo Vega Jr.",
+        "Daira Mendoza"
+      ],
+      "diretor": "Jorge Michel Grau",
+      "generos": [
+        "Drama"
+      ],
+      "poster_url": "https://image.tmdb.org/t/p/w500/aAkMQit6uVKpBMbIP8HsJrgXlGG.jpg",
+      "pais": [
+        "MX"
+      ],
+      "idiomas": [
+        "es"
+      ],
+      "duracao": 97,
+      "rt_critica": null,
+      "rt_publico": null,
+      "metacritic": null,
+      "imdb_publico": null,
+      "criterio_qualificacao": "rt",
+      "historico": [],
+      "pico_rt": null,
+      "pico_metacritic": null,
+      "atual_rt": null,
+      "atual_metacritic": null,
+      "disponibilidade_br": {
+        "estado": "streaming",
+        "servicos": [
+          {
+            "nome": "Netflix",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+          },
+          {
+            "nome": "Netflix Standard with Ads",
+            "tipo": "assinatura",
+            "logo_url": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+          }
+        ],
+        "link_br": "https://www.themoviedb.org/movie/1780005-contra-el-huracan/watch?locale=BR"
+      },
+      "links": {
+        "imdb": "https://www.imdb.com/title/tt37961714/",
+        "rotten_tomatoes": "https://www.rottentomatoes.com/search?search=Surviving%20Hurricane%20Otis",
+        "metacritic": "https://www.metacritic.com/search/Surviving%20Hurricane%20Otis/"
       }
     },
     {
@@ -3019,7 +3020,7 @@
         "Terror",
         "Thriller"
       ],
-      "poster_url": "https://image.tmdb.org/t/p/w500/mCyttsR7mW91v2Mpy5AXMCtWKAK.jpg",
+      "poster_url": "https://image.tmdb.org/t/p/w500/r2HKWQ4kCQsEEsCAQGn5qsl4H29.jpg",
       "pais": [
         "US",
         "DE",
@@ -3149,7 +3150,7 @@
         "en"
       ],
       "duracao": 103,
-      "rt_critica": 35,
+      "rt_critica": null,
       "rt_publico": null,
       "metacritic": 48,
       "imdb_publico": null,
@@ -3157,7 +3158,7 @@
       "historico": [],
       "pico_rt": null,
       "pico_metacritic": null,
-      "atual_rt": 35,
+      "atual_rt": null,
       "atual_metacritic": 48,
       "disponibilidade_br": {
         "estado": "cinema"
